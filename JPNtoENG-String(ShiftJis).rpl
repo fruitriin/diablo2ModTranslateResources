@@ -1,0 +1,730 @@
+1	Hell)	ヘル）	×	×	×	×		選択
+2	Nt)	ナイトメア）	×	×	×	×		選択
+3	Nor)	ノーマル）	×	×	×	×		選択
+4	 Soul (	のソウル（	×	×	×	×		選択
+5	Spike Generator	スパイク・ジェネレイター	×	×	×	×		選択
+6	Charged Bolt Sentry	チャージド・ボルト・セントリー	×	×	×	×		選択
+7	Lightning Sentry	ライトニング・セントリー	×	×	×	×		選択
+8	Blade Sentinel	ブレイド・センチネル	×	×	×	×		選択
+9	Druid Spirit	ドルイド・スピリット	×	×	×	×		選択
+10	Dire Wolf	ダイア・ウルフ	×	×	×	×		選択
+11	Spirit Wolf	スピリット・ウルフ	×	×	×	×		選択
+12	Grizzly	グリズリー	×	×	×	×		選択
+13	Plague Poppy	プラーグ・ポピー	×	×	×	×		選択
+14	Cycle of Life	サイクル・オヴ・ライフ	×	×	×	×		選択
+15	Vine Creature	ヴァイン・クリーチャー	×	×	×	×		選択
+16	Siege Door	シージ・ドア	×	×	×	×		選択
+17	Seige Tower	攻城塔	×	×	×	×		選択
+18	Rot Walker	ロット・ウォーカー	×	×	×	×		選択
+19	Reanimated Horde	リアニメイテッド・ホード	×	×	×	×		選択
+20	Prowling Dead	プラウリング・デッド	×	×	×	×		選択
+21	Unholy Corpse	アンホーリー・コープス	×	×	×	×		選択
+22	Defiled Warrior	ディファイルド・ウォリアー	×	×	×	×		選択
+23	Siege Beast	シージ・ビースト	×	×	×	×		選択
+24	Crush Beast	クラッシュ・ビースト	×	×	×	×		選択
+25	Blood Bringer	ブラッド・ブリンガー	×	×	×	×		選択
+26	Gore Bearer	ゴア・ベアラー	×	×	×	×		選択
+27	Demon Steed	デモン・スティード	×	×	×	×		選択
+28	Wailing Spirit	ウェイリング・スピリット	×	×	×	×		選択
+29	Life Seeker	ライフ・シーカー	×	×	×	×		選択
+30	Life Stealer	ライフ・スティーラー	×	×	×	×		選択
+31	Deathly Visage	デスリー・ヴィザージュ	×	×	×	×		選択
+32	Bound Spirit	バウンド・スピリット	×	×	×	×		選択
+33	Banished Soul	バニッシュト・ソウル	×	×	×	×		選択
+34	Death	デスリー・ヴィザージュ	×	×	×	×		選択
+35	Enslaved	エンスレイヴド	×	×	×	×		選択
+36	Slayer	スレイヤー	×	×	×	×		選択
+37	Ice Boar	アイス・ボア	×	×	×	×		選択
+38	Fire Boar	ファイア・ボア	×	×	×	×		選択
+39	Hell Spawn	ヘル・スポーン	×	×	×	×		選択
+40	Ice Spawn	アイス・スポーン	×	×	×	×		選択
+41	Greater Hell Spawn	グレーター・ヘル・スポーン	×	×	×	×		選択
+42	Greater Ice Spawn	グレーター・アイス・スポーン	×	×	×	×		選択
+43	Fanatic Enslaved	ファナティック・エンスレイヴド	×	×	×	×		選択
+44	Berserker Slayer	バーサーカー・スレイヤー	×	×	×	×		選択
+45	Consumed Fire Boar	コンシュームド・ファイア・ボア	×	×	×	×		選択
+46	Consumed Ice Boar	コンシュームド・アイス・ボア	×	×	×	×		選択
+47	Frenzied Hell Spawn	フレンジード・ヘル・スポーン	×	×	×	×		選択
+48	Frenzied Ice Spawn	フレンジード・アイス・スポーン	×	×	×	×		選択
+49	Insane Hell Spawn	インセイン・ヘル・スポーン	×	×	×	×		選択
+50	Insane Ice Spawn	インセイン・アイス・スポーン	×	×	×	×		選択
+51	Succubus	サキュバス	×	×	×	×		選択
+52	Vile Temptress	ヴァイル・テンプトレス	×	×	×	×		選択
+53	Stygian Harlot	スティジアン・ハーロット	×	×	×	×		選択
+54	Hell Temptress	ヘル・テンプトレス	×	×	×	×		選択
+55	Blood Temptress	ブラッド・テンプトレス	×	×	×	×		選択
+56	Siren	サイレン	×	×	×	×		選択
+57	Vile Witch	ヴァイル・ウィッチ	×	×	×	×		選択
+58	Stygian Fury	スティジアン・フューリー	×	×	×	×		選択
+59	Blood Witch	ブラッド・ウィッチ	×	×	×	×		選択
+60	Hell Witch	ヘル・ウィッチ	×	×	×	×		選択
+61	Overseer	オーヴァーシーアー	×	×	×	×		選択
+62	Lasher	ラッシャー	×	×	×	×		選択
+63	Overlord	オーヴァーロード	×	×	×	×		選択
+64	Blood Boss	ブラッド・ボス	×	×	×	×		選択
+65	Hell Whip	ヘル・ウィップ	×	×	×	×		選択
+66	Demon Portal	デモン・ポータル	×	×	×	×		選択
+67	Demon Portal	デモン・ポータル	×	×	×	×		選択
+68	Demon Portal	デモン・ポータル	×	×	×	×		選択
+69	Demon Portal	デモン・ポータル	×	×	×	×		選択
+70	Demon Portal	デモン・ポータル	×	×	×	×		選択
+71	Demon Imp	デモン・インプ	×	×	×	×		選択
+72	Demon Rascal	デモン・ラスカル	×	×	×	×		選択
+73	Demon Gremlin	デモン・グレムリン	×	×	×	×		選択
+74	Demon Trickster	デモン・トリックスター	×	×	×	×		選択
+75	Demon Sprite	デモン・スプライト	×	×	×	×		選択
+76	Catapult	投石機	×	×	×	×		選択
+77	Catapult	投石機	×	×	×	×		選択
+78	Catapult	投石機	×	×	×	×		選択
+79	Catapult	投石機	×	×	×	×		選択
+80	Frozen Creeper	フローズン・クリーパー	×	×	×	×		選択
+81	Frozen Terror	フローズン・テラー	×	×	×	×		選択
+82	Frozen Scourge	フローズン・スカージ	×	×	×	×		選択
+83	Frozen Horror	フローズン・ホラー	×	×	×	×		選択
+84	Frozen Scorch	フローズン・スコーチ	×	×	×	×		選択
+85	Moon Lord	ムーン・ロード	×	×	×	×		選択
+86	Night Lord	ナイト・ロード	×	×	×	×		選択
+87	Blood Lord	ブラッド・ロード	×	×	×	×		選択
+88	Hell Lord	ヘル・ロード	×	×	×	×		選択
+89	Death Lord	デス・ロード	×	×	×	×		選択
+90	Catapult	投石機	×	×	×	×		選択
+91	Catapult	投石機	×	×	×	×		選択
+92	Catapult	投石機	×	×	×	×		選択
+93	Catapult	投石機	×	×	×	×		選択
+94	Catapult	投石機	×	×	×	×		選択
+95	Catapult	投石機	×	×	×	×		選択
+96	Barricade	バリケード	×	×	×	×		選択
+97	Barricade	バリケード	×	×	×	×		選択
+98	Barricaded Door	バリケードでふさがれたドア	×	×	×	×		選択
+99	Barricaded Tower	バリケードでふさがれた塔	×	×	×	×		選択
+100	Shenk the Overseer	シェンク・ジ・オーヴァーシーアー	×	×	×	×		選択
+101	Evil Demon Hut	イーヴル・デモン・ハット	×	×	×	×		選択
+102	Death Mauler	デス・モーラー	×	×	×	×		選択
+103	Death Brawler	デス・ブローラー	×	×	×	×		選択
+104	Death Slasher	デス・スラッシャー	×	×	×	×		選択
+105	Death Berserker	デス・バーサーカー	×	×	×	×		選択
+106	Death Brigadier	デス・ブリガディア	×	×	×	×		選択
+107	Snow Drifter	スノー・ドリフター	×	×	×	×		選択
+108	Abominable	アボミナブル	×	×	×	×		選択
+109	Chilled Froth	チルド・フロス	×	×	×	×		選択
+110	Frozen Abyss	フローズン・アビス	×	×	×	×		選択
+111	Baal	バール	×	×	×	×		選択
+112	Baal	バール	×	×	×	×		選択
+113	Baal	バール	×	×	×	×		選択
+114	Putrid Defiler	ピュートリッド・ディファイラー	×	×	×	×		選択
+115	Wretched Defiler	レッチト・ディファイラー	×	×	×	×		選択
+116	Fetid Defiler	フェティッド・ディファイラー	×	×	×	×		選択
+117	Rancid Defiler	ランシッド・ディファイラー	×	×	×	×		選択
+118	Rank Defiler	ランク・ディファイラー	×	×	×	×		選択
+119	Pain Worm	ペイン・ワーム	×	×	×	×		選択
+120	Torment Worm	トーメント・ワーム	×	×	×	×		選択
+121	Agony Worm	アゴニー・ワーム	×	×	×	×		選択
+122	Menace Worm	メナス・ワーム	×	×	×	×		選択
+123	Anguish Worm	アンギッシュ・ワーム	×	×	×	×		選択
+124	Warped Fallen Wolfrider	ウォープト・フォールン・ウルフライダー	×	×	×	×		選択
+125	Darkone Wolfrider	ダークワン・ウルフライダー	×	×	×	×		選択
+126	Devilkin Wolfrider	デヴィルキン・ウルフライダー	×	×	×	×		選択
+127	Carver Wolfrider	カーヴァー・ウルフライダー	×	×	×	×		選択
+128	Fallen Wolfrider	フォールン・ウルフライダー	×	×	×	×		選択
+129	Oak Sage	オーク・セイジ	×	×	×	×		選択
+130	Heart of Wolverine	ハート・オヴ・ウルヴァリン	×	×	×	×		選択
+131	Spirit of Barbs	スピリット・オヴ・バーブズ	×	×	×	×		選択
+132	Shadow Warrior	シャドウ・ウォリアー	×	×	×	×		選択
+133	Death Sentry	デス・セントリー	×	×	×	×		選択
+134	Inferno Sentry	インフェルノ・セントリー	×	×	×	×		選択
+135	Shadow Master	シャドウ・マスター	×	×	×	×		選択
+136	Wake of Fire	ウェイク・オヴ・ファイア	×	×	×	×		選択
+137	Ghostly	ゴーストリー・	×	×	×	×		選択
+138	Fanatic	ファナティック・	×	×	×	×		選択
+139	Possessed	ポゼスト・	×	×	×	×		選択
+140	Berserker	バーサーカー・	×	×	×	×		選択
+141	Larzuk	ラーザック	×	×	×	×		選択
+142	Anya	アーニャ	×	×	×	×		選択
+143	Malah	マラー	×	×	×	×		選択
+144	Nihlathak	ニーラサック	×	×	×	×		選択
+145	Qual-Kehk	クォル＝ケック	×	×	×	×		選択
+146	Guard	守備兵	×	×	×	×		選択
+147	Combatant	戦士	×	×	×	×		選択
+148	Nihlathak	ニーラサック	×	×	×	×		選択
+149	Barbarian Captive	バーバリアンの捕虜	×	×	×	×		選択
+150	Moe	モー	×	×	×	×		選択
+151	Curly	カーリー	×	×	×	×		選択
+152	Larry	ラリー	×	×	×	×		選択
+153	Korlic	コーリック	×	×	×	×		選択
+154	Madawc	マドウク	×	×	×	×		選択
+155	Talic	タリク	×	×	×	×		選択
+156	Blaze Ripper	ブレイズ・リッパー	×	×	×	×		選択
+157	Magma Torquer	マグマ・トルカー	×	×	×	×		選択
+158	Sharptooth Slayer	シャープトゥース・スレイヤー	×	×	×	×		選択
+159	Vinvear Molech	ヴィンヴェイア・モレック	×	×	×	×		選択
+160	Hell's Belle	ヘルズ・ベル	×	×	×	×		選択
+161	Snapchip Shatter	スナップチップ・シャター	×	×	×	×		選択
+162	Pindleskin	ピンドルスキン	×	×	×	×		選択
+163	Thresh Socket	スレッシュ・ソケット	×	×	×	×		選択
+164	Eyeback the Unleashed	アイバック・ジ・アンリーシュト	×	×	×	×		選択
+165	Eldritch the Rectifier	エルドリッチ・ザ・リクティファイアー	×	×	×	×		選択
+166	Dac Farren	ダック・ファレン	×	×	×	×		選択
+167	Bonesaw Breaker	ボーンソウ・ブレイカー	×	×	×	×		選択
+168	Axe Dweller	アックス・ドゥエラー	×	×	×	×		選択
+169	Frozenstein	フローズンシュタイン	×	×	×	×		選択
+170	Decoy	おとり	×	×	×	×		選択
+171	Valkyrie	ワルキューレ	×	×	×	×		選択
+172	Trapped Soul	囚われし魂	×	×	×	×		選択
+173	Necroskeleton	ネクロスケルトン	×	×	×	×		選択
+174	Necromage	ネクロメイジ	×	×	×	×		選択
+175	Sucker Nest	サッカーの巣	×	×	×	×		選択
+176	Feeder Nest	フィーダーの巣	×	×	×	×		選択
+177	Blood Hook Nest	ブラッドフックの巣	×	×	×	×		選択
+178	Blood Wing Nest	ブラッド・ウィングの巣	×	×	×	×		選択
+179	Rogue Scout	ローグ・スカウト	×	×	×	×		選択
+180	Flesh Spawner	フレッシュスポーナー	×	×	×	×		選択
+181	Stygian Hag	スティジアン・ハッグ	×	×	×	×		選択
+182	Grotesque	グロテスク	×	×	×	×		選択
+183	Flesh Beast	フレッシュビースト	×	×	×	×		選択
+184	Stygian Dog	スティジアン・ドッグ	×	×	×	×		選択
+185	Grotesque Wyrm	グロテスクワーム	×	×	×	×		選択
+186	Doom Caster	ドゥームキャスター	×	×	×	×		選択
+187	Strangler	ストラングラー	×	×	×	×		選択
+188	Storm Caster	ストームキャスター	×	×	×	×		選択
+189	Corpulent	コピュラント	×	×	×	×		選択
+190	Corpse Spitter	コープス・スピッター	×	×	×	×		選択
+191	Maw Fiend	モー・フィーンド	×	×	×	×		選択
+192	Fighter	ファイター	×	×	×	×		選択
+193	Doom Knight	ドゥーム・ナイト	×	×	×	×		選択
+194	Fighter Mage	ファイター・メイジ	×	×	×	×		選択
+195	Abyss Knight	アビス・ナイト	×	×	×	×		選択
+196	Mage	メイジ	×	×	×	×		選択
+197	Oblivion Knight	オブリビオン・ナイト	×	×	×	×		選択
+198	Inviso Spawner	インビソ・スポーナー	×	×	×	×		選択
+199	Iron Wolf	鉄狼団員	×	×	×	×		選択
+200	Venom Lord	ヴェノム・ロード	×	×	×	×		選択
+201	Balrog	バルログ	×	×	×	×		選択
+202	Pit Lord	ピット・ロード	×	×	×	×		選択
+203	Lightning Spire	稲妻の塔	×	×	×	×		選択
+204	Fire Tower	火の塔	×	×	×	×		選択
+205	Slinger	スリンガー	×	×	×	×		選択
+206	Spear Cat	スピアキャット	×	×	×	×		選択
+207	Night Slinger	ナイト・スリンガー	×	×	×	×		選択
+208	Hell Slinger	ヘル・スリンガー	×	×	×	×		選択
+209	Dark Wanderer	黒衣の放浪者	×	×	×	×		選択
+210	Dark Wanderer	黒衣の放浪者	×	×	×	×		選択
+211	Council Member	長老議会議員	×	×	×	×		選択
+212	Quill Bear	クィルベア	×	×	×	×		選択
+213	Spike Giant	スパイク・ジャイアント	×	×	×	×		選択
+214	Thorn Brute	ソーン・ブルート	×	×	×	×		選択
+215	Razor Beast	レイザービースト	×	×	×	×		選択
+216	Barbed Giant	ジャイアント・アーチン	×	×	×	×		選択
+217	Swamp Dweller	スワンプ・ドゥエラー	×	×	×	×		選択
+218	Bog Creature	ボグ・クリーチャー	×	×	×	×		選択
+219	Slime Prince	スライム・プリンス	×	×	×	×		選択
+220	Sand Maggot Queen	サンドマゴット・クィーン	×	×	×	×		選択
+221	Rock Worm Queen	ロックワーム・クィーン	×	×	×	×		選択
+222	Devourer Queen	ディヴァウラー・クィーン	×	×	×	×		選択
+223	Giant Lamprey Queen	ジャイアント・ランプリー・クィーン	×	×	×	×		選択
+224	Blood Maggot Queen	ブラッドマゴット・クィーン	×	×	×	×		選択
+225	Clay Golem	クレイゴーレム	×	×	×	×		選択
+226	Blood Golem	ブラッドゴーレム	×	×	×	×		選択
+227	Iron Golem	アイアンゴーレム	×	×	×	×		選択
+228	Fire Golem	ファイアゴーレム	×	×	×	×		選択
+229	Night Marauder	ナイト・マロウダー	×	×	×	×		選択
+230	Water Watcher	ウォーターウォッチャー	×	×	×	×		選択
+231	River Stalker	リバー・ストーカー	×	×	×	×		選択
+232	Stygian Watcher	スティジアン・ウォッチャー	×	×	×	×		選択
+233	Water Watcher	ウォーターウォッチャー	×	×	×	×		選択
+234	River Stalker	リバー・ストーカー	×	×	×	×		選択
+235	Stygian Watcher	スティジアン・ウォッチャー	×	×	×	×		選択
+236	Meshif	メシフ	×	×	×	×		選択
+237	Kaelan	カエラン	×	×	×	×		選択
+238	Flavie	フラァヴィ	×	×	×	×		選択
+239	Blood Raven	ブラッド・レイヴン	×	×	×	×		選択
+240	Gargoyle Trap	ガーゴイル・トラップ	×	×	×	×		選択
+241	Returned Mage	リターンド・メイジ	×	×	×	×		選択
+242	Corpse Mage	コープス・メイジ	×	×	×	×		選択
+243	Bone Mage	ボーン・メイジ	×	×	×	×		選択
+244	Burning Dead Mage	バーニング・デッド・メイジ	×	×	×	×		選択
+245	Horror Mage	ホラー・メイジ	×	×	×	×		選択
+246	RatMan Shaman	ラットマン・シャーマン	×	×	×	×		選択
+247	Fetish Shaman	フェティッシュシャーマン	×	×	×	×		選択
+248	Flayer Shaman	フレイヤー・シャーマン	×	×	×	×		選択
+249	Soul Killer Shaman	ソウルキラー・シャーマン	×	×	×	×		選択
+250	Stygian Doll Shaman	スティジアン・ドール・シャーマン	×	×	×	×		選択
+251	The Summoner	召喚術師	×	×	×	×		選択
+252	Dark Archer	ダーク・アーチャー	×	×	×	×		選択
+253	Vile Archer	ヴァイル・アーチャー	×	×	×	×		選択
+254	Dark Ranger	ダーク・レンジャー	×	×	×	×		選択
+255	Black Archer	ブラック・アアーチャー	×	×	×	×		選択
+256	Flesh Archer	フレッシュ・アーチャー	×	×	×	×		選択
+257	Dark Spearwoman	ダーク・スピアウーマン	×	×	×	×		選択
+258	Vile Lancer	ヴァイル・ランサー	×	×	×	×		選択
+259	Dark Lancer	ダーク・ランサー	×	×	×	×		選択
+260	Black Lancer	ブラック・ランサー	×	×	×	×		選択
+261	Flesh Lancer	フレッシュ・ランサー	×	×	×	×		選択
+262	Skeleton Archer	スケルトン・アーチャー	×	×	×	×		選択
+263	Corpse Archer	コープス・アーチャー	×	×	×	×		選択
+264	Bone Archer	ボーン・アーチャー	×	×	×	×		選択
+265	Burning Dead Archer	バーニング・デッド・アーチャー	×	×	×	×		選択
+266	Horror Archer	ホラー・アーチャー	×	×	×	×		選択
+267	Returned Archer	リターンド・アーチャー	×	×	×	×		選択
+268	Fallen	フォールン	×	×	×	×		選択
+269	Carver	カーヴァー	×	×	×	×		選択
+270	Devilkin	デヴィルキン	×	×	×	×		選択
+271	Dark One	ダーク・ワン	×	×	×	×		選択
+272	Warped One	ウォープト	×	×	×	×		選択
+273	Fallen Shaman	フォールン・シャーマン	×	×	×	×		選択
+274	Carver Shaman	カーヴァー・シャーマン	×	×	×	×		選択
+275	Devilkin Shaman	デヴィルキン・シャーマン	×	×	×	×		選択
+276	Dark Shaman	ダーク・シャーマン	×	×	×	×		選択
+277	Warped Shaman	ウォープト・シャーマン	×	×	×	×		選択
+278	Gloam	グローム	×	×	×	×		選択
+279	Swamp Ghost	スワンプ・ゴースト	×	×	×	×		選択
+280	Burning Soul	バーニング・ソウル	×	×	×	×		選択
+281	Black Soul	ブラック・ソウル	×	×	×	×		選択
+282	Zakarumite	ザカラム信徒	×	×	×	×		選択
+283	Faithful	フェイスフル	×	×	×	×		選択
+284	Zealot	ゼロット	×	×	×	×		選択
+285	Sexton	セクストン	×	×	×	×		選択
+286	Heirophant	ハイエロファント	×	×	×	×		選択
+287	Cantor	キャンター	×	×	×	×		選択
+288	Mephisto	メフィスト	×	×	×	×		選択
+289	Baal	バール	×	×	×	×		選択
+290	Diablo	ディアブロ	×	×	×	×		選択
+291	Foul Crow Nest	ファウルクロウの巣	×	×	×	×		選択
+292	Black Raptor Nest	ブラックラプターの巣	×	×	×	×		選択
+293	Cloud Stalker Nest	クラウドストーカーの巣	×	×	×	×		選択
+294	Flying Scimitar	フライング・シミター	×	×	×	×		選択
+295	Blood Hawk Nest	ブラッドホークの巣	×	×	×	×		選択
+296	Duriel	ドゥリエル	×	×	×	×		選択
+297	Maggot	マゴット	×	×	×	×		選択
+298	Sand Maggot Egg	サンドマゴットの卵	×	×	×	×		選択
+299	Rock Worm Egg	ロックワームの卵	×	×	×	×		選択
+300	Devourer Egg	ディヴァウラーの卵	×	×	×	×		選択
+301	Giant Lamprey Egg	ジャイアント・ランプリーの卵	×	×	×	×		選択
+302	Blood Maggot Egg	ブラッドマゴットの卵	×	×	×	×		選択
+303	Sand Maggot Young	サンドマゴットの幼虫	×	×	×	×		選択
+304	Rock Worm Young	ロックワームの幼虫	×	×	×	×		選択
+305	Devourer Young	ディヴァウラーの幼虫	×	×	×	×		選択
+306	Giant Lamprey Young	ジャイアント・ランプリーの幼虫	×	×	×	×		選択
+307	Blood Maggot Young	ブラッド・マゴットの幼虫	×	×	×	×		選択
+308	Blunderbore	ブランダー・ボア	×	×	×	×		選択
+309	Gorebelly	ゴアベリー	×	×	×	×		選択
+310	Mauler	モーラー	×	×	×	×		選択
+311	Urdar	ウルダル	×	×	×	×		選択
+312	Decayed	ディケイド	×	×	×	×		選択
+313	Dried Corpse	ドライド・コープス	×	×	×	×		選択
+314	Embalmed	エンバームド	×	×	×	×		選択
+315	Preserved Dead	プリザーブド・デッド	×	×	×	×		選択
+316	Cadaver	キャダヴァー	×	×	×	×		選択
+317	Camel	キャメル	×	×	×	×		選択
+318	Meshif	メシフ	×	×	×	×		選択
+319	Greiz	グレイズ	×	×	×	×		選択
+320	Elzix	エルジックス	×	×	×	×		選択
+321	Geglash	ゲグラッシュ	×	×	×	×		選択
+322	Jerhyn	ジェリン	×	×	×	×		選択
+323	Jerhyn	ジェリン	×	×	×	×		選択
+324	Lysander	ライサンダー	×	×	×	×		選択
+325	Fara	ファラ	×	×	×	×		選択
+326	Atma	アトマ	×	×	×	×		選択
+327	Drognan	ドログナン	×	×	×	×		選択
+328	Natalya	ナターリャ	×	×	×	×		選択
+329	Andariel	アンダリエル	×	×	×	×		選択
+330	Afflicted	アフリクテッド	×	×	×	×		選択
+331	Tainted	テインテッド	×	×	×	×		選択
+332	Misshapen	ミスハプン	×	×	×	×		選択
+333	Disfigured	ディスフィギュアード	×	×	×	×		選択
+334	Damned	呪われし者	×	×	×	×		選択
+335	Bone Warrior	ボーン・ウォリアー	×	×	×	×		選択
+336	Burning Dead	バーニング・デッド	×	×	×	×		選択
+337	Returned	リターンド	×	×	×	×		選択
+338	Horror	ホラー	×	×	×	×		選択
+339	Skeleton	スケルトン	×	×	×	×		選択
+340	Zombie	ゾンビー	×	×	×	×		選択
+341	Hungry Dead	ハングリー・デッド	×	×	×	×		選択
+342	Drowned Carcass	ドラウンド・カーカス	×	×	×	×		選択
+343	Ghoul	グール	×	×	×	×		選択
+344	Plague Bearer	プラーグ・ベアラー	×	×	×	×		選択
+345	Foul Crow	ファウル・クロウ	×	×	×	×		選択
+346	Blood Hawk	ブラッド・ホーク	×	×	×	×		選択
+347	Black Raptor	ブラック・ラプター	×	×	×	×		選択
+348	Black Vulture	ブラック・ヴァルチャー	×	×	×	×		選択
+349	Cloud Stalker	クラウドストーカー	×	×	×	×		選択
+350	Brute	ブルート	×	×	×	×		選択
+351	Crusher	クラッシャー	×	×	×	×		選択
+352	Yeti	イエティ	×	×	×	×		選択
+353	Wailing Beast	ウェイリング・ビースト	×	×	×	×		選択
+354	Gargantuan Beast	ガルガンチュアン・ビースト	×	×	×	×		選択
+355	Sand Raider	サンド・レイダー	×	×	×	×		選択
+356	Marauder	マロウダー	×	×	×	×		選択
+357	Invader	インヴェイダー	×	×	×	×		選択
+358	Infidel	インフィデル	×	×	×	×		選択
+359	Assailant	アセイラント	×	×	×	×		選択
+360	Ghost	ゴースト	×	×	×	×		選択
+361	Wraith	レイス	×	×	×	×		選択
+362	Specter	スペクター	×	×	×	×		選択
+363	Apparition	アパリシオン	×	×	×	×		選択
+364	Dark Shape	暗き影	×	×	×	×		選択
+365	Dark Hunter	ダーク・ハンター	×	×	×	×		選択
+366	Vile Hunter	ヴァイル・ハンター	×	×	×	×		選択
+367	Dark Stalker	ダークストーカー	×	×	×	×		選択
+368	Black Rogue	ブラック・ローグ	×	×	×	×		選択
+369	Flesh Hunter	フレッシュ・ハンター	×	×	×	×		選択
+370	Dune Beast	デューン・ビースト	×	×	×	×		選択
+371	Rock Dweller	ロック・ドゥエラー	×	×	×	×		選択
+372	Jungle Hunter	ジャングルハンター	×	×	×	×		選択
+373	Doom Ape	ドゥーム・エイプ	×	×	×	×		選択
+374	Temple Guard	テンプル・ガード	×	×	×	×		選択
+375	Blood Clan	ブラッド・クラン	×	×	×	×		選択
+376	Death Clan	デス・クラン	×	×	×	×		選択
+377	Night Clan	ナイト・クラン	×	×	×	×		選択
+378	Moon Clan	ムーン・クラン	×	×	×	×		選択
+379	Hell Clan	ヘル・クラン	×	×	×	×		選択
+380	Quill Rat	クィル・ラット	×	×	×	×		選択
+381	Spike Fiend	スパイク・フィーンド	×	×	×	×		選択
+382	Thorn Beast	ソーン・ビースト	×	×	×	×		選択
+383	Razor Spine	レイザー・スパイン	×	×	×	×		選択
+384	Bush Barb	ジャングル・アーチン	×	×	×	×		選択
+385	Sand Maggot	サンドマゴット	×	×	×	×		選択
+386	Rock Worm	ロックワーム	×	×	×	×		選択
+387	Devourer	ディヴァウラー	×	×	×	×		選択
+388	Giant Lamprey	ジャイアント・ランプリー	×	×	×	×		選択
+389	Blood Maggot	ブラッド・マゴット	×	×	×	×		選択
+390	Serpent Magus	サーペント・メイガス	×	×	×	×		選択
+391	Claw Viper	クロウ・ヴァイパー	×	×	×	×		選択
+392	Salamander	サラマンダー	×	×	×	×		選択
+393	Pit Viper	ピット・ヴァイパー	×	×	×	×		選択
+394	Tomb Viper	トゥーム・ヴァイパー	×	×	×	×		選択
+395	Sand Leaper	サンド・リーパー	×	×	×	×		選択
+396	Tomb Creeper	トゥーム・クリーパー	×	×	×	×		選択
+397	Cave Leaper	ケイヴ・リーパー	×	×	×	×		選択
+398	Tree Lurker	ツリー・ラーカー	×	×	×	×		選択
+399	Cliff Lurker	クリフ・ラーカー	×	×	×	×		選択
+400	Huntress	ハントレス	×	×	×	×		選択
+401	Saber Cat	セイバーキャット	×	×	×	×		選択
+402	Night Tiger	ナイトタイガー	×	×	×	×		選択
+403	Hell Cat	ヘルキャット	×	×	×	×		選択
+404	Itchies	イッチーズ	×	×	×	×		選択
+405	Black Locusts	ブラック・ローキャスツ	×	×	×	×		選択
+406	Plague Bugs	プラーグ・バグズ	×	×	×	×		選択
+407	Hell Swarm	ヘル・スウォーム	×	×	×	×		選択
+408	Dung Soldier	ダング・ソルジャー	×	×	×	×		選択
+409	Death Beetle	デスビートル	×	×	×	×		選択
+410	Scarab	スカラベ	×	×	×	×		選択
+411	Steel Scarab	スティール・スカラベ	×	×	×	×		選択
+412	Bone Scarab	ボーン・スカラベ	×	×	×	×		選択
+413	Horadrim Ancient	古代のホラドリム	×	×	×	×		選択
+414	Hollow One	ホロウ・ワン	×	×	×	×		選択
+415	Guardian	ガーディアン	×	×	×	×		選択
+416	Unraveler	アンラヴェラー	×	×	×	×		選択
+417	Carrion Bird	キャリオンバード	×	×	×	×		選択
+418	Undead Scavenger	アンデッド・スカヴェンジャー	×	×	×	×		選択
+419	Hell Buzzard	ヘル・バザード	×	×	×	×		選択
+420	Winged Nightmare	ウィングド・ナイトメア	×	×	×	×		選択
+421	Sucker	サッカー	×	×	×	×		選択
+422	Feeder	フィーダー	×	×	×	×		選択
+423	Blood Hook	ブラッドフック	×	×	×	×		選択
+424	Blood Wing	ブラッドウィング	×	×	×	×		選択
+425	Arach	アラクニッド	×	×	×	×		選択
+426	Sand Fisher	サンドフィッシャー	×	×	×	×		選択
+427	Poison Spinner	ポイズン・スピナー	×	×	×	×		選択
+428	Flame Spider	フレイム・スパイダー	×	×	×	×		選択
+429	Spider Magus	スパイダー・メイガス	×	×	×	×		選択
+430	Thorned Hulk	ソーン・ハルク	×	×	×	×		選択
+431	Bramble Hulk	ブランブル・ハルク	×	×	×	×		選択
+432	Thrasher	スラッシャー	×	×	×	×		選択
+433	Spikefist	スパイクフィスト	×	×	×	×		選択
+434	Ghoul Lord	グールロード	×	×	×	×		選択
+435	Night Lord	ナイトロード	×	×	×	×		選択
+436	Dark Lord	ダークロード	×	×	×	×		選択
+437	Blood Lord	ブラッドロード	×	×	×	×		選択
+438	The Banished	ザ・バニッシュト	×	×	×	×		選択
+439	Desert Wing	デザートウィング	×	×	×	×		選択
+440	Gloombat	グルームバット	×	×	×	×		選択
+441	Blood Diver	ブラッドダイバー	×	×	×	×		選択
+442	Dark Familiar	ダーク・ファミリアー	×	×	×	×		選択
+443	Undead Rat Man	アンデッド・ラットマン	×	×	×	×		選択
+444	Undead Fetish	アンデッド・フェティッシュ	×	×	×	×		選択
+445	Undead Flayer	アンデッド・フレイヤー	×	×	×	×		選択
+446	Undead Soul Killer	アンデッド・ソウルキラー	×	×	×	×		選択
+447	Undead Stygian Doll	アンデッド・スティジアン・ドール	×	×	×	×		選択
+448	Rat Man	ラットマン	×	×	×	×		選択
+449	Fetish	フェティッシュ	×	×	×	×		選択
+450	Flayer	フレイヤー	×	×	×	×		選択
+451	Soul Killer	ソウル・キラー	×	×	×	×		選択
+452	Stygian Doll	スティジアン・ドール	×	×	×	×		選択
+453	Rogue	ローグ族	×	×	×	×		選択
+454	Warriv	ワリヴ	×	×	×	×		選択
+455	Warriv	ワリヴ	×	×	×	×		選択
+456	Charsi	チャルシ	×	×	×	×		選択
+457	Kashya	カシャ	×	×	×	×		選択
+458	Akara	アカラ	×	×	×	×		選択
+459	Gheed	ギード	×	×	×	×		選択
+460	Deckard Cain	デッカード・ケイン	×	×	×	×		選択
+461	The Smith	鍛冶師	×	×	×	×		選択
+462	Ancient Kaa the Soulless	いにしえのカー	×	×	×	×		選択
+463	The Summoner	召喚術師	×	×	×	×		選択
+464	Dark Elder	ダーク・エルダー	×	×	×	×		選択
+465	Fire Eye	ファイア・アイ	×	×	×	×		選択
+466	Coldworm the Burrower	地に潜みしコールドワーム	×	×	×	×		選択
+467	Creeping Feature	クリーピング・フィーチャー	×	×	×	×		選択
+468	Beetleburst	ビートルバースト	×	×	×	×		選択
+469	Fangskin	ファングスキン	×	×	×	×		選択
+470	Bloodwitch the Wild	猛々しきブラッドウィッチ	×	×	×	×		選択
+471	Radament	ラダメント	×	×	×	×		選択
+472	Bone Ash	ボーンアッシュ	×	×	×	×		選択
+473	Flamespike the Crawler	フレイムスパイク・ザ・クロウラー	×	×	×	×		選択
+474	Pitspawn Fouldog	ピットスポーン・ファウルドッグ	×	×	×	×		選択
+475	The Countess	伯爵夫人	×	×	×	×		選択
+476	Griswold	グリスワルド	×	×	×	×		選択
+477	Treehead WoodFist	樹の拳のツリーヘッド	×	×	×	×		選択
+478	Rakanishu	ラカニシュ	×	×	×	×		選択
+479	Coldcrow	コールドクロウ	×	×	×	×		選択
+480	Bonebreaker	ボーンブレイカー	×	×	×	×		選択
+481	Bishibosh	ビシボシュ	×	×	×	×		選択
+482	Sszark the Burning	劫火のスザーク	×	×	×	×		選択
+483	Witch Doctor Endugu	呪医エンドゥグ	×	×	×	×		選択
+484	Stormtree	ストームツリー	×	×	×	×		選択
+485	Battlemaid Sarina	戦う侍女サリナ	×	×	×	×		選択
+486	Icehawk Riftwing	アイスホーク・リフトウィング	×	×	×	×		選択
+487	Ismail Vilehand	悪しき手のイスメイル	×	×	×	×		選択
+488	Geleb Flamefinger	炎の指のジェラブ	×	×	×	×		選択
+489	Bremm Sparkfist	火花の拳のブレム	×	×	×	×		選択
+490	Toorc Icefist	氷の拳のトーク	×	×	×	×		選択
+491	Wyand Voidbringer	虚無を呼ぶワイアンド	×	×	×	×		選択
+492	Maffer Dragonhand	龍の手のマッファー	×	×	×	×		選択
+493	Darkwing	ダークウィング	×	×	×	×		選択
+494	The Tormentor	拷問者	×	×	×	×		選択
+495	Taintbreeder	テイントブリーダー	×	×	×	×		選択
+496	Riftwraith the Cannibal	人喰いリフトレイス	×	×	×	×		選択
+497	Infector of Souls	魂を汚す者	×	×	×	×		選択
+498	Lord De Seis	セイスの王	×	×	×	×		選択
+499	Grand Vizier of Chaos	混沌の宰相	×	×	×	×		選択
+500	The Cow King	牛の王	×	×	×	×		選択
+501	Lilith	リリス	×	×	×	×		選択
+502	Fiona Sureshot	フィオナ・シュアショット	×	×	×	×		選択
+503	Jorren Dominicus	ジョレン・ドミニカス	×	×	×	×		選択
+504	Terren McMichels	テレン・マクマイケル	×	×	×	×		選択
+505	Larry	Larry	×	×	×	×		選択
+506	Curley	Curley	×	×	×	×		選択
+507	Moe	Moe	×	×	×	×		選択
+508	Damien	ダミアン	×	×	×	×		選択
+509	Marilith	マリリス	×	×	×	×		選択
+510	Aerial Servent	アエリアル・サーヴァント	×	×	×	×		選択
+511	Mist Man	ミスト・マン	×	×	×	×		選択
+512	Air Elemental	エアー・エレメンタル	×	×	×	×		選択
+513	Hurricon	Hurricon	×	×	×	×		選択
+514	Snake Bowman	スネーク・ボウマン	×	×	×	×		選択
+515	Viper Archer	ヴァイパー・アーチャー	×	×	×	×		選択
+516	Snake Sniper	スネーク・スナイパー	×	×	×	×		選択
+517	Yuanti Bowman	ユアンティ・ボウマン	×	×	×	×		選択
+518	Mage Eater	メイジ・イーター	×	×	×	×		選択
+519	Mana Mauler	マナ・モーラー	×	×	×	×		選択
+520	Trelon	テレロン	×	×	×	×		選択
+521	Terrax	テラックス	×	×	×	×		選択
+522	Spell Sucker	スペル・サッカー	×	×	×	×		選択
+523	Lich	リッチ	×	×	×	×		選択
+524	Mephisto Clone	メフィスト・クローン	×	×	×	×		選択
+525	Pit Skeleton Archer	ピット・スケルトン・アーチャー	×	×	×	×		選択
+526	Durance Skeleton Archer	デュランス・スケルトン・アーチャー	×	×	×	×		選択
+527	Scorching Dead Archer	スコーチング・デッド・アーチャー	×	×	×	×		選択
+528	Cryo Skeleton Archer	Cryo Skeleton Archer	×	×	×	×		選択
+529	Scream Skeleton Archer	スクリーム・スケルトン・アーチャー	×	×	×	×		選択
+530	Undead Voodoo Fetish	アンデッド・ブードゥー・フェティッシュ	×	×	×	×		選択
+531	Undead Hyper Doll	アンデッド・ハイパードール	×	×	×	×		選択
+532	Voodoo Fetish Blower	ブードゥー・フェティッシュ・ブロワー	×	×	×	×		選択
+533	Hyper Doll Blower	ハイパードール・ブロワー	×	×	×	×		選択
+534	Voodoo Fetish	ブードゥー・フェティッシュ	×	×	×	×		選択
+535	Hyper Doll	ハイパードール	×	×	×	×		選択
+536	Voodoo Fetish Shaman	ブードゥー・フェティッシュ・シャーマン	×	×	×	×		選択
+537	Hyper Doll Shaman	ハイパードール・シャーマン	×	×	×	×		選択
+538	Akmodan	アクモダン	×	×	×	×		選択
+539	Wild Boar	ワイルドボア	×	×	×	×		選択
+540	Razorback	レイザーバック	×	×	×	×		選択
+541	Alothere	Alothere	×	×	×	×		選択
+542	Red Storm	レッドストーン	×	×	×	×		選択
+543	Storm Rider	ストーム・レイダー	×	×	×	×		選択
+544	Storm Lord	ストーム・ロード	×	×	×	×		選択
+545	Maelstorm	ミールストーム	×	×	×	×		選択
+546	Doomcloud	ドゥームクラウド	×	×	×	×		選択
+547	Ariel	アリエル	×	×	×	×		選択
+548	Shadow Stalker	シャドウ・ストーカー	×	×	×	×		選択
+549	Unique Collector	ユニーク・コレクター	×	×	×	×		選択
+550	Set Collector	セット・コレクター	×	×	×	×		選択
+551	Blow Up Doll	ブロウ・アップ・ドール	×	×	×	×		選択
+552	Ninja	ニンジャ	×	×	×	×		選択
+553	Baal's Assassin Guard	バールズ・アサシン・ガード	×	×	×	×		選択
+554	Amelyssan	Amelyssan	×	×	×	×		選択
+555	Rock Man	ロック・マン	×	×	×	×		選択
+556	Earth Elemental	アース・エレメンタル	×	×	×	×		選択
+557	Rock Eater	ロックイーター	×	×	×	×		選択
+558	Chimera	キメラ	×	×	×	×		選択
+559	Drow Magus	ドロウ・メイガス	×	×	×	×		選択
+560	Grave Digger	グレイブディガー	×	×	×	×		選択
+561	Tomb Looter	トーブ・ルーター	×	×	×	×		選択
+562	Red Dragon	レッド・ドラゴン	×	×	×	×		選択
+563	Acid Beast	アシッド・ビースト	×	×	×	×		選択
+564	Poison Spitter	ポイゾン・スピッター	×	×	×	×		選択
+565	Pit Beast	ピット・ビースト	×	×	×	×		選択
+566	Lava Maw	ラバ・マウ	×	×	×	×		選択
+567	Leoric	レオリック	×	×	×	×		選択
+568	Magic Vortex	マジック・ボルテックス	×	×	×	×		選択
+569	Black Hole	ブラック・ホール	×	×	×	×		選択
+570	Treasure Maggot	トレジャー・マゴット	×	×	×	×		選択
+571	Treasurebus	トレジャーバス	×	×	×	×		選択
+572	Treasure Egg	トレジャー・エッグ	×	×	×	×		選択
+573	Treasure Hoarder	トレジャー・ホーダー	×	×	×	×		選択
+574	Big Bad Treasure Mama	ビッグ・バッド・トレジャー・マナ	×	×	×	×		選択
+575	Desert Spirit	デザート・スピリット	×	×	×	×		選択
+576	Harem Servent	ハーレム・サーヴァント	×	×	×	×		選択
+577	Djinni	ジニー	×	×	×	×		選択
+578	Nihlathak's Ghost	ニーラサック・ゴースト	×	×	×	×		選択
+579	Maggot Lord	マゴット・ロード	×	×	×	×		選択
+580	Duriel's Ghost	ドゥリエル・ゴースト	×	×	×	×		選択
+581	Devil Spider	デビル・スパイダー	×	×	×	×		選択
+582	Andariel's Ghost	アンダリエル・ゴースト	×	×	×	×		選択
+583	Lizzie	Lizzie	×	×	×	×		選択
+584	Diablo's Ghost	ディアブロ・ゴースト	×	×	×	×		選択
+585	Cleaved Zombie	クリーブド・ゾンビ	×	×	×	×		選択
+586	Worlock	ウォーロック	×	×	×	×		選択
+587	Sickle Skeleton	シックル・スケルトン	×	×	×	×		選択
+588	Rage Scythe	レイジ・サイズ	×	×	×	×		選択
+589	Shadow Reaper	シャドウ・リーパー	×	×	×	×		選択
+590	Sandman	サンドマン	×	×	×	×		選択
+591	Guts Golem	ガッツ・ゴーレム	×	×	×	×		選択
+592	Tin Man	ブリキゴーレム	×	×	×	×		選択
+593	Gold Golem	ゴールド・ゴーレム	×	×	×	×		選択
+594	Burning Brute	バーニング・ブルート	×	×	×	×		選択
+595	Arctic Wonderer	アーティック・ワンダラー	×	×	×	×		選択
+596	Diabling	ディアブリング	×	×	×	×		選択
+597	Balafus	Balafus	×	×	×	×		選択
+598	Lucifer	ルシファー	×	×	×	×		選択
+599	Satan	サタン	×	×	×	×		選択
+600	Leviathan	リヴァイアサン	×	×	×	×		選択
+601	Belial	ベリアル	×	×	×	×		選択
+602	Shara	サラ	×	×	×	×		選択
+603	Na-Krul	ナ・クル	×	×	×	×		選択
+604	Black Panther	ブラック・パンサー	×	×	×	×		選択
+605	Greenskin	グリーンスキン	×	×	×	×		選択
+606	Goblin	ゴブリン	×	×	×	×		選択
+607	Runt	ラント	×	×	×	×		選択
+608	Greenskin Shaman	グリーンスキン・シャーマン	×	×	×	×		選択
+609	Goblin Shaman	ゴブリン・シャーマン	×	×	×	×		選択
+610	Runt Shaman	ラント・シャーマン	×	×	×	×		選択
+611	Baal Spy	バール・スパイ	×	×	×	×		選択
+612	Tortured Traitor	Tortured Traitor	×	×	×	×		選択
+613	Rogue	ローグ	×	×	×	×		選択
+614	Rogue Captain	ローグ・キャプテン	×	×	×	×		選択
+615	Lady Freeze	レディ・フリーズ	×	×	×	×		選択
+616	Hell Fire Rogue	ヘルファイア・ローグ	×	×	×	×		選択
+617	Possessed Guard	ポゼスド・ガード	×	×	×	×		選択
+618	Psycho Guard	サイコ・ガード	×	×	×	×		選択
+619	Dark Lord	ダーク・ロード	×	×	×	×		選択
+620	Kurast Ghost	クラスト・ゴースト	×	×	×	×		選択
+621	Fighter Mage	ファイター・メイジ	×	×	×	×		選択
+622	Nezeramon Fighter	ネゼラモン・ファイター	×	×	×	×		選択
+623	Spirit Drinker	スピリット・ドリンカー	×	×	×	×		選択
+624	Shadow Wraith	シャドウ・レイス	×	×	×	×		選択
+625	Hellbound Spirit	ヘルバウンド・スピリット	×	×	×	×		選択
+626	Smokey	スモーキー	×	×	×	×		選択
+627	Spirit Bear	スピリット・ベアー	×	×	×	×		選択
+628	Ghost Wolf	ゴースト・ウルフ	×	×	×	×		選択
+629	Conjured Predetor	コンジュレッド・プレデター	×	×	×	×		選択
+630	Creepy Crawly	クリーピー・クロウリー	×	×	×	×		選択
+631	Hug Bug	ハグ・バグ	×	×	×	×		選択
+632	Hell Locust	ヘル・ローキャスト	×	×	×	×		選択
+633	Kagero Cuttie	Kagero Cuttie	×	×	×	×		選択
+634	Dark Knight	ダーク・ナイト	×	×	×	×		選択
+635	Doom Guard	ドゥーム・ガード	×	×	×	×		選択
+636	Blood Knight	ブラッド・ナイト	×	×	×	×		選択
+637	Phase Knight	フェイズ・ナイト	×	×	×	×		選択
+638	Training Snake	トレーニング・スネーク	×	×	×	×		選択
+639	Vip Viper	ビップ・ヴァイパー	×	×	×	×		選択
+640	Shadow Serpent	シャドウ・サーペント	×	×	×	×		選択
+641	Lazarus	ラザルス	×	×	×	×		選択
+642	Gorgon	ゴーゴン	×	×	×	×		選択
+643	Stone Stalker	ストーン・ストーカー	×	×	×	×		選択
+644	Serpent Queen	サーペント・クイーン	×	×	×	×		選択
+645	Stygian Watcher	スティジアン・ウォッチャー	×	×	×	×		選択
+646	Holy Roller	ホーリー・ローラー	×	×	×	×		選択
+647	Baptist	Baptist	×	×	×	×		選択
+648	One-Eyed Bugger	ワン・アイド・バゲル	×	×	×	×		選択
+649	Cursed Blob	カーズド・ブロッブ	×	×	×	×		選択
+650	Oddity	Oddity	×	×	×	×		選択
+651	Psych Orb	サイコオーブ	×	×	×	×		選択
+652	Oderus	Oderus	×	×	×	×		選択
+653	Baal Subject Mummy	バール・サブジェクト・マミー	×	×	×	×		選択
+654	Felltwin	フェルツイン	×	×	×	×		選択
+655	Bipolar Oddity	Bipolar Oddity	×	×	×	×		選択
+656	Gemini Beast	ジェミニ・ビースト	×	×	×	×		選択
+657	Schizophrenic	分裂病患者	×	×	×	×		選択
+658	Blood Brothers	ブラッド・ブラザーズ	×	×	×	×		選択
+659	Gauntlet Prize	ガントレットの宝物庫	×	×	×	×		選択
+660	Trocopotaca	Trocopotaca	×	×	×	×		選択
+661	Kroncopotaca	Kroncopotaca	×	×	×	×		選択
+662	Sword Familiar	ソード・ファミリアー	×	×	×	×		選択
+663	Holy Warrior	ホーリー・ウォーリアー	×	×	×	×		選択
+664	Fallen Angel	フォールン・エンジェル	×	×	×	×		選択
+665	Divine Spirit	ディバイン・スピリット	×	×	×	×		選択
+666	Evil Eye	エビル・アイ	×	×	×	×		選択
+667	Ghost Familiar	ゴースト・ファミリアー	×	×	×	×		選択
+668	Momono	Momono	×	×	×	×		選択
+669	Demogorgon	デモゴルゴン	×	×	×	×		選択
+670	Rhino Beetle	ライノ・ビートル	×	×	×	×		選択
+671	Gorgon Beetle	ゴルゴン・ビートル	×	×	×	×		選択
+672	Beetle McCrunchy	Beetle McCrunchy	×	×	×	×		選択
+673	Polar Worm	ポーラ・ワーム	×	×	×	×		選択
+674	Remorhaz	レモラ	×	×	×	×		選択
+675	Gutraven	ガットレイブン	×	×	×	×		選択
+676	Goreraven	Goreraven	×	×	×	×		選択
+677	Flesh Thing	フレッシュ・スティング	×	×	×	×		選択
+678	Corpse Shredder	コープス・シュレッダー	×	×	×	×		選択
+679	Cornuchula	Cornuchula	×	×	×	×		選択
+680	Ski-Jir	スキ-ジル	×	×	×	×		選択
+681	Leprechaun	レプラコーン	×	×	×	×		選択
+682	Brethren	ブレスレン	×	×	×	×		選択
+683	Lepra	レプラコーン	×	×	×	×		選択
+684	Maril	マリリス	×	×	×	×		選択
+685	Ice Q	Ice Q	×	×	×	×		選択
+686	Momono	Momono	×	×	×	×		選択
+687	Ghost	ゴースト	×	×	×	×		選択
+688	Evil E	エビル・アイ	×	×	×	×		選択
+689	Nekkid	Nekkid	×	×	×	×		選択
+690	Demon Dog	デモン・ドッグ	×	×	×	×		選択
+691	Wrath Minion	ラース・ミニオン	×	×	×	×		選択
+692	Baal High Priest	バール・ハイプリースト	×	×	×	×		選択
+693	Baal Personal Guard	バール・パーソナル・ガード	×	×	×	×		選択
+694	Omega Knight	オメガ・ナイト	×	×	×	×		選択
+695	Nezeramon Guard	ネゼラモン・ガード	×	×	×	×		選択
+696	Assassin	アサシン	×	×	×	×		選択
+697	Amazon	アマゾン	×	×	×	×		選択
+698	Barbarian	バーバリアン	×	×	×	×		選択
+699	Druid	ドルイド	×	×	×	×		選択
+700	Necromancer	ネクロマンサー	×	×	×	×		選択
+701	Paladin	パラディン	×	×	×	×		選択
+702	Sorceress	ソーサレス	×	×	×	×		選択
+703	Shara Goddess	サラ・ゴッドネス	×	×	×	×		選択
+704	Monster Generator	モンスター・ジェネレーター	×	×	×	×		選択
+705	Dungeon Prize	ダンジョン・プライズ	×	×	×	×		選択
+706	Frost Giant	フロスト・ジャイアント	×	×	×	×		選択
+707	Snow King	スノウ・キング	×	×	×	×		選択
+708	Cyclops	サイクロプス	×	×	×	×		選択
+709	Polyphemus	ポリュペモス	×	×	×	×		選択
+710	Giant	ジャイアント	×	×	×	×		選択
+711	Titan	タイタン	×	×	×	×		選択
+712	Treasure Giant	トレジャー・ジャイアント	×	×	×	×		選択
+713	Drider	ドライダー	×	×	×	×		選択
+714	Widow	ウィドウ	×	×	×	×		選択
+715	Webbed Mistress	ウェブベッド・ミストレス	×	×	×	×		選択
+716	Icky Face	Icky Face	×	×	×	×		選択
+717	Mind Flayer	マインド・フレイヤー	×	×	×	×		選択
+718	Illithid	Illithid	×	×	×	×		選択
+719	Carrion Crawler	キャリオン・クロウラー	×	×	×	×		選択
+720	Mana Worm	マナ・ウォーム	×	×	×	×		選択
+721	An Evil Source	アン・エビル・ソース	×	×	×	×		選択
+722	Mystery Egg	ミステリー・エッグ	×	×	×	×		選択
+723	YHWH	YHWH	×	×	×	×		選択
+724	Slouch	Slouch	×	×	×	×		選択
+725	Camel	ラクダ	×	×	×	×		選択
+726	Seraphim	セラフィム	×	×	×	×		選択
+727	Soul Hunter Medallion	ソウル・ハンター・メダリオン	×	×	×	×		選択
+728	Skill Amulet	スキル・アミュレット	×	×	×	×		選択
+729	Eggometer	エッグメーター	×	×	×	×		選択
+730	Brotherhood	ブラザーフッド	×	×	×	×		選択

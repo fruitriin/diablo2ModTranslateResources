@@ -1,0 +1,1164 @@
+String Index	Text
+Cutthroat1	バータックス・チョプチョプ
+ModStr5d	最大スタミナ
+Mauler	モーラー
+StrSkill41	ダメージ
+D2bnetHelp13	/whisper <*accountname>, /w <*accountname>
+D2bnetHelp13b	/msg <*accountname>, /m <*accountname>
+D2bnetHelp15	/squelch <*accountname>
+D2bnetHelp15b	/ignore <*accountname>
+D2bnetHelp16	/unsquelch <*accountname>
+D2bnetHelp16b	/unignore <*accountname>
+D2bnetHelp21	/ban <*accountname>
+D2bnetHelp23	/designate <*accountname>
+D2bnetHelp24	/kick <*accountname>
+D2bnetHelp26	/whois <*accountname>, /where <*accountname>
+D2bnetHelp26b	/whereis <*accountname>
+D2bnetHelp32	/stats <*accountname> <programID>
+x	HELL
+x	NIGHTMARE
+x	NORMAL
+x	難易度選択
+ModStr6e	スタミナ減少が低下
+xhm	ウィングド・ヘルム
+Hsarus' Defense	フサルの守り
+strModEnhancedDamage	強化ダメージ\n
+strModAllResistances	全耐性：+%d
+strModAllSkillLevels	全スキルレベル：+%d
+strModFireDamage	 +%d火炎ダメージ
+strModFireDamageRange	%d-%dの火炎ダメージを追加
+strModColdDamage	 +%d冷気ダメージ
+strModColdDamageRange	%d-%dの冷気ダメージを追加
+strModLightningDamage	 +%d稲妻ダメージ
+strModLightningDamageRange	%d-%dの稲妻ダメージを追加
+strModMagicDamage	 +%d魔法ダメージ
+strModMagicDamageRange	%d-%dの魔法ダメージを追加
+strModPoisonDamage	 +%dのポーションダメージが%d秒間持続
+strModPoisonDamageRange	%d-%dの毒物ダメージを追加、%d秒間持続
+strModMinDamage	 +%dダメージ
+strModMinDamageRange	%d-%dのダメージを追加
+strModEnhancedDamage	強化ダメージ
+ModStre9j	火炎ダメージ低減：
+ModStre9k	冷気ダメージ低減：
+ModStre9l	稲妻ダメージ低減：
+ModStre9m	毒物ダメージ低減：
+ModStre9n	魔法ダメージ吸収
+ModStre9o	火炎ダメージ吸収
+ModStre9p	冷気ダメージ吸収
+ModStre9q	稲妻ダメージ吸収
+ModStre9r	毒物ダメージ吸収
+of the Wraith	（レイス）
+of Equilibrium	(均衡)
+Valkyrie's	ワルキューレの
+Maiden's	メイデンの
+Blank	虚無の
+strEskilllighttoattack	(あなたの攻撃に)
+StrSklTabItem1	ジャベリンとスピアのスキル +%d
+StrSklTabItem2	パッシブと魔術のスキル +%d
+StrSklTabItem3	弓とクロスボウのスキル +%d
+StrSklTabItem4	防御のオーラ +%d
+StrSklTabItem5	攻撃のオーラ +%d
+StrSklTabItem6	戦闘のスキル +%d
+StrSklTabItem6	召喚呪文 +%d
+StrSklTabItem7	毒物と骨の呪文 +%d
+StrSklTabItem8	呪い +%d
+StrSklTabItem10	雄叫び +%d
+StrSklTabItem11	戦闘のスキル +%d
+StrSklTabItem12	戦闘の極意 +%d
+StrSklTabItem13	冷気呪文 +%d
+StrSklTabItem14	稲妻呪文 +%d
+StrSklTabItem15	火炎呪文 +%d
+StrSklTabItem16	召喚呪文 +%d
+StrSklTabItem17	変身能力 +%d
+StrSklTabItem18	エレメンタル +%d
+StrSklTabItem19	トラップ +%d
+StrSklTabItem20	シャドウ・ディシプリン +%d
+StrSklTabItem21	マーシャル・アーツ +%d
+x	キャラクター'%s'は３か月以上使用されなかったので、削除されました
+upgraderestrictEx	マジック、ソケット、レア、ユニーク、セットなどのアイテムは不可。宝石やジュエルも不可。
+x	アンデッド
+x	デーモン
+strScaryMonDescA	
+strScaryMonDescB	
+strScaryMonDesc1	火炎無効
+strScaryMonDesc2	冷気無効
+strScaryMonDesc3	稲妻無効
+strScaryMonDesc4	毒物無効
+strScaryMonDesc5	物理攻撃無効
+strScaryMonDesc6	魔法無効
+PlayerNameOnItemstring	%sの
+PlayerNameOnItemstringX	%の
+SetItemFormatX	%0
+x	拡張版ランキング
+x	拡張版ハードコア・ランキング
+D2bnetHelp47a	「拡張版ランキング」とは、獲得経験値の順にキャラクターを表示するリスト、別名「ラダー」です。デフォルト設定ではクラスに関係なく表示されますが、クラス別表示を見るオプションもあります。
+D2bnetHelp48a	「拡張版ハードコア・ランキング」とは、獲得経験値の順にハードコア・キャラクターを表示するリスト、別名「ラダー」です。デフォルト設定ではクラスに関係なく表示されますが、クラス別表示を見るオプションもあります。
+x	すべて修理
+x	全装備を修理: %d
+x	装備中のアイテムに修理は不要
+Druid	ドルイド
+Assassin	アサシン
+partychardru	ドルイド
+partycharass	アサシン
+x	ゲームに参加できません。Diablo IIキャラクターは、Diablo II拡張版キャラクターの作成したゲームには入れません。
+x	ゲームに入れません。拡張版キャラクターは、Diablo IIキャラクターの作成したゲームには参加できません。
+charmonsterX	%s： %d%%
+charmontohit1X	%sの攻撃が自分に命中する確率：%d%%
+charmontohit2X	ブロック成功確率：%d%%\n%sの攻撃が自分に命中する確率：%d%%
+Party1X	%sは、汝に屍から物を取る許可を与えた。
+Party2X	%sは、汝に屍から物を取る許可を与えた。
+Party10	%sは、自分の屍から物を取る許可を取り消した。
+Party11	%sは、自分の屍から物を取る許可を取り消した。
+Party12	汝らは互いに敵対している。
+Party13	%sは汝に敵対しているが、汝は彼に友好的だ。
+Party14	%sは汝に敵対しているが、汝は彼女に友好的だ。
+Party 15	%sは汝に友好的だが、汝は彼と敵対している。
+Party16	%sは汝に友好的だが、汝は彼女と敵対している。
+Party17	汝らは互いに友好的だ。
+Party18	汝らは互いの屍から物を取ることができる。
+Party19	%sは汝の屍から物を取れるが、汝は彼の屍から取れない。
+Party20	%sは汝の屍から物を取れるが、汝は彼女の屍から取れない。
+Party21	%sは汝の屍から物を取れないが、汝は彼の屍から取れる。
+Party22	%sは汝の屍から物を取れないが、汝は彼女の屍から取れる。
+Party23	汝らは互いに、屍から物を取る許可を与えていない。
+Civerb's Ward	シバーブの防護
+Civerb's Icon	シバーブの聖像
+Civerb's Cudgel	シバーブのカジェル
+Hsarus' Iron Heel	フサルの鉄のかかと
+Hsarus' Iron Fist	フサルの鉄拳
+Hsarus' Iron Stay	フサルの鉄帯
+Cleglaw's Tooth	クレグローの歯
+Cleglaw's Claw	クレグローの鉤爪
+Cleglaw's Pincers	クレグローの鉄手袋
+Iratha's Cord	イラーサの紐
+Iratha's Coil	イラーサのコイル
+Iratha's Cuff	イラーサの袖小手
+Iratha's Collar	イラーサの襟
+Isenhart's Horns	アイゼンハートの角
+Isenhart's Case	アイゼンハートの胴丸
+Isenhart's Parry	アイゼンハートの防御
+Isenhart's Lightbrand	アイゼンハートのライトブランド
+Vidala's Snare	ビダラの誘惑
+Vidala's Ambush	ビダラの伏兵
+Vidala's Fetlock	ビダラの足枷
+Vidala's Barb	ビダラの鉤
+Milabrega's Robe	ミラブレガのローブ
+Milabrega's Diadem	ミラブレガの冠輪
+Milabrega's Rod	ミラブレガのロッド
+Milabrega's Orb	ミラブレガの宝玉
+Cathan's Seal	カサンの封印
+Cathan's Sigil	カサンの印璽
+Cathan's Visage	カサンの覆面
+Cathan's Mesh	カサンのメッシュ
+Cathan's Rule	カサンのルール
+Tancred's Crowbill	タンクレッドのクロウビル
+Tancred's Spine	タンクレッドの棘
+Tancred's Hobnails	タンクレッドのホブネイル
+Tancred's Weird	タンクレッドの宿命
+Tancred's Skull	タンクレッドの頭蓋骨
+Sigon's Visor	サイゴンのバイザー
+Sigon's Shelter	サイゴンのシェルター
+Sigon's Gage	サイゴンの籠手
+Sigon's Sabot	サイゴンの木靴
+Sigon's Wrap	サイゴンの巻き布
+Sigon's Guard	サイゴンのガード
+Infernal Cranium	冥界の頭骨
+Infernal Torch	冥界のたいまつ
+Infernal Sign	冥界の紋章
+Berserker's Headgear	狂戦士のヘッドギア
+Berserker's Hauberk	狂戦士のホーバーク
+Berserker's Hatchet	狂戦士のハチェット
+Death's Hand	死神の手
+Death's Guard	死神のガード
+Death's Touch	死神の接触
+Angelic Sickle	天使の手鎌
+Angelic Mantle	天使のマント
+Angelic Halo	天使の光輪
+Angelic Wings	天使の翼
+Arctic Horn	極地の角
+Arctic Furs	極地の毛皮
+Arctic Binding	極地の帯
+Arctic Mitts	極地の手袋
+Arcanna's Sign	アルカナのサイン
+Arcanna's Deathwand	アルカナの死のワンド
+Arcanna's Head	アルカナの頭
+Arcanna's Flesh	アルカナの肉
+skillxname0	 
+skillxsd0	 
+skillxld0	 
+skillxan0	 
+skillxname1	 
+skillxsd1	 
+skillxld1	 
+skillxan1	 
+skillxname2	 
+skillxsd2	 
+skillxld2	 
+skillxan2	 
+skillxname3	 
+skillxsd3	 
+skillxld3	 
+skillxan3	 
+skillxname4	 
+skillxsd4	 
+skillxld4	 
+skillxan4	 
+skillxname5	 
+skillxsd5	 
+skillxld5	 
+skillxan5	 
+skillxname6	 
+skillxsd6	 
+skillxld6	 
+skillxan6	 
+skillxname7	 
+skillxsd7	 
+skillxld7	 
+skillxan7	 
+skillxname8	 
+skillxsd8	 
+skillxld8	 
+skillxan8	 
+skillxname9	 
+skillxsd9	 
+skillxld9	 
+skillxan9	 
+skillxname10	 
+skillxsd10	 
+skillxld10	 
+skillxan10	 
+skillxname11	 
+skillxsd11	 
+skillxld11	 
+skillxan11	 
+skillxname12	 
+skillxsd12	 
+skillxld12	 
+skillxan12	 
+skillxname13	 
+skillxsd13	 
+skillxld13	 
+skillxan13	 
+skillxname14	 
+skillxsd14	 
+skillxld14	 
+skillxan14	 
+skillxname15	 
+skillxsd15	 
+skillxld15	 
+skillxan15	 
+skillxname16	 
+skillxsd16	 
+skillxld16	 
+skillxan16	 
+skillxname17	 
+skillxsd17	 
+skillxld17	 
+skillxan17	 
+skillxname18	 
+skillxsd18	 
+skillxld18	 
+skillxan18	 
+skillxname19	 
+skillxsd19	 
+skillxld19	 
+skillxan19	 
+skillxname20	 
+skillxsd20	 
+skillxld20	 
+skillxan20	 
+skillxname21	 
+skillxsd21	 
+skillxld21	 
+skillxan21	 
+skillxname22	 
+skillxsd22	 
+skillxld22	 
+skillxan22	 
+skillxname23	 
+skillxsd23	 
+skillxld23	 
+skillxan23	 
+skillxname24	 
+skillxsd24	 
+skillxld24	 
+skillxan24	 
+skillxname25	 
+skillxsd25	 
+skillxld25	 
+skillxan25	 
+skillxname26	 
+skillxsd26	 
+skillxld26	 
+skillxan26	 
+skillxname27	 
+skillxsd27	 
+skillxld27	 
+skillxan27	 
+skillxname28	 
+skillxsd28	 
+skillxld28	 
+skillxan28	 
+skillxname29	 
+skillxsd29	 
+skillxld29	 
+skillxan29	 
+skillxname30	 
+skillxsd30	 
+skillxld30	 
+skillxan30	 
+skillxname31	 
+skillxsd31	 
+skillxld31	 
+skillxan31	 
+skillxname32	 
+skillxsd32	 
+skillxld32	 
+skillxan32	 
+skillxname33	 
+skillxsd33	 
+skillxld33	 
+skillxan33	 
+skillxname34	 
+skillxsd34	 
+skillxld34	 
+skillxan34	 
+skillxname35	 
+skillxsd35	 
+skillxld35	 
+skillxan35	 
+skillxname36	 
+skillxsd36	 
+skillxld36	 
+skillxan36	 
+skillxname37	 
+skillxsd37	 
+skillxld37	 
+skillxan37	 
+skillxname38	 
+skillxsd38	 
+skillxld38	 
+skillxan38	 
+skillxname39	 
+skillxsd39	 
+skillxld39	 
+skillxan39	 
+skillxname40	 
+skillxsd40	 
+skillxld40	 
+skillxan40	 
+skillxname41	 
+skillxsd41	 
+skillxld41	 
+skillxan41	 
+skillxname42	 
+skillxsd42	 
+skillxld42	効果範囲内の敵全員の体力を奪う\n激しい放電を発生させ
+skillxan42	 
+skillxname43	 
+skillxsd43	 
+skillxld43	 
+skillxan43	 
+skillxname44	 
+skillxsd44	 
+skillxld44	 
+skillxan44	 
+skillxname45	 
+skillxsd45	 
+skillxld45	 
+skillxan45	 
+skillxname46	 
+skillxsd46	 
+skillxld46	 
+skillxan46	 
+skillxname47	 
+skillxsd47	 
+skillxld47	 
+skillxan47	 
+skillxname48	 
+skillxsd48	 
+skillxld48	 
+skillxan48	 
+skillxname49	 
+skillxsd49	 
+skillxld49	 
+skillxan49	 
+skillxname50	 
+skillxsd50	 
+skillxld50	 
+skillxan50	 
+skillxname51	 
+skillxsd51	 
+skillxld51	 
+skillxan51	 
+skillxname52	 
+skillxsd52	 
+skillxld52	 
+skillxan52	 
+skillxname53	 
+skillxsd53	 
+skillxld53	 
+skillxan53	 
+skillxname54	 
+skillxsd54	 
+skillxld54	 
+skillxan54	 
+skillxname55	 
+skillxsd55	 
+skillxld55	 
+skillxan55	 
+skillxname56	 
+skillxsd56	 
+skillxld56	 
+skillxan56	 
+skillxname57	 
+skillxsd57	 
+skillxld57	 
+skillxan57	 
+skillxname58	 
+skillxsd58	 
+skillxld58	 
+skillxan58	 
+skillxname59	 
+skillxsd59	 
+skillxld59	 
+skillxan59	 
+skillxname60	 
+skillxsd60	 
+skillxld60	 
+skillxan60	 
+skillxsname61	 
+skillxsd61	 
+skillxld61	 
+skillxan61	 
+skillxname62	 
+skillxsd62	 
+skillxld62	 
+skillxan62	 
+skillxname63	 
+skillxsd63	パッシヴ - 稲妻ダメージを増幅
+skillxld63	パッシヴ - 稲妻の呪文で与えるダメージを増幅
+skillxan63	 
+skillxname64	 
+skillxsd64	 
+skillxld64	 
+skillxan64	 
+skillxname65	 
+skillxsd65	 
+skillxld65	 
+skillxan65	 
+skillxname66	 
+skillxsd66	 
+skillxld66	 
+skillxan66	 
+skillxname67	 
+skillxsd67	 
+skillxld67	 
+skillxan67	 
+skillxname68	 
+skillxsd68	 
+skillxld68	 
+skillxan68	 
+skillxname69	 
+skillxsd69	 
+skillxld69	 
+skillxan69	 
+skillxname70	 
+skillxsd70	 
+skillxld70	 
+skillxan70	 
+skillxname71	 
+skillxsd71	 
+skillxld71	 
+skillxan71	 
+skillxname72	 
+skillxsd72	 
+skillxld72	 
+skillxan72	 
+skillxname73	 
+skillxsd73	 
+skillxld73	 
+skillxan73	 
+skillxname74	 
+skillxsd74	 
+skillxld74	 
+skillxan74	 
+skillxname75	 
+skillxsd75	 
+skillxld75	 
+skillxan75	 
+skillxname76	 
+skillxsd76	 
+skillxld76	 
+skillxan76	 
+skillxname77	 
+skillxsd77	 
+skillxld77	 
+skillxan77	 
+skillxname78	 
+skillxsd78	 
+skillxld78	 
+skillxan78	 
+skillxname79	 
+skillxsd79	 
+skillxld79	 
+skillxan79	 
+skillxname80	 
+skillxsd80	 
+skillxld80	 
+skillxan80	 
+skillxname81	 
+skillxsd81	 
+skillxld81	 
+skillxan81	 
+skillxname82	 
+skillxsd82	 
+skillxld82	 
+skillxan82	 
+skillxname83	 
+skillxsd83	 
+skillxld83	 
+skillxan83	 
+skillxname84	 
+skillxsd84	 
+skillxld84	 
+skillxan84	 
+skillxname85	 
+skillxsd85	 
+skillxld85	 
+skillxan85	 
+skillxname86	 
+skillxsd86	 
+skillxld86	この呪いは他の呪いで上書きできない\n周囲のモンスター全員が攻撃\n標的のモンスター１体を
+skillxan86	 
+skillxname87	 
+skillxsd87	 
+skillxld87	 
+skillxan87	 
+skillxname88	 
+skillxsd88	 
+skillxld88	 
+skillxan88	 
+skillxname89	 
+skillxsd89	 
+skillxld89	 
+skillxan89	 
+skillxname90	 
+skillxsd90	 
+skillxld90	 
+skillxan90	 
+skillxname91	 
+skillxsd91	 
+skillxld91	 
+skillxan91	 
+skillxname92	 
+skillxsd92	 
+skillxld92	 
+skillxan92	 
+skillxname93	 
+skillxsd93	 
+skillxld93	 
+skillxan93	 
+skillxname94	 
+skillxsd94	 
+skillxld94	 
+skillxan94	 
+skillxname95	 
+skillxsd95	 
+skillxld95	 
+skillxan95	 
+skillxname96	 
+skillxsd96	 
+skillxld96	 
+skillxan96	 
+skillxname97	 
+skillxsd97	 
+skillxld97	 
+skillxan97	 
+skillxname98	 
+skillxsd98	 
+skillxld98	 
+skillxan98	 
+skillxname99	 
+skillxsd99	 
+skillxld99	 
+skillxan99	 
+skillxname100	 
+skillxsd100	 
+skillxld100	 
+skillxan100	 
+skillxname101	 
+skillxsd101	 
+skillxld101	 
+skillxan101	 
+skillxname102	 
+skillxsd102	 
+skillxld102	 
+skillxan102	 
+skillxname103	 
+skillxsd103	 
+skillxld103	 
+skillxan103	 
+skillxname104	 
+skillxsd104	 
+skillxld104	 
+skillxan104	 
+skillxname105	 
+skillxsd105	 
+skillxld105	 
+skillxan105	 
+skillxname106	 
+skillxsd106	 
+skillxld106	 
+skillxan106	 
+skillxname107	 
+skillxsd107	 
+skillxld107	 
+skillxan107	 
+skillxname108	 
+skillxsd108	 
+skillxld108	 
+skillxan108	 
+skillxname109	 
+skillxsd109	 
+skillxld109	 
+skillxan109	 
+skillxname110	 
+skillxsd110	 
+skillxld110	 
+skillxan110	 
+skillxname111	 
+skillxsd111	 
+skillxld111	 
+skillxan111	 
+skillxname112	 
+skillxsd112	 
+skillxld112	 
+skillxan112	 
+skillxname113	 
+skillxsd113	 
+skillxld113	 
+skillxan113	 
+skillxname114	 
+skillxsd114	 
+skillxld114	 
+skillxan114	 
+skillxname115	 
+skillxsd115	 
+skillxld115	 
+skillxan115	 
+skillxname116	 
+skillxsd116	 
+skillxld116	 
+skillxan116	 
+skillxname117	 
+skillxsd117	 
+skillxld117	 
+skillxan117	 
+skillxname118	 
+skillxsd118	 
+skillxld118	攻撃に稲妻ダメージを追加\n付近の敵にダメージを与えた上に\nまとったオーラから放電が走り、
+skillxan118	 
+skillxname119	 
+skillxsd119	 
+skillxld119	 
+skillxan119	 
+skillxname120	 
+skillxsd120	 
+skillxld120	 
+skillxan120	 
+skillxname121	 
+skillxsd121	 
+skillxld121	 
+skillxan121	 
+skillxname122	 
+skillxsd122	オーラ - 攻撃のスピードとダメージが上昇
+skillxld122	攻撃値が上昇する\nこのオーラを帯びると、味方の攻撃速度とダメージ、
+skillxan122	 
+skillxname123	 
+skillxsd123	オーラ - 敵を弱体化
+skillxld123	 
+skillxan123	 
+skillxname124	 
+skillxsd124	 
+skillxld124	徐々に回復する\n自分と味方のライフとマナが\n敵の死体に近づくと
+skillxan124	 
+skillxname125	 
+skillxsd125	 
+skillxld125	 
+skillxan125	 
+skillxname126	 
+skillxsd126	 
+skillxld126	 
+skillxan126	 
+skillxname127	 
+skillxsd127	 
+skillxld127	 
+skillxan127	 
+skillxname128	 
+skillxsd128	 
+skillxld128	 
+skillxan128	 
+skillxname129	 
+skillxsd129	 
+skillxld129	 
+skillxan129	 
+skillxname130	 
+skillxsd130	 
+skillxld130	 
+skillxan130	 
+skillxname131	 
+skillxsd131	 
+skillxld131	 
+skillxan131	 
+skillxname132	 
+skillxsd132	 
+skillxld132	 
+skillxan132	 
+skillxname133	 
+skillxsd133	 
+skillxld133	 
+skillxan133	 
+skillxname134	 
+skillxsd134	 
+skillxld134	 
+skillxan134	 
+skillxname135	 
+skillxsd135	 
+skillxld135	 
+skillxan135	 
+skillxname136	 
+skillxsd136	 
+skillxld136	 
+skillxan136	 
+skillxname137	 
+skillxsd137	 
+skillxld137	 
+skillxan137	 
+skillxname138	 
+skillxsd138	 
+skillxld138	 
+skillxan138	 
+skillxname139	 
+skillxsd139	 
+skillxld139	 
+skillxan139	 
+skillxname140	 
+skillxsd140	 
+skillxld140	 
+skillxan140	 
+skillxname141	 
+skillxsd141	 
+skillxld141	 
+skillxan141	 
+skillxname142	 
+skillxsd142	 
+skillxld142	 
+skillxan142	 
+skillxname143	 
+skillxsd143	 
+skillxld143	 
+skillxan143	 
+skillxname144	 
+skillxsd144	 
+skillxld144	 
+skillxan144	 
+skillxname145	 
+skillxsd145	 
+skillxld145	 
+skillxan145	 
+skillxname146	 
+skillxsd146	 
+skillxld146	 
+skillxan146	 
+skillxname147	 
+skillxsd147	 
+skillxld147	 
+skillxan147	 
+skillxname148	 
+skillxsd148	 
+skillxld148	 
+skillxan148	 
+skillxname149	 
+skillxsd149	 
+skillxld149	 
+skillxan149	 
+skillxname150	 
+skillxsd150	 
+skillxld150	 
+skillxan150	 
+skillxname151	 
+skillxsd151	 
+skillxld151	 
+skillxan151	 
+skillxname152	 
+skillxsd152	 
+skillxld152	 
+skillxan152	 
+skillxname153	 
+skillxsd153	 
+skillxld153	 
+skillxan153	 
+skillxname154	 
+skillxsd154	 
+skillxld154	 
+skillxan154	 
+skillxname155	 
+skillxsd155	 
+skillxld155	 
+skillxan155	 
+strHostileTimeout	そのプレイヤーに敵対を宣言するには、しばらく待たねばならない。
+ShrId0	効力のないほこら
+ShrId1	充填のほこら
+ShrId2	健康のほこら
+ShrId3	マナのほこら
+ShrId4	健康交換のほこら
+ShrId5	マナ交換のほこら
+ShrId6	アーマーのほこら
+ShrId7	戦闘のほこら
+ShrId8	火炎耐性のほこら
+ShrId9	冷気耐性のほこら
+ShrId10	稲妻耐性のほこら
+ShrId11	毒物耐性のほこら
+ShrId12	スキルのほこら
+ShrId13	マナ回復力のほこら
+ShrId14	スタミナのほこら
+ShrId15	経験のほこら
+ShrId16	イナースのほこら
+ShrId17	ポータルのほこら
+ShrId18	宝石のほこら
+ShrId19	火のほこら
+ShrId20	魔物のほこら
+ShrId21	爆発のほこら
+ShrId22	毒のほこら
+x	新規キャラクター作成
+CfgSkillPick	スキル・スピードバー
+x	パスワード確認
+MercX101	ヴァーダカ
+MercX102	カーン
+MercX103	クリスク
+MercX104	ボース
+MercX105	ブロム
+MercX106	ウィグラフ
+MercX107	フロスガー
+MercX108	サイルド
+MercX109	ヘルフデイン
+MercX110	ヒオロガー
+MercX111	ハルゴーント
+MercX112	ハイジェラック
+MercX113	イグセオウ
+MercX114	ボーダン
+MercX115	ウルフガー
+MercX116	ヒルド
+MercX117	ヒーソラフ
+MercX118	ウェダー
+MercX119	ヴィキアット
+MercX120	アンファース
+MercX121	ジークムント
+MercX122	ヘレモンド
+MercX123	ヘンゲスト
+MercX124	フォルクウォルド
+MercX125	フリシアン
+MercX126	フナエフ
+MercX127	ガスラフ
+MercX128	オスラフ
+MercX129	ユーメンラフ
+MercX130	ガームンド
+MercX131	フリーワル
+MercX132	イードジルス
+MercX133	オネラ
+MercX134	ダミエン
+MercX135	エルフォー
+MercX136	ウェオスタン
+MercX137	ウールフ
+MercX138	ブルワイア
+MercX139	リーフ
+MercX140	マグナス
+MercX141	クラトゥー
+MercX142	ドルス
+MercX143	ホク
+MercX144	コード
+MercX145	ウーサー
+MercX146	イップ
+MercX147	ウルッフ
+MercX148	サール
+MercX149	ケイリム
+MercX150	ウルリック
+MercX151	アラリック
+MercX152	エセルレッド
+MercX153	カーデン
+MercX154	エルジフ
+MercX155	トスティグ
+MercX156	アルクイン
+MercX157	イームンド
+MercX158	ジークルート
+MercX159	ゴルム
+MercX160	ホリス
+MercX161	ラグナー
+MercX162	トーケル
+MercX163	ウルフスタン
+MercX164	アルバン
+MercX165	バーロック
+MercX166	ビル
+MercX167	セオドリック
+r16	ポー・ルーン
+r16L	ポー
+r13	シャエ・ルーン
+r13L	シャエ
+r31	ジョー・ルーン
+r31L	ジョー
+DarkStalker	ダークストーカー
+VileArcher	ヴァイル・アーチャー
+Runeword22	ディリリアム
+Whichwild String	ホィッチワイルド・ストリング
+x	あなたが「Diablo II: Lord of Destruction」のインストールに使ったCDキーには、Battle.netへのアクセス権がありません。
+x	現在お使いの「Diablo II: Lord of Destruction」CDキーは、Battle.netへのアクセスを停止されています。詳しくはカプコンのテクニカルサポートにお電話ください。
+x	あなたと同じCDキーを、以下の人物が現在使用中です：
+x	あなたが「Diablo II: Lord of Destruction」のインストールに使ったCDキーは、別の製品のものです。正しいCDキーを使って再インストールしてください。
+Playersubtitles29	退却！
+AmaOnly	(アマゾンのみ)
+SorOnly	(ソーサレスのみ)
+NecOnly	(ネクロマンサーのみ)
+PalOnly	(パラディンのみ)
+BarOnly	(バーバリアンのみ)
+DruOnly	(ドルイドのみ)
+AssOnly	(アサシンのみ)
+Chatcaps	チャット
+Newscaps	ニュース
+Laddercaps	ラダー
+LaddeCharacter	ラダー専用キャラクター
+x	作成されるラダー専用キャラクターは、現在進 行中のラダー期間のみ、他のラダー専用キャラクターと対戦できます。現在のラ ダー期間が終了すると、本キャラクターは通常キャラクターになり次回ラダー期間 への持ち越しはできません。作成しますか？
+x	ゲームに参加できません。ラダー専用 キャラクターにより作成されたゲームへは、通常キャラクターでは参加できません。
+x	ゲームに参加できません。通常キャラクター により作成されたゲームへは、ラダー専用キャラクターでは参加できません。
+Sksyn	%sへのボーナス
+Damplev	ダメージ修正（１レベルにつき）
+ElemDampLev	エレメンタル・ダメージ修正（１レベルにつき）
+Firedplev	火炎ダメージ修正（１レベルにつき）
+Colddplev	冷気ダメージ修正（１レベルにつき）
+Ltngdplev	稲妻ダメージ修正（１レベルにつき）
+Poisdplev	毒物ダメージ修正（１レベルにつき）
+Magdplev	魔法ダメージ修正（１レベルにつき）
+Rangplev	射程修正（１レベルにつき）
+RateFireplev	速射性能修正（１レベルにつき）
+AttRateplev	攻撃値修正（１レベルにつき）
+AttSpeedplev	攻撃速度修正（１レベルにつき）
+Defplev	防御力修正（１レベルにつき）
+Manacoredplev	マナ消費修正（１レベルにつき）
+Missplev1	の射弾追加（１レベルにつき）
+Missplev2	+1の射弾追加（１レベルにつき）
+Missplev3	+1の射弾追加（%dレベルにつき）
+Boltplev1	個の球電追加（１レベルにつき）
+Boltplev2	+1個の球電追加（１レベルにつき）
+Boltplev3	+1個の球電追加（%dレベルにつき）
+Shotplev1	ショット（１レベルにつき）
+Shotplev2	+1ショット（１レベルにつき）
+Shotplev3	+1ショット（%dレベルにつき）
+Hpplev	ライフ修正（１レベルにつき）
+WRSpeedplev	移動速度修正（１レベルにつき）
+Durateplev	持続時間修正（１レベルにつき）
+CoLenplev	冷気持続時間修正（１レベルにつき）
+FrezLenplev	凍結持続時間修正（１レベルにつき）
+PoisLenplev	毒物持続時間修正（１レベルにつき）
+Convphy2magplev	物理ダメージの%d%%を魔法ダメージに変換（１レベルにつき）
+Convphy2elemplev	物理ダメージの%d%%をエレメンタル・ダメージに変換（１レベルにつき）
+Convphy2magalt	物理ダメージの%d%%をエレメンタル・ダメージに変換
+Convphy2elemalt	物理ダメージの%d%%を魔法ダメージに変換
+Secplev1	秒（１レベルにつき）
+Secplev2	秒（１レベルにつき）
+Damabsplev	ダメージ吸収（１レベルにつき）
+WeapDamsk	武器攻撃ダメージ
+Hbdplev	ホーリー・ボルトのダメージ修正（１レベルにつき）
+Healplev	ライフ回復（２秒あたり）（１レベルにつき）
+Healplev2	ライフ回復（２秒あたり）
+FanYDam	あなたのダメージ： 
+PartDam	パーティーのダメージ： 
+AFDImm	平均火炎ダメージ修正（１秒あたり）
+Cgslow	敵の速度低下： 
+Corexpdam	死体爆発ダメージ：
+ModitemAura	装備すると、レベル%dの%s オーラを獲得
+Moditem2allattrib	、全属性値(筋力、敏捷性など)修正
+Moditem2ExpG	、獲得経験値修正
+ModitemHPaK	ライフ獲得（敵１体を殺すごとに）
+ModitemRedVendP	商人の売価を全て下げる
+ModitemSMRIP	殺したモンスターを成仏させる
+ModitemAttratvsM	、以下に対する攻撃値修正：
+Moditemdamvsm	、以下に対するダメージ修正：
+Moditemslayat	殺害：
+Moditemreanimas	以下の状態で蘇生：
+Moditemenrescoldsk	、敵の冷気耐性修正
+Moditemenresfiresk	、敵の火炎耐性修正
+Moditemenresltngsk	、敵の稲妻耐性修正
+Moditemenrespoissk	、敵の毒物耐性修正
+ModitemdamFiresk	、火炎スキルダメージ修正
+ModitemdamColdsk	、冷気スキルダメージ修正
+ModitemdamLtngsk	、稲妻スキルダメージ修正
+ModitemdamPoissk	、毒物スキルダメージ修正
+Moditemskondeath	%d%%の確率で、あなたが死んだ際(に)Lv %d %s投射
+ModitemskonLevel	%d%%の確率で、あなたがレベルアップした際(に)Lv %d %s投射
+ModitemskonKill	%d%%の確率で、あなたが敵を殺した際(に)Lv %d %s投射
+Skillname2234	ウィアウルフ
+Skillsd2234	ウィアウルフ(人狼)に変身
+Skillld2234	ウィアウルフ(人狼)に変身
+Skillan2234	ウィアウルフ
+StrSkill43a	体のスケルトンメイジ
+StrSkill44a	体のスケルトンメイジ
+StrSklTabItem9	召喚呪文 +%d
+SOJSold	%d個の「ヨルダンの石」を商人に売却
+DiabloWalksEarth	ディアブロが地上を歩く
+neg	ヘルスポーン・スカル
+TrappDoor	トラップドア
+uhf	レジェンダリー・マレット
+skillld124P	your life and mana\nthe souls of slain enemies to give\nwhen active, aura attempts to redeem
+7wa	バーサーカー・アックス
+skillld42	効果範囲内の敵全員の体力を奪う\n激しい放電を発生させ
+xhg	ウォー・ガントレット
+Fiendra	フィーンドの
+Wraithra	レイスの
+Fiend	フィーンド
+Wraith	レイス
+D2bnetHelp10	 \blue;青い文字\gold;は、チャットチャンネル内のプレイヤーの動作を表わします。
+ItemStats1r	ブロック成功率：
+x	サーバーが一杯です
+x	現在、「新規作成」は受け付けられません。他のゲームに「参加」されるか、しばらくお待ちになってから再度「新規作成」をお試しください。
+merca239	ジャルルフ
+StrSkill63Patch	持続時間：
+x	ゲームの「新規作成」は現在、順番待ちです。早くプレイしたければ「参加」をお選び下さい。
+X	順番待ち
+x	現在、ゲーム数が多すぎて「新規作成」はできません。他のゲームに「参加」されるか、順番待ちの列にお並びください。
+x	あなたの待ち順位：
+x	
+9bl	スティレット
+eats and spits corpses	屍を食べて吐く
+qstsa2q63f	タル・ラシャの墓所を探索せよ
+Shocking Hit	ショッキング・ヒット
+ModStr1w	のゴールドを追加入手
+ModStr1x	、マジックアイテム入手確率上昇
+ModStr3u	命中するとモンスターが逃走
+ModStr4c	のボーナス攻撃値
+ModStr5r	敵の速度低下
+ModStr6f	、目標を蘇生する可能性
+ModStr6d	命中すると敵は視力を失う
+x	ゲームに参加するには、ホストのIPアドレスを入力してください
+StrSkill61	複数ヒット
+D2bnetHelp13c	/reply
+D2bnethelp13d	アカウント名を打ち込まなくても、「ささやき（whisper）」してきた相手に返信できます。
+D2bnetHelp52	/whisper, /msg, /reply
+D2bnetHelp10a	\yellow; 黄色の文字\gold;は、Battle.netから直接送られてきた特別なメッセージを示します。
+BnetnewGameTime	ゲーム時間：
+D2bnetHelp12c	特殊コマンドを使う際、相手のアカウント名だけでなく、キャラクター名を使うこともできるようになりました。同じレルムの相手ならキャラクター名のみ、別のレルムなら「キャラクター名@レルム名」と打ち込んでください。
+D2bnetHelp12d	別のゲーム（Starcraftなど）でBattle.netを利用している人にメッセージを送るには、*アカウント名を使わなければなりません。
+D2bnetHelp12b	以下のコマンド表で<アカウント名>となっている部分には、<キャラクター名>、<キャラクター名@レルム名>、<*アカウント名>のうち、いずれか便利なものをお使いください。
+x	ゲートウェイ： %s
+x	パスワード変更
+x	パスワード変更
+x	現在のパスワード
+x	新しいパスワード
+x	確認のため再入力
+x	ゲートウェイ選択
+x	現在のゲートウェイにご不満の場合は、他のBattle.netゲートウェイをお選びください。
+x	レルム変更
+x	現在のレルム
+x	「%s」という名前のキャラクターは、すでにこのレルムに存在しています。
+D2bnetHelp6a	\dgrey;グレーの文字\gold;はまた、チャットチャンネル内のプレイヤーがとった動作も示します。
+D2bnetHelp10aPatch	\blue;青い文字\gold;は、Battle.netから、またはBlizzardの代表者から送られてきた特別なメッセージを示します。
+x	送信
+x	パスワード警告
+x	Battle.net上でパスワードを他のプレイヤーに送ることはできません。Blizzardは如何なる理由があってもユーザーにパスワードを聞く事はありません。
+x	接続中・・・
+x	Diablo IIはレルムサーバーに接続できませんでした。選択したレルムが利用不可になっているかもしくは接続に関する問題が発生しています。インターネット接続およびファイヤーウォールの設定をご確認ください。ポート番号6112が開放されている必要があります。
+x	More...
+x	あなたはこのDiablo IIレルムに、８人を超えるキャラクターを保管しています。表示できるのは最大８人までなので、現在は隠れているキャラクターがあります。
+x	隠れたキャラクターを表示させるには、すでにあるキャラクターを削除しなくてはなりません。一度削除されたキャラクターを復旧することはできません。詳細はwww.blizzard.com/support/diablo2をご覧ください。
+x	使用者同意書
+x	Battle.netにログオンした場合、お客様は最新の使用者同意書を読んで理解し、同意したものと見なされます。
+x	%0 %1
+x	兜：
+x	盾：
+x	武器：
+x	防具：
+x	拡張版キャラクター
+x	Missing string
+EskillLowersResistX	耐性低下
+ExInsertSocketsX	ソケットアイテムに挿入可能
+EskillToMeleeX	(近接攻撃のみ)
+eskillincasemasteryX	クリティカル確率：%d％
+CfgSay7X	「退却！」と言う
+champghostlyX	ゴーストリー・
+champfanaticX	ファナティック・
+champpossessedX	ポゼスト・
+champberserkX	バーサーカー・
+PalMercExST1X	防御の
+PalMercEXST3X	攻撃の
+PalMercEXST4X	戦闘の
+increaseswithplaylevelX	(キャラクターレベルに比例)
+RankX	Rank
+x	有効な電子メールアドレスを入力してください。
+x	電子メールアドレスを入力すると、パスワードを忘れたときにアカウントを回復する機能など、追加機能を使用できるようになります。詳細は、www.battle.net/email-address を参照してください。
+x	電子メールアドレス:
+x	電子メールアドレスの確認:
+x	登録
+x	登録しない
+x	必ず同じ電子メールアドレスを入力してください。
+x	無効な電子メールアドレス
+x	入力した電子メールアドレスは有効なアドレスではありません。有効な電子メールアドレスを入力してください。
+x	電子メールアドレスを登録しない場合、パスワードを忘れると、アカウントを回復できなくなります。ここで登録しない場合、後からこのアカウントで電子メールアドレスを登録することはできません。 
+x	このアカウントで電子メールアドレスを登録している場合は、パスワードを忘れた場合でも、「送信」をクリックすることで新しいパスワードを要求することができます。
+x	新しいパスワードが要求されたことを確認しました。このアカウントで電子メールアドレスを登録している場合は、パスワードの変更方法に関する電子メールが届きます。
+x	続行
+x	パスワードを忘れた場合は、[アカウント設定] をクリックしてください。
+x	入力したパスワードは間違っています。[アカウント設定] をクリックして、新しいパスワードを取得することができます。
+x	アカウント設定
+x	アカウント設定
+x	パスワードを覚えていて、それを変更したい場合は、ここをクリックしてください。
+x	パスワードを忘れたか、パスワードが機能しない場合は、ここをクリックしてください。
+x	登録した電子メールアドレスを変更する必要がある場合は、ここをクリックしてください。
+x	新しいパスワードの取得
+x	新しいパスワードの取得
+x	電子メールの変更
+x	電子メールの変更
+x	今までの電子メールアドレス:
+x	新しい電子メールアドレス:
+x	新しい電子メールアドレスの確認:
+x	このアカウントで電子メールアドレスを登録している場合は、それをここで変更できます。この変更を行うには、両方の電子メールアドレスが使用可能な状態でなければなりません。
+x	今までの電子メールアドレスと新しい電子メールアドレスが同じです。異なる電子メールアドレスを入力してください。
+x	両方の新しい電子メールアドレスは必ず同じでなければなりません。
+x	Battle.net ニュースアップデート
+x	前回完了した難易度設定:
+x	なし
+x	チャットに入る
+x	パスワードをメモしておいて下さい。
+x	安全でないパスワード
+x	選択したパスワードは安全ではありません。別のパスワードを指定してください。
+x	CD キーの警告
+x	Battle.net 上の他のユーザーに CD キーを送信することはできません。Blizzard がユーザーの CD キーを尋ねることは一切ありません。
+x	今日有効期限が切れます
+x	%d 日後に有効期限が切れます
+x	キャラクターの有効期限切れ
+x	
+x	
+x	
+x	
+x	
+x	
+x	
+x	
+x	ディアブロ IIでは、作成したキャラクターを使用せずにいると失効してしまいます。キャラクターの作成後、最後にプレイしてから10日間が経過すると、そのキャラクターは失効してしまいますが、2時間以上プレイしたキャラクターに関しては、最後のプレイから失効するまでの期間が3ヶ月間となります。
+x	失効したキャラクターはレルムから削除されます。
+x	'%s'というキャラクターは、規定のプレイ頻度に満たなかった為、削除されました。
+pk1	恐怖の鍵
+pk2	憎悪の鍵
+pk3	破壊の鍵
+dhn	ディアブロの角
+bey	バールの眼
+mbr	メフィストの脳
+std	勇者の旗
+Hellfire Torch	業火のたいまつ
+Lilith	リリス
+Pandemonium Run 1	メイトロンの根城
+Pandemonium Run 2	忘れられし砂地
+Pandemonium Run 3	苦悶の炉
+ModStre8b	、アサシンのスキルレベル修正
+skillld146	敵の防御値と攻撃力を下げる\n恐ろしい叫びを発して
+skillld65	ダメージを増大させる\nパッシブ - 敵の冷気耐性を低下させ
+x	現在お使いのCDキーは、レルムゲームのプレイを禁止されています。シングルプレイヤーもしくはオープンBATTLE.NETをご利用ください。
+x	このレルムへの接続が一時的に制限されています。しばらくしてからログインをお試しください。

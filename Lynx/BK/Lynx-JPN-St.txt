@@ -1,0 +1,1714 @@
+Index	Name
+ShrId18	ルーンのほこら
+ShrId19	火のほこら
+ShrId20	魔物のほこら
+ShrId21	爆発のほこら
+ShrId22	毒のほこら
+ShrMsg0	何も感じない
+ShrMsg1	気分がすっきりした
+ShrMsg2	傷が癒えた
+ShrMsg3	英気を養った
+ShrMsg4	たいへん気分が良い 
+ShrMsg5	エネルギーが満ちてきた
+ShrMsg6	皮膚が固くなったようだ
+ShrMsg7	戦意が高まった
+ShrMsg8	もはや火炎など恐れない
+ShrMsg9	もはや冷気など恐れない
+ShrMsg10	もはや稲妻など恐れない
+ShrMsg11	もはや毒物など恐れない
+ShrMsg12	腕前が上がったように感じる
+ShrMsg13	精神力がみるみる回復する
+ShrMsg14	あらゆる物が軽く感じる
+ShrMsg15	経験から多くを学べそうだ
+ShrMsg16	ちょっと人が変わったようだ
+ShrMsg17	帰る道が開く
+ShrMsg18	みごとなルーンだ
+ShrMsg19	灼熱の死が広がる
+ShrMsg20	死神の代理人が迫る
+ShrMsg21	炎の輪が広がる
+ShrMsg22	死の輪が広がる
+strqi1	ケルンの輪を起動する
+strqi2	順序はこの通り
+stsa1q3alert	ホラドリック・マリュスは修道院に返された
+stsa1q4alert	イニファスの巻物は樹に戻された
+stsa3q1alert	ディアブロの手下がラム・エセンの書を取り戻した
+qstsa1qt	町の住民
+qstsa1qt0	自己紹介
+qstsa1q0	第１章プロローグ
+qstsa1q1	邪悪の巣窟
+qstsa1q2	教団の墓地
+qstsa1q3	商売道具
+qstsa1q4	ケイン探索
+qstsa1q5	忘れられし塔
+qstsa1q6	聖堂の殺戮者
+strplaylast	スピーチ
+newquestlog	新たなエントリー
+qsts	クエストの状態
+noactivequest	現在、クエストはない
+qstsxxx	無効クエスト値
+qstsnull	無効状態
+qstsComplete	このクエストは終了した。
+qstsother	このクエストは他のプレイヤーが既 に終了したため、本ゲームでは終了で きない。
+qstsprevious	このクエストは、以前の冒険で終了 している。
+qstsThankYouComeAgain	本ゲームではこのクエストを終了で きない。新たなゲームを作成せよ。
+qstsThankYouComeAgainMulti	本ゲームではこのクエストを終了できない。新たにゲームを作るか、別のゲームに参加せよ。
+qstsThankYouComeAgainSingle	本ゲームではこのクエストを終了できない。ケインは汝の助けを借りずに救出された。
+Qstsyouarenot8	このクエストを終了するにはレベル８以上でなければならない。レベル８以上の状態で、新しいゲームを作成するか、別のゲームに参加して終了せよ。
+qstsa1q3x	マリュスを持つ人物がゲームから 抜けた。
+qstsa1q4x	ホラドリムの巻物を持つ人物がゲ ームから抜けた。
+qstsa1q11	ローグ族のキャンプの外の荒野で、 邪悪の巣窟を探せ。
+qstsa1q12	邪悪の巣窟のモンスターを一掃せよ
+qstsa1q13	
+qstsa1q14	モンスター残数：
+qstsa1q140	モンスターは残り１匹
+qstsa1q15	アカラに会い、報酬を受け取れ。
+qstsa1q21	荒涼の平原の奥の、教団の墓地にい るブラッド・レイヴンを探せ。
+qstsa1q22	ブラッド・レイヴンを殺せ。
+qstsa1q23	カシャに会って報酬を受け取れ。
+qstsa1q41	地下通路を通って暗き森に行き、 イニファスの樹を探し、巻物を取れ。
+qstsa1q42	イニファスの巻物をアカラに届けよ。
+qstsa1q43	岩の原の、ケルンの輪に行け。 イニファスの巻物に記された順番 で石に触れよ。そして赤いポー タルに入れ。ただし、危険は覚悟 せよ。
+qstsa1q44	デッカード・ケインを探して救出せよ。
+qstsa1q45	ケインはすでに救出され、ローグ族 のキャンプにいる。
+qstsa1q46	ローグ族のキャンプの、ケインとアカラを訪ねよ。
+qstsa1q46b	アカラと話して報酬を受け取れ。
+qstsa1q51	暗き森の彼方、黒き湿地帯に行き、 塔の残骸を探せ。
+qstsa1q51a	塔の廃墟の地下ダンジョンを探索せよ。
+qstsa1q51b	塔の廃墟の地下ダンジョンを探索せよ。
+qstsa1q52	邪悪なる伯爵夫人を討ち取れ。
+qstsa1q31	修道院内部を探索し、兵舎に入って ホラドリック・マリュスを取れ。番人の「鍛冶師」には気をつけよ。
+qstsa1q32	ホラドリック・マリュスをチャルシに返せ。
+qstsa1q32b	チャルシがアイテムに魔法の力を吹き込んでくれる。
+qstsa1q61	修道院のカタコンベの奥にある、アンダリエルの本拠を見つけよ。
+qstsa1q62	アンダリエルを殺せ。
+qstsa1q62b	ワリヴに会い、キャラバンとともに東へ向かえ。
+qstsa1q63	ワリヴに会い、キャラバンとともに東へ向かえ。
+KeyNone	なし
+KeyLButton	マウス1
+KeyRButton	マウス2
+KeyCancel	キャンセル
+KeyMButton	マウス3
+Key4Button	マウス4
+Key5Button	マウス5
+KeyWheelUp	マウスホィールを上に回す
+KeyWheelDown	マウスホィールを下に回す
+KeyKana	カナ
+KeyJunja	Junja
+KeyFinal	最終
+KeyKanji	漢字
+KeyEscape	Esc
+KeyConvert	変換
+KeyNonConvert	無変換
+KeyAccept	決定
+KeyModeChange	モード変更
+KeyLeft	左
+KeyUp	上
+KeyRight	右
+KeyDown	下
+KeySelect	選択
+KeyExecute	実行
+KeyLWin	左ウィンドウ
+KeyRWin	右ウィンドウ
+KeyApps	Appsメニュー
+KeyNumLock	Num Lock
+KeyBack	Backspace
+KeyTab	Tab
+KeyClear	Clear
+KeyReturn	Enter
+KeyShift	Shift
+KeyControl	Ctrl
+KeyMenu	Alt
+KeyPause	Pause
+KeyCapital	Caps Lock
+KeySpace	Space
+KeyPrior	Page Up
+KeyNext	Page Down
+KeyEnd	End
+KeyHome	Home
+KeyPrint	P - Tell Ken
+KeySnapshot	Print Screen
+KeyInsert	Insert
+KeyDelete	Delete
+KeyHelp	Help
+KeyNumPad0	Num Pad 0
+KeyNumPad1	Num Pad 1
+KeyNumPad2	Num Pad 2
+KeyNumPad3	Num Pad 3
+KeyNumPad4	Num Pad 4
+KeyNumPad5	Num Pad 5
+KeyNumPad6	Num Pad 6
+KeyNumPad7	Num Pad 7
+KeyNumPad8	Num Pad 8
+KeyNumPad9	Num Pad 9
+KeyMultiply	Num Pad *
+KeyAdd	Num Pad +
+KeySeparator	Separator
+KeySubtract	Num Pad -
+KeyDecimal	Num Pad .
+KeyDivide	Num Pad /
+KeyF1	F1
+KeyF2	F2
+KeyF3	F3
+KeyF4	F4
+KeyF5	F5
+KeyF6	F6
+KeyF7	F7
+KeyF8	F8
+KeyF9	F9
+KeyF10	F10
+KeyF11	F11
+KeyF12	F12
+KeyF13	F13
+KeyF14	F14
+KeyF15	F15
+KeyF16	F16
+KeyF17	F17
+KeyF18	F18
+KeyF19	F19
+KeyF20	F20
+KeyF21	F21
+KeyF22	F22
+KeyF23	F23
+KeyF24	F24
+KeyScroll	Scroll Lock
+KeySemicolon	;
+KeyEqual	=
+KeyComma	,
+KeyMinus	-
+KeyPeriod	.
+KeySlash	/
+KeyTilde	-
+KeyLBracket	[
+KeyBackslash	\
+KeyRBracket	]
+KeyApostrophe	'
+ShorthandKeyMButton	m3
+ShorthandKey4Button	m4
+ShorthandKey5Button	m5
+ShorthandKeyWheelUp	mwu
+ShorthandKeyWheelDown	mwd
+ShorthandKeyKana	kna
+ShorthandKeyJunja	jun
+ShorthandKeyFinal	fin
+ShorthandKeyKanji	kji
+ShorthandKeyEscape	esc
+ShorthandKeyConvert	con
+ShorthandKeyNonConvert	ncn
+ShorthandKeyAccept	acc
+ShorthandKeyModeChange	mdc
+ShorthandKeyLeft	lft
+ShorthandKeyRight	rgt
+ShorthandKeyDown	Dwn
+ShorthandKeySelect	Slt
+ShorthandKeyExecute	exc
+ShorthandKeyLeftWindows	lwn
+ShorthandKeyRightWindows	rwn
+ShorthandKeyApps	apm
+ShorthandKeyNumLock	nml
+ShorthandKeyBackspace	bks
+ShorthandKeyClear	clr
+ShorthandKeyEnter	ent
+ShorthandKeyShift	sft
+ShorthandKeyControl	ctl
+ShorthandKeyPause	pse
+ShorthandKeyCapsLock	clk
+ShorthandKeySpace	spc
+ShorthandKeyPageUp	pup
+ShorthandKeyPageDown	pdn
+ShorthandKeyHome	hme
+ShorthandKeyPrintScreen	psn
+ShorthandKeyInsert	ins
+ShorthandKeyDelete	del
+ShorthandKeyHelp	hel
+ShorthandKeyNumPad0	np0
+ShorthandKeyNumPad1	np1
+ShorthandKeyNumPad2	np2
+ShorthandKeyNumPad3	np3
+ShorthandKeyNumPad4	np4
+ShorthandKeyNumPad5	np5
+ShorthandKeyNumPad6	np6
+ShorthandKeyNumPad7	np7
+ShorthandKeyNumPad8	np8
+ShorthandKeyNumPad9	np9
+ShorthandKeyNumPad*	np*
+ShorthandKeyNumPad+	np+
+ShorthandKeyNumPad-	np-
+ShorthandKeyNumPad.	np.
+ShorthandKeyNumPad/	np/
+ShorthandKeyScroll	slk
+KeyMacOption	オプション
+KeyMacCommand	コマンド
+KeyMacNumPad=	数字パッド＝
+ShorthandKeyMacOption	Opt
+ShorthandKeyMacCommand	Cmd
+ShorthandKeyMacNumPad=	NP=
+CfgFunction	機能
+CfgPrimaryKey	キー／ボタン1
+CfgSecondaryKey	キー／ボタン2
+CfgCharacter	キャラクター能力画面
+CfgInventory	所持品画面
+CfgParty	パーティー画面
+CfgMessageLog	メッセージログ
+CfgQuestLog	クエストログ
+CfgChat	チャット
+CfgAutoMap	オートマップ ON／OFF
+CfgAutoMapCenter	オートマップを自分中心に
+CfgMiniMap	マイクロマップ
+CfgHelp	ヘルプ画面
+CfgSkillTree	スキルツリー
+CfgSkillPick	スキル・スピードバー
+CfgSkill1	スキル1
+CfgSkill2	スキル2
+CfgSkill3	スキル3
+CfgSkill4	スキル4
+CfgSkill5	スキル5
+CfgSkill6	スキル6
+CfgSkill7	スキル7
+CfgSkill8	スキル8
+Cfgskillup	前のスキルを選択する
+Cfgskilldown	次のスキルを選択する
+CfgBeltShow	ベルトを開く
+CfgBelt1	ベルト１を使う
+CfgBelt2	ベルト2を使う
+CfgBelt3	ベルト3を使う
+CfgBelt4	ベルト4を使う
+CfgBelt5	ベルト5を使う
+CfgBelt6	ベルト6を使う
+CfgBelt7	ベルト7を使う
+CfgBelt8	ベルト8を使う
+CfgBelt9	ベルト9を使う
+CfgBelt10	ベルト10を使う
+CfgBelt11	ベルト11を使う
+CfgBelt12	ベルト12を使う
+CfgSay0	「加勢を！」と言う
+CfgSay1	「こっちへ！」と言う
+CfgSay2	「あげよう。」と言う
+CfgSay3	「どうも。」と言う
+CfgSay4	「失礼。」と言う
+CfgSay5	「じゃ。」と言う
+CfgSay6	「死ね！」と言う
+CfgRun	走る
+CfgRunLock	走る／歩くを切り換える
+CfgStandStill	その場に立つ
+CfgShowItems	地面のアイテム名を表示
+CfgClearScreen	クリアスクリーン
+CfgSnapshot	スクリーンショット
+CfgDefault	デフォルト
+CfgAccept	決定
+CfgCancel	キャンセル
+strNoKeysAssigned	操作キーの設定は変更されていません。
+KeysAssigned	割当てキー
+CantAssignMB	これはマウスボタンに割当てられない
+CantAssignMW	これはマウスの動きに割当てられない
+CantAssignKey	このキーには割当てられない
+CfgClearKey	クリアキー
+Cfgcleartextmsg	メッセージを消す
+CfgTogglePortraits	味方の肖像画を表示／消す
+CfgAutoMapFade	オートマップを薄くする
+CfgAutoMapNames	オートマップの名前表示
+CfgAutoMapParty	オートマップのパーティ表示
+strlvlup	新たなステイタス
+strnewskl	新たなスキル
+warpsheader	ワープ
+nowarps	ワープなし
+waypointsheader	目的地を選べ
+nowaypoints	他に起動している中継点はない
+max	MAX
+MAX	MAX
+colorcode	yc
+space	 
+dash	-
+colon	:
+newline	\n
+pipe	|
+slash	/
+percent	%
+plus	+
+to	 
+srostertitle	プレイヤー
+dwell	休止
+larva	幼虫
+Barbarian	バーバリアン
+Paladin	パラディン
+Necromancer	ネクロマンサー
+Sorceress	ソーサレス
+Amazon	アマゾン
+druidstr 	ドルイド
+assassinstr	アサシン
+Nest	巣
+NoParty	パーティーなし
+ItsMyParty	パーティー＃
+Upgrade	吹き込む
+upgraderestrict	マジックアイテム、ソケットアイテム、レアアイテム、ユニークアイテム、セットアイテムは不可。宝石や投げ武器も不可。
+Use	宝石を使う
+NPCIdentify1	アイテムを鑑定
+NPCIdentify2	アイテムを鑑定：
+strCannotDoThisToUnknown	未鑑定のアイテムを修理することはできない。
+Body Looted	略奪された死体
+Party1	が、自分の屍から物を取ることを汝に許すと言っている
+Party2	が、自分の屍から物を取ることを汝に許すと言っている
+Party3	が、汝に敵意を示している
+Party4	は、もはや敵意を抱いていない
+Party5	が、協力して悪に対抗しようと誘っている
+Party6	は、パーティ参加の誘いをキャンセルした
+Party7	は、汝のパーティに加わった
+Party8	汝の協力者は、
+Party9	 は、汝のパーティを去った
+strDropGoldHowMuch	ゴールドをいくら落とす？
+strDropGoldInfo	ゴールドを落とす
+strMsgLog	メッセージログ
+strBSArmor	防具
+strBSWeapons	武器
+strBSMagic	魔法
+strBSMisc	その他
+strTrade	取引
+strTradeAccept	取引を受け入れる
+strTradeAgreeTo	取引を開始する
+strWaitingForOtherPlayer	相手の返事を待っている
+strTradeBusy	は忙しい
+strTradeTooFull	汝らの一人は物を持ちすぎている
+strTradeGoldHowMuch	ゴールドをいくら提示するか？
+strTradeTimeout	そのプレイヤーと取引するには少し待たねばならない。
+SysmsgPlayer1	 : 
+strBankGoldDeposit	ゴールドをいくら預けるか？
+strBankGoldWithdraw	ゴールドをいくら引き出すか？
+GoldMax	最大ゴールド：%d
+StrUI0	ゴーレム
+StrUI1	スケルトン
+StrUI2	メイジ
+StrUI3	リバイブ
+StrUI4	ワルキューレ
+strchrlvl	レベル
+strchrexp	経験値
+strchrnxtlvl	次のレベル
+strchrstr	筋力
+strchrskm	ダメージ
+strchrdex	敏捷性
+strchratr	%s\n攻撃値
+strchrdef	防御
+strchrrat	%s\n値
+strchrvit	バイタリティ
+strchrstm	スタミナ  
+strchrlif	ライフ  
+strchreng	エネルギー
+strchrman	マナ   
+strchrfir	火炎耐性
+strchrcol	冷気耐性
+strchrlit	稲妻耐性
+strchrpos	毒物耐性
+strchrstat	
+strchrrema	残りポイント
+WeaponDescMace	メイス級
+WeaponDescAxe	アックス級
+WeaponDescSword	ソード級
+WeaponDescDagger	ダガー級
+WeaponDescThrownPotion	投げ装備
+WeaponDescJavelin	ジャベリン級
+WeaponDescSpear	スピア級
+WeaponDescBow	ボウ級
+WeaponDescStaff	スタッフ級
+WeaponDescPoleArm	ポールアーム級
+WeaponDescCrossBow	クロスボウ級
+WeaponAttackFastest	最速の攻撃スピード
+WeaponAttackVeryFast	非常に速い攻撃スピード
+WeaponAttackFast	速い攻撃スピード
+WeaponAttackNormal	標準の攻撃スピード
+WeaponAttackSlow	おそい攻撃スピード
+WeaponAttackVerySlow	非常におそい攻撃スピード
+WeaponAttackSlowest	最もおそい攻撃スピード
+strNecromanerOnly	（ネクロマンサーのみ）
+strPaladinOnly	（パラディンのみ）
+strSorceressOnly	（ソーサレスのみ）
+strMaceSpecialDamage	ダメージを、アンデッドに与える
+strGoldLabel	ゴールド
+strParty1	あなたのパーティーに加わるよう
+strParty2	このプレイヤーを誘う
+strParty3	このプレイヤーの
+strParty4	パーティーに加わる
+strParty5	このプレイヤーへの
+strParty6	誘いをキャンセルする
+strParty7	クリックすれば
+strParty8	このプレイヤーと敵対
+strParty9	クリックすれば
+strParty10	このプレイヤーと中立に
+strParty11	クリックすればこのプレイヤーに
+strParty12	あなたの死体から物を取ることを許す
+strParty13	クリックすればこのプレイヤーに
+strParty14	あなたの死体から物を取ることを禁止する
+strParty15	クリックすればこのプレイヤーに
+strParty16	あなたの話を聞くことを許す
+strParty17	クリックすればこのプレイヤーに
+strParty18	あなたの話を聞くことをやめさせる
+strParty19	クリックすればこのプレイヤーの話を無視
+strParty22	クリックすればこのプレイヤーへの無視を解除
+strParty24	パーティーから抜ける
+strParty25	町の中でなければならない
+StrParty26	敵対するには、両プレイヤーとも
+StrParty27	レベル９以上でなければならない
+strGoldWithdraw	引き出す
+strGoldDrop	ゴールドを落とす
+strGoldDeposit	預ける
+strGoldTrade	提示する
+strGoldInStash	収納箱の金：
+strGoldTradepup	ゴールドを提示する
+strUiMenu1	キャンセル
+strUiMenu2	取引に合意
+strUiBank	取引に合意
+strUnknownTomb	真の墓所は隠されている
+strTradeOtherBox	は、この箱にアイテムを入れている
+strTradeBox	汝は自分の箱にアイテムを入れている
+strFree	、無料であげよう
+act1	第１章
+act2	第２章
+act3	第３章
+act4	第４章
+level	レベル
+lowercasecancel	キャンセル
+close	閉じる
+strClose	閉じる
+Lightning Spell	稲妻の呪文
+Fire Spell	火炎の呪文
+Cold Spell	冷気の呪文
+Yourparty	あなたのパーティ
+Inparty	同一パーティ
+Invite	招待
+Accept	承諾
+Leave	去る
+Partyclose	閉める
+partycharama	アマゾン
+partycharsor	ソーサレス
+partycharbar	バーバリアン
+partycharnec	ネクロマンサー
+partycharpal	パラディン
+charavghit	平均ヒット率
+charmonster	レベル %dの敵に対し： %d%%
+charmontohit1	レベル %dの敵の
+charmontohit2	あなたへの平均ヒット率：%d%%
+panelexp	経験： %u / %u
+panelstamina	スタミナ： %u / %u
+panelhealth	ライフ: %u / %u
+panelmana	マナ: %u / %u
+panelmini	ミニパネルを開く
+panelcmini	ミニパネルを閉じる
+minipanelchar	キャラクター
+minipanelinv	所持品
+minipaneltree	スキルツリー
+minipanelparty	パーティ画面
+minipanelautomap	オートマップ
+minipanelmessage	メッセージログ
+minipanelquest	クエストログ
+minipanelmenubtn	ゲームメニュー(Esc)
+minipanelHelp	ヘルプ
+minipanelspecial	 (%s)
+RunOn	走る
+RunOff	歩く
+automapgame	ゲーム：
+automappw	パスワード：
+automapdif	難易度：%s
+scrollbooktext	数量: %d
+skilldesc1	レベル
+skilldesc2	パーセント
+skilldesc3	必要レベル：
+skilldesc4	数量
+strpanel1	キャラ情報
+strpanel2	クエスト
+strpanel3	未使用
+strpanel4	所持品
+strpanel5	メニュー
+strpanel6	オートマップ
+strpanel7	未使用
+strpanel8	スキルツリー
+stashfull	汝の収納箱は一杯だ
+Strhelp1	ディアブロIIヘルプ
+StrHelp2	<%s>を押しながら移動すれば走る
+StrHelp3	<%s>を押しつづければ落ちているアイテム名を表示
+StrHelp4	<%s>を押し続ければその場に立って攻撃
+StrHelp5	<%s>を押せば、オートマップのオン・オフを切り換え
+StrHelp6	<Esc>を押せばゲームメニューを開く
+StrHelp7	<Enter>を押せばチャットモードに入る
+StrHelp8	 F1からF8に、よく使うスキルを割り振れる
+StrHelp8a	<%s>を押せば、この画面を開閉
+StrHelp9	ライフ・オーブ
+StrHelp10	左マウスボタンで
+StrHelp11	実行するスキル
+StrHelp12	（クリックして選択できる）
+StrHelp13	右マウスボタンで
+StrHelp14	走る／歩くを
+StrHelp14a	切り換える
+StrHelp15	スタミナバー
+StrHelp16	経験値
+StrHelp16a	バー
+StrHelp17	ミニパネル
+StrHelp18	（キャラクター能力、
+StrHelp19	所持品その他の
+StrHelp20	画面を開く）
+StrHelp21	ベルト
+StrHelp22	マナ・オーブ
+strSklTree	
+StrSklTreea	スキル群 1
+StrSklTreeb	スキル群 2
+StrSklTreec	スキル群 3
+StrSklTree1	スキル
+StrSklTree2	選択
+StrSklTree3	残り
+StrSklTree4	スキル
+StrSklTree5	呪文
+StrSklTree6	ジャベリンと
+StrSklTree7	スピアの
+StrSklTree8	パッシブと
+StrSklTree9	魔術の
+StrSklTree10	弓と
+StrSklTree11	クロスボウの
+StrSklTree12	防御の
+StrSklTree13	オーラ
+StrSklTree14	攻撃の
+StrSklTree15	戦闘の
+StrSklTree16	召喚
+StrSklTree17	毒物と
+StrSklTree18	骨の
+StrSklTree19	呪い
+StrSklTree20	雄叫び
+StrSklTree21	戦闘の
+StrSklTree22	極意
+StrSklTree23	冷気
+StrSklTree24	稲妻
+StrSklTree25	火炎
+StrSkill0	
+StrSkill1	次のレベル
+StrSkill2	現在のスキル レベル：
+StrSkill3	消費マナ：
+StrSkill4	ダメージ：
+StrSkill5	火炎ダメージ：
+StrSkill6	冷気ダメージ：
+StrSkill7	稲妻ダメージ：
+StrSkill8	毒ダメージ：
+StrSkill9	本の矢
+StrSkill10	攻撃値：
+StrSkill11	ヒット
+StrSkill12	-
+StrSkill13	冷気効果時間：
+StrSkill14	毒汚染時間：
+StrSkill15	秒
+StrSkill16	秒
+StrSkill17	最初のレベル
+StrSkill18	半径：
+StrSkill19	スクエア
+StrSkill20	持続時間：
+StrSkill21	防御値：
+StrSkill22	攻撃値：
+StrSkill23	パーセント
+StrSkill24	パーセントの確率
+StrSkill25	敵の防御値：
+StrSkill26	ヤード
+StrSkill27	個の球電を放射
+StrSkill28	本の歯を発射
+StrSkill29	凍結時間：
+StrSkill30	攻撃値ボーナス：
+StrSkill31	防御値ボーナス：
+StrSkill32	火炎ダメージ：
+StrSkill33	ダメージ：敵の現在のライフの：
+StrSkill34	（1秒あたり）
+StrSkill35	持続する火炎ダメージ
+StrSkill36	ヤード
+StrSkill37	受けるダメージ：
+StrSkill38	敵のダメージ：
+StrSkill39	魔法ダメージ：
+StrSkill40	吸収
+StrSkill41	ダメージ
+StrSkill42	ライフ：
+StrSkill43	遠隔攻撃ダメージ強化
+StrSkill44	体のスケルトン
+StrSkill43	体のスケルトンメイジ
+StrSkill44	体のスケルトンメイジ
+StrSkill45	ゴーレム レベル：
+StrSkill46	パーセント（死体のライフの）
+StrSkill47	のダメージを自ら受ける
+StrSkill48	スタン時間：
+StrSkill49	パーセントのシールド力
+StrSkill50	回復：
+StrSkill51	火災耐性：
+StrSkill52	冷気耐性：
+StrSkill53	稲妻耐性：
+StrSkill54	全耐性：
+StrSkill55	パーセントのダメージを返す
+StrSkill56	射程：
+StrSkill57	敵の攻撃値：
+StrSkill58	逃走距離：
+StrSkill59	持続時間：
+StrSkill60	修正
+StrSkill61	3ヒット
+StrSkill62	凍結持続時間：
+StrSkill63	持続時間
+StrSkill64	毒ダメージ
+StrSkill65	武器耐久力消耗：+
+StrSkill66	標的が殺到：
+StrSkill67	敵の射弾速度：- 
+StrSkill68	平均
+StrSkill69	スタミナ回復率：
+StrSkill70	速度：
+StrSkill71	最大スタミナ：
+StrSkill72	
+StrSkill73	個のチャージド・ボルトを放つ
+StrSkill74	持続時間：- 
+StrSkill75	自然魔法ダメージ：
+StrSkill76	行動を中断されない確率
+StrSkill77	敵の行動スピード：- 
+StrSkill78	狙い続ける
+StrSkill79	パーセント（与えたダメージの）
+StrSkill80	奪ったダメージの
+StrSkill81	パーセントを術者のライフに変える
+StrSkill82	火炎の持続時間：
+StrSkill83	火炎の爆発ダメージ：
+StrSkill84	ライトニングボルトのダメージ：
+StrSkill85	呪い持続時間が低下：
+StrSkill86	攻撃目標：
+StrSkill87	標的
+StrSkill88	マナ回復率：
+StrSkill89	移動速度：
+StrSkill90	耐性：
+StrSkill91	ホーリーボルトのダメージ：
+StrSkill92	マナを、よろめくごとに
+StrSkill94	体のスケルトン
+StrSkill95	スケルトン
+StrSkill96	メイジ：
+StrSkill97	モンスター
+StrSkill98	最大耐性：- 
+StrSkill99	改宗確率：
+StrSkill100	最大ライフ：+ 
+StrSkill101	最大マナ：+ 
+StrSkill102	最大スタミナ：+ 
+StrSkill103	パーセント（火炎ダメージの）
+StrSkill104	体のモンスター
+StrSkill105	体のモンスター
+StrSkill106	攻撃速度：
+StrSkill107	ライフ/マナの回復：
+StrSkill108	ポイント
+StrSkill109	吸収成功確率：
+StrSkill110	ブロック成功率：
+StrSkill111	（ヤードあたり）
+StrSkill112	棘ダメージ
+StrSkill113	ヒュドラの火炎ダメージ：
+StrSkill114	総合自然ダメージ耐性：
+StrSkill115	施術に必要な最小マナ：
+StrSkill116	最大レベル
+StrSkill117	（アイテム）
+StrSkill118	このスキルは、アイテムの機能で獲得
+StrSkill119	このスキルはまだ習得していない。
+skillname0	攻撃
+skillsd0	通常攻撃
+skillld0	通常攻撃
+skillan0	攻撃
+skillname1	キック
+skillsd1	キック目標
+skillld1	キック目標
+skillan1	キック目標
+skillname2	投げる
+skillsd2	装備したアイテムを投げる
+skillld2	装備したアイテムを投げる
+skillan2	投げる
+skillname3	召喚解除
+skillsd3	召喚した怪物を解放する
+skillld3	指定した怪物を破棄
+skillan3	召喚解除
+skillname4	左手投げ
+skillsd4	左手のアイテムを投げる
+skillld4	左手のアイテムを投げる
+skillan4	左投げ
+skillname5	左手振り
+skillsd5	左手の武器を振る
+skillld5	左手の武器を振る
+skillan5	左振り
+skillname6	マジック・アロー
+skillsd6	魔法の矢を作る
+skillld6	追加ダメージを与える\n魔法の矢またはボルトを作り
+skillan6	マジック・アロー
+skillname7	ファイア・アロー
+skillsd7	魔法で矢に炎を帯びさせる
+skillld7	常にヒット\n炎を帯びさせる\n矢かボルトに魔法をかけ
+skillan7	ファイア・アロー
+skillname8	インナー・サイト
+skillsd8	近くのモンスターを照らし、弱くする
+skillld8	ヒットしやすくする\n自分と味方の攻撃を\n付近の敵を照らして
+skillan8	インナー・サイト
+skillname9	クリティカル・ストライク
+skillsd9	パッシブ - 倍のダメージを与える可能性が生まれる
+skillld9	パッシブ - 倍のダメージを与える可能性が生まれる
+skillan9	クリティカルストライク
+skillname10	ジャブ
+skillsd10	突き刺す武器で連続攻撃
+skillld10	素早い突きを何度も繰り出す\nジャベリンまたはスピア級の武器を使って
+skillan10	ジャブ
+skillname11	コールド・アロー
+skillsd11	矢に冷気魔法をかけ、敵の動きを鈍らせる
+skillld11	常にヒット\n冷気の矢のダメージは通常の半分\n冷気ダメージを与え動きを鈍らせる\n矢やボルトに魔法をかけ
+skillan11	コールド・アロー
+skillname12	マルチプル・ショット
+skillsd12	複数の矢を放つ
+skillld12	魔法で何本にもする\n1本の矢またはボルトを
+skillan12	Ｍ・ショット
+skillname13	ドッジ
+skillsd13	パッシブ - 近接攻撃をよける
+skillld13	回避する可能性が生まれる\n敵の近接攻撃を\nパッシブ - 移動していない時に
+skillan13	ドッジ
+skillname14	パワー・ストライク
+skillsd14	稲妻ダメージを追加
+skillld14	稲妻ダメージを追加\nジャベリン級とスピア級の攻撃に
+skillan14	パワーストライク
+skillname15	ポイズンジャベリン
+skillsd15	毒ダメージを追加
+skillld15	毒の煙をたなびかせる\nジャベリンに魔法をかけ
+skillan15	ポイズンジャベリン
+skillname16	エクスプローディング・アロー
+skillsd16	矢に魔法をかけて爆発させる
+skillld16	常にヒット\n爆発させ、付近の敵にダメージを与える\n矢やボルトに魔法をかけて命中時に
+skillan16	 Ex・アロー
+skillname17	スロー・ミサイル
+skillsd17	敵の遠隔攻撃をおそくする
+skillld17	付近の敵を照らし、敵の遠隔攻撃の射弾をおそくする
+skillan17	スロー・ミサイル
+skillname18	アボイド
+skillsd18	パッシブ - 射弾を避ける
+skillld18	敵の遠隔攻撃を回避する可能性が生まれる\nパッシブ - 移動していない時
+skillan18	アボイド
+skillname19	インペイル
+skillsd19	ダメージが増すが武器が傷む
+skillld19	攻撃ダメージが増すが武器の損傷が大きい
+skillan19	インペイル
+skillname20	ライトニング・ボルト
+skillsd20	投げたジャベリンを雷に変える
+skillld20	魔法で、投げたジャベリンを雷に変える
+skillan20	ライトニングボルト
+skillname21	アイス・アロー
+skillsd21	矢に魔法をかけて敵を凍らせる
+skillld21	常にヒット\n敵を凍結させる\n矢やボルトに魔法をかけ
+skillan21	アイス・アロー
+skillname22	ガイデッド・アロー
+skillsd22	矢に魔法をかけて敵を追わせる
+skillld22	常にヒット\n探させたりする\n敵を追跡させたり\n矢やボルトに魔法をかけ
+skillan22	ガイデッドアロー
+skillname23	ペネトレイト
+skillsd23	パッシブ - 遠隔攻撃の攻撃値が上昇
+skillld23	パッシブ - 遠隔攻撃の攻撃値が上昇
+skillan23	ペネトレイト
+skillname24	チャージド・ストライク
+skillsd24	突き刺す武器に、稲妻ダメージを付加
+skillld24	命中時に稲妻ダメージを起こす\nジャベリン級やスピア級の武器を帯電させ
+skillan24	Ｃ・ストライク
+skillname25	プラーグ・ジャベリン
+skillsd25	ジャベリンに魔法をかけ、毒を散布させる
+skillld25	命中時に毒の煙を発生させる\nジャベリンに毒ダメージを追加し
+skillan25	プラーグ・Ｊ
+skillname26	ストレイフ
+skillsd26	矢に魔法をかけ、複数の目標を攻撃する
+skillld26	複数の敵を攻撃\n1本の矢を魔法で分割し
+skillan26	ストレイフ
+skillname27	イモレイション・アロー
+skillsd27	矢が爆裂し、地面を燃やす
+skillld27	常にヒット\n着弾時には燃え上がる\n強い火炎ダメージを追加し\n矢やボルトに魔法をかけて
+skillan27	イモレイションＡ
+skillname28	デコイ
+skillsd28	自分の偽物を作る
+skillld28	敵の攻撃を分散させる\n自分の偽物を作り
+skillan28	おとり
+skillname29	イベイド
+skillsd29	パッシブ - 移動時に回避
+skillld29	よける可能性が生まれる\n敵の近接／遠隔攻撃を\nパッシブ - 移動中に
+skillan29	イベイド
+skillname30	フェンド
+skillsd30	隣接するすべての目標を攻撃
+skillld30	隣接するすべての目標を短時間で攻撃
+skillan30	フェンド
+skillname31	フリージング・アロー
+skillsd31	矢に魔法をかけて複数のモンスターを凍らせる
+skillld31	常にヒット\n複数のモンスターを凍らせる\n矢やボルトに魔法をかけ
+skillan31	フリージングＡ
+skillname32	ワルキューレ
+skillsd32	神の使いの女戦士を召喚する
+skillld32	神の使いの女戦士を召喚する
+skillan32	ワルキューレ
+skillname33	ピアース
+skillsd33	パッシブ - 射弾が複数の敵を貫通
+skillld33	進む可能性が生まれる\nパッシブ - 射弾が複数の敵を貫いて
+skillan33	ピアース
+skillname34	ライトニングストライク
+skillsd34	突き刺す武器から稲妻が走る
+skillld34	命中時には火花が走り複数の敵を襲う\nジャベリン級とスピア級の武器に稲妻ダメージを追加し
+skillan34	Ｌ・ストライク
+skillname35	ライトニング・フューリー
+skillsd35	着弾後にライトニング・ボルトが拡散
+skillld35	着弾時には地面を稲妻が走る\n投げたジャベリンを雷に変化させ
+skillan35	Ｌ・フューリー
+skillname36	ファイア・ボルト
+skillsd36	魔法の火の玉を飛ばす
+skillld36	魔法の火の玉を飛ばす
+skillan36	ファイア・ボルト
+skillname37	ウォームス
+skillsd37	パッシブ - マナ回復率が上昇
+skillld37	パッシブ - 大気を暖め、消費したマナを早く回復させる
+skillan37	ウォームス
+skillname38	チャージド・ボルト
+skillsd38	複数の稲妻を発射する
+skillld38	小さな稲妻を発射\n複数の、ジグザグに進む
+skillan38	チャージド・ボルト
+skillname39	アイス・ボルト
+skillsd39	氷を発射し敵の動きを鈍らせる
+skillld39	敵にダメージを与え動きを鈍らせる\n魔法の氷塊を発射して
+skillan39	アイス・ボルト
+skillname40	フローズンアーマー
+skillsd40	防御を強化し、攻撃してくる敵を凍らせる
+skillld40	攻撃してくる敵を凍らせる\n氷をまとって防御値を上げ、
+skillan40	Ｆ・アーマー
+skillname41	インフェルノ
+skillsd41	激しい火炎放射
+skillld41	敵を焼き払う\n激しい炎を連続放射し
+skillan41	インフェルノ
+skillname42	スタティックフィールド
+skillsd42	一定範囲に激しい放電を発生させる
+skillld42	付近の敵全員の体力を1/3奪う\n激しい放電を発生させ
+skillan42	Ｓ・フィールド
+skillname43	テレキネシス
+skillsd43	意思で物体を動かす
+skillld43	敵をよろめかせたりできる\nアイテムを拾ったり物を使ったり\n意思の力を使って
+skillan43	テレキネシス
+skillname44	フロスト・ノヴァ
+skillsd44	超低温の輪を広げる
+skillld44	付近の敵全員にダメージを与えて動きを鈍らせる\n自分を中心に超低温の輪を広げ、
+skillan44	フロスト・ノヴァ
+skillname45	アイス・ブラスト
+skillsd45	氷を発射し敵を凍りつかせる
+skillld45	敵にダメージを与え凍らせる\n魔法の氷塊を発射し
+skillan45	アイス・ブラスト
+skillname46	ブレイズ
+skillsd46	通った跡に火を燃え上がらせる
+skillld46	触れた敵を焼き殺す\n自分の通った跡に炎の壁を残し
+skillan46	ブレイズ
+skillname47	ファイア・ボール
+skillsd47	爆発する火球を発射
+skillld47	爆発して被害が広がる\n火球を発射すると、着弾後に
+skillan47	ファイア・ボール
+skillname48	ノヴァ
+skillsd48	電撃の輪を広げる
+skillld48	付近の敵を感電させる\n自分を中心に電撃の輪を広げて
+skillan48	ノヴァ
+skillname49	ライトニング
+skillsd49	直進する稲妻を放射
+skillld49	敵をなぎ払う\n直進する強力な稲妻で
+skillan49	ライトニング
+skillname50	シヴァー・アーマー
+skillsd50	敵を凍らせダメージを与える
+skillld50	攻撃してきた敵を凍らせダメージを与える\n防御値を上昇させ
+skillan50	シヴァーアーマー
+skillname51	ファイア・ウォール
+skillsd51	炎の壁を発生させる
+skillld51	敵を阻み、焼き殺す\n炎の壁を発生させて
+skillan51	ファイアウォール
+skillname52	エンチャント
+skillsd52	味方の武器に火炎の魔法を追加
+skillld52	遠隔武器なら以下の1/3の火炎ダメージを追加\n近接武器なら以下の火炎ダメージを、\n味方の武器に魔法をかける
+skillan52	エンチャント
+skillname53	チェイン・ライトニング
+skillsd53	屈曲し複数の敵を撃つ稲妻
+skillld53	複数の標的を貫く\n発射した稲妻が屈曲し
+skillan53	Ｃ・ライトニング
+skillname54	テレポート
+skillsd54	瞬時に目的地に移動する
+skillld54	見えている場所に瞬時に移動する
+skillan54	テレポート
+skillname55	グラシアル・スパイク
+skillsd55	超低温で爆発する氷の砲弾を発射
+skillld55	付近の敵を凍結させ大損害を与える\n氷の砲弾を発射、着弾時に爆発して
+skillan55	Ｇ・スパイク
+skillname56	メテオ
+skillsd56	天から流星を呼び寄せる
+skillld56	指定した地点を粉砕し焼き払う\n天から流星を呼び寄せ
+skillan56	メテオ
+skillname57	サンダー・ストーム
+skillsd57	強力な雷雲を呼び出す
+skillld57	敵を稲妻で打たせる\n頭上に雷雲を呼び寄せ
+skillan57	サンダーストーム
+skillname58	エナジー・シールド
+skillsd58	マナを消費して敵の攻撃を吸収
+skillld58	ライフの代わりにマナを消費する\n魔法のシールドで敵の攻撃を吸収し
+skillan58	エナジーシールド
+skillname59	ブリザード
+skillsd59	猛吹雪を呼び寄せる
+skillld59	雪雲を呼び寄せ、指定地点の付近に猛吹雪を発生させる
+skillan59	ブリザード
+skillname60	チリング・アーマー
+skillsd60	遠隔攻撃に自動的に反撃
+skillld60	自動的に反撃する\n防御値を上げ、遠隔攻撃には
+skillan60	チリングアーマー
+skillsname61	ファイア・マスタリー
+skillsd61	パッシブ - 火炎ダメージを上げる
+skillld61	パッシブ - すべての火炎魔法の威力が上昇
+skillan61	ファイアマスタリー
+skillname62	ヒュドラ
+skillsd62	多頭の火炎怪獣を召喚
+skillld62	敵を焼き殺させる\n多頭の火炎怪獣を呼び出し
+skillan62	ヒュドラ
+skillname63	ライトニング・マスタリー
+skillsd63	パッシブ - 稲妻魔法の消費マナを減らす
+skillld63	消費するマナを減らす\nパッシブ - 稲妻魔法を使う際に
+skillan63	ライトニングマスタリー
+skillname64	フローズン・オーブ
+skillsd64	氷の刃を放射する超低温の球体を発射
+skillld64	敵に大損害を与える\n超低温の球体が飛びながら氷の刃をまき散らし
+skillan64	フローズンオーブ
+skillname65	コールド・マスタリー
+skillsd65	パッシブ - 敵の冷気耐性を低下させる
+skillld65	ダメージを増大させる\nパッシブ - 敵の冷気耐性を低下させ
+skillan65	コールドマスタリー
+skillname66	アンプリファイ・ダメージ
+skillsd66	呪い - 敵が受けるダメージを増幅
+skillld66	魔法以外で受ける損害を増す\n敵の一群を呪い
+skillan66	アンプリファイ
+skillname67	ティース
+skillsd67	ドラゴンの歯を発射
+skillld67	ドラゴンの歯を召喚して発射
+skillan67	ティース
+skillname68	ボーン・アーマー
+skillsd68	近接戦闘ダメージを吸収させる
+skillld68	近接戦闘ダメージを吸収させる\n召喚した骨を自分の周囲で回転させ
+skillan68	ボーン・アーマー
+skillname69	スケルトン・マスタリー
+skillsd69	パッシブ - 蘇らせたスケルトンや怪物の能力向上
+skillld69	ライフや攻撃力が増す\nパッシブ - 蘇らせたスケルトンや怪物の
+skillan69	スケルトンマスタリー
+skillname70	レイズ・スケルトン
+skillsd70	敵の死体から骸骨戦士を作る
+skillld70	骸骨戦士を作って加勢させる\n倒した敵の死体から
+skillan70	レイズスケルトン
+skillname71	ディム・ビジョン
+skillsd71	呪い - モンスターの視力を低下させる
+skillld71	視覚範囲を減らす\n指定した範囲の敵全員を呪い
+skillan71	ディム・ビジョン
+skillname72	ウィークン
+skillsd72	呪い - 敵の攻撃力を低下させる
+skillld72	攻撃の威力を低下させる\n敵のグループに呪いをかけ
+skillan72	ウィークン
+skillname73	ポイズン・ダガー
+skillsd73	ダガー攻撃に毒の効果を追加
+skillld73	ダガー攻撃に毒の効果を追加
+skillan73	ポイズン・ダガー
+skillname74	コープス・エクスプロージョン
+skillsd74	敵の死体を爆弾に変える
+skillld74	周囲の敵に毒物ダメージを与える\n敵の死体を爆発させ、
+skillan74	コープス・Ｅｘ
+skillname75	クレイ・ゴーレム
+skillsd75	粘土のゴーレムを作り味方にする
+skillld75	戦いに加勢させる\n土からゴーレムを作り
+skillan75	クレイ・ゴーレム
+skillname76	アイアン・メイデン
+skillsd76	呪い - 敵は、攻撃で与えたダメージを自らも受ける
+skillld76	攻撃と同時に自分の身を傷つけさせる\n敵のグループに呪いをかけ
+skillan76	アイアンメイデン
+skillname77	テラー
+skillsd77	呪い - モンスターが恐怖で逃げる
+skillld77	恐怖で逃走させる\n敵のグループを呪い、
+skillan77	テラー
+skillname78	ボーン・ウォール
+skillsd78	骨の壁で道をふさぐ
+skillld78	敵の通行を止める\n骨の壁を築いて
+skillan78	ボーン・ウォール
+skillname79	ゴーレム・マスタリー
+skillsd79	ゴーレムの早さとライフが向上
+skillld79	すべてのゴーレムの移動速度とライフが向上する
+skillan79	ゴーレムマスタリー
+skillname80	レイズ・スケルトン・メイジ
+skillsd80	敵の死体から骸骨魔道師を作る
+skillld80	戦いに加勢させる\n敵の死体から骸骨魔道師を作り
+skillan80	スケルトンメイジ
+skillname81	コンフューズ
+skillsd81	呪い - 敵の攻撃目標がランダムになる
+skillld81	敵に呪いをかけ、攻撃目標を混乱させる
+skillan81	コンフューズ
+skillname82	ライフ・タップ
+skillsd82	呪い - 敵からライフを奪えるようにする
+skillld82	ダメージを与えた者はライフを得る\n一群の敵を呪い、彼らに
+skillan82	ライフ・タップ
+skillname83	ポイズン・エクスプロージョン
+skillsd83	死体を毒ガス爆弾に変える
+skillld83	付近の怪物にダメージを与える\n毒ガス爆弾に変えて\n敵の死体に魔法をかけ、
+skillan83	ポイズン・Ｅｘ
+skillname84	ボーン・スピア
+skillsd84	骨のスパイクを発射
+skillld84	敵を貫通する骨のスパイクを発射
+skillan84	ボーン・スピア
+skillname85	ブラッド・ゴーレム
+skillsd85	ライフとダメージを共有するゴーレム
+skillld85	ダメージも共有する\n血のゴーレム。敵のライフを奪って術者に送るが
+skillan85	ブラッドゴーレム
+skillname86	アトラクト
+skillsd86	呪い - 敵の１体を全怪物に狙わせる
+skillld86	加えて他の呪いをかけることはできない\n付近の全怪物がその敵を襲う。\n敵の１体を呪うと
+skillan86	アトラクト
+skillname87	ディクレピファイ
+skillsd87	呪い - 敵を大幅に鈍く、弱くする
+skillld87	大幅に鈍く、弱くする\n敵のグループに呪いをかけて
+skillan87	ディクレピファイ
+skillname88	ボーン・プリズン
+skillsd88	敵の周りに骨の囲いを作る
+skillld88	敵一体の周りに骨の囲いを作って閉じこめる
+skillan88	ボーン・プリズン
+skillname89	サモン・レジスト
+skillsd89	パッシブ - 召喚したモンスターが耐性を得る
+skillld89	各種の耐性を与える\nパッシブ - 召喚した全怪物に
+skillan89	サモン・レジスト
+skillname90	アイアン・ゴーレム
+skillsd90	金属アイテムからゴーレムを作る
+skillld90	ゴーレムはアイテムの性質を受け継ぐ\n金属アイテムからゴーレムを作る。
+skillan90	アイアンゴーレム
+skillname91	ロウアー・レジスト
+skillsd91	呪い - 敵の魔法耐性を下げる
+skillld91	呪い - 敵の魔法耐性を下げる
+skillan91	ロウアー・レジスト
+skillname92	ポイズン・ノヴァ
+skillsd92	自分を中心に毒の輪を広げる
+skillld92	自分を中心に毒の輪を広げる
+skillan92	ポイズン・ノヴァ
+skillname93	ボーン・スピリット
+skillsd93	亡霊を召喚し発射
+skillld93	敵を探索、追尾し自動的に命中する\n苦悶する亡霊が
+skillan93	ボーン・スピリット
+skillname94	ファイア・ゴーレム
+skillsd94	炎のゴーレムを作る
+skillld94	敵の火炎攻撃からライフを得るゴーレム\n付近の敵に火炎ダメージを与え、
+skillan94	ファイアゴーレム
+skillname95	リバイブ
+skillsd95	怪物を生き返らせ、味方にする
+skillld95	味方として戦わせる\n殺した敵を生き返らせて
+skillan95	リバイブ
+skillname96	サクリファイス
+skillsd96	攻撃精度とダメージ向上
+skillld96	攻撃精度とダメージを向上させる\n自分のライフを削って
+skillan96	サクリファイス
+skillname97	スマイト
+skillsd97	盾で敵を殴る
+skillld97	スタン（くらくら）させる\n盾で敵を殴って
+skillan97	スマイト
+skillname98	マイト
+skillsd98	オーラ - 攻撃力向上
+skillld98	攻撃ダメージが上昇\nオーラ - 自分と味方の
+skillan98	マイト
+skillname99	プレイアー
+skillsd99	オーラ - ライフ回復
+skillld99	徐々に回復させる\nオーラ - 自分と味方のライフを
+skillan99	プレイアー
+skillname100	レジスト・ファイア
+skillsd100	オーラ - 火炎ダメージを低減
+skillld100	火炎ダメージを低減\nオーラ - 自分と味方の受ける
+skillan100	レジストファイア
+skillname101	ホーリー・ボルト
+skillsd101	アンデッドにダメージを与える光球
+skillld101	味方の傷を治す\nアンデッドにダメージを与え、\n神聖な光球を発射して
+skillan101	ホーリー・ボルト
+skillname102	ホーリー・ファイア
+skillsd102	オーラ - 付近の敵に火炎ダメージを与える
+skillld102	オーラ - 付近の敵に火炎ダメージを与える
+skillan102	ホーリーファイア
+skillname103	ソーンズ
+skillsd103	オーラ - 敵にダメージを返す
+skillld103	オーラ - 敵にダメージを返す
+skillan103	ソーンズ
+skillname104	ディファイアンス
+skillsd104	オーラ - 防御力上昇
+skillld104	オーラ - 自分と味方の防御力が上昇
+skillan104	ディファイアンス
+skillname105	レジスト・コールド
+skillsd105	オーラ - 冷気ダメージを低減
+skillld105	オーラ - 自分と味方の冷気ダメージを低減
+skillan105	レジストコールド
+skillname106	ジール
+skillsd106	隣接する複数の敵を一気に攻撃
+skillld106	隣接する複数の敵を一気に攻撃
+skillan106	ジール
+skillname107	チャージ
+skillsd107	目標に突撃する
+skillld107	目標に突撃し大きなダメージを与える
+skillan107	チャージ
+skillname108	ブレスト・エイム
+skillsd108	オーラ - 攻撃値上昇
+skillld108	オーラ - 自分と味方の攻撃値が上昇
+skillan108	ブレスト・エイム
+skillname109	クレンジング
+skillsd109	オーラ - 毒と呪いの持続時間を低減
+skillld109	持続時間を低減\nオーラ - 自分と味方の、毒と呪いの
+skillan109	クレンジング
+skillname110	レジスト・ライトニング
+skillsd110	オーラ - 稲妻ダメージを低減
+skillld110	オーラ - 自分と味方の受ける稲妻ダメージを低減
+skillan110	レジスト・Ｌ
+skillname111	ヴェンジャンス
+skillsd111	攻撃に自然魔法ダメージを追加
+skillld111	魔法ダメージを追加\n攻撃に火炎、稲妻、冷気の
+skillan111	ヴェンジャンス
+skillname112	ブレスト・ハンマー
+skillsd112	渦巻き状に飛ぶ魔法のハンマーを召喚
+skillld112	対アンデッドはダメージ150%\n自分を中心に渦巻き状に飛ばす。\n天界のハンマーを召喚し
+skillan112	ブレストハンマー
+skillname113	コンセントレイション
+skillsd113	オーラ - 攻撃能力上昇
+skillld113	行動を中断されない確率が発生\n敵の攻撃を受けても\nオーラ - 攻撃の威力が増し、
+skillan113	コンセントレイト
+skillname114	ホーリー・フリーズ
+skillsd114	オーラ - 冷気で付近の敵を鈍らせる
+skillld114	オーラ - 冷気で付近の敵の動きを鈍らせる
+skillan114	ホーリーフリーズ
+skillname115	ヴィガー
+skillsd115	オーラ - 移動速度とスタミナ回復率が上昇
+skillld115	自分と味方の移動速度とスタミナ回復率が上昇
+skillan115	ヴィガー
+skillname116	コンヴァージョン
+skillsd116	敵を一時的に改心させる
+skillld116	周囲の怪物と戦わせる\n敵を一時的に改心させ
+skillan116	コンヴァージョン
+skillname117	ホーリー・シールド
+skillsd117	盾を増強する
+skillld117	神の力で盾を増強する
+skillan117	ホーリーシールド
+skillname118	ホーリー・ショック
+skillsd118	オーラ - 付近の敵に稲妻ダメージを与える
+skillld118	オーラ - 付近の敵を感電させ稲妻ダメージを与える
+skillan118	ホーリーショック
+skillname119	サンクチュアリ
+skillsd119	オーラ - アンデッドにダメージを与え、はね飛ばす
+skillld119	はね飛ばす\nオーラでアンデッドにダメージを与え、
+skillan119	サンクチュアリ
+skillname120	メディテイション
+skillsd120	オーラ - マナ回復率上昇
+skillld120	オーラ - 自分と味方のマナ回復率上昇
+skillan120	メディテイション
+skillname121	フィスト・オヴ・ザ・ヘヴンズ
+skillsd121	天罰。空から雷が落ちる
+skillld121	ホーリー・ボルトが拡散する\n強力な落雷が目標を撃ち、その後
+skillan121	Ｆ・ヘヴンズ
+skillname122	ファナティシズム
+skillsd122	オーラ - 攻撃速度と攻撃値上昇
+skillld122	オーラ - 自分と味方の攻撃速度と攻撃値が上昇
+skillan122	ァナティシズム
+skillname123	コンヴィクション
+skillsd123	オーラ - 敵の防御能力低下
+skillld123	オーラ - 周囲の敵の防御値と耐性を下げる
+skillan123	コンヴィクション
+skillname124	リデンプション
+skillsd124	オーラ - 敵の死体からライフとマナを吸収
+skillld124	徐々に回復する\n自分と味方のライフとマナが\n敵の死体に近づくと
+skillan124	リデンプション
+skillname125	サルヴェイジョン
+skillsd125	オーラ - 自然魔法で受けるダメージを低減
+skillld125	攻撃で受けるダメージを低減\n自分と味方が火炎、冷気、稲妻の
+skillan125	サルヴェイジョン
+skillname126	バッシュ
+skillsd126	力強い一撃で与えるダメージが上昇
+skillld126	敵をはね飛ばす\n力強い一撃で与えるダメージが上昇し
+skillan126	バッシュ
+skillname127	ソード・マスタリー
+skillsd127	パッシブ - ソードの技が上達
+skillld127	パッシブ - ソードの技が上達
+skillan127	ソードマスタリー
+skillname128	アックス・マスタリー
+skillsd128	パッシブ - アックスの技が上達
+skillld128	パッシブ - アックスの技が上達
+skillan128	アックスマスタリー
+skillname129	メイス・マスタリー
+skillsd129	パッシブ - メイスの技が上達
+skillld129	パッシブ - メイスの技が上達
+skillan129	メイスマスタリー
+skillname130	ハウル
+skillsd130	付近のモンスターをおびえさせる
+skillld130	逃走させる\n付近の敵をおびえさせ
+skillan130	ハウル
+skillname131	ファインド・ポーション
+skillsd131	敵の死体からポーションを発見
+skillld131	ポーション発見のチャンスがある\n敵の死体を指定して使うと
+skillan131	Ｆ・ポーション
+skillname132	リープ
+skillsd132	敵や障害物を飛び越す
+skillld132	あるいは乱戦に飛び込む\n跳躍して危険から逃れ、、
+skillan132	リープ
+skillname133	ダブル・スイング
+skillsd133	両手の武器を一気に振り回す
+skillld133	またはひとつの目標を２回攻撃\n２つの目標を次々と攻撃するか、\n両手の武器で、短時間に
+skillan133	ダブル・スイング
+skillname134	ポールアーム・マスタリー
+skillsd134	パッシブ - ポールアームの技が上達
+skillld134	パッシブ - ポールアームの技が上達
+skillan134	ポールアームマスタリー
+skillname135	スローイング・マスタリー
+skillsd135	パッシブ - 投げる技術の上達
+skillld135	パッシブ - 投げる技術の上達
+skillan135	スローイングマスタリー
+skillname136	スピア・マスタリー
+skillsd136	パッシブ - スピアの技が上達
+skillld136	パッシブ - スピアの技が上達
+skillan136	スピアマスタリー
+skillname137	トーント
+skillsd137	敵を怒らせて不用意な攻撃をさせる
+skillld137	敵を挑発し、怒らせて不用意な攻撃をさせる
+skillan137	トーント
+skillname138	シャウト
+skillsd138	仲間に注意し警戒させる
+skillld138	自分と味方の防御値を上げる\n迫る危険を警告し
+skillan138	シャウト
+skillname139	スタン
+skillsd139	敵をくらくらさせる
+skillld139	攻撃値を上昇させる\n猛烈な一撃で敵をくらくらさせ
+skillan139	スタン
+skillname140	ダブル・スロー
+skillsd140	素早く２つの武器を投げる
+skillld140	短時間に素早く投げる\n両手に装備した投げ用武器を
+skillan140	ダブル・スロー
+skillname141	スタミナ増進
+skillsd141	パッシブ - スタミナを増強する
+skillld141	パッシブ - 最大スタミナが増大する
+skillan141	Ｉ・スタミナ
+skillname142	ファインド・アイテム
+skillsd142	敵の死体からアイテムを発見する
+skillld142	アイテムが見つかる場合がある\n敵の死体から
+skillan142	Ｆ・アイテム
+skillname143	リープ・アタック
+skillsd143	ジャンプして目的地付近の敵を攻撃する
+skillld143	着地後に強烈な一撃\n目標までジャンプして
+skillan143	リープ・アタック
+skillname144	コンセントレイト
+skillsd144	攻撃動作が中断されない
+skillld144	攻撃値と防御値も上昇\n敵の攻撃を受けても自分の攻撃動作が中断せず、
+skillan144	コンセントレイト
+skillname145	アイアン・スキン
+skillsd145	パッシブ - 防御値が上昇
+skillld145	パッシブ - 防御値が上昇
+skillan145	アイアン・スキン
+skillname146	バトル・クライ
+skillsd146	敵の戦闘効率を下げる
+skillld146	敵の防御値と攻撃力を下げる\n恐ろしい叫びを発して
+skillan146	バトル・クライ
+skillname147	フレンジー
+skillsd147	ダブルスイングが命中すると速度が増す
+skillld147	あらゆる行為のスピードが増す\n攻撃が成功するたびに\n両手に持った別の武器を一気に使え、
+skillan147	フレンジー
+skillname148	インクリースト・スピード
+skillsd148	パッシブ - 移動速度が増す
+skillld148	パッシブ - 歩く速度、走る速度が増す
+skillan148	Ｉ・スピード
+skillname149	バトル・オーダー
+skillsd149	味方の最大ライフ、マナ、スタミナが上昇
+skillld149	最大スタミナが上昇\n自分と味方の最大ライフ、最大マナ、
+skillan149	バトル・オーダー
+skillname150	グリム・ウォード
+skillsd150	恐ろしい塔を作って敵をおどす
+skillld150	敵をおびえさせ逃亡させる\n恐ろしい塔を作って\n敵の死体から
+skillan150	グリム・ウォード
+skillname151	ワールウィンド
+skillsd151	武器を振り回しながら突き進む
+skillld151	立ちふさがる敵を粉砕する\n激しく回転して進み\n武器を振り回しながら
+skillan151	ワールウィンド
+skillname152	バーサーク
+skillsd152	強力だが無謀な攻撃をしかける
+skillld152	防御値は低下\n攻撃値と与えるダメージは上がるが\n強力だが無謀な攻撃。
+skillan152	バーサーク
+skillname153	ナチュラル・レジスタンス
+skillsd153	パッシブ - 火炎、冷気、稲妻、毒への耐性
+skillld153	および毒への耐性が上昇\nパッシブ - 火炎、冷気、稲妻、
+skillan153	Ｎ・レジスタンス
+skillname154	ウォー・クライ
+skillsd154	絶叫で付近の敵を傷つけスタンさせる
+skillld154	付近の敵にダメージを与え、スタン（くらくら）させる
+skillan154	ウォー・クライ
+skillname155	バトル・コマンド
+skillsd155	スキル・レベル上昇
+skillld155	自分と味方の持つ全スキルのレベルを上昇
+skillan155	バトル・コマンド
+skillname217	鑑定の巻物
+skillsd217	マジックアイテムの性質を鑑定する
+skillld217	マジックアイテムの性質を鑑定する
+skillan217	鑑定
+skillname218	鑑定の書
+skillsd218	マジックアイテムの性質を鑑定する
+skillld218	マジックアイテムの性質を鑑定する
+skillan218	鑑定
+skillname219	タウン・ポータルの巻物
+skillsd219	最も近い町へ魔法の門を開く
+skillld219	最も近い町へ魔法の門を開く
+skillan219	タウン・ポータル
+skillname220	タウン・ポータルの書
+skillsd220	最も近い町へ魔法の門を開く
+skillld220	最も近い町へ魔法の門を開く
+skillan220	タウン・ポータル
+strMephistoDoorLocked	オーマスがこのドアを開くキーを持っている
+strTitleFeminine	Lady %s
+strTitleMasculine	Lord %s
+strChatHardcore	ハードコア
+strChatLevel	レベル %d
+Tristram	トリストラム
+Catacombs Level 4	カタコンベ レベル４
+Catacombs Level 3	カタコンベ レベル３
+Catacombs Level 2	カタコンベ レベル２
+Catacombs Level 1	カタコンベ レベル１
+Cathedral	大聖堂
+Inner Cloister	奥の歩廊
+Jail Level 3	監獄 レベル３
+Jail Level 2	監獄 レベル２
+Jail Level 1	監獄 レベル１
+Barracks	兵舎
+Outer Cloister	表の歩廊
+Monastery Gate	修道院の門
+Tower Cellar Level 5	塔の地下室 レベル５
+Tower Cellar Level 4	塔の地下室 レベル４
+Tower Cellar Level 3	塔の地下室 レベル３
+Tower Cellar Level 2	塔の地下室 レベル２
+Tower Cellar Level 1	塔の地下室 レベル１
+Forgotten Tower	忘れられし塔
+Mausoleum	霊廟
+Crypt	納棺堂
+Burial Grounds	墓地
+Pit Level 2	穴 レベル２
+Hole Level 2	坑道 レベル２
+Underground Passage Level 2	地下通路 レベル２
+Cave Level 2	洞窟 レベル２
+Pit Level 1	穴 レベル１
+Hole Level 1	坑道 レベル１
+Underground Passage Level 1	地下通路 レベル１
+Cave Level 1	洞窟 レベル１
+Den of Evil	邪悪の巣窟
+Tamoe Highland	タモエ高地
+Black Marsh	黒き湿地帯
+Dark Wood	暗き森
+Stony Field	岩の原
+Cold Plains	荒涼の平原
+Blood Moor	血の湿原
+Rogue Encampment	ローグ族のキャンプ
+To Tristram	トリストラムへ
+To The Catacombs Level 4	カタコンベ レベル４へ
+To The Catacombs Level 3	カタコンベ レベル３へ
+To The Catacombs Level 2	カタコンベ レベル２へ
+To The Catacombs Level 1	カタコンベ レベル１へ
+To The Cathedral	大聖堂へ
+To The Inner Cloister	奥の歩廊へ
+To The Jail Level 3	監獄 レベル３へ
+To The Jail Level 2	監獄 レベル２へ
+To The Jail Level 1	監獄 レベル１へ
+To The Barracks	兵舎へ
+To The Outer Cloister	表の歩廊へ
+To The Monastery Gate	修道院の門へ
+To The Tower Cellar Level 5	塔の地下室 レベル５へ
+To The Tower Cellar Level 4	塔の地下室 レベル４へ
+To The Tower Cellar Level 3	塔の地下室 レベル３へ
+To The Tower Cellar Level 2	塔の地下室 レベル２へ
+To The Tower Cellar Level 1	塔の地下室 レベル１へ
+To The Forgotten Tower	忘れられし塔へ
+To The Mausoleum	霊廟へ
+To The Crypt	納棺堂へ
+To The Burial Grounds	墓地へ
+To The Pit Level 2	穴 レベル２へ
+To The Hole Level 2	坑道 レベル２へ
+To Underground Passage Level 2	地下通路 レベル２へ
+To The Cave Level 2	洞窟 レベル２へ
+To The Pit Level 1	穴 レベル１へ
+To The Hole Level 1	坑道 レベル１へ
+To Underground Passage Level 1	地下通路 レベル１へ
+To The Cave Level 1	洞窟 レベル１へ
+To The Den of Evil	邪悪の巣窟へ
+To The Tamoe Highland	タモエ高地へ
+To The Black Marsh	黒き湿地帯へ
+To The Dark Wood	暗き森へ
+To The Stony Field	岩の原へ
+To The Cold Plains	荒涼の平原へ
+To The Blood Moor	血の湿原へ
+To The Rogue Encampment	ローグ族のキャンプへ
+Deathmessage	死神は%dゴールドの通行料を取った
+Deathmessnight	経験値を失った
+Harddeathmessage	汝の勇気は忘れぬ
+LordofTerrordied	ゲーム終了まで%d秒
+Killdiablo1	見事だ！
+KillDiablo2	汝はディアブロを討ち取った
+KillDiablo3	汝は以下の称号をもって呼ばれる
+x	終了
+x	OK
+x	キャンセル
+x	(c) 2000 Blizzard Entertainment
+x	All Rights Reserved.
+x	シングルプレイヤー
+x	BATTLE.NET
+x	その他のマルチプレイヤー
+x	ディアブロIIを終了
+x	クレジット
+x	ムービー
+x	閲覧可能なムービーをすべて見る
+x	エピローグ
+x	ムービー選択
+x	オープンBATTLE.NET
+x	TCP/IP ゲーム
+x	TCP/IP オプション
+x	ゲームを主催
+x	ゲームに参加
+x	ゲームに参加するにはホストIPアドレスを入力
+x	あなたのIPアドレスは：
+x	「ゲームを主催」をクリックして、自分のコンピュータをゲームのホストにします。他のプレイヤーはそのIPアドレスを入力してコンピュータに接続することになります。このゲームでは、自分のマシンに保存したキャラクター以外プレイできません。
+x	「ゲームに参加」をクリックして、ホストコンピュータのIPアドレスを入力してください。このゲームでは自分のマシンに保存したキャラクター以外プレイできません。
+x	有効なTCP/IPアドレスを検出できません。
+x	キャラクター名
+x	ハードコア
+x	ヒーロークラス選択
+x	槍と弓が得意な、万能の女戦士。
+x	アンデッドや亡霊を召喚して使い、敵を呪うのも得意。
+x	頑健で力が強く、近接戦闘や武器の扱いに卓越。
+x	火炎、稲妻、冷気などの自然魔法の達人。
+x	生まれつきのリーダーで、信心深い聖戦士。
+x	プレイヤーが見つかりません
+x	キャンセル
+x	チャンネル作成
+x	チャンネル参加
+x	ゲーム名が無効です
+x	同じ名前のゲームがすでに存在します
+x	サーバー ダウン
+x	ゲーム作成エラー
+x	参加失敗
+x	最大Battle.Net
+x	キャラクターに達しました
+x	
+x	新たなキャラクターを作成
+x	（新規のオープンキャラクター）
+x	（新規のレルムキャラクター）
+x	ヒーロークラス選択
+x	ハードディスクの空き容量が不足しています。マニュアルを参照して必要な容量を確保した上で、再試行してください。
+x	ゲーム作成
+x	ゲーム参加
+x	LANゲーム作成
+x	LANゲーム参加
+x	Hell
+x	Nightmare
+x	Normal
+x	難易度選択
+x	ハードコアとノーマルのキャラクターは同じゲームに入れません。
+x	ゲームが存在しません。
+x	ゲーム名とパスワードが一致しません。
+x	ゲームが満員です。
+x	このゲームのレベル制限に合いません。
+x	このキャラクターを消去してもよろしいですか。注意：このキャラクターに関わるすべての情報が失われます。
+x	オープン
+x	そのキャラクター名はすでに使用されています。別の名前を試してください。
+x	はい
+x	いいえ
+x	以下のDiablo II ディスクを挿入してください：
+x	Play Disc
+x	Cinematics Disc
+x	Battle.netに接続中
+x	ゲートウェイ問い合わせ中
+x	最も速いサーバーに接続中
+x	あなたのアカウントにアクセス中
+x	バージョンをチェック中
+x	CD-key 確認中
+x	プレイヤー プロフィール取得中
+x	完了
+x	パッチのダウンロード中
+x	利用者同意書
+x	同意する
+x	同意しない
+x	新しいバージョンのソフトウェアが使用できます。ゲーム プログラムを完全にアンインストールして、オリジナルCDからインストールし直し、Battle.netに接続し直してください。
+x	Battle.netに接続できません。モデムを使ってプロバイダにアクセスしていて、かつリモート・アクセスの設定を行っていないなら、手操作で接続の初期化を行う必要が生じる場合があります。
+x	インターネット接続が不調か、接続時にポート6112でUDPパケットを処理していないかのいずれかです。チャットはできますが、ゲームはできません。このポートを開くためには、あなたのインターネット・プロバイダ、またはシステム管理者に問い合わせてください。
+X	このアプリケーションは、Battle.netで承認されていないCDキーを使ってインストールされています。
+x	Battle.netは、あなたのアプリケーションのバージョンを認識できませんでした。
+x	よろしければ、以下のサイトを参照ください。（英語版） www.battle.net/support/errormessages/
+x	Battle.netに接続できません。
+x	モデムを使用しているなら、直接Battle.netに接続を試みる前に、あなたのインターネット・プロバイダに接続する必要があります。詳しくは、www.battle.net/support/errormessages/をご覧ください。
+x	あなたは今、インターネット・プロバイダーに16ビットで接続しています。
+x	Battle.netでは、インターネット接続に32ビット必要です。現在使用している接続ソフトウェアが、あなたのインターネット・プロバイダの最新版かどうか確認してください。
+x	TCP/IP接続を開けません。OpenTransportが正しくインストールされているか確認してください。Battle.netに接続する前に、インターネット・プロバイダーに接続する必要が生じる場合もあります。
+x	アプリケーションを一度アンインストールし、CDケースのCDキーを使ってインストールし直してください。それでもBattle.netに接続できない場合は、www.battle.net/support/errormessages/をご覧ください。
+x	このソフトウェアの新しいバージョンが出ています。Battle.netでは、常に最新バージョンの使用をお勧めしています。お使いのソフトウェアをアップデートして下さい。
+x	アップデートファイルのダウンロードに成功しました。アプリケーションを再起動します。
+x	アップデートが中断されたため、更新できませんでした。やり直してください。
+x	ソフトウェアのアップグレードファイルをダウンロードしています。
+x	インストールに使用したCDキーが無効になっています。詳細は、Blizzard Entertainment Technical Supportにお問い合わせください。
+x	そのCDキーを現在使用しているのは：
+x	そのＣＤキーは、一度に一台のマシンだけが使用できます。Battle.netへの接続が中断された場合は、5分間待って再接続してください。
+x	このアプリケーションをインストールするために使用されたCDキーは、別製品向けになっています。正しいCDキーを使って、このアプリケーションをインストールしなおしてください。
+X	現在レルムの更新中です。15分ほど待ってから再びおいでください。
+x	Battle.netへログイン
+x	既存のBattle.netアカウントを使用するには、下記の情報を入力して「ログイン」をクリックして下さい。新規の方は、「新規アカウント作成」をクリックして下さい。
+x	そのアカウント名はすでに存在します
+x	入力したパスワードは間違っています。再度入力してください。
+x	そのアカウントは存在しません。このアカウントで3ヶ月以上Battle.netに接続していないなら、消去されています。「新規アカウント作成」を選択して新しい名前とパスワードを選択してください。
+x	そのアカウントは不正使用されています。至急、support@blizzard.comまでご連絡下さい。
+x	サーバー ダウン
+x	サーバーに接続できません。
+x	サーバー ダウン
+x	サーバー認証失敗
+x	名前
+x	サーバーにより拒否
+x	アカウント名は最低2文字です。
+x	アカウント名は最大15文字です。
+x	パスワードが一致しません。
+x	パスワードは最低2文字です。
+x	パスワードは最大12文字です。
+x	新規アカウント作成
+x	Battle.netアカウント作成
+x	新しいBattle.netアカウントの名前とパスワードを入力してください。
+x	アカウント名
+x	パスワード
+x	パスワード確認
+x	お読み下さい
+x	使用しないアカウントは定期的に削除されますのでご注意下さい。新しいアカウントを作成した場合は、作成後48時間以内に、1セッションまたは複数のセッションで合計2時間以上、Battle.netにログインしている必要があります。
+x	その後、90日に1回そのアカウントでログインしていれば、アカウントは消えません。
+x	パスワードをメモしておいて下さい。BLIZZARDではパスワードを調べることができません。忘れてしまったパスワードを探したり置換したりすることもできません。
+x	ユーザー名は最低2文字です。別の名前で再度入力してください。
+x	ユーザー名に無効な文字が1文字以上含まれています。
+x	ユーザー名に使用不可能な文字が1文字以上含まれています
+x	先ほどのアカウント作成要求を現在処理中です。数分間待って、新規作成したアカウントでログインしてみてください。
+x	その名前には、英数字が不足しています。
+x	その名前には、隣接した句読点文字が多すぎます。
+x	名前に句読点文字が多すぎます。
+x	入力したパスワードが一致しません。同じパスワードを2回入力してください。
+x	選択した名前のアカウントはすでに存在しています。別の名前を入力してください。
+x	無効なIDが入力されました。
+x	入力したパスワードが間違っています。3か月間 Battle.netを使用していない場合、あるいはパスワードを忘れてしまった場合は、[新しいアカウント]を選択して新しい名前とパスワードを選択して下さい。
+x	パスワードを変更することができません。無効な名前またはパスワードを指定しました。
+x	お待ちください。
+x	ログイン エラー
+x	バージョンを識別できません。
+x	インストールし直してアップグレードしてください。
+x	接続できません。
+x	Battle.net
+x	アカウントの新規作成ができません。
+x	battle.netアカウントを作成して下さい。
+x	新しいbattle.netアカウントの名前とパスワードを入力してください。
+x	人々
+x	フィルター
+x	チャンネル
+x	プレイヤー
+x	パスワード(オプション)
+x	ゲーム説明(オプション)
+x	最大プレイヤー数:
+x	キャラクターレベル差：
+x	レベル
+x	チャンネルの作成／参加
+x	チャンネル名
+x	チャンネル
+x	はい
+x	いいえ
+x	プレイヤー プロフィール
+x	名前
+x	性別
+x	年齢
+x	現在地
+x	説明
+x	消去
+x	新たなキャラクターを作成
+x	ゲーム名
+x	ゲーム名とプレイヤー数
+x	使用しないキャラクターは定期的に削除されますのでご注意下さい。新しいキャラクターを作成した場合、作成後48時間以内に合計2時間以上使用しないと削除されます。
+x	その後、そのキャラクターを少なくとも90日に１回は使用して下さい。使用しなかった場合、そのキャラクターは削除されます。
+x	前回のプレイは%d日前です
+x	
+x	前回のプレイは昨日です
+x	%d日以内にプレイしてください。
+x	でないとアカウントが消去されます。
+x	１日以内にプレイしてください
+x	ステイタス不明
+x	消去された可能性あり
+x	キャラクター消去済み
+x	プレイヤー名
+x	ログイン
+x	レルムを選択して下さい。
+x	現在、どのレルムも使用できません。少し待ってやり直してください。
+x	下のリストからレルムを選択するか、「レルム名」ボックスに名前を入力して、「OK」をクリックします。
+x	レルム名
+x	レルムリスト
+x	ソート
+x	アルファベット順
+x	人数
+x	レルム情報
+x	接続速度：
+x	現在の能力：
+x	レルムとは、battle.net専用サーバーです。ここに公認キャラクターを保管し、そのキャラクターで公認ゲームを実行できます。ひとりの公認キャラクターは、1つのレルムでしかプレーできません。
+x	キャラクター保管サイト
+x	公認キャラクターは、ランキングやチャット・ポートレートなど、すべてのbattle.net機能にアクセスできます。公認キャラクターをプレイするには、インターネット接続が必要です。
+x	警告：ハードコア・キャラクターが死ぬと、二度と復活しません。ハードコア・キャラクターを作成してよろしいですか。
+x	死んだハードコア・キャラクターでゲームを作成、参加することはできません。
+x	送信
+x	ささやき
+x	無視
+x	ヘルプ
+x	動作
+x	無視解除
+x	小休止
+x	新規作成
+x	参加
+x	チャンネル
+x	ランキング
+x	終了
+x	標準ランキング
+x	ハードコア・ランキング
+x	週間ランキング
+x	ランク
+x	名前
+x	クラス
+x	取得経験値
+x	経験値
+x	表示：
+x	全体
+x	クラス別
+x	K
+x	M
+x	B
+x	T
+x	%s %sから
+x	%s %sに送る
+Gem Activated	活性化された宝石
+Gem Deactivated	非活性化された宝石
+Perfect Gem Activated	活性化された完全な宝石
+x	チャンネル名が無効です。チャンネル名に予約済みのキャラクターを含むことはできません。
+x	あなたは今、インターネットへのリンクをクリックました。ウェブ ブラウザを起動しています。Battle.netに戻るにはWindowsのタスクバー使用して下さい。
+x	Battle.netへの接続を中断しました。OKを押すと%sへの接続を中断します。Cancelを押すと、接続したままになります。
+x	Battle.netはあなたの通常使うブラウザを起動できませんでした。
+x	このURLは開けませんでした。URLは無効と思われます。
+x	Battle.netからウェブ ブラウザを起動するには、Internet Config 1.1以降が必要です。Internet Configがコンピュータにインストールされているか確認してください。
+x	Internet Configまたはインターネット コントロール パネルで選択されたあなたの通常使うウェブ ブラウザが、ハードディスクに見つかりませんでした。
+x	ウェブ ブラウザを起動するには、空きメモリが不足しています。
+x	あなたは今、インターネットへのリンクをクリックしました。ウェブ ブラウザが起動されます。全画面モードのゲームに戻るには、ゲームメニューの「スクリーン モード切替」を使用してください。
+x	そのチャンネルはアクセスが制限されています
+x	Battle.netとの接続は切断されました。再接続してください。
+x	Battle.netがダウンしています。後で接続し直してください。
+x	応答待ちでタイムアウトになりました。
+x	Battle.netがダウンしています。後で接続し直してください。
+x	Battle.netへの接続が切れました。
+x	Battle.netへの接続が切れました。
+x	Battle.netが応答しません。数分待って再接続してください。
+x	Battle.netが応答しません。数分待って再接続してください。
+x	Battle.netの接続が中断されました。後で接続し直してください。
+x	Battle.netの使用を禁じられました。後で接続し直してください。
+x	接続不良が発生しました。
+x	このゲームを作成したホストが、ゲームを去りました
+x	死んだハードコア・キャラクターでゲームを作成、参加することはできません。
+x	バージョンが合致しません。http://www.blizzard.com/support/Diablo2にアクセスし、パッチを入手してください。
+x	ゲームに参加できません。ハードコア・キャラクターで、ノーマル・キャラクターの作成したゲームに加わることはできません。
+x	ゲームに参加できません。ノーマル・キャラクターで、ハードコア・キャラクターの作成したゲームに加わることはできません。
+x	ゲームに参加できません。難易度「Hell（地獄）」のゲームをプレイするには、同じキャラクターで「Nightmare（悪夢）」のディアブロを倒していなければなりません。
+x	ゲームに参加できません。難易度「Nightmare（悪夢）」のゲームをプレイするには、同じキャラクターでディアブロを倒していなければなりません。
+x	ゲームに参加できません。キャラクターのバージョンが不正です。
+x	ゲームに参加できません。キャラクターのクエストデータが不正です。
+x	ゲームに参加できません。キャラクターの、中継点のデータが不正です。
+x	ゲームに参加できません。キャラクターの、ステイタスのデータが不正です。
+x	ゲームに参加できません。キャラクターの、スキルのデータが不正です。
+x	ゲームに参加できませんでした。
+x	ゲームに参加できません。
+x	失敗の理由は不明です。
+x	ゲームに参加できません。所持品のデータが不正です。
+x	ゲームに参加できません。死体のデータが不正です。
+x	ゲームに参加できません。データのヘッダーが不正です。
+x	ゲームに参加できません。傭兵のデータが不正です。
+x	ゲームに参加できません。NPCの紹介のデータが不正です。
+x	ゲームに参加できません。アイテムのデータが不正です。
+x	ゲームに参加できません。死体のアイテムのデータが不正です。
+x	ゲームに参加できません。不正なファイルが含まれています。
+x	ゲームが満員です。
+dummy	an evil force
+Dummy	an evil force
+not used	an evil force
+unused	an evil force
+Not used	an evil force
+convertsto	右クリック
+strNotInBeta	betaにありません。
+strLevelLoadFailed	レベルネーム不要
+Endthispuppy	Beta終了

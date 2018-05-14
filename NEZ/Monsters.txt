@@ -1,0 +1,733 @@
+Spike Generator	スパイク・ジェネレイター
+Charged Bolt Sentry	チャージド・ボルト・セントリー
+Lightning Sentry	ライトニング・セントリー
+Blade Sentinel	ブレイド・センチネル
+Druid Spirit	ドルイド・スピリット
+Dire Wolf	ダイア・ウルフ
+Spirit Wolf	スピリット・ウルフ
+Grizzly	グリズリー
+Mage Eater	メイジ・イーター
+Mana Mauler	マナ・モーラー
+Spell Sucker	スペル・サッカー
+Plague Poppy	プラーグ・ポピー
+Cycle of Life	サイクル・オヴ・ライフ
+Vine Creature	ヴァイン・クリーチャー
+Siege Door	シージ・ドア
+Seige Tower	攻城塔
+Blood Wing Nest	ブラッド・ウィングの巣
+Blood Hook Nest	ブラッドフックの巣
+Feeder Nest	フィーダーの巣
+Sucker Nest	サッカーの巣
+Stygian Watcher Head	スティジアン・ウォッチャーの触手
+River Stalker Head	リバー・ストーカーの触手
+Water Watcher Head	ウォーターウォッチャーの触手
+Blood Hawk Nest	ブラッドホークの巣
+Flying Scimitar	フライング・シミター
+Cloud Stalker Nest	クラウドストーカーの巣
+Black Raptor Nest	ブラックラプターの巣
+Foul Crow Nest	ファウルクロウの巣
+Rot Walker	ロット・ウォーカー
+Reanimated Horde	リアニメイテッド・ホード
+Prowling Dead	プラウリング・デッド
+Unholy Corpse	アンホーリー・コープス
+Defiled Warrior	ディファイルド・ウォリアー
+Siege Beast	シージ・ビースト
+Crush Beast	クラッシュ・ビースト
+Blood Bringer	ブラッド・ブリンガー
+Gore Bearer	ゴア・ベアラー
+Demon Steed	デモン・スティード
+Wailing Spirit	ウェイリング・スピリット
+Life Seeker	ライフ・シーカー
+Life Stealer	ライフ・スティーラー
+Bound Spirit	バウンド・スピリット
+Banished Soul	バニッシュト・ソウル
+Greater Hell Spawn	グレーター・ヘル・スポーン
+Greater Ice Spawn	グレーター・アイス・スポーン
+Fanatic Enslaved	ファナティック・エンスレイヴド
+Berserker Slayer	バーサーカー・スレイヤー
+Consumed Fire Boar	コンシュームド・ファイア・ボア
+Consumed Ice Boar	コンシュームド・アイス・ボア
+Frenzied Hell Spawn	フレンジード・ヘル・スポーン
+Frenzied Ice Spawn	フレンジード・アイス・スポーン
+Insane Hell Spawn	インセイン・ヘル・スポーン
+Insane Ice Spawn	インセイン・アイス・スポーン
+Vile Temptress	ヴァイル・テンプトレス
+Stygian Harlot	スティジアン・ハーロット
+Hell Temptress	ヘル・テンプトレス
+Blood Temptress	ブラッド・テンプトレス
+Vile Witch	ヴァイル・ウィッチ
+Stygian Fury	スティジアン・フューリー
+Blood Witch	ブラッド・ウィッチ
+Hell Witch	ヘル・ウィッチ
+Overseer	オーヴァーシーアー
+Overlord	オーヴァーロード
+Blood Boss	ブラッド・ボス
+Hell Whip	ヘル・ウィップ
+Demon Portal	デモン・ポータル
+Demon Imp	デモン・インプ
+Demon Rascal	デモン・ラスカル
+Demon Gremlin	デモン・グレムリン
+Demon Trickster	デモン・トリックスター
+Demon Sprite	デモン・スプライト
+Frozen Creeper	フローズン・クリーパー
+Frozen Terror	フローズン・テラー
+Frozen Scourge	フローズン・スカージ
+Frozen Horror	フローズン・ホラー
+Frozen Scorch	フローズン・スコーチ
+Moon Lord	ムーン・ロード
+Night Lord	ナイト・ロード
+Blood Lord	ブラッド・ロード
+Hell Lord	ヘル・ロード
+Death Lord	デス・ロード
+Catapult	投石機
+Barricaded Door	バリケードでふさがれたドア
+Barricaded Tower	バリケードでふさがれた塔
+Shenk the Overseer	シェンク・ジ・オーヴァーシーアー
+Evil Demon Hut	イーヴル・デモン・ハット
+Death Mauler	デス・モーラー
+Death Brawler	デス・ブローラー
+Death Slasher	デス・スラッシャー
+Death Berserker	デス・バーサーカー
+Death Brigadier	デス・ブリガディア
+Snow Drifter	スノー・ドリフター
+Abominable	アボミナブル
+Chilled Froth	チルド・フロス
+Frozen Abyss	フローズン・アビス
+Putrid Defiler	ピュートリッド・ディファイラー
+Wretched Defiler	レッチト・ディファイラー
+Fetid Defiler	フェティッド・ディファイラー
+Rancid Defiler	ランシッド・ディファイラー
+Rank Defiler	ランク・ディファイラー
+Pain Worm	ペイン・ワーム
+Torment Worm	トーメント・ワーム
+Agony Worm	アゴニー・ワーム
+Menace Worm	メナス・ワーム
+Anguish Worm	アンギッシュ・ワーム
+Warped Fallen Wolfrider	ウォープト・フォールン・ウルフライダー
+Darkone Wolfrider	ダークワン・ウルフライダー
+Devilkin Wolfrider	デヴィルキン・ウルフライダー
+Carver Wolfrider	カーヴァー・ウルフライダー
+Fallen Wolfrider	フォールン・ウルフライダー
+Oak Sage	オーク・セイジ
+Heart of Wolverine	ハート・オヴ・ウルヴァリン
+Spirit of Barbs	スピリット・オヴ・バーブズ
+Shadow Warrior	シャドウ・ウォリアー
+Death Sentry	デス・セントリー
+Inferno Sentry	インフェルノ・セントリー
+Shadow Master	シャドウ・マスター
+Wake of Fire	ウェイク・オヴ・ファイア
+Barbarian Captive	バーバリアンの捕虜
+Blaze Ripper	ブレイズ・リッパー
+Magma Torquer	マグマ・トルカー
+Sharptooth Slayer	シャープトゥース・スレイヤー
+Vinvear Molech	ヴィンヴェイア・モレック
+Hell's Belle	ヘルズ・ベル
+Snapchip Shatter	スナップチップ・シャター
+Pindleskin	ピンドルスキン
+Thresh Socket	スレッシュ・ソケット
+Eyeback the Unleashed	アイバック・ジ・アンリーシュト
+Eldritch the Rectifier	エルドリッチ・ザ・リクティファイアー
+Dac Farren	ダック・ファレン
+Bonesaw Breaker	ボーンソウ・ブレイカー
+Axe Dweller	アックス・ドゥエラー
+Frozenstein	フローズンシュタイン
+The Cow King	牛の王
+Grand Vizier of Chaos	混沌の宰相
+Lord De Seis	セイスの王
+Infector of Souls	魂を汚す者
+Riftwraith the Cannibal	人喰いリフトレイス
+Taintbreeder	テイントブリーダー
+The Tormentor	拷問者
+Darkwing	ダークウィング
+Maffer Dragonhand	龍の手のマッファー
+Wyand Voidbringer	虚無を呼ぶワイアンド
+Toorc Icefist	氷の拳のトーク
+Bremm Sparkfist	火花の拳のブレム
+Geleb Flamefinger	炎の指のジェラブ
+Ismail Vilehand	悪しき手のイスメイル
+Icehawk Riftwing	アイスホーク・リフトウィング
+Battlemaid Sarina	戦う侍女サリナ
+Stormtree	ストームツリー
+Witch Doctor Endugu	呪医エンドゥグ
+Sszark the Burning	劫火のスザーク
+Bishibosh	ビシボシュ
+Bonebreaker	ボーンブレイカー
+Coldcrow	コールドクロウ
+Rakanishu	ラカニシュ
+Treehead WoodFist	樹の拳のツリーヘッド
+Griswold	グリスワルド
+The Countess	伯爵夫人
+Pitspawn Fouldog	ピットスポーン・ファウルドッグ
+Flamespike the Crawler	フレイムスパイク・ザ・クロウラー
+Bone Ash	ボーンアッシュ
+Radament	ラダメント
+Bloodwitch the Wild	猛々しきブラッドウィッチ
+Fangskin	ファングスキン
+Beetleburst	ビートルバースト
+Creeping Feature	クリーピング・フィーチャー
+Coldworm the Burrower	地に潜みしコールドワーム
+Fire Eye	ファイア・アイ
+Dark Elder	ダーク・エルダー
+The Summoner	召喚術師
+Summoner	召喚術師
+Ancient Kaa the Soulless	いにしえのカー
+The Smith	鍛冶師
+Deckard Cain	デッカード・ケイン
+Undead Stygian Doll	アンデッド・スティジアン・ドール
+Undead Soul Killer	アンデッド・ソウルキラー
+Undead Flayer	アンデッド・フレイヤー
+Undead Fetish	アンデッド・フェティッシュ
+Undead Rat Man	アンデッド・ラットマン
+Dark Familiar	ダーク・ファミリアー
+Blood Diver	ブラッドダイバー
+Gloombat	グルームバット
+Desert Wing	デザートウィング
+The Banished	ザ・バニッシュト
+Blood Lord	ブラッドロード
+Dark Lord	ダークロード
+Night Lord	ナイトロード
+Ghoul Lord	グールロード
+Spikefist	スパイクフィスト
+Thrasher	スラッシャー
+Bramble Hulk	ブランブル・ハルク
+Thorned Hulk	ソーン・ハルク
+Spider Magus	スパイダー・メイガス
+Flame Spider	フレイム・スパイダー
+Poison Spinner	ポイズン・スピナー
+Sand Fisher	サンドフィッシャー
+Arach	アラクニッド
+Blood Wing	ブラッドウィング
+Blood Hook	ブラッドフック
+Feeder	フィーダー
+Sucker	サッカー
+Winged Nightmare	ウィングド・ナイトメア
+Hell Buzzard	ヘル・バザード
+Undead Scavenger	アンデッド・スカヴェンジャー
+Carrion Bird	キャリオンバード
+Unraveler	アンラヴェラー
+Guardian	ガーディアン
+Hollow One	ホロウ・ワン
+Horadrim Ancient	古代のホラドリム
+Bone Scarab	ボーン・スカラベ
+Steel Scarab	スティール・スカラベ
+Scarab	スカラベ
+Death Beetle	デスビートル
+Dung Soldier	ダング・ソルジャー
+Hell Swarm	ヘル・スウォーム
+Plague Bugs	プラーグ・バグズ
+Black Locusts	ブラック・ローキャスツ
+Itchies	イッチーズ
+Hell Cat	ヘルキャット
+Night Tiger	ナイトタイガー
+Saber Cat	セイバーキャット
+Huntress	ハントレス
+Cliff Lurker	クリフ・ラーカー
+Tree Lurker	ツリー・ラーカー
+Cave Leaper	ケイヴ・リーパー
+Tomb Creeper	トゥーム・クリーパー
+Sand Leaper	サンド・リーパー
+Tomb Viper	トゥーム・ヴァイパー
+Pit Viper	ピット・ヴァイパー
+Salamander	サラマンダー
+Claw Viper	クロウ・ヴァイパー
+Serpent Magus	サーペント・メイガス
+Bush Barb	ジャングル・アーチン
+Razor Spine	レイザー・スパイン
+Thorn Beast	ソーン・ビースト
+Spike Fiend	スパイク・フィーンド
+Quill Rat	クィル・ラット
+Hell Clan	ヘル・クラン
+Moon Clan	ムーン・クラン
+Night Clan	ナイト・クラン
+Death Clan	デス・クラン
+Blood Clan	ブラッド・クラン
+Temple Guard	テンプル・ガード
+Doom Ape	ドゥーム・エイプ
+Jungle Hunter	ジャングルハンター
+Rock Dweller	ロック・ドゥエラー
+Dune Beast	デューン・ビースト
+Flesh Hunter	フレッシュ・ハンター
+Black Rogue	ブラック・ローグ
+Dark Stalker	ダークストーカー
+Vile Hunter	ヴァイル・ハンター
+Dark Hunter	ダーク・ハンター
+Dark Shape	暗き影
+Gargantuan Beast	ガルガンチュアン・ビースト
+Wailing Beast	ウェイリング・ビースト
+Cloud Stalker	クラウドストーカー
+Black Vulture	ブラック・ヴァルチャー
+Black Raptor	ブラック・ラプター
+Blood Hawk	ブラッド・ホーク
+Foul Crow	ファウル・クロウ
+Plague Bearer	プラーグ・ベアラー
+Drowned Carcass	ドラウンド・カーカス
+Hungry Dead	ハングリー・デッド
+Damned	呪われし者
+Baal Cold Mage	デス・メイジ
+Baal Tentacle	フェスタリング・アペンデイジズ
+Baals Minion	ミニオン・オヴ・ディストラクション
+Disfigured	ディスフィギュアード
+Misshapen	ミスハプン
+Tainted	テインテッド
+Afflicted	アフリクテッド
+Andariel	アンダリエル
+Natalya	ナターリャ
+Drognan	ドログナン
+Atma	アトマ
+Fara	ファラ
+Lysander	ライサンダー
+Jerhyn	ジェリン
+Jerhyn	ジェリン
+Geglash	ゲグラッシュ
+Elzix	エルジックス
+Greiz	グレイズ
+Meshif	メシフ
+Camel	キャメル
+Cadaver	キャダヴァー
+Preserved Dead	プリザーブド・デッド
+Embalmed	エンバームド
+Dried Corpse	ドライド・コープス
+Decayed	ディケイド
+Gorebelly	ゴアベリー
+Gorbelly	ゴアベリー
+Blunderbore	ブランダー・ボア
+Blood Maggot Queen	ブラッドマゴット・クィーン
+World Killer Queen	ブラッドマゴット・クィーン
+Giant Lamprey Queen	ジャイアント・ランプリー・クィーン
+Devourer Queen	ディヴァウラー・クィーン
+Rock Worm Queen	ロックワーム・クィーン
+Sand Maggot Queen	サンドマゴット・クィーン
+Blood Maggot Young	ブラッド・マゴットの幼虫
+Giant Lamprey Young	ジャイアント・ランプリーの幼虫
+Devourer Young	ディヴァウラーの幼虫
+Rock Worm Young	ロックワームの幼虫
+Sand Maggot Young	サンドマゴットの幼虫
+Blood Maggot Egg	ブラッドマゴットの卵
+Giant Lamprey Egg	ジャイアント・ランプリーの卵
+Devourer Egg	ディヴァウラーの卵
+Rock Worm Egg	ロックワームの卵
+Sand Maggot Egg	サンドマゴットの卵
+Cantor	キャンター
+Heirophant	ハイエロファント
+Sexton	セクストン
+Deamon Steed	デモン・スティード
+Zealot	ゼロット
+Faithful	フェイスフル
+Zakarumite	ザカラム信徒
+Black Soul	ブラック・ソウル
+Burning Soul	バーニング・ソウル
+Swamp Ghost	スワンプ・ゴースト
+Gloam	グローム
+Warped Shaman	ウォープト・シャーマン
+Dark Shaman	ダーク・シャーマン
+Devilkin Shaman	デヴィルキン・シャーマン
+Carver Shaman	カーヴァー・シャーマン
+Fallen Shaman	フォールン・シャーマン
+Flesh Lancer	フレッシュ・ランサー
+Black Lancer	ブラック・ランサー
+Dark Lancer	ダーク・ランサー
+Vile Lancer	ヴァイル・ランサー
+Dark Spearwoman	ダーク・スピアウーマン
+Flesh Archer	フレッシュ・アーチャー
+Black Archer	ブラック・アアーチャー
+Dark Ranger	ダーク・レンジャー
+Vile Archer	ヴァイル・アーチャー
+Dark Archer	ダーク・アーチャー
+The Summoner	召喚術師
+Stygian Doll Shaman	スティジアン・ドール・シャーマン
+Soul Killer Shaman	ソウルキラー・シャーマン
+Flayer Shaman	フレイヤー・シャーマン
+RatMan Shaman	ラットマン・シャーマン
+Rat Man Shaman	ラットマン・シャーマン
+Horror Mage	ホラー・メイジ
+Burning Dead Mage	バーニング・デッド・メイジ
+Bone Mage	ボーン・メイジ
+Corpse Mage	コープス・メイジ
+Returned Mage	リターンド・メイジ
+Gargoyle Trap	ガーゴイル・トラップ
+Blood Raven	ブラッド・レイヴン
+Bloodraven	ブラッド・レイヴン
+Flavie	フラァヴィ
+Kaelan	カエラン
+Meshif	メシフ
+Night Marauder	ナイト・マロウダー
+Fire Golem	ファイアゴーレム
+Iron Golem	アイアンゴーレム
+Blood Golem	ブラッドゴーレム
+Clay Golem	クレイゴーレム
+Slime Prince	スライム・プリンス
+Bog Creature	ボグ・クリーチャー
+Swamp Dweller	スワンプ・ドゥエラー
+Barbed Giant	ジャイアント・アーチン
+Giant Urchin	ジャイアント・アーチン
+Razor Beast	レイザービースト
+Thorn Brute	ソーン・ブルート
+Spike Giant	スパイク・ジャイアント
+Quill Bear	クィルベア
+Council Member	長老議会議員
+Dark Wanderer	黒衣の放浪者
+Dark Wanderer	黒衣の放浪者
+Hell Slinger	ヘル・スリンガー
+Night Slinger	ナイト・スリンガー
+Spear Cat	スピアキャット
+Slinger	スリンガー
+Fire Tower	火の塔
+Lightning Spire	稲妻の塔
+Pit Lord	ピット・ロード
+Balrog	バルログ
+Venom Lord	ヴェノム・ロード
+Iron Wolf	鉄狼団員
+Inviso Spawner	インビソ・スポーナー
+Oblivion Knight	オブリビオン・ナイト
+Nezeramon Fighter	ネゼラモン・ファイター
+Abyss Knight	アビス・ナイト
+Fighter Mage	ファイター・メイジ
+Doom Knight	ドゥーム・ナイト
+Maw Fiend	モー・フィーンド
+Corpse Spitter	コープス・スピッター
+Corpulent	コピュラント
+Storm Caster	ストームキャスター
+Strangler	ストラングラー
+Doom Caster	ドゥームキャスター
+Groper	ドゥームキャスター
+Grotesque Wyrm	グロテスクワーム
+Stygian Dog	スティジアン・ドッグ
+Flesh Beast	フレッシュビースト
+Grotesque	グロテスク
+Stygian Hag	スティジアン・ハッグ
+Flesh Spawner	フレッシュスポーナー
+Rogue Scout	ローグ・スカウト
+Necromage	ネクロメイジ
+Necroskeleton	ネクロスケルトン
+Trapped Soul	囚われし魂
+Valkyrie	ワルキューレ
+Lilith	リリス
+Fiona Sureshot	フィオナ・シュアショット
+Jorren Dominicus	ジョレン・ドミニカス
+Terren McMichels	テレン・マクマイケル
+Larry	ラリー
+Curley	カーリー
+Moe	モエ
+Damien	ダミアン
+Marilith	マリリス
+Aerial Servent	アエリアル・サーヴァント
+Mist Man	ミストマン
+Air Elemental	エアー・エレメンタル
+Hurricon	ハリコン
+Snake Bowman	スネーク・ボウマン
+Viper Archer	ヴァイパー・アーチャー
+Snake Sniper	スネーク・スナイパー
+Yuanti Bowman	ユアンティ・ボウマン
+Trelon	トレロン
+Terrax	テラックス
+Lich	リッチ
+Mephisto Clone	メフィスト・クローン
+Pit Skeleton Archer	ピット・スケルトン・アーチャー
+Durance Skeleton Archer	デュランス・スケルトン・アーチャー
+Scorching Dead Archer	スコーチング・デッド・アーチャー
+Cryo Skeleton Archer	クライオ・スケルトン・アーチャー
+Scream Skeleton Archer	スクリーム・スケルトン・アーチャー
+Undead Voodoo Fetish	アンデッド・ブードゥー・フィティッシュ
+Undead Hyper Doll	アンデッド・ハイパードール
+Voodoo Fetish Blower	ブードゥー・フィティッシュ・ブロワー
+Voodoo Fetish Shaman	ブードゥー・フィティッシュ・シャーマーン
+Hyper Doll Shaman	ハイパードール・シャーマン
+Hyper Doll Blower	ハイパードール・ブロワー
+Voodoo Fetish	ブードゥー・フィティッシュ
+Hyper Doll	ハイパードール
+Akmodan	アクモダン
+Wild Boar	ワイルド・ボア
+Razorback	レーザーバック
+Alothere	アロゼアー
+Red Storm	レッドストーム
+Storm Rider	ストーム・ライダー
+Storm Lord	ストーム・ロード
+Maelstorm	メイルシュトロム
+Doomcloud	ドゥームクラウド
+Ariel	アリエル
+Shadow Stalker	シャドウ・ストーカー
+Unique Collector	ユニーク・コレクター
+Set Collector	セット・コレクター
+Blow Up Doll	ブロウアップ・ドール
+Ninja	ニンジャ
+Baal's Assassin Guard	バールズ・アサシンガード
+Amelyssan	アメリサン
+Rock Man	ロック・マン
+Earth Elemental	アース・エレメンタル
+Rock Eater	ロックイーター
+Chimera	キメラ
+Drow Magus	ドロウ・メイガス
+Grave Digger	グレイブ・ディッガー
+Tomb Looter	トゥーム・ローター
+Red Dragon	レッド・ドラゴン
+Acid Beast	アシッド・ビースト
+Poison Spitter	ポイズン・スピッター
+Pit Beast	ピット・ビースト
+Lava Maw	ラヴァ・マウ
+Leoric	レオリック
+Magic Vortex	マジック・ボルテックス
+Black Hole	ブラック・ホール
+Treasure Maggot	トレジャー・マゴット
+Treasurebus	トレジャーバス
+Treasure Egg	トレジャー・エッグ
+Treasure Hoarder	トレジャー・ホーダー
+Big Bad Treasure Mama	ビッグ・バッド・トレジャー・ママ
+Big Big Treasure Mama	ビッグ・バッド・トレジャー・ママ
+Desert Spirit	デザート・スピリット
+Harem Servent	ハーレム・サーヴァント
+Djinni	ジニー
+Nihlathak's Ghost	ニーラサック・ゴースト
+Maggot Lord	マゴット・ロード
+Duriel's Ghost	ドゥリエル・ゴースト
+Devil Spider	デビル・スパイダー
+Andariel's Ghost	アンダリエル・ゴースト
+Lizzie	リジー
+Diablo's Ghost	ディアブロ・ゴースト
+Cleaved Zombie	クリーブド・ゾンビ
+Worlock	ウォーロック
+Sickle Skeleton	シックル・スケルトン
+Rage Scythe	レイジ・サイズ
+Shadow Reaper	シャドウ・リーパー
+Sandman	サンドマン
+Guts Golem	ガッツ・ゴーレム
+Tin Man	ティン・マン
+Gold Golem	ゴールド・ゴーレム
+Burning Brute	バーニング・ブルート
+Arctic Wonderer	アーティック・ワンダラー
+Diabling	ディアブリング
+Balafus	バラファス
+Lucifer	ルシファー
+Satan	サタン
+Leviathan	リヴァイアサン
+Belial	ベリアル
+Shara	サラ
+Na-Krul	ナークル
+Black Panther	ブラック・パンサー
+Greenskin Shaman	グリーンスキン・シャーマン
+Goblin Shaman	ゴブリン・シャーマン
+Runt Shaman	ラント・シャーマン
+Baal Spy	バール・スパイ
+Tortured Traitor	トーチュンド・トレイラー
+Rogue Captain	ローグ・キャプテン
+Lady Freeze	レディ・フリーズ
+Hell Fire Rogue	ヘルファイア・ローグ
+Rogue	ローグ
+Possessed Guard	ポゼスド・ガード
+Psycho Guard	サイコ・ガード
+Dark Lord	ダーク・ロード
+Kurast Ghost	クラスト・ゴースト
+Fighter Mage	ファイター・メイジ
+Spirit Drinker	スピリット・ドリンカー
+Shadow Wraith	シャドウ・レイス
+Hellbound Spirit	ヘルバウンド・スピリット
+Smokey	スモーキー
+Spirit Bear	スピリット・ベアー
+Ghost Wolf	ゴースト・ウルフ
+Conjured Predetor	コンジュレッド・プレデター
+Creepy Crawly	クリーピー・クロウリー
+Hug Bug	ハグ・バグ
+Hell Locust	ヘル・ローカスト
+Kagero Cuttie	カゲロウ・キューティー
+Dark Knight	ダーク・ナイト
+Doom Guard	ドゥーム・ガード
+Blood Knight	ブラッド・ナイト
+Phase Knight	フェイズ・ナイト
+Training Snake	トレーニング・スネーク
+Vip Viper	ビップ・ヴァイパー
+Shadow Serpent	シャドウ・サーペント
+Lazarus	ラザルス
+Stone Stalker	ストーン・ストーカー
+Serpent Queen	サーペント・クイーン
+Stygian Watcher	スティジアン・ウォッチャー
+Holy Roller	ホーリー・ローラー
+Baptist	バプテスト
+One-Eyed Bugger	ワンアイド・バッガー
+Cursed Blob	カースド・ブローブ
+Psych Orb	サイコオーブ
+Oderus	オーデラス
+Baal Subject Mummy	バール・サブジェクト・マミー
+Felltwin	フェルツイン
+Bipolar Oddity	バイポーラ・オディティ
+Gemini Beast	ジェミニ・ビースト
+Schizophrenic	スキツフェニック
+Blood Brothers	ブラット・ブラザーズ
+Gauntlet Prize	ガントレットの褒賞
+Trocopotaca	トロコポタカ
+Kroncopotaca	クロノコポタカ
+Sword Familiar	ソード・ファミリアー
+Holy Warrior	ホーリー・ウォーリアー
+Fallen Angel	フォールン・エンジェル
+Divine Spirit	ディバイン・スピリット
+Evil Eye	エビルアイ
+Ghost Familiar	ゴースト・ファミリアー
+Momono	モモノ
+Demogorgon	デモゴーゴン
+Rhino Beetle	ライノ・ビートル
+Gorgon Beetle	ゴーゴン・ビートル
+Beetle McCrunchy	ビートル・マククランチー
+Polar Worm	ポーラー・ウォーム
+Remorhaz	レモラーズ
+Gutraven	ガットレイブン
+Goreraven	ゴアレイブン
+Flesh Thing	フレッシュ・スティング
+Corpse Shredder	コープス・シュレッダー
+Cornuchula	コーンカルラ
+Ski-Jir	スキ-ジル
+Leprechaun	レプラコーン
+Brethren	ブレスレン
+Lepra	レプラコーン
+Maril	マリリス
+Ice Q	クイーン
+Momono	モモノ
+Ghost	ゴースト
+Evil E	エビルアイ
+Nekkid	ネイキッド
+Fetish Shaman	フェティッシュシャーマン
+Demon Dog	デモン・ドッグ
+Wrath Minion	ラース・ミニオン
+Baal High Priest	バール・ハイプリースト
+Baal Personal Guard	パール・パーソナル・ガード
+Omega Knight	オメガ・ナイト
+Nezeramon Guard	ネゼラモン・ガード
+Assassin	アサシン
+Amazon	アマゾン
+Barbarian	バーバリアン
+Druid	ドルイド
+Necromancer	ネクロマンサー
+Paladin	パラディン
+Sorceress	ソーサレス
+Shara Goddess	サラ・ゴッデス
+Monster Generator	モンスター・ジェネレーター
+Dungeon Prize	ダンジョン・プライズ
+Frost Giant	フロスト・ジャイアント
+Snow King	スノウ・キング
+Cyclops	サイクロプス
+Polyphemus	ポリュペモス
+Treasure Giant	トレジャー・ジャイアント
+Drider	ドライダー
+Widow	ウィドウ
+Webbed Mistress	ウェブド・ミストレス
+Icky Face	イッキー・フェイス
+Mind Flayer	マインド・フレイヤー
+Illithid	イリシッド
+Carrion Crawler	キャリオン・クロウラー
+Mana Worm	マナ・ウォーム
+An Evil Source	アン・エヴィル・ソース
+Mystery Egg	ミステリー・エッグ
+YHWH	ヤハウェ
+Slouch	スローチ
+Camel	キャメル
+Seraphim	セラフィム
+Stygian Doll	スティジアン・ドール
+Soul Killer	ソウル・キラー
+Flayer	フレイヤー
+Fetish	フェティッシュ
+Rat Man	ラットマン
+Baal	バール
+Barricade	バリケード
+Siren	サイレン
+Succubus	サキュバス
+Slayer	スレイヤー
+Eagle	イーグル
+Wolf	ウルフ
+Bear	ベアー
+Pet	ペット
+Raven	レイヴン
+Wolf	ウルフ
+Lasher	ラッシャー
+Catapult	投石機
+Nihlathak	ニーラサック
+Diablo Clone	ディアブロ・クローン
+Diablo	ディアブロ
+Apparition	アパリシオン
+Specter	スペクター
+Wraith	レイス
+Ghost	ゴースト
+Ghoul	グール
+Zombie	ゾンビー
+Returned Archer	リターンド・アーチャー
+Horror Archer	ホラー・アーチャー
+Burning Dead Archer	バーニング・デッド・アーチャー
+Bone Archer	ボーン・アーチャー
+Corpse Archer	コープス・アーチャー
+Skeleton Archer	スケルトン・アーチャー
+Skeleton	スケルトン
+Horror	ホラー
+Warped One	ウォープト
+Warped Fallen	ウォープト
+Dark One	ダーク・ワン
+Devilkin	デヴィルキン
+Carver	カーヴァー
+Fallen	フォールン
+Fiend	フィーンド
+Returned	リターンド
+Burning Dead	バーニング・デッド
+Bone Warrior	ボーン・ウォリアー
+Assailant	アセイラント
+Mephisto	メフィスト
+Jungle Urchin	ジャングル・アーチン
+Razor Pit Demon	レーザー・ピット・デーモン
+Sand Warrior	サンド・ウォーリアー
+Steel Weevil	スティール・ウィービル
+Albino Roach	アルビノ・ローチ
+Blood Maggot	ブラッド・マゴット
+Giant Lamprey	ジャイアント・ランプリー
+Devourer	ディヴァウラー
+Rock Worm	ロックワーム
+Sand Maggot	サンドマゴット
+World Killer Young	ブラッド・マゴットの幼虫
+World Killer Egg	ブラッド・マゴットの卵
+World Killer	ブラッド・マゴット
+Hephasto The Armorer	武具師へファスト
+Gorgon	ゴーゴン
+Hephasto	武具師へファスト
+Hell Bovine	地獄の牛
+Maggot	マゴット
+Dominus	サイレン
+Over Seer	オーヴァーシーアー
+Over Lord	オーヴァーロード
+Duriel	ドゥリエル
+Giant	ジャイアント
+Titan	タイタン
+Yeti	イエティ
+Crusher	クラッシャー
+Infidel	インフィデル
+Invader	インヴェイダー
+Oddity	オディティ
+Moe	モー
+Curly	カーリー
+Larry	ラリー
+Korlic	コーリック
+Madawc	マドウク
+Talic	タリク
+Fighter	ファイター
+Mage	メイジ
+Marauder	マロウダー
+Sand Raider	サンド・レイダー
+Brute	ブルート
+Izual	イズアル
+Greenskin	グリーンスキン
+Goblin	ゴブリン
+Runt	ラント
+Stygian Watcher	スティジアン・ウォッチャー
+River Stalker	リバー・ストーカー
+Water Watcher	ウォーターウォッチャー
+Stygian Watcher	スティジアン・ウォッチャー
+River Stalker	リバー・ストーカー
+Water Watcher	ウォーターウォッチャー
+Enslaved	エンスレイヴド
+Ice Boar	アイス・ボア
+Fire Boar	ファイア・ボア
+Hell Spawn	ヘル・スポーン
+Ice Spawn	アイス・スポーン
+Demon	デモン・インプ
+Urdar	ウルダル
+Mauler	モーラー
+Death	デスリー・ヴィザージュ
+Deathly Visage	デスリー・ヴィザージュ
+Coldworm	地に潜みしコールドワーム
+Guard	守備兵
+Combatant	戦士
+ Soul (Nor)	のソウル（ノーマル）
+ Soul (Nt)	のソウル（ナイトメア）
+ Soul (Hell)	のソウル（ヘル）

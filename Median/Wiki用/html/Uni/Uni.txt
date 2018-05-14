@@ -1,0 +1,3274 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+			"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=shift-jis" />
+		<title>Median XL - Diablo 2 Mods by Brother Laz</title>
+		<base タージt="hoofd" />
+		<link rel="stylesheet" type="text/css" href="m_2.css" />
+	</head>
+	<body id="#uniques" class="content">
+	<hr />
+	<div class="text_on_the_left">
+		<p class="genbig">UNIQUE ITEMS</a></span></p>
+		<p class="content">There are 475 unique items in Median XL 1.86, 471 in earlier versions.</p>
+		<hr />
+		<p class="content"><b>Normal Uniques</b><br />
+			Most unique items can exist in Tier 1 to Tier 6 versions. Higher tier
+			versions of the same unique have similar stats, but are improved in all areas. See
+			the <a href="items.html" タージt="tekst">BASE ITEMS</a> page for details on item tiers.</p>
+		<p class="content"><b>Sacred Uniques</b><br />
+			Additionally, the sacred tier of each item type has its own unique version.
+			Sacred uniques can only drop in <u>レベル 121 areas</u> and nowhere else.</p>
+		<p class="content"><b>Unique アミュレットs, リングs, Quivers and Jewels</b><br />
+			These item types have no tiers. Most unique アミュレットs, リングs, quivers and
+			jewels can be found in the regular game, though the very best only spawn in
+			<u>レベル 121 areas</u>.</p>
+		<hr />
+		<p class="content"><b>* </b>The following areas are レベル 121 on Destruction (Hell) difficulty :</p>
+
+		<p class="content"><u>Uberquests</u><br />
+			&middot; Dungeon uberquest: Cathedral of Vanity<br />
+			&middot; Dungeon uberquest: Toraja<br />
+			&middot; Summoning uberquest: Lord Aldric Jitan<br />
+			&middot; Summoning uberquest: Legacy of Blood<br />
+			&middot; Summoning uberquest: Judgement Day<br />
+			&middot; Summoning uberquest: Inarius' Revenge<br />
+			&middot; Uberレベル: Kurast 3000 BA<br />
+			&middot; Uberレベル: Island of the Sunless Sea<br />
+			&middot; Uberレベル: Khalimgrad<br />
+			&middot; Uberレベル: Tran Athulua<br />
+			&middot; Uberレベル: Fauztinville<br />
+			&middot; Uberレベル: Ghosts of Old Bremmtown<br />
+			&middot; Uberレベル: Kingdom of Shadow<br />
+				<u>Heroic areas</u><br />
+			&middot; The Cow レベル<br />
+			&middot; Mausoleum<br />
+			&middot; Stony Tomb レベル 1<br />
+			&middot; Icy Cellar<br />
+		<p class="content">More information about these areas can be found in the
+			<a href="nav_uberquests.html" タージt="links_midden">UBERQUESTS MENU</a>.</p>
+		<p class="content">Additionally, <u>bosses in レベル 118+ areas</u> are also
+			レベル 121, though the chance of finding a レベル 121 unique item this way is
+			fairly small.</p>
+		<hr />
+		<p class="content"><b>個のソケット</b><br />
+			All unique items come with the maximum allowed number of 個のソケット for the item
+			type.</p>
+		<p class="content"><b>Oskills</b><br />
+			If a unique has a skill bonus with no character class requirement (eg.
+			<span class="magic">+3-6 to Summon Shadows</span>), then the bonus is an 'oskill',
+			giving this skill to any class for free.</p>
+		<hr />
+		<p class="gensmall">List of Weapons</p>
+<p class="content"><b>Tier 1 One-Handed Swords</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invssd.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Grim Fang<br>
+ショートソード (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(10-12) to (15-18)<br>
+</span>Durability: 16<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.19921875 per strength)% -->
++(31 to 50)% 強化ダメージ<br>
+(3 to 5)% のライフを一撃ごとに奪う<br>
++(2 to 5) 、筋力上昇<br>
+毒物耐性 +(11 to 15)%<br>
+対象は追加でダメージを受ける (3 to 5)<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invscm.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Al Nath<br>
+シミター (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(13-15) to (15-19)<br>
+</span>Durability: 30<br>
+Required Strength: 25<br>
+要求レベル: 2<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.19921875 per strength)% -->
++(31 to 60)% 強化ダメージ<br>
+5% 攻撃スピード強化<br>
+(21 to 30)% のボーナス攻撃値<br>
+(11-15)-(16-30) 火炎ダメージ<br>
+敵の速度低下 (3 to 5)%<br>
+(3 to 5)% 敏捷性ボーナス<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invsbr.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>ウォードance<br>
+サーベル (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(16-20) to (21-25)<br>
+</span>Durability: 44<br>
+Required Strength: 37<br>
+要求レベル: 4<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.19921875 per strength)% -->
+5% Chance to cast レベル 2 Blink投射（敵を殺した際）<br>
++(41 to 70)% 強化ダメージ<br>
+5% より速い移動<br>
+15% 攻撃スピード強化<br>
++(21 to 50) 対遠隔防御力<br>
++(3 to 5) 、敏捷性上昇<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invflc.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Finis Terra<br>
+フォルシオン (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(21-25) to (25-30)<br>
+</span>Durability: 58<br>
+Required Strength: 49<br>
+要求レベル: 5<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.19921875 per strength)% -->
+3% Chance to cast レベル 2 Shower of Rocks投射（攻撃時）<br>
+1% Chance to cast レベル 5 Meteor Shower投射（敵を殺した際）<br>
++(41 to 70)% 強化ダメージ<br>
+-(3 to 5)% 、敵の火炎耐性修正<br>
+-(3 to 5)% 、敵の毒物耐性修正<br>
+火炎耐性 +(11 to 15)%<br>
+毒物耐性 +(11 to 15)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invbsd.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Raptor Beak<br>
+ブロードソード (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(25-30) to (29-35)<br>
+</span>Durability: 72<br>
+Required Strength: 61<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.19921875 per strength)% -->
+25% Chance to cast レベル 3 Time Strike投射（ミサイル被弾時）<br>
++(41 to 70)% 強化ダメージ<br>
+5% 攻撃スピード強化<br>
++(11 to 15) 、バイタリティ上昇<br>
++(11 to 15) のライフ回復、命中時 in Melee<br>
++(3 to 5) 攻撃を受けたときに回復するライフ<br>
+(31 to 50)% のゴールドを追加入手<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invlsd.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Herr Donner<br>
+ロングソード (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(28-31) to (33-38)<br>
+</span>Durability: 86<br>
+Required Strength: 73<br>
+要求レベル: 8<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.19921875 per strength)% -->
+15% Chance to cast レベル 4 Flash投射（攻撃時）<br>
++(41 to 60)% 強化ダメージ<br>
+15% 攻撃スピード強化<br>
+1-(31-100) 稲妻ダメージ<br>
+スタン攻撃<br>
++(11 to 15)% 、稲妻魔法ダメージ修正<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invwsd.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Lachdanan's Avenger<br>
+ウォーソード (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(31-37) to (36-44)<br>
+</span>Durability: 100<br>
+Required Strength: 85<br>
+要求レベル: 12<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.19921875 per strength)% -->
+3% Chance to cast レベル 3 Sパイク Nova投射（被弾時）<br>
++1 、パラディンのスキルレベル上昇<br>
++(41 to 70)% 強化ダメージ<br>
++(51 to 75)% のダメージをデーモンに与える<br>
++(51 to 75)% のダメージをアンデッドに与える<br>
+(3 to 5)% 壊滅打のチャンス<br>
++(16 to 25) 、筋力上昇<br>
+全耐性： +(11 to 15)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 クリスタルソードs</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invcrs.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Iceflayer<br>
+クリスタルソード (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(15-19) to (19-24)<br>
+</span>Durability: 40<br>
+Required Dexterity: 73<br>
+要求レベル: 11<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
++(21 to 50)% 強化ダメージ<br>
+15% より速いヒットリカバリー<br>
+(21-25)-(51-75) 冷気ダメージ<br>
+(11 to 15)% 、敵の傷が開く可能性<br>
+(3 to 5)% 敏捷性ボーナス<br>
++(31 to 50)% ムーンストライクのダメージ追加<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 両手用ソードs</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/inv2hs.jpg" width="28" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The Overlord<br>
+両手用ソード (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(12-14) to (15-18)<br>
+</span>Two-Hand ダメージ: <span class="magic">(12-14) to (24-28)<br>
+</span>Durability: 28<br>
+Required Strength: 25<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
+1% Chance to cast レベル 1 Unholy Armor投射（攻撃時）<br>
++(21 to 40)% 強化ダメージ<br>
+(21 to 25)% 、敵の傷が開く可能性<br>
+敵の速度低下 (7 to 10)%<br>
+(2 to 5)% 筋力ボーナス<br>
+(21 to 25)% 割り込み不可能攻撃の確率<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invclm.jpg" width="28" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Jared's Fragmentor<br>
+クレイモア (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(14-18) to (16-21)<br>
+</span>Two-Hand ダメージ: <span class="magic">(21-27) to (22-28)<br>
+</span>Durability: 42<br>
+Required Strength: 41<br>
+要求レベル: 2<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
+15% Chance to cast レベル 4 Sパイク Nova投射（攻撃時）<br>
+100% Chance to cast レベル 9 Immolation Bomb投射（自分が死亡した際）<br>
++(21 to 50)% 強化ダメージ<br>
+(7 to 10)% 壊滅打のチャンス<br>
+(21 to 25)% 、敵の傷が開く可能性<br>
++(6 to 10) 、筋力上昇<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invgis.jpg" width="28" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Hellreaper<br>
+ジャイアントソード (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(19-23) to (23-28)<br>
+</span>Two-Hand ダメージ: <span class="magic">(32-39) to (34-41)<br>
+</span>Durability: 56<br>
+Required Strength: 57<br>
+要求レベル: 4<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
+3% Chance to cast レベル 2 Death Coil投射（攻撃時）<br>
++(31 to 60)% 強化ダメージ<br>
+5% 攻撃スピード強化<br>
+(3 to 5)% のライフを一撃ごとに奪う<br>
+キャラクターの武器ダメージ +(16 to 25)%<br>
++(21 to 50) 防御力<br>
+最大ライフ 上昇 (3 to 5)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invbsw.jpg" width="28" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Addertongue<br>
+バスタードソード (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: 18 to 22<br>
+Two-Hand ダメージ: 31 to 33<br>
+Durability: 70<br>
+Required Strength: 73<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
+25% Chance to cast レベル 6 Venomous Spirit投射（攻撃時）<br>
++1 、パラディンのスキルレベル上昇<br>
++(11 to 15)% 、冷気魔法ダメージ修正<br>
+(3 to 5)% 筋力ボーナス<br>
+(3 to 5)% エネルギーボーナス<br>
+キャラクターの総合防御値追加 (3 to 5)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invflb.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Frostbリングer<br>
+フランベルジュ (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(27-33) to (65-91)<br>
+</span>Two-Hand ダメージ: <span class="magic">(49-60) to (84-115)<br>
+</span>Durability: 84<br>
+Required Strength: 89<br>
+要求レベル: 7<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
+25% Chance to cast レベル 5 Ice ランス投射（攻撃時）<br>
++1 、全スキル上昇<br>
++(31 to 60)% 強化ダメージ<br>
++(31 to 50) 、最大ダメージ上昇<br>
++(11 to 15)% 、冷気魔法ダメージ修正<br>
+冷気耐性 +(21 to 25)%<br>
+(3 to 5)% 割り込み不可能攻撃の確率<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invgsd.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The Dao of Xiansai<br>
+グレートソード (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(31-38) to (58-96)<br>
+</span>Two-Hand ダメージ: <span class="magic">(57-70) to (81-123)<br>
+</span>Durability: 98<br>
+Required Strength: 105<br>
+要求レベル: 11<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
++1 、全スキル上昇<br>
++(31 to 60)% 強化ダメージ<br>
+15% 攻撃スピード強化<br>
+15% より速いヒットリカバリー<br>
++(21 to 50) 、最大ダメージ上昇<br>
+(51 to 75)% のボーナス攻撃値<br>
++(101 to 150) 防御力<br>
++(3 to 5)% 、獲得経験値修正<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 One-Handed アックスs</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invhax.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Brainhack<br>
+ハンドアックス (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(10-12) to (15-19)<br>
+</span>Durability: 22<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.19921875 per strength)% -->
+3% Chance to cast レベル 2 Banish投射（敵を殺した際）<br>
++(31 to 60)% 強化ダメージ<br>
+敵の速度低下 (3 to 5)%<br>
++(3 to 5) 、筋力上昇<br>
+(-3 to -5) 、エネルギー上昇<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invアックス.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The Lumberjack<br>
+アックス (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(14-16) to (40-72)<br>
+</span>Durability: 36<br>
+Required Strength: 31<br>
+要求レベル: 3<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.19921875 per strength)% -->
+100% Chance to cast レベル 3 Call Treeウォードen投射（レベルアップした際）<br>
++(31 to 50)% 強化ダメージ<br>
+5% 攻撃スピード強化<br>
++(21 to 50) 、最大ダメージ上昇<br>
++(21 to 50)% のダメージをアンデッドに与える<br>
+(3 to 5)% 壊滅打のチャンス<br>
++(31 to 50) 防御力<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/inv2ax.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Anthem De Frost<br>
+ダブルアックス (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(29-41) to (49-83)<br>
+</span>Durability: 50<br>
+Required Strength: 49<br>
+要求レベル: 5<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.19921875 per strength)% -->
+1% Chance to cast レベル 5 Glacial Nova投射（攻撃時）<br>
+25% Chance to cast レベル 3 Shackles of Ice投射（敵を殺した際）<br>
++(31 to 50)% 強化ダメージ<br>
+(11-20)-(21-50) ダメージ<br>
+(31-40)-(41-60) 冷気ダメージ<br>
++(11 to 15)% 、冷気魔法ダメージ修正<br>
+(3 to 5)% 割り込み不可能攻撃の確率<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invmpi.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The Prospector's Pick<br>
+ミリタリー・ピック (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(25-30) to (39-47)<br>
+</span>Durability: 64<br>
+Required Strength: 67<br>
+要求レベル: 7<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.19921875 per strength)% -->
++(41 to 70)% 強化ダメージ<br>
++(11 to 15) 、筋力上昇<br>
++(11 to 15) 、敏捷性上昇<br>
+(31 to 50)% のゴールドを追加入手<br>
+(16 to 25)% 、マジックアイテム入手確率上昇<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invwax.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Rainbowcleave<br>
+ウォーアックス (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(25-31) to (39-49)<br>
+</span>Durability: 78<br>
+Required Strength: 85<br>
+要求レベル: 11<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.19921875 per strength)% -->
++1 、全スキル上昇<br>
++(21 to 50)% 強化ダメージ<br>
+15% 攻撃スピード強化<br>
++(11 to 15)% 、火炎魔法ダメージ修正<br>
++(11 to 15)% 、稲妻魔法ダメージ修正<br>
++(11 to 15)% 、冷気魔法ダメージ修正<br>
+火炎耐性 +(21 to 25)%<br>
+稲妻耐性 +(21 to 25)%<br>
+冷気耐性 +(21 to 25)%<br>
+魔法ダメージ低減： (3 to 5)<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 Two-Handed アックスs</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invlax.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Heartrend<br>
+ラージアックス (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(18-21) to (22-25)<br>
+</span>Durability: 28<br>
+Required Strength: 18<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
++(31 to 50)% 強化ダメージ<br>
+(2 to 4)% のライフを一撃ごとに奪う<br>
+(3 to 5)% 壊滅打のチャンス<br>
+火炎耐性 +(11 to 15)%<br>
++(3 to 5)% ポーションからの回復率上昇<br>
+レベル 2 Blood Flash (15 回分のチャージ)<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invbrx.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Jackal's Hunger<br>
+ブロードアックス (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(20-25) to (48-73)<br>
+</span>Durability: 44<br>
+Required Strength: 39<br>
+要求レベル: 3<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
+5% Chance to cast レベル 2 Lifeblood投射（敵を殺した際）<br>
++1 、全スキル上昇<br>
++(31 to 60)% 強化ダメージ<br>
+5% 攻撃スピード強化<br>
++(21 to 40) 、最大ダメージ上昇<br>
++(6 to 10) 、筋力上昇<br>
+(51 to 80)% のゴールドを追加入手<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invbtx.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Skullhammer<br>
+バトルアックス (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(30-39) to (39-51)<br>
+</span>Durability: 60<br>
+Required Strength: 60<br>
+要求レベル: 5<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
++(31 to 70)% 強化ダメージ<br>
+15% 攻撃スピード強化<br>
+スタン攻撃<br>
+(11 to 15)% 壊滅打のチャンス<br>
+(3 to 5)% 筋力ボーナス<br>
+最大マナ低下 (-3 to -5)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invgax.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Norrec's Topor<br>
+グレートアックス (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(40-52) to (105-150)<br>
+</span>Durability: 76<br>
+Required Strength: 81<br>
+要求レベル: 7<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
++(41 to 80)% 強化ダメージ<br>
++(51 to 80) 、最大ダメージ上昇<br>
++(16 to 25) 、筋力上昇<br>
+ライフを徐々に回復 +(21 to 30)<br>
+ダメージ低減： (3 to 5)<br>
+(3 to 5)% 以下の状態で蘇生： Infernal Lord<br>
+対象は追加でダメージを受ける (11 to 15)<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invgix.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Edge of Extinction<br>
+ジャイアントアックス (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(47-61) to (64-82)<br>
+</span>Durability: 92<br>
+Required Strength: 102<br>
+要求レベル: 11<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
+15% Chance to cast レベル 6 Gamma Field投射（敵を殺した際）<br>
++(41 to 80)% 強化ダメージ<br>
++(31 to 50)% のダメージをアンデッドに与える<br>
+-(11 to 15)% 、敵の毒物耐性修正<br>
+遠距離からの攻撃者をスロー (3 to 5)%<br>
+毒物耐性 +(21 to 30)%<br>
+(21 to 25)% 以下の状態で蘇生： Zombie<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 メイスs</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invclb.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Gnarled Root<br>
+クラブ (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(11-14) to (14-18)<br>
+</span>Durability: 8<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.19921875 per strength)% -->
+5% Chance to cast レベル 6 Poison Flash投射（攻撃時）<br>
++(41 to 80)% 強化ダメージ<br>
+25% 攻撃スピード強化<br>
+(31 to 50)% のボーナス攻撃値<br>
+(11 to 15)% 敏捷性ボーナス<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invspc.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Greiz' Slapjack<br>
+スパイク付きクラブ (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(12-15) to (16-21)<br>
+</span>Durability: 24<br>
+Required Strength: 24<br>
+要求レベル: 3<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.19921875 per strength)% -->
++(21 to 50)% 強化ダメージ<br>
+5% 攻撃スピード強化<br>
+1-(11-25) 稲妻ダメージ<br>
+(11 to 15)% 壊滅打のチャンス<br>
+(3 to 5)% 筋力ボーナス<br>
+(3 to 5)% 敏捷性ボーナス<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invmac.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Koth's Lesson<br>
+メイス (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(15-19) to (24-30)<br>
+</span>Durability: 40<br>
+Required Strength: 36<br>
+要求レベル: 5<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
+15% Chance to cast レベル 4 Bloodlust投射（敵を殺した際）<br>
++1 、バーバリアンのスキルレベル上昇<br>
++(31 to 50)% ブラッドラストにダメージ追加<br>
++(31 to 60)% 強化ダメージ<br>
++(61 to 120)% のダメージをアンデッドに与える<br>
++(51 to 100) 防御力<br>
++(11 to 15) 、筋力上昇<br>
+最大ライフ 上昇 (3 to 5)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invmst.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Magnet Rock<br>
+モーニングスター (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">14 to (55-94)<br>
+</span>Durability: 56<br>
+Required Strength: 48<br>
+要求レベル: 7<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
++(31 to 70) 、最大ダメージ上昇<br>
+敵の速度低下 (3 to 5)%<br>
+ダメージ低減： (2 to 5)<br>
+(51 to 80)% ダメージ反射<br>
+(101 to 150)% のゴールドを追加入手<br>
+(21 to 30)% 、マジックアイテム入手確率上昇<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invfla.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Ravenflock<br>
+フレイル (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(23-28) to (38-45)<br>
+</span>Durability: 56<br>
+Required Strength: 60<br>
+要求レベル: 11<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
+3% Chance to cast レベル 5 Doom投射（攻撃時）<br>
++(41 to 70)% 強化ダメージ<br>
+15% 攻撃スピード強化<br>
+(11 to 15)% 、敵の傷が開く可能性<br>
++(11 to 15) 、全属性値(筋力、敏捷性など)修正<br>
+最大耐久性低下 (-21 to -25)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 One-Handed Hammers</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invwhm.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Archon's Wrath<br>
+ウォーハンマー (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(16-21) to (46-81)<br>
+</span>Durability: 75<br>
+Required Strength: 56<br>
+要求レベル: 5<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
+5% Chance to cast レベル 5 Apocalypse投射（攻撃時）<br>
++(41 to 75)% 強化ダメージ<br>
++(21 to 50) 、最大ダメージ上昇<br>
++(101 to 150)% のダメージをデーモンに与える<br>
++(101 to 150)% のダメージをアンデッドに与える<br>
+(21-25)-(31-35) 火炎ダメージ<br>
+(7 to 10)% 筋力ボーナス<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 Two-Handed Hammers</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invmau.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Bonerattler<br>
+モール (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(33-42) to (73-112)<br>
+</span>Durability: 114<br>
+Required Strength: 93<br>
+要求レベル: 7<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
++1 、パラディンのスキルレベル上昇<br>
++(41 to 75)% 強化ダメージ<br>
++(31 to 60) 、最大ダメージ上昇<br>
++(61 to 100)% のダメージをアンデッドに与える<br>
+(3 to 5)% 壊滅打のチャンス<br>
+(3 to 5)% 以下の状態で蘇生： Bone Archer<br>
+(3 to 5)% 以下の状態で蘇生： Burning Dead Archer<br>
+(3 to 5)% 以下の状態で蘇生： Horror Archer<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invgma.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The Flying Anvil<br>
+グレートモール (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(38-47) to (50-63)<br>
+</span>Durability: 138<br>
+Required Strength: 117<br>
+要求レベル: 11<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
++(31 to 50) クラフティング・ポイント<br>
+15% Chance to cast レベル 4 Flamestrike投射（攻撃時）<br>
++(41 to 75)% 強化ダメージ<br>
+スタン攻撃<br>
++(1 to 2)% 防御値上昇（ルーン１個につき）<br>
++(16 to 25) 、筋力上昇<br>
+キャラクターの総合防御値追加 (11 to 15)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 Sceptres</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invscp.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Sunbearer<br>
+セプター (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: 8 to 10<br>
+Durability: 14<br>
+Required Dexterity: 16<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
+5% Chance to cast レベル 2 Gift of Vanquishing投射（敵を殺した際）<br>
++1 、アマゾンのスキルレベル上昇<br>
+5% より速い呪文詠唱<br>
+-(3 to 5)% 、敵の火炎耐性修正<br>
+火炎耐性 +(11 to 15)%<br>
+(31 to 50)% のゴールドを追加入手<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invgsc.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Voidstream<br>
+グランドセプター (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: 12 to 17<br>
+Durability: 30<br>
+Required Dexterity: 40<br>
+要求レベル: 4<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
++1 、パラディンのスキルレベル上昇<br>
+5% より速い呪文詠唱<br>
++(11 to 15)% 、稲妻魔法ダメージ修正<br>
++(11 to 15)% 物理・魔法スペルボーナス<br>
+マナを回復させる +(21 to 25)%<br>
+ダメージ低減： (3 to 5)<br>
+ターゲットの速度低下、 (3 to 5)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invwsp.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Dreamswayer<br>
+ウォーセプター (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(22-25) to (32-37)<br>
+</span>Durability: 46<br>
+Required Dexterity: 64<br>
+要求レベル: 7<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
++(31 to 50) エネルギーファクター<br>
+1% Chance to cast レベル 3 Charm投射（攻撃時）<br>
+3% Chance to cast レベル 2 Nightmare投射（攻撃時）<br>
++1 、パラディンのスキルレベル上昇<br>
++(31 to 50)% 強化ダメージ<br>
+15% 攻撃スピード強化<br>
+-(11 to 15)% 、敵の火炎耐性修正<br>
+-(11 to 15)% 、敵の冷気耐性修正<br>
+マナを回復させる +(21 to 25)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 ジャベリンs</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invjav.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Devil's Flight<br>
+ジャベリン (1)<br>
+</b></span><span align="center" class="content">Throw ダメージ: <span class="magic">(2-3) to (13-16)<br>
+</span>One-Hand ダメージ: <span class="magic">(9-12) to (14-18)<br>
+</span>Durability: 32<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
+25% Chance to cast レベル 1 ジャベリン投射（敵を殺した際）<br>
+100% Chance to cast レベル 6 Pentagram投射（レベルアップした際）<br>
++(21 to 50)% 強化ダメージ<br>
+5% 攻撃スピード強化<br>
+火炎耐性 +(11 to 15)%<br>
+(3 to 5)% 以下の状態で蘇生： Stone Clan<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invpil.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Shadowstrike<br>
+パイラム (1)<br>
+</b></span><span align="center" class="content">Throw ダメージ: <span class="magic">(8-10) to (35-48)<br>
+</span>One-Hand ダメージ: <span class="magic">(14-17) to (34-47)<br>
+</span>Durability: 56<br>
+Required Dexterity: 29<br>
+要求レベル: 3<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
+100% Chance to cast レベル 11 Dark Power投射（レベルアップした際）<br>
+15% Chance to cast レベル 5 Punisher投射（敵を殺した際）<br>
++(41 to 70)% 強化ダメージ<br>
++(16 to 25) 、最大ダメージ上昇<br>
++(3 to 5) 、全属性値(筋力、敏捷性など)修正<br>
+火炎耐性 +(21 to 25)%<br>
+冷気耐性 +(21 to 25)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invssp.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Icepick<br>
+ショートスピア (1)<br>
+</b></span><span align="center" class="content">Throw ダメージ: <span class="magic">(13-15) to (34-53)<br>
+</span>One-Hand ダメージ: <span class="magic">(14-16) to (28-45)<br>
+</span>Durability: 80<br>
+Required Dexterity: 47<br>
+要求レベル: 5<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
+5% Chance to cast レベル 6 Shatter the Flesh投射（敵を殺した際）<br>
++1 、アマゾンのスキルレベル上昇<br>
++(31 to 50)% 強化ダメージ<br>
+15% より速いヒットリカバリー<br>
++(6 to 20) 、最大ダメージ上昇<br>
++(3 to 5)% 、冷気魔法ダメージ修正<br>
+冷気耐性 +(21 to 25)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invglv.jpg" width="28" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Sudis Murale<br>
+グレイヴ (1)<br>
+</b></span><span align="center" class="content">Throw ダメージ: <span class="magic">(19-23) to (73-101)<br>
+</span>One-Hand ダメージ: <span class="magic">(18-22) to (60-85)<br>
+</span>Durability: 104<br>
+Required Dexterity: 65<br>
+要求レベル: 7<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
+5% Chance to cast レベル 4 Fortress投射（敵を殺した際）<br>
++(41 to 70)% 強化ダメージ<br>
++(31 to 50) 、最大ダメージ上昇<br>
+(3 to 5)% 壊滅打のチャンス<br>
++(21 to 25) 、筋力上昇<br>
++(11 to 15) 、敏捷性上昇<br>
+キャラクターの総合防御値追加 (11 to 15)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invtsp.jpg" width="28" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Dwaallicht<br>
+投げスピア (1)<br>
+</b></span><span align="center" class="content">Throw ダメージ: <span class="magic">(22-28) to (83-114)<br>
+</span>One-Hand ダメージ: <span class="magic">(19-24) to (66-93)<br>
+</span>Durability: 126<br>
+Required Dexterity: 83<br>
+要求レベル: 10<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
+25% Chance to cast レベル 3 Time Strike投射（敵を殺した際）<br>
++(41 to 75)% 強化ダメージ<br>
+15% 攻撃スピード強化<br>
++(31 to 50) 、最大ダメージ上昇<br>
+(31 to 50)% のボーナス攻撃値<br>
+(31-35)-(36-75) 魔法ダメージ<br>
+(3 to 6)% のマナを一撃ごとに奪う<br>
+キャラクターの武器ダメージ +(41 to 50)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 スピアs</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invspr.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Ravenbeak<br>
+スピア (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(11-14) to (24-30)<br>
+</span>Durability: 24<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.296875 per dexterity)% -->
+25% Chance to cast レベル 6 Flamefront投射（攻撃時）<br>
++(31 to 60)% 強化ダメージ<br>
+(2 to 4)% のライフを一撃ごとに奪う<br>
+(21 to 25) 、筋力上昇<br>
++(11 to 15) 、筋力上昇<br>
++(11 to 15) 、敏捷性上昇<br>
+(21 to 30)% 、マジックアイテム入手確率上昇<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invtri.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Sea Summoner<br>
+トライデント (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(14-17) to (28-34)<br>
+</span>Durability: 48<br>
+Required Strength: 18<br>
+Required Dexterity: 29<br>
+要求レベル: 3<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.296875 per dexterity)% -->
+5% Chance to cast レベル 2 Glacial Nova投射（攻撃時）<br>
++(41 to 70)% 強化ダメージ<br>
+(21-35)-(36-50) 冷気ダメージ<br>
+敵の速度低下 (11 to 15)%<br>
++(16 to 25) 、敏捷性上昇<br>
+ライフを徐々に回復 +(16 to 25)<br>
+キャラクターの総合防御値追加 (11 to 15)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invbrn.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Shieldcracker<br>
+ブランディストック (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(18-21) to (73-110)<br>
+</span>Durability: 72<br>
+Required Strength: 30<br>
+Required Dexterity: 46<br>
+要求レベル: 5<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.296875 per dexterity)% -->
++(51 to 80)% 強化ダメージ<br>
++(31 to 60) 、最大ダメージ上昇<br>
+-(11 to 15)% 目標の防御力<br>
+(31 to 50)% のボーナス攻撃値<br>
+(-101 to -150) ずつ敵の防御力を下げる（命中一回ごとに）<br>
+(11 to 15)% 筋力ボーナス<br>
+(11 to 15)% 敏捷性ボーナス<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invspt.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Fangスピア<br>
+スペタム (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(52-65) to (103-138)<br>
+</span>Durability: 96<br>
+Required Strength: 42<br>
+Required Dexterity: 63<br>
+要求レベル: 7<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.296875 per dexterity)% -->
+15% Chance to cast レベル 1 Hex投射（攻撃時）<br>
+25% Chance to cast レベル 6 Venomous Spirit投射（攻撃時）<br>
++1 、アマゾンのスキルレベル上昇<br>
++(51 to 80)% 強化ダメージ<br>
+(31-40)-(51-75) ダメージ<br>
+(61 to 100)% ヘックスへの物理ダメージボーナス<br>
++(11 to 15) ライフ獲得（敵１体を殺すごとに）<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invpik.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Death Pit Stake<br>
+パイク (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(24-30) to (67-84)<br>
+</span>Durability: 120<br>
+Required Strength: (48-45)<br>
+Required Dexterity: (71-68)<br>
+要求レベル: 10<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.296875 per dexterity)% -->
+15% Chance to cast レベル 4 Carpet of Spiders投射（攻撃時）<br>
++1 、パラディンのスキルレベル上昇<br>
++(61 to 100)% 強化ダメージ<br>
+15% 攻撃スピード強化<br>
+(9-19)-(19-38) の毒物ダメージが3 秒間持続<br>
++(21 to 25)% 、毒物魔法ダメージ修正<br>
+毒物の効果時間を低減、 (21 to 25)%<br>
+穴空き済み: 2<br>
+必要ステイタス (-11 to -15)%<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 大鎌s</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invscy.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Bonefiend<br>
+大鎌 (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(11-13) to (81-111)<br>
+</span>Durability: 74<br>
+Required Strength: 49<br>
+Required Dexterity: 49<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.296875 per dexterity)% -->
++(41 to 70)% 強化ダメージ<br>
++(31 to 50) 、最大ダメージ上昇<br>
++(101 to 150)% のダメージをアンデッドに与える<br>
++(2 to 4) to Razor Spines<br>
+(7 to 10)% 筋力ボーナス<br>
+(3 to 5)% 以下の状態で蘇生： Returned Archer<br>
+(31 to 50)% のゴールドを追加入手<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 ダガーs</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invdgr.jpg" width="28" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The シャンクer<br>
+ダガー (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(9-12) to (12-15)<br>
+</span>Durability: 8<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
++(21 to 60)% 強化ダメージ<br>
+5% 攻撃スピード強化<br>
+(21 to 25)% 、敵の傷が開く可能性<br>
++(3 to 4) to Hamstリング<br>
+敵の速度低下 (11 to 15)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invdir.jpg" width="28" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Quov Tsin's Fall<br>
+短刀 (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">10 to 11<br>
+</span>Durability: 14<br>
+Required Dexterity: 25<br>
+要求レベル: 4<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
++1 、ネクロマンサーのスキルレベル上昇<br>
+15% より速い呪文詠唱<br>
+火炎耐性 +(21 to 25)%<br>
+毒物耐性 +(21 to 25)%<br>
+(7 to 10)% 以下の状態で蘇生： Dark Magistrate<br>
+(7 to 10)% 以下の状態で蘇生： Succubus<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invkrs.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Acidburn<br>
+クリースs (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: 11 to 12<br>
+Durability: 20<br>
+Required Dexterity: 43<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
++1 、ソーサレスのスキルレベル上昇<br>
+15% より速いヒットリカバリー<br>
+(3-6)-(6-13) の毒物ダメージが1 秒間持続<br>
+スタン攻撃<br>
+-(16 to 20)% 、敵の毒物耐性修正<br>
+最大マナ 上昇 (11 to 15)%<br>
+毒物耐性 +(21 to 25)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invbld.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>クローズcratch<br>
+ブレイド (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: 12 to 14<br>
+Durability: 26<br>
+Required Dexterity: 61<br>
+要求レベル: 10<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
++1 、ドルイドのスキルレベル修正<br>
++(11 to 15)% マーク・オブ・ザ・ワイルドにエレメンタルダメージ追加<br>
++(11 to 25)% 毒物スキル効果時間ボーナス<br>
+15% より速い移動<br>
+15% より速い呪文詠唱<br>
+(11 to 25)% マーク・オブ・ザ・ワイルドの効果時間延長<br>
++(7 to 10) 、バイタリティ上昇<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 Throwing Knives</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invtkn.jpg" width="28" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Death Touch<br>
+投げナイフ (1)<br>
+</b></span><span align="center" class="content">Throw ダメージ: 4 to 13<br>
+One-Hand ダメージ: 8 to 12<br>
+Durability: 8<br>
+Required Dexterity: 15<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
+5% Chance to cast レベル 4 Scorpion ブレイド投射（敵を殺した際）<br>
++1 、アサシンのスキルレベル修正<br>
+5% より速い移動<br>
+(21 to 50)% のボーナス攻撃値<br>
+5-7 の毒物ダメージが5 秒間持続<br>
+-(11 to 15)% 、敵の毒物耐性修正<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invtkn.jpg" width="28" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Icebird<br>
+フライング・ナイフ (1)<br>
+</b></span><span align="center" class="content">Throw ダメージ: <span class="magic">(15-20) to (18-23)<br>
+</span>One-Hand ダメージ: <span class="magic">(15-20) to (17-22)<br>
+</span>Durability: 12<br>
+Required Dexterity: 53<br>
+要求レベル: 4<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
+5% Chance to cast レベル 2 Shackles of Ice投射（命中時）<br>
++(31 to 70)% 強化ダメージ<br>
+(21-25)-(36-65) 冷気ダメージ<br>
+-(3 to 5)% 、敵の冷気耐性修正<br>
+冷気吸収 (4 to 5)%<br>
+15% 、マジックアイテム入手確率上昇<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invbkf.jpg" width="28" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Ironsleet<br>
+バランスナイフ (1)<br>
+</b></span><span align="center" class="content">Throw ダメージ: <span class="magic">(28-36) to (64-108)<br>
+</span>One-Hand ダメージ: <span class="magic">(22-28) to (56-97)<br>
+</span>Durability: 16<br>
+Required Dexterity: 91<br>
+要求レベル: 7<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
+5% Chance to cast レベル 3 Knife Throw投射（命中時）<br>
+100% Chance to cast レベル 7 Cold Fear投射（レベルアップした際）<br>
++(41 to 80)% 強化ダメージ<br>
++(31 to 65) 、最大ダメージ上昇<br>
+-(7 to 10)% 目標の防御力<br>
+(4 to 7)% 攻撃ごとにスタミナを奪う <br>
+冷気耐性 +(21 to 25)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 投げアックスs</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invtax.jpg" width="28" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Sterrenvogel<br>
+投げアックス (1)<br>
+</b></span><span align="center" class="content">Throw ダメージ: 4 to 12<br>
+One-Hand ダメージ: 9 to 12<br>
+Durability: 12<br>
+Required Strength: 15<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.19921875 per strength)% -->
++1 、バーバリアンのスキルレベル上昇<br>
+5% 攻撃スピード強化<br>
+(6-10)-(11-20) 火炎ダメージ<br>
+(6-10)-(11-20) 稲妻ダメージ<br>
+(6-10)-(11-20) 冷気ダメージ<br>
+-(11 to 15)% 、敵の火炎耐性修正<br>
+-(11 to 15)% 、敵の稲妻耐性修正<br>
+-(11 to 15)% 、敵の冷気耐性修正<br>
+-(11 to 15)% 、敵の毒物耐性修正<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invbal.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Rockshatter<br>
+バランスアックス (1)<br>
+</b></span><span align="center" class="content">Throw ダメージ: <span class="magic">(10-13) to (79-112)<br>
+</span>One-Hand ダメージ: <span class="magic">(13-17) to (62-90)<br>
+</span>Durability: 20<br>
+Required Strength: 77<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.19921875 per strength)% -->
+2% Chance to cast レベル 7 Blast Wave投射（敵を殺した際）<br>
++(31 to 70)% 強化ダメージ<br>
++(31 to 50) 、最大ダメージ上昇<br>
+(7 to 10)% 壊滅打のチャンス<br>
+キャラクターの武器ダメージ +(31 to 50)%<br>
+(-5 to 0) 、筋力上昇<br>
++(11 to 15) ライフ獲得（敵１体を殺すごとに）<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 Staves</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invsst.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Demoncall<br>
+ショート・スタッフ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: 8 to 16<br>
+Durability: 22<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.09765625 per dexterity)% -->
++(31 to 50) エネルギーファクター<br>
++1 、全スキル上昇<br>
+5% より速い呪文詠唱<br>
++(2 to 5) to Rune of Fire<br>
+火炎耐性 +(11 to 15)%<br>
+毒物耐性 +(11 to 15)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invlst.jpg" width="28" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The Magister<br>
+ロング・スタッフ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: 12 to 15<br>
+Durability: 46<br>
+Required Dexterity: 8<br>
+要求レベル: 3<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.09765625 per dexterity)% -->
++1 、全スキル上昇<br>
++(21 to 25)% 、火炎魔法ダメージ修正<br>
++(21 to 25)% 、稲妻魔法ダメージ修正<br>
++(1 to 4) to Flash<br>
++(1 to 4) to Apocalypse<br>
+火炎耐性 +(16 to 25)%<br>
+稲妻耐性 +(16 to 25)%<br>
+キャラクターの総合防御値追加 (11 to 15)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invcst.jpg" width="28" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Dubhdroiacht<br>
+節くれだったスタッフ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: 16 to 20<br>
+Durability: 70<br>
+Required Dexterity: 17<br>
+要求レベル: 4<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.09765625 per dexterity)% -->
++(36 to 60) エネルギーファクター<br>
++1 、全スキル上昇<br>
++(21 to 50)% 毒物スキル効果時間ボーナス<br>
+-(11 to 15)% 、敵の毒物耐性修正<br>
++(1 to 5) to Pyroclastic Flow<br>
++(11 to 15)% 召喚した配下のライフボーナス<br>
+最大ライフ 上昇 (3 to 5)%<br>
+キャラクターの総合防御値追加 (11 to 15)%<br>
+毒物の効果時間を低減、 (21 to 25)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invbst.jpg" width="28" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The Covenant<br>
+バトル・スタッフ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: 18 to 26<br>
+Durability: 94<br>
+Required Dexterity: 25<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.09765625 per dexterity)% -->
++(21 to 50) クラフティング・ポイント<br>
+5% Chance to cast レベル 3 Doom when you Take ダメージ<br>
++1 、パラディンのスキルレベル上昇<br>
+15% より速い移動<br>
+15% より速い呪文詠唱<br>
++(21 to 30)% 、火炎魔法ダメージ修正<br>
++(21 to 30)% 物理・魔法スペルボーナス<br>
+ライフを徐々に回復 +(21 to 50)<br>
++(3 to 5)% ポーションからの回復率上昇<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invwst.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Staff of Roses<br>
+ウォー・スタッフ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: 22 to 30<br>
+Durability: 118<br>
+Required Dexterity: 34<br>
+要求レベル: 10<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.09765625 per dexterity)% -->
++1 、全スキル上昇<br>
++(21 to 25)% ボーナスエネルギーファクター<br>
+10% より速い呪文詠唱<br>
++(1 to 2) to Blood Flash<br>
+マナを回復させる +(16 to 25)%<br>
+火炎耐性 +(21 to 25)%<br>
+稲妻耐性 +(21 to 25)%<br>
+(8 to 10)% 以下の状態で蘇生： Knight of Death<br>
++(16 to 25) ライフ獲得（敵１体を殺すごとに）<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 Bows</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invsbw.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The Rift Bow<br>
+ショートボウ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: 4 to 8<br>
+Required Dexterity: 15<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
+5% Chance to cast レベル 1 Teleport投射（命中時）<br>
+15% 攻撃スピード強化<br>
+(51 to 75)% のボーナス攻撃値<br>
+(11-15)-(16-30) 魔法ダメージ<br>
+(3 to 5)% 敏捷性ボーナス<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invhbw.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Deadly Hunter<br>
+ハンターズ・ボウ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(18-24) to (26-33)<br>
+</span>Required Dexterity: 27<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
+5% Chance to cast レベル 7 Pain Spirit投射（敵を殺した際）<br>
++(21 to 50)% 強化ダメージ<br>
+10% より速い移動<br>
+(11-15)-(16-20) ダメージ<br>
++(101 to 150)% のダメージをアンデッドに与える<br>
++(11 to 15) 、敏捷性上昇<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invlbw.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Magebane<br>
+ロングボウ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(13-15) to (18-21)<br>
+</span>Required Dexterity: 39<br>
+要求レベル: 3<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
++1 、全スキル上昇<br>
++(31 to 50)% 強化ダメージ<br>
+-(2 to 5)% 、敵の火炎耐性修正<br>
+-(2 to 5)% 、敵の稲妻耐性修正<br>
+-(2 to 5)% 、敵の冷気耐性修正<br>
+(-11 to -15) 、エネルギー上昇<br>
+火炎耐性 +(11 to 15)%<br>
+稲妻耐性 +(11 to 15)%<br>
+冷気耐性 +(11 to 15)%<br>
++(6 to 10) のマナ回復、命中時<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invcbw.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Soulraider<br>
+複合ボウ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(17-20) to (37-56)<br>
+</span>Required Dexterity: 51<br>
+要求レベル: 4<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
++(31 to 60)% 強化ダメージ<br>
++(11 to 25) 、最大ダメージ上昇<br>
+-(2 to 5)% 目標の防御力<br>
+敵の速度低下 (3 to 5)%<br>
+Drains 2% Life per Second<br>
++(1 to 2) のライフ回復、命中時<br>
++(1 to 2) のマナ回復、命中時<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invsbb.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Buriza-Do Tsuru<br>
+ショート・バトルボウ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(23-28) to (56-102)<br>
+</span>Required Dexterity: 63<br>
+要求レベル: 5<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
+15% Chance to cast レベル 5 Countdown投射（敵を殺した際）<br>
++(41 to 70)% 強化ダメージ<br>
+15% 攻撃スピード強化<br>
++(21 to 60) 、最大ダメージ上昇<br>
+(16-25)-(26-35) 冷気ダメージ<br>
+-(21 to 25)% 、敵の冷気耐性修正<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invlbb.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Darkplague<br>
+ロング・バトルボウ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(30-36) to (45-54)<br>
+</span>Required Dexterity: (70-67)<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
+10% Chance to cast レベル 2 Time Strike投射（命中時）<br>
+5% Chance to cast レベル 6 Death Star投射（命中時）<br>
++(51 to 80)% 強化ダメージ<br>
+(3 to 6)% 攻撃ごとにスタミナを奪う <br>
+-(21 to 25)% 、敵の毒物耐性修正<br>
+キャラクターの武器ダメージ +(31 to 50)%<br>
+毒物耐性 +(21 to 25)%<br>
+穴空き済み: 2<br>
+必要ステイタス (-6 to -10)%<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invswb.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Webspinner<br>
+ショート・ウォーボウ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(31-38) to (78-107)<br>
+</span>Required Dexterity: (77-73)<br>
+要求レベル: 8<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
+3% Chance to cast レベル 4 Hex投射（命中時）<br>
+5% Chance to cast レベル 3 Carpet of Spiders投射（敵を殺した際）<br>
++(31 to 60)% 強化ダメージ<br>
++(31 to 50) 、最大ダメージ上昇<br>
++(3 to 5)% 、毒物魔法ダメージ修正<br>
+遠距離からの攻撃者をスロー (11 to 15)%<br>
+最大ライフ 上昇 (3 to 5)%<br>
+ヘックス持続時間： +2 秒間持続<br>
+必要ステイタス (-11 to -15)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invlwb.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The Black Dame<br>
+ロング・ウォーボウ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(41-52) to (95-130)<br>
+</span>Required Dexterity: 99<br>
+要求レベル: 11<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
+5% Chance to cast レベル 2 Hunting Banshee投射（敵を殺した際）<br>
++(61 to 100)% 強化ダメージ<br>
+25% 攻撃スピード強化<br>
++(31 to 50) 、最大ダメージ上昇<br>
+(3 to 7)% のマナを一撃ごとに奪う<br>
+敵の速度低下 (3 to 5)%<br>
+キャラクターの総合防御値追加 (21 to 25)%<br>
+(4 to 5)% 以下の状態で蘇生： Dark Huntress<br>
++(3 to 5)% 、獲得経験値修正<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 クロスボウs</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invlxb.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Runeshatter<br>
+ライト・クロスボウ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(14-16) to (20-23)<br>
+</span>Required Strength: 14<br>
+要求レベル: 3<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.19921875 per strength)% -->
+2% Chance to cast レベル 6 Mana Sweep投射（敵を殺した際）<br>
++(21 to 40)% 強化ダメージ<br>
++(51 to 75)% のダメージをデーモンに与える<br>
++(11 to 15) 、筋力上昇<br>
+(21 to 25)% 呪いの持続時間低減<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invmxb.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The Barracuda<br>
+クロスボウ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(23-28) to (51-68)<br>
+</span>Required Strength: 66<br>
+要求レベル: 5<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.19921875 per strength)% -->
+4% Chance to cast レベル 3 Bloodlust投射（敵を殺した際）<br>
++(31 to 60)% 強化ダメージ<br>
++(16 to 25)% ブラッドラストにダメージ追加<br>
+5% 攻撃スピード強化<br>
++(16 to 25) 、最大ダメージ上昇<br>
+(3 to 5)% 壊滅打のチャンス<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invhxb.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Fallentooth<br>
+ヘヴィ・クロスボウ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(42-52) to (93-127)<br>
+</span>Required Strength: 91<br>
+要求レベル: 8<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.19921875 per strength)% -->
++(41 to 75)% 強化ダメージ<br>
++(31 to 50) 、最大ダメージ上昇<br>
+(3 to 5)% のライフを一撃ごとに奪う<br>
+(21 to 25)% 、敵の傷が開く可能性<br>
++(2 to 6) to Summon Fallen<br>
+(7 to 10)% 筋力ボーナス<br>
+火炎耐性 +(21 to 25)%<br>
+稲妻耐性 +(21 to 25)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invrxb.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Embershot<br>
+連射クロスボウ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(43-52) to (67-81)<br>
+</span>Required Strength: 103<br>
+要求レベル: 11<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.19921875 per strength)% -->
+15% Chance to cast レベル 5 Flamefront投射（敵を殺した際）<br>
++(51 to 80)% 強化ダメージ<br>
+(21-35)-(41-75) 火炎ダメージ<br>
+-(11 to 15)% 、敵の火炎耐性修正<br>
++(21 to 25) 、筋力上昇<br>
++(21 to 25) 、バイタリティ上昇<br>
+火炎吸収 (3 to 5)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 Amazon Weapons</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invam1.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Flowerspリング<br>
+スタッグ・ボウ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(53-67) to (85-101)<br>
+</span>(Amazon Only)<br>
+Required Dexterity: 78<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.296875 per dexterity)% -->
+15% Chance to cast レベル 6 Death Blossom投射（敵を殺した際）<br>
+2% Chance to cast レベル 6 Lifeblood投射（敵を殺した際）<br>
++(31 to 60)% 強化ダメージ<br>
+(31-40)-(51-60) ダメージ<br>
+(7 to 10)% 敏捷性ボーナス<br>
+ライフを徐々に回復 +(16 to 25)<br>
++(11 to 25)% ダメージ（ヒーリングポーション使用中）<br>
+全耐性： +(11 to 15)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invam2.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Herald of Skartara<br>
+リフレックス・ボウ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(66-94) to (115-158)<br>
+</span>(Amazon Only)<br>
+Required Dexterity: 103<br>
+要求レベル: 11<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.296875 per dexterity)% -->
+2% Chance to cast レベル 3 Phalanx投射（敵を殺した際）<br>
+2% Chance to cast レベル 3 Celerity投射（敵を殺した際）<br>
++(61 to 100)% 強化ダメージ<br>
+15% 攻撃スピード強化<br>
+(31-50)-(61-90) ダメージ<br>
++(1 to 2) to Elfin Arrows<br>
+(11 to 15)% 割り込み不可能攻撃の確率<br>
+(31 to 50)% のゴールドを追加入手<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invam3.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Sundial Spire<br>
+メイデン・スピア (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(15-19) to (40-49)<br>
+</span>Durability: 64<br>
+(Amazon Only)<br>
+Required Strength: 33<br>
+Required Dexterity: 67<br>
+要求レベル: 7<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.3984375 per dexterity)% -->
++(21 to 30) エネルギーファクター<br>
+100% Chance to cast レベル 6 Time Field投射（レベルアップした際）<br>
++(31 to 60)% 強化ダメージ<br>
+10% 攻撃スピード強化<br>
+-(11 to 15)% 、敵の火炎耐性修正<br>
++(1 to 2) to Sunburn<br>
+(11 to 15)% エネルギーボーナス<br>
+Sunburn Resistance Penalty Increased by (3 to 5)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invam4.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Terra Indiges<br>
+メイデン・パイク (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(19-25) to (93-136)<br>
+</span>Durability: 80<br>
+(Amazon Only)<br>
+Required Strength: 43<br>
+Required Dexterity: 87<br>
+要求レベル: 10<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.3984375 per dexterity)% -->
+15% Chance to cast レベル 3 Elemental投射（攻撃時）<br>
+3% Chance to cast レベル 3 Bloodlust投射（攻撃時）<br>
++(11 to 25)% ブラッドラストにダメージ追加<br>
++(41 to 80)% 強化ダメージ<br>
+10% より速いヒットリカバリー<br>
++(41 to 70) 、最大ダメージ上昇<br>
+全耐性： +(21 to 30)%<br>
+ダメージ低減： (3 to 5)%<br>
+キャラクターの総合防御値追加 (11 to 15)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invam5.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Mooncurse<br>
+メイデン・ジャベリン (1)<br>
+</b></span><span align="center" class="content">Throw ダメージ: <span class="magic">(18-22) to (82-111)<br>
+</span>One-Hand ダメージ: <span class="magic">(17-20) to (69-95)<br>
+</span>Durability: 84<br>
+(Amazon Only)<br>
+Required Strength: 43<br>
+Required Dexterity: 87<br>
+要求レベル: 10<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.296875 per dexterity)% -->
+5% Chance to cast レベル 4 Frog Prince投射（敵を殺した際）<br>
+5% Chance to cast レベル 4 Banish投射（敵を殺した際）<br>
++(31 to 60)% 強化ダメージ<br>
++(41 to 60) 、最大ダメージ上昇<br>
+(11-25)-(51-75) 稲妻ダメージ<br>
+(11-25)-(51-75) 冷気ダメージ<br>
+冷気耐性 +(21 to 25)%<br>
+(21 to 30)% 、マジックアイテム入手確率上昇<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 Assassin Weapons</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invktr.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The Nutcracker<br>
+カタール (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(9-12) to (13-16)<br>
+</span>Durability: 10<br>
+(Assassin Only)<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.296875 per dexterity)% -->
++(21 to 50)% 強化ダメージ<br>
+(2 to 5)% 壊滅打のチャンス<br>
+(3 to 5) 、筋力上昇<br>
+(-21 to -50) ずつ敵の防御力を下げる（命中一回ごとに）<br>
+(3 to 5)% 敏捷性ボーナス<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invktr.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Spellgrip<br>
+リスト・ブレイド (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: 10 to 12<br>
+Durability: 20<br>
+(Assassin Only)<br>
+Required Dexterity: 20<br>
+要求レベル: 2<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.296875 per dexterity)% -->
+15% Chance to cast レベル 3 Hunting Banshee投射（攻撃時）<br>
++1 、アサシンのスキルレベル修正<br>
+5% より速い呪文詠唱<br>
+-(3 to 5)% 、敵の火炎耐性修正<br>
+-(3 to 5)% 、敵の稲妻耐性修正<br>
+-(3 to 5)% 、敵の冷気耐性修正<br>
++(1 to 2) to Ice Whirl<br>
++(11 to 15) 、エネルギー上昇<br>
+全耐性： +(3 to 5)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invaxf.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Sawfish<br>
+ハチェット・ハンズ (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(15-19) to (18-22)<br>
+</span>Durability: 29<br>
+(Assassin Only)<br>
+Required Dexterity: 29<br>
+要求レベル: 4<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.296875 per dexterity)% -->
+3% Chance to cast レベル 2 Bloodlust投射（攻撃時）<br>
++(31 to 60)% 強化ダメージ<br>
+15% 攻撃スピード強化<br>
+(31 to 50)% のボーナス攻撃値<br>
+スタン攻撃<br>
++(1 to 2) to ブレイド・バリア<br>
+(7 to 10)% 敏捷性ボーナス<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invaxf.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Hellfeast<br>
+セスタス (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(40-48) to (48-67)<br>
+</span>Durability: 38<br>
+(Assassin Only)<br>
+Required Dexterity: 39<br>
+要求レベル: 5<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.296875 per dexterity)% -->
+15% Chance to cast レベル 3 Flamefront投射（攻撃時）<br>
+25% Chance to cast レベル 4 Bloodstorm投射（敵を殺した際）<br>
++(41 to 70)% 強化ダメージ<br>
+(21-25)-(26-40) ダメージ<br>
+-(11 to 15)% 、敵の火炎耐性修正<br>
+(3 to 6)% のライフを一撃ごとに奪う<br>
+(11 to 15)% 割り込み不可能攻撃の確率<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invclw.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Gold Digger<br>
+クローズ (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(20-25) to (24-30)<br>
+</span>Durability: 48<br>
+(Assassin Only)<br>
+Required Dexterity: 48<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.296875 per dexterity)% -->
++(31 to 60)% 強化ダメージ<br>
+スタン攻撃<br>
+(3 to 5)% 壊滅打のチャンス<br>
+(101 to 150)% のゴールドを追加入手<br>
+(21 to 30)% 、マジックアイテム入手確率上昇<br>
++1  、照明範囲が拡大<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invclw.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Arihan's End<br>
+ブレイド・タロンズ (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(29-35) to (57-94)<br>
+</span>Durability: 65<br>
+(Assassin Only)<br>
+Required Dexterity: 84<br>
+要求レベル: 11<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.296875 per dexterity)% -->
+15% Chance to cast レベル 4 Fire Splash投射（攻撃時）<br>
++(41 to 70)% 強化ダメージ<br>
+5% 攻撃スピード強化<br>
++(21 to 50) 、最大ダメージ上昇<br>
++(101 to 150)% のダメージをデーモンに与える<br>
++(21 to 50) 、ライフ上昇<br>
+火炎耐性 +(21 to 25)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invskr.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Circuit Breaker<br>
+シザース・カタール (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(28-36) to (33-43)<br>
+</span>Durability: 66<br>
+(Assassin Only)<br>
+Required Dexterity: 68<br>
+要求レベル: 12<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.296875 per dexterity)% -->
+15% Chance to cast レベル 4 Flash投射（攻撃時）<br>
++(41 to 80)% 強化ダメージ<br>
+15% 攻撃スピード強化<br>
+5% より速いヒットリカバリー<br>
+1-(21-50) 稲妻ダメージ<br>
++(1 to 2) to Shock Flower<br>
+稲妻耐性 +(21 to 30)%<br>
+50% 強化ダメージ vs. Necrobots<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invwsc.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Na-Krul's Spine<br>
+薙刀 (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(80-102) to (105-148)<br>
+</span>Durability: 88<br>
+(Assassin Only)<br>
+Required Dexterity: 58<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.3984375 per dexterity)% -->
+<!-- <font color=ff9900>Area Effect ダメージ<font color=ffffff></span><br> -->
+5% Chance to cast レベル 2 Bloodlust投射（攻撃時）<br>
+20% Chance to cast レベル 4 Flamefront投射（攻撃時）<br>
++(41 to 50)% ブラッドラストにダメージ追加<br>
++(61 to 100)% 強化ダメージ<br>
+15% 攻撃スピード強化<br>
+(31-40)-(51-80) ダメージ<br>
+全耐性： +(21 to 25)%<br>
+ダメージ低減： (3 to 5)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 Barbarian Weapons</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invscmu.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Warmonger<br>
+スパタ (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(15-19) to (19-24)<br>
+</span>Durability: 66<br>
+(Barbarian Only)<br>
+Required Strength: 41<br>
+要求レベル: 5<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
++(21 to 50)% 強化ダメージ<br>
+(11 to 25)% のボーナス攻撃値<br>
++(41 to 80)% のダメージをアンデッドに与える<br>
+(3 to 5)% 壊滅打のチャンス<br>
++(6 to 10) 、筋力上昇<br>
++(6 to 10) 、敏捷性上昇<br>
+(3 to 5)% 以下の状態で蘇生： Defiler<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/inv9sbu.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Wolfpack<br>
+バックソード (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(19-24) to (65-100)<br>
+</span>Durability: 87<br>
+(Barbarian Only)<br>
+Required Strength: 55<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
++(21 to 50)% 強化ダメージ<br>
+5% 攻撃スピード強化<br>
++(41 to 70) 、最大ダメージ上昇<br>
+(3 to 5)% のライフを一撃ごとに奪う<br>
+(3 to 5)% 壊滅打のチャンス<br>
++(11 to 15)% 召喚した配下のライフボーナス<br>
++(11 to 15) 、筋力上昇<br>
++(11 to 15) 、バイタリティ上昇<br>
+(11 to 15)% 以下の状態で蘇生： Ghost Wolf<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invbsdu.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Icehunter's Fang<br>
+エイダ (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(26-31) to (31-38)<br>
+</span>Durability: 108<br>
+(Barbarian Only)<br>
+Required Strength: 68<br>
+要求レベル: 7<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
+5% Chance to cast レベル 3 Winter Avatar投射（攻撃時）<br>
+3% Chance to cast レベル 2 Rune of Ice投射（攻撃時）<br>
+10% Chance to cast レベル 4 Ice ランス投射（攻撃時）<br>
++(31 to 60)% 強化ダメージ<br>
+(11-25)-(26-45) 冷気ダメージ<br>
++(11 to 25) 、敏捷性上昇<br>
+冷気耐性 +(21 to 30)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invlsdu.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Uldyssian's Legion<br>
+ブロンズ・ソード (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(29-35) to (36-44)<br>
+</span>Durability: 122<br>
+(Barbarian Only)<br>
+Required Strength: 82<br>
+要求レベル: 9<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
++(41 to 70)% 強化ダメージ<br>
+15% 攻撃スピード強化<br>
+15% より速い呪文詠唱<br>
++(11 to 15)% 召喚した配下のダメージボーナス<br>
++(3 to 5)% 召喚した配下のライフボーナス<br>
+最大マナ 上昇 (21 to 25)%<br>
+全耐性： +(7 to 10)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/inv9lsu.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Bul Kathos' Teaching<br>
+クリーグスマッシャー (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(33-40) to (62-259)<br>
+</span>Durability: 126<br>
+(Barbarian Only)<br>
+Required Strength: 96<br>
+要求レベル: 13<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
+5% Chance to cast レベル 4 Sパイク Nova投射（攻撃時）<br>
++1 、バーバリアンのスキルレベル上昇<br>
++(41 to 70)% 強化ダメージ<br>
++(1.75 per レベル) 、最大ダメージ上昇 (キャラクターレベルに比例)<br>
++(41 to 80)% のダメージをデーモンに与える<br>
++(1 to 2) to Inner Fire<br>
++(101 to 150) 、ライフ上昇<br>
++(6 to 10) のライフ回復、命中時 in Melee<br>
+キャラクターの総合防御値追加 (3 to 5)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invhaxu.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>King of the Dreadlands<br>
+マーマン・アックス (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(11-13) to (18-21)<br>
+</span>Durability: 24<br>
+(Barbarian Only)<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
++(5 to 6) Enhanced Stance Radius<br>
+3% Chance to cast レベル 4 Crater投射（敵を殺した際）<br>
++(31 to 50)% 強化ダメージ<br>
+25% 攻撃スピード強化<br>
++(31 to 50)% のダメージをアンデッドに与える<br>
++(3 to 5)% 、獲得経験値修正<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invアックスu.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Gift of the Spiritbeast<br>
+ハンマーハンド・アックス (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(31-38) to (60-97)<br>
+</span>Durability: 85<br>
+(Barbarian Only)<br>
+Required Strength: 93<br>
+要求レベル: 12<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
+2% Chance to cast レベル 6 Mark of the Wild投射（攻撃時）<br>
++(31 to 60)% 強化ダメージ<br>
+10% 攻撃スピード強化<br>
++(21 to 50) 、最大ダメージ上昇<br>
+(21-40)-(41-60) 火炎ダメージ<br>
+(21-40)-(41-60) 稲妻ダメージ<br>
+最大マナ 上昇 (11 to 15)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/inv9btu.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Oni no Ona<br>
+斧 (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(18-22) to (24-30)<br>
+</span>Durability: 30<br>
+(Barbarian Only)<br>
+Required Strength: 21<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.3984375 per strength)% -->
+5% Chance to cast レベル 2 Glacial Nova投射（敵を殺した際）<br>
+15% Chance to cast レベル 1 Frozen 冠投射（攻撃時）<br>
++(21 to 50)% 強化ダメージ<br>
+(11-15)-(21-30) 冷気ダメージ<br>
++(11 to 15)% 、冷気魔法ダメージ修正<br>
+冷気耐性 +(11 to 15)%<br>
++(11 to 15) のマナ回復、命中時 in Melee<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invbtxu.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Bergkaiser<br>
+ヴァラスカ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(45-57) to (121-177)<br>
+</span>Durability: 91<br>
+(Barbarian Only)<br>
+Required Strength: 89<br>
+要求レベル: 7<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.3984375 per strength)% -->
+15% Chance to cast レベル 4 Shadowstorm投射（攻撃時）<br>
++(41 to 80)% 強化ダメージ<br>
++(61 to 100) 、最大ダメージ上昇<br>
+(51 to 75)% のボーナス攻撃値<br>
+スタン攻撃<br>
++(1 to 3) to Baランス<br>
++(16 to 25) 、全属性値(筋力、敏捷性など)修正<br>
+全耐性： +(11 to 15)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invgaxu.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Wrathchild<br>
+ラブリュス (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(56-72) to (125-202)<br>
+</span>Durability: 101<br>
+(Barbarian Only)<br>
+Required Strength: 127<br>
+要求レベル: 12<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.3984375 per strength)% -->
++1 、バーバリアンのスキルレベル上昇<br>
++(41 to 80)% 強化ダメージ<br>
+-5% 攻撃スピード低下<br>
++(61 to 120) 、最大ダメージ上昇<br>
+(3 to 5)% 壊滅打のチャンス<br>
+キャラクターの武器ダメージ +(21 to 25)%<br>
+敵の速度低下 (3 to 5)%<br>
+(31 to 50)% のゴールドを追加入手<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 Druid Weapons</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invcbwu.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Sagespirit<br>
+コンパウンド・ボウ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(18-22) to (48-83)<br>
+</span>(Druid Only)<br>
+Required Strength: 57<br>
+要求レベル: 5<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
+5% Chance to cast レベル 1 Arcane Fury投射（敵を殺した際）<br>
++1 、ドルイドのスキルレベル修正<br>
++(31 to 60)% 強化ダメージ<br>
++(16 to 25)% マーク・オブ・ザ・ワイルドにエレメンタルダメージ追加<br>
+15% 攻撃スピード強化<br>
++(21 to 50) 、最大ダメージ上昇<br>
+(31 to 50)% マーク・オブ・ザ・ワイルドの効果時間延長<br>
+(31 to 50)% のボーナス攻撃値<br>
++(16 to 25) 、筋力上昇<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/inv8lbu.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Vipercast<br>
+サーペント・ボウ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(24-30) to (55-91)<br>
+</span>(Druid Only)<br>
+Required Strength: 71<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
+25% Chance to cast レベル 10 Venomous Spirit投射（敵を殺した際）<br>
++(31 to 60)% 強化ダメージ<br>
++(21 to 50) 、最大ダメージ上昇<br>
+(3 to 6)% のライフを一撃ごとに奪う<br>
++(21 to 25)% 、毒物魔法ダメージ修正<br>
+敵の速度低下 (11 to 15)%<br>
+(6 to 10)% 筋力ボーナス<br>
+(7 to 10)% 割り込み不可能攻撃の確率<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/inv8s8u.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Wasp Sting<br>
+メイプル・ボウ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(28-35) to (41-51)<br>
+</span>(Druid Only)<br>
+Required Strength: 84<br>
+要求レベル: 7<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
+10% Chance to cast レベル 1 Arrow投射（命中時）<br>
++(31 to 60)% 強化ダメージ<br>
+15% 攻撃スピード強化<br>
+(3-6)-(9-13) の毒物ダメージが1 秒間持続<br>
+(6 to 10)% 、敵の傷が開く可能性<br>
+毒物の効果時間を低減、 (7 to 10)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invsbbu.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Salamander's Breath<br>
+ヴァイパー・ボウ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(62-81) to (89-118)<br>
+</span>(Druid Only)<br>
+Required Strength: 98<br>
+要求レベル: 9<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
+100% Chance to cast レベル 6 Fire Splash投射（敵を殺した際）<br>
+25% Chance to cast レベル 5 Rune of Fire投射（命中時）<br>
++(41 to 80)% 強化ダメージ<br>
+25% より速いヒットリカバリー<br>
+(26-35)-(36-50) ダメージ<br>
+(7 to 10)% 壊滅打のチャンス<br>
+火炎耐性 +(31 to 40)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invswbu.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Thorn Branch<br>
+リカーブ・ボウ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(39-50) to (59-75)<br>
+</span>(Druid Only)<br>
+Required Strength: 111<br>
+要求レベル: 12<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
+5% Chance to cast レベル 1 Barrage投射（敵を殺した際）<br>
++1 、ドルイドのスキルレベル修正<br>
++(41 to 80)% 強化ダメージ<br>
+(21 to 25)% 、敵の傷が開く可能性<br>
+攻撃後逃走する (4 to 5)%<br>
+マナを回復させる +(21 to 25)%<br>
+キャラクターの総合防御値追加 (11 to 15)%<br>
+ターゲットの速度低下、 (8 to 10)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invcstu.jpg" width="28" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Naiad King<br>
+フレイムン・スタッフ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: 13 to 15<br>
+Durability: 77<br>
+(Druid Only)<br>
+Required Strength: 18<br>
+要求レベル: 4<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.09765625 per strength)% -->
++1 、ドルイドのスキルレベル修正<br>
++(11 to 15)% マーク・オブ・ザ・ワイルドにエレメンタルダメージ追加<br>
+(21 to 30)% マーク・オブ・ザ・ワイルドの効果時間延長<br>
+-(11 to 15)% 、敵の火炎耐性修正<br>
+-(11 to 15)% 、敵の冷気耐性修正<br>
+火炎耐性 +(11 to 20)%<br>
+稲妻耐性 +(11 to 20)%<br>
+毒物耐性 +(11 to 20)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 Necromancer Weapons</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/inv9s8u.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Cane of Juris Khan<br>
+ラプター・サイズ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(9-13) to (22-30)<br>
+</span>Durability: 26<br>
+(Necromancer Only)<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.3984375 per strength)% -->
+5% Chance to cast レベル 4 Venomous Spirit投射（命中時）<br>
++(11 to 50)% 強化ダメージ<br>
++(11 to 15)% 、毒物魔法ダメージ修正<br>
+(21 to 25)% 、敵の傷が開く可能性<br>
+(3 to 5)% 筋力ボーナス<br>
+キャラクターの総合防御値追加 (11 to 15)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invscyu.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Talon's Reach<br>
+ボーンスプリッター (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(10-13) to (73-118)<br>
+</span>Durability: 96<br>
+(Necromancer Only)<br>
+Required Strength: 53<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.3984375 per strength)% -->
+25% Chance to cast レベル 9 Hunting Banshee投射（敵を殺した際）<br>
++(31 to 70)% 強化ダメージ<br>
++(21 to 50) 、最大ダメージ上昇<br>
+-(21 to 25)% 、敵の冷気耐性修正<br>
+(2 to 5)% 壊滅打のチャンス<br>
++(11 to 15)% 召喚した配下のダメージボーナス<br>
+(3 to 5)% ダメージを避ける確率<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/inv8wsu.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Lord of Thorns<br>
+マロウ・スタッフ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: 17 to 23<br>
+Durability: 106<br>
+(Necromancer Only)<br>
+Required Strength: 37<br>
+要求レベル: 11<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.09765625 per strength)% -->
+2% Chance to cast レベル 5 Sパイク Nova投射（ミサイル被弾時）<br>
++1 、ネクロマンサーのスキルレベル上昇<br>
+30% より速い呪文詠唱<br>
+命中するとモンスターが逃走 +3%<br>
++(21 to 25)% 召喚した配下のダメージボーナス<br>
++(21 to 25)% 召喚した配下のライフボーナス<br>
++(16 to 25) 、エネルギー上昇<br>
+全耐性： +(11 to 15)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invkrsu.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Mendeln's Companion<br>
+ヘクスブレイド (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(9-12) to (13-16)<br>
+</span>Durability: 15<br>
+(Necromancer Only)<br>
+Required Dexterity: 27<br>
+要求レベル: 4<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.296875 per dexterity)% -->
++(21 to 50)% 強化ダメージ<br>
+5% 攻撃スピード強化<br>
+5% より速い呪文詠唱<br>
+スタン攻撃<br>
+(3 to 5) 、筋力上昇<br>
++(21 to 50) 、ライフ上昇<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/inv9blu.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Compass of Souls<br>
+スピリット・エッジ (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(14-17) to (25-30)<br>
+</span>Durability: 28<br>
+(Necromancer Only)<br>
+Required Dexterity: 67<br>
+要求レベル: 11<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.296875 per dexterity)% -->
++(41 to 70)% 強化ダメージ<br>
+(11-25)-(31-50) 火炎ダメージ<br>
+(11-25)-(31-50) 冷気ダメージ<br>
+(4 to 7)% のマナを一撃ごとに奪う<br>
+マナを回復させる +(21 to 25)%<br>
+(3 to 5)% 割り込み不可能攻撃の確率<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invlxbu.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Deathwind<br>
+ニードル・クロスボウ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(14-18) to (19-24)<br>
+</span>(Necromancer Only)<br>
+Required Strength: 28<br>
+要求レベル: 4<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
+3% Chance to cast レベル 2 Time Strike投射（命中時）<br>
++(21 to 50)% 強化ダメージ<br>
++(101 to 150)% のダメージをアンデッドに与える<br>
+8-16 の毒物ダメージが3 秒間持続<br>
+(3 to 5) 、筋力上昇<br>
++(7 to 10) 、筋力上昇<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/inv8lxu.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The Khalim Organ<br>
+ダート・スロワー (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: 20 to 26<br>
+(Necromancer Only)<br>
+Required Strength: 46<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
+15% 攻撃スピード強化<br>
+(21-35)-(41-80) 火炎ダメージ<br>
+(21-35)-(41-80) 稲妻ダメージ<br>
+-(3 to 5)% 、敵の火炎耐性修正<br>
+-(3 to 5)% 、敵の稲妻耐性修正<br>
+火炎耐性 +(11 to 15)%<br>
+稲妻耐性 +(11 to 15)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invmxbu.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Starkiller<br>
+スティンガー・クロスボウ (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(57-77) to (81-125)<br>
+</span>(Necromancer Only)<br>
+Required Strength: 63<br>
+要求レベル: 9<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
+5% Chance to cast レベル 8 Abyss投射（敵を殺した際）<br>
++1 、ネクロマンサーのスキルレベル上昇<br>
++(41 to 75)% 強化ダメージ<br>
+5% 攻撃スピード強化<br>
+(11-20)-(21-50) ダメージ<br>
+最大マナ 上昇 (11 to 15)%<br>
+全耐性： +(11 to 15)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/inv8mxu.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Corpsefling<br>
+トレバシェット (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(51-64) to (121-163)<br>
+</span>(Necromancer Only)<br>
+Required Strength: 72<br>
+要求レベル: 12<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.296875 per strength)% -->
+5% Chance to cast レベル 3 Plague Avatar投射（敵を殺した際）<br>
++(61 to 100)% 強化ダメージ<br>
+-5% 攻撃スピード低下<br>
++(51 to 75) 、最大ダメージ上昇<br>
+(3 to 6)% のライフを一撃ごとに奪う<br>
+-(6 to 10)% 、敵の毒物耐性修正<br>
+(8 to 10)% 壊滅打のチャンス<br>
++(101 to 150) 、ライフ上昇<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invwnd.jpg" width="28" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The Square Peg<br>
+ワンド (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: 1 to 9<br>
+Durability: 12<br>
+(Necromancer Only)<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.09765625 per dexterity)% -->
++(2 to 5) 、筋力上昇<br>
++(2 to 5) 、敏捷性上昇<br>
++(2 to 5) 、バイタリティ上昇<br>
+ダメージ低減： (1 to 2)<br>
+キャラクターの総合防御値追加 (3 to 5)%<br>
+(16 to 25)% 、マジックアイテム入手確率上昇<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invywn.jpg" width="28" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Drake Cigar<br>
+木のワンド (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: 9 to 12<br>
+Durability: 36<br>
+(Necromancer Only)<br>
+Required Dexterity: 6<br>
+要求レベル: 3<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.09765625 per dexterity)% -->
+1% Chance to cast レベル 4 Flamefront when you Take ダメージ<br>
++(1 to 2) トーテム数追加<br>
++1 、ネクロマンサーのスキルレベル上昇<br>
++(3 to 5)% 、火炎魔法ダメージ修正<br>
+マナを回復させる +(11 to 15)%<br>
+火炎吸収 (3 to 5)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invbwn.jpg" width="28" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Fateweaver<br>
+ボーンワンド (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: 10 to 14<br>
+Durability: 60<br>
+(Necromancer Only)<br>
+Required Dexterity: 9<br>
+要求レベル: 5<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.09765625 per dexterity)% -->
+100% Chance to cast レベル 7 Hunting Banshee投射（自分が死亡した際）<br>
+15% Chance to cast レベル 6 Frozen Soul投射（被弾時）<br>
+10% より速い呪文詠唱<br>
++(1 to 2) 体のネクロマンサーの配下上限追加<br>
+最大マナ 上昇 (3 to 5)%<br>
+ターゲットの速度低下、 (3 to 5)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invgwn.jpg" width="28" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Blackheart<br>
+グリムワンド (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: 13 to 20<br>
+Durability: 108<br>
+(Necromancer Only)<br>
+Required Dexterity: 15<br>
+要求レベル: 11<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.09765625 per dexterity)% -->
+1% Chance to cast レベル 3 Gift of Inner Fire投射（攻撃された時）<br>
++1 、ネクロマンサーのスキルレベル上昇<br>
+15% より速い呪文詠唱<br>
+15% より速いヒットリカバリー<br>
++(1 to 2) to Dark Power<br>
++(16 to 20)% 召喚した配下のダメージボーナス<br>
+ライフを徐々に回復 +(0.875 per レベル) (キャラクターレベルに比例)<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 Paladin Weapons</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invspcu.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Auto Da Fe<br>
+ボーンブレイカー (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(13-15) to (19-22)<br>
+</span>Durability: 37<br>
+(Paladin Only)<br>
+Required Strength: 31<br>
+要求レベル: 4<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.19921875 per strength)% -->
++(11 to 25) エネルギーファクター<br>
+2% Chance to cast レベル 4 Cataclysm投射（攻撃時）<br>
++(31 to 50)% 強化ダメージ<br>
+5% 攻撃スピード強化<br>
+5% より速い呪文詠唱<br>
+-(3 to 5)% 、敵の火炎耐性修正<br>
++(2 to 4) to Apocalypse<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/inv7mas.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Dies Metus<br>
+グデンダグ (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(18-23) to (37-59)<br>
+</span>Durability: 53<br>
+(Paladin Only)<br>
+Required Strength: 46<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.3984375 per strength)% -->
+5% Chance to cast レベル 1 Cold Fear投射（攻撃時）<br>
++(31 to 70)% 強化ダメージ<br>
+5% 攻撃スピード強化<br>
++(11 to 25) 、最大ダメージ上昇<br>
+スタン攻撃<br>
+(3 to 5)% 壊滅打のチャンス<br>
+敵の速度低下 (3 to 5)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invmstu.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Vindicatress<br>
+エンジェル・スター (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: 16 to 25<br>
+Durability: 69<br>
+(Paladin Only)<br>
+Required Strength: (58-55)<br>
+要求レベル: 8<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.3984375 per strength)% -->
+1% Chance to cast レベル 2 Celerity投射（被弾時）<br>
++1 、パラディンのスキルレベル上昇<br>
+10% より速い呪文詠唱<br>
++(11 to 15)% 、火炎魔法ダメージ修正<br>
++(11 to 15)% 物理・魔法スペルボーナス<br>
++(21 to 30) 、エネルギー上昇<br>
+魔法耐性 +(3 to 5)%<br>
+火炎耐性 +(21 to 30)%<br>
+(11 to 15)% 以下の状態で蘇生： Broken Soul<br>
+必要ステイタス (-6 to -10)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/inv9gmu.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Faithshaker<br>
+ハンド・オブ・ゴッド (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(45-57) to (75-120)<br>
+</span>Durability: 151<br>
+(Paladin Only)<br>
+Required Strength: 152<br>
+要求レベル: 12<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.3984375 per strength)% -->
+3% Chance to cast レベル 4 Thunder Slam投射（攻撃時）<br>
++(41 to 80)% 強化ダメージ<br>
++(21 to 50) 、最大ダメージ上昇<br>
++(51 to 100)% のダメージをデーモンに与える<br>
+スタン攻撃<br>
++(16 to 25) 、筋力上昇<br>
+火炎耐性 +(16 to 25)%<br>
+冷気耐性 +(16 to 25)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invtriu.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The Crucifier<br>
+ホーリー・ランス (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(13-15) to (52-88)<br>
+</span>Durability: 52<br>
+(Paladin Only)<br>
+Required Strength: 34<br>
+要求レベル: 3<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.3984375 per strength)% -->
+5% Chance to cast レベル 1 Arrow投射（命中時）<br>
++1 、パラディンのスキルレベル上昇<br>
++(31 to 60)% 強化ダメージ<br>
+-5% 攻撃スピード低下<br>
++(21 to 50) 、最大ダメージ上昇<br>
+(11 to 15)% 壊滅打のチャンス<br>
+(11 to 15)% 筋力ボーナス<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/inv9bru.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The Angiris パイク<br>
+テポストピリー (1)<br>
+</b></span><span align="center" class="content">Two-Hand ダメージ: <span class="magic">(22-25) to (49-57)<br>
+</span>Durability: 96<br>
+(Paladin Only)<br>
+Required Strength: 112<br>
+要求レベル: 11<br>
+</span><span align="center" class="magic"><!-- Current Strength ダメージ Bonus:</span> (0.3984375 per strength)% -->
++(21 to 50) エネルギーファクター<br>
++1 、パラディンのスキルレベル上昇<br>
++(31 to 50)% 強化ダメージ<br>
++(16 to 25)% 、火炎魔法ダメージ修正<br>
++(16 to 25)% 、冷気魔法ダメージ修正<br>
+敵の速度低下 (3 to 5)%<br>
+ダメージ低減： (3 to 5)%<br>
+(3 to 5)% 以下の状態で蘇生： Daystar<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 Sorceress Weapons</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invob1.jpg" width="28" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The Watcher<br>
+イーグル・オーブ (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: 8 to 10<br>
+Durability: 14<br>
+(Sorceress Only)<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
++1 、全スキル上昇<br>
+5% より速い移動<br>
+5% より速い呪文詠唱<br>
+(41 to 70)% のゴールドを追加入手<br>
++1  、照明範囲が拡大<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invob2.jpg" width="28" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>ルナrsong<br>
+セイクリッド・グローブ (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">10 to 11<br>
+</span>Durability: 30<br>
+(Sorceress Only)<br>
+Required Dexterity: 8<br>
+要求レベル: 3<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
++(11 to 25) エネルギーファクター<br>
++1 、ソーサレスのスキルレベル上昇<br>
+-(3 to 5)% 、敵の冷気耐性修正<br>
+マナを回復させる +(11 to 15)%<br>
+稲妻耐性 +(11 to 15)%<br>
+冷気耐性 +(11 to 15)%<br>
++1  、照明範囲が拡大<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invob3.jpg" width="28" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Narlant Dream<br>
+スモークト・スフィア (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: 10 to 13<br>
+Durability: 46<br>
+(Sorceress Only)<br>
+Required Dexterity: 15<br>
+要求レベル: 4<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
+1% Chance to cast レベル 3 Charm投射（被弾時）<br>
++1 、ソーサレスのスキルレベル上昇<br>
+10% より速い呪文詠唱<br>
++(21 to 50) 対近接防御力<br>
+最大マナ 上昇 (3 to 5)%<br>
+ターゲットの速度低下、 (2 to 5)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invob4.jpg" width="28" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Thunderball<br>
+クラスプト・オーブ (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: 12 to 16<br>
+Durability: 62<br>
+(Sorceress Only)<br>
+Required Dexterity: 9<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
+3% Chance to cast レベル 2 Flash投射（攻撃された時）<br>
++(3 to 5)% ボーナスエネルギーファクター<br>
++1 、ソーサレスのスキルレベル上昇<br>
+Nova Charge Scatter Increased by (21 to 50)%<br>
++(11 to 15)% 、稲妻魔法ダメージ修正<br>
++(11 to 15) 、エネルギー上昇<br>
+稲妻耐性 +(21 to 25)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invob5.jpg" width="28" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Dragonstone<br>
+ジャレッズ・ストーン (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: 14 to 18<br>
+Durability: 78<br>
+(Sorceress Only)<br>
+Required Dexterity: 25<br>
+要求レベル: 10<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.19921875 per dexterity)% -->
++(21 to 30) エネルギーファクター<br>
+1% Chance to cast レベル 2 Blast Wave投射（攻撃された時）<br>
++1 、ソーサレスのスキルレベル上昇<br>
+15% より速い呪文詠唱<br>
+(0.1875 per レベル)% 、火炎魔法ダメージ修正 (キャラクターレベルに比例)<br>
+火炎吸収 (4 to 5)%<br>
++(6 to 15) ライフ獲得（敵１体を殺すごとに）<br>
+(21 to 25)% 、マジックアイテム入手確率上昇<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/inv9cru.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The Warped ブレイド<br>
+ワープ・ブレイド (1)<br>
+</b></span><span align="center" class="content">One-Hand ダメージ: <span class="magic">(25-32) to (90-150)<br>
+</span>Durability: 44<br>
+(Sorceress Only)<br>
+Required Dexterity: (41-39)<br>
+要求レベル: 12<br>
+</span><span align="center" class="magic"><!-- Current Dexterity ダメージ Bonus:</span> (0.296875 per dexterity)% -->
+<!-- <font color=ff9900>Area Effect ダメージ<font color=ffffff></span><br> -->
+15% Chance to cast レベル 4 Energy Beam投射（攻撃時）<br>
++(41 to 80)% 強化ダメージ<br>
+15% 攻撃スピード強化<br>
++(51 to 100) 、最大ダメージ上昇<br>
++(16 to 25) 、敏捷性上昇<br>
+(11 to 15)% 以下の状態で蘇生： Soul Flayer<br>
+必要ステイタス (-11 to -15)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<hr />
+		<p class="gensmall">List of Armour</p>
+<p class="content"><b>Tier 1 Body Armour</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invqlt.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The War Cloak<br>
+キルトのアーマー (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(22-54)<br>
+</span>Durability: 27<br>
+Required Strength: 10<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic">(2 to 3)% のライフを一撃ごとに奪う<br>
+(21 to 25)% 、敵の傷が開く可能性<br>
+キャラクターの武器ダメージ +(16 to 25)%<br>
++(31 to 50)% 防御力強化<br>
++(3 to 5)% ポーションからの回復率上昇<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invlea.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Acidblood<br>
+レザーアーマー (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(33-84)<br>
+</span>Durability: 33<br>
+Required Strength: 19<br>
+要求レベル: 2<br>
+</span><span align="center" class="magic">攻撃後逃走する (4 to 5)%<br>
+(-11 to -25) ずつ敵の防御力を下げる（命中一回ごとに）<br>
++(21 to 50)% 防御力強化<br>
++(11 to 25)% ダメージ（ヒーリングポーション使用中）<br>
+火炎耐性 +(11 to 15)%<br>
+毒物耐性 +(11 to 15)%<br>
+Attacker Takes 火炎ダメージ of (16 to 25)<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invhla.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Leather of Aut<br>
+ハードレザー・アーマー (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(52-127)<br>
+</span>Durability: 39<br>
+Required Strength: 25<br>
+要求レベル: 2<br>
+</span><span align="center" class="magic">5% Chance to cast レベル 1 Arrow when you Take ダメージ<br>
++(31 to 60)% 防御力強化<br>
+(3 to 5)% 敏捷性ボーナス<br>
+(3 to 5)% バイタリティボーナス<br>
+ダメージ低減： (3 to 5)<br>
+(11 to 15)% 割り込み不可能攻撃の確率<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invstu.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Carmen Arvale<br>
+鋲つき革アーマー (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(65-164)<br>
+</span>Durability: 45<br>
+Required Strength: 31<br>
+要求レベル: 3<br>
+</span><span align="center" class="magic">5% Chance to cast レベル 3 Gift of the Wild投射（敵を殺した際）<br>
+(3 to 5)% 補助効果時間と冷気効果時間ボーナス<br>
++(31 to 60)% 防御力強化<br>
+稲妻耐性 +(11 to 15)%<br>
+冷気耐性 +(11 to 15)%<br>
+毒物耐性 +(11 to 15)%<br>
+(101 to 150)% のゴールドを追加入手<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invrng.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Sharkbaiter<br>
+リングメイル (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(86-210)<br>
+</span>Durability: 51<br>
+Required Strength: 37<br>
+要求レベル: 4<br>
+</span><span align="center" class="magic">1% Chance to cast レベル 6 Bloodlust when you Take ダメージ<br>
++(11 to 25)% ブラッドラストにダメージ追加<br>
+5% 攻撃スピード強化<br>
+(4 to 5)% 壊滅打のチャンス<br>
++(41 to 70)% 防御力強化<br>
++(11 to 15) 、筋力上昇<br>
++(3 to 5) のライフ回復、命中時 in Melee<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invscl.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Robe of Leaves<br>
+スケールメイル (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(104-257)<br>
+</span>Durability: 57<br>
+Required Strength: 43<br>
+要求レベル: 4<br>
+</span><span align="center" class="magic">+(16 to 25)% マーク・オブ・ザ・ワイルドにエレメンタルダメージ追加<br>
+-(3 to 5)% 、敵の火炎耐性修正<br>
+-(3 to 5)% 、敵の冷気耐性修正<br>
+-(3 to 5)% 、敵の毒物耐性修正<br>
++(41 to 75)% 防御力強化<br>
+最大ライフ 上昇 (3 to 5)%<br>
+火炎耐性 (-3 to -5)%<br>
+毒物耐性 +(21 to 25)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invchn.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Albrecht's Revenge<br>
+チェーンメイル (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(110-255)<br>
+</span>Durability: 63<br>
+Required Strength: (43-41)<br>
+要求レベル: 4<br>
+</span><span align="center" class="magic">5% Chance to cast レベル 1 Arrow投射（命中時）<br>
+(11-25)-(41-50) 冷気ダメージ<br>
++(31 to 50)% 防御力強化<br>
+冷気耐性 +(21 to 25)%<br>
+(8 to 10)% 以下の状態で蘇生： Returned Archer<br>
++(7 to 15) ライフを、デーモンを殺すごとに得る<br>
+必要ステイタス (-11 to -15)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invbrs.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Werecat<br>
+ブレストプレート (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(132-324)<br>
+</span>Durability: 69<br>
+Required Strength: 55<br>
+要求レベル: 5<br>
+</span><span align="center" class="magic">5% Chance to cast レベル 1 Claw Tornado投射（攻撃時）<br>
+5% 攻撃スピード強化<br>
+(21 to 25)% 、敵の傷が開く可能性<br>
++(41 to 70)% 防御力強化<br>
++(11 to 15) 、筋力上昇<br>
++(11 to 15) 、敏捷性上昇<br>
++(11 to 15) 、バイタリティ上昇<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invspl.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Jitan's Kamon<br>
+スプリントメイル (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(150-363)<br>
+</span>Durability: 75<br>
+Required Strength: 61<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic">100% Chance to cast レベル 7 Singularity投射（自分が死亡した際）<br>
+5% Chance to cast レベル 4 Guard Tower投射（敵を殺した際）<br>
+(11-15)-(26-30) 火炎ダメージ<br>
+(11-15)-(26-30) 稲妻ダメージ<br>
+(11-15)-(26-30) 冷気ダメージ<br>
++(41 to 70)% 防御力強化<br>
+ダメージ低減： 5%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invplt.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Iceshell<br>
+プレートメイル (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(166-404)<br>
+</span>Durability: 81<br>
+Required Strength: 67<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic">2% Chance to cast レベル 5 Glacial Nova投射（攻撃された時）<br>
+5% Chance to cast レベル 4 Ice Bolt Nova投射（攻撃された時）<br>
+10% より速いヒットリカバリー<br>
++(11 to 15)% 、冷気魔法ダメージ修正<br>
++(41 to 70)% 防御力強化<br>
++5% 、最大冷気耐性を強化<br>
+冷気耐性 +(21 to 25)%<br>
+(11 to 15)% 割り込み不可能攻撃の確率<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invfld.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Fauztin's Visage<br>
+フィールドプレート (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(167-412)<br>
+</span>Durability: 87<br>
+Required Strength: 73<br>
+要求レベル: 7<br>
+</span><span align="center" class="magic">10% より速い呪文詠唱<br>
++(7 to 10)% 召喚した配下のライフボーナス<br>
++(11 to 15)% 召喚した配下のダメージボーナス<br>
++(31 to 60)% 防御力強化<br>
+冷気耐性 +(21 to 25)%<br>
+毒物耐性 +(21 to 25)%<br>
+レベル 1 Death's Fury Totem (15 回分のチャージ)<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invltp.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Dragon's Blood<br>
+ライト・プレート (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(197-507)<br>
+</span>Durability: 93<br>
+Required Strength: 79<br>
+要求レベル: 8<br>
+</span><span align="center" class="magic">5% Chance to cast レベル 4 Wrath投射（攻撃時）<br>
+15% より速い呪文詠唱<br>
++(31 to 50)% のダメージをデーモンに与える<br>
++(11 to 15)% 、火炎魔法ダメージ修正<br>
++(11 to 15)% 物理・魔法スペルボーナス<br>
++(41 to 80)% 防御力強化<br>
++(31 to 35) 、バイタリティ上昇<br>
++(16 to 25) ライフを、デーモンを殺すごとに得る<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invgth.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Steel Golem<br>
+ゴシックプレート (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(243-608)<br>
+</span>Durability: 109<br>
+Required Strength: (90-93)<br>
+要求レベル: 9<br>
+</span><span align="center" class="magic">25% より速いヒットリカバリー<br>
+スタン攻撃<br>
+5% 壊滅打のチャンス<br>
++(61 to 100)% 防御力強化<br>
+(7 to 10)% 筋力ボーナス<br>
+(7 to 10)% バイタリティボーナス<br>
+最大耐久力 上昇 (11 to 15)%<br>
+必要ステイタス +(7 to 10)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invful.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Shroud Royal<br>
+フルプレートメイル (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(260-652)<br>
+</span>Durability: 105<br>
+Required Strength: 91<br>
+要求レベル: 11<br>
+</span><span align="center" class="magic">+(1 to 2) to Vanquish<br>
+(3 to 5)% Bonus 、全属性値(筋力、敏捷性など)修正<br>
++(61 to 100)% 防御力強化<br>
+ダメージ低減： (7 to 10)<br>
+(26 to 50)% のゴールドを追加入手<br>
+(16 to 20)% 、マジックアイテム入手確率上昇<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invaar.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Queen of Glass<br>
+古代のアーマー (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(227-522)<br>
+</span>Durability: 11<br>
+Required Strength: (86-82)<br>
+要求レベル: 11<br>
+</span><span align="center" class="magic">5% より速い移動<br>
+15% より速い呪文詠唱<br>
+-(11 to 15)% 、敵の火炎耐性修正<br>
+-(11 to 15)% 、敵の稲妻耐性修正<br>
+-(11 to 15)% 、敵の冷気耐性修正<br>
+-(11 to 15)% 、敵の毒物耐性修正<br>
++(31 to 50)% 防御力強化<br>
++(151 to 250) 、マナ上昇<br>
+稲妻耐性 +(21 to 25)%<br>
+冷気耐性 +(21 to 25)%<br>
+最大耐久性低下 -90%<br>
+穴空き済み: 2<br>
+必要ステイタス (-11 to -15)%<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 ヘルムs</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invキャップ.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The Jester<br>
+キャップ (1)<br>
+</b></span><span align="center" class="content">防御力: (10-12)<br>
+Durability: 27<br>
+Required Strength: 10<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic">5% より速い移動<br>
++(3 to 5)% スペルダメージ<br>
+Random Resistance Bonus<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invskp.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Topspin<br>
+スカルキャップ (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(30-54)<br>
+</span>Durability: 33<br>
+Required Strength: 25<br>
+要求レベル: 3<br>
+</span><span align="center" class="magic">5% Chance to cast レベル 2 Starburst投射（攻撃された時）<br>
+5% 攻撃スピード強化<br>
+キャラクターの武器ダメージ +(11 to 15)%<br>
++(21 to 50)% 防御力強化<br>
+(3 to 5)% 敏捷性ボーナス<br>
+(3 to 5)% エネルギーボーナス<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invhlm.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Lavadome<br>
+ヘルム (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(52-88)<br>
+</span>Durability: 39<br>
+Required Strength: 39<br>
+要求レベル: 4<br>
+</span><span align="center" class="magic">1% Chance to cast レベル 4 Fire Fountain投射（攻撃時）<br>
+1% Chance to cast レベル 4 Tremor投射（攻撃時）<br>
++(3 to 5)% 、火炎魔法ダメージ修正<br>
+(-21 to -50) ずつ敵の防御力を下げる（命中一回ごとに）<br>
++(31 to 50)% 防御力強化<br>
++(7 to 10) 、筋力上昇<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invfhl.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Farnham's Flowerpot<br>
+フル・ヘルム (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(70-120)<br>
+</span>Durability: 45<br>
+Required Strength: 53<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic">1% Chance to cast レベル 2 Dire Charm when you Take ダメージ<br>
+5% より速い移動<br>
+10% より速いヒットリカバリー<br>
++(31 to 50)% 防御力強化<br>
+マナを回復させる +(7 to 10)%<br>
+魔法ダメージ低減： (3 to 5)<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invghm.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Lanterne Rouge<br>
+グレイト・ヘルム (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(84-154)<br>
+</span>Durability: 51<br>
+Required Strength: 67<br>
+要求レベル: 8<br>
+</span><span align="center" class="magic">5% Chance to cast レベル 4 Flamefront投射（攻撃時）<br>
+-5% より遅い移動<br>
+5% 攻撃スピード強化<br>
+-(3 to 5)% 、敵の火炎耐性修正<br>
++(21 to 50)% 防御力強化<br>
+ライフを徐々に回復 +(16 to 25)<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invcrn.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Glowskull<br>
+冠 (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(110-201)<br>
+</span>Durability: 68<br>
+Required Strength: 81<br>
+要求レベル: 10<br>
+</span><span align="center" class="magic">1% Chance to cast レベル 2 Unholy Armor投射（攻撃時）<br>
++(11 to 15)% 毒物スキル効果時間ボーナス<br>
+-(3 to 5)% 、敵の毒物耐性修正<br>
++(31 to 60)% 防御力強化<br>
+毒物耐性 +(16 to 25)%<br>
+キャラクターの総合防御値追加 (7 to 10)%<br>
+(3 to 5)% 割り込み不可能攻撃の確率<br>
+最大耐久力 上昇 (21 to 25)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 サークレットs</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invci0.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The Celestial 冠<br>
+サークレット (1)<br>
+</b></span><span align="center" class="content">防御力: (16-34)<br>
+Durability: 10<br>
+Required Dexterity: 14<br>
+要求レベル: 4<br>
+</span><span align="center" class="magic">1% Chance to cast レベル 2 Rapture投射（攻撃時）<br>
++(21 to 25)% のダメージをアンデッドに与える<br>
++(7 to 10) 、エネルギー上昇<br>
++(7 to 10) 、敏捷性上昇<br>
+毒物耐性 +(16 to 25)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invci1.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The Allseeing Eye<br>
+コロネット (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(50-90)<br>
+</span>Durability: 15<br>
+Required Dexterity: 17<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic">1% Chance to cast レベル 3 Blink when you Take ダメージ<br>
+5% 攻撃スピード強化<br>
+(31 to 50)% のボーナス攻撃値<br>
+(4 to 5)% 敏捷性ボーナス<br>
++(31 to 50) 防御力<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invci2.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Auriel's Halo<br>
+ティアラ (1)<br>
+</b></span><span align="center" class="content">防御力: (22-48)<br>
+Durability: 20<br>
+Required Dexterity: (20-19)<br>
+要求レベル: 8<br>
+</span><span align="center" class="magic">+1 、パラディンのスキルレベル上昇<br>
+(11-15)-(21-35) 火炎ダメージ<br>
+(11-15)-(21-35) 冷気ダメージ<br>
+火炎耐性 +(11 to 15)%<br>
+冷気耐性 +(11 to 15)%<br>
+必要ステイタス (-3 to -5)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invci3.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Haareis<br>
+ダイアデム (1)<br>
+</b></span><span align="center" class="content">防御力: (26-57)<br>
+Durability: 25<br>
+Required Dexterity: 28<br>
+要求レベル: 10<br>
+</span><span align="center" class="magic">1% Chance to cast レベル 1 Shackles of Ice投射（攻撃時）<br>
+(4 to 5)% 補助効果時間と冷気効果時間ボーナス<br>
+(2 to 4)% のライフを一撃ごとに奪う<br>
+(7 to 10)% 、敵の傷が開く可能性<br>
+(4 to 5)% バイタリティボーナス<br>
+冷気耐性 +(16 to 25)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 Special ヘルムs</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invmsk.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Umbaru's Jinx<br>
+マスク (1)<br>
+</b></span><span align="center" class="content">防御力: (36-52)<br>
+Durability: 26<br>
+Required Strength: 50<br>
+要求レベル: 7<br>
+</span><span align="center" class="magic">+(3 to 5)% 、火炎魔法ダメージ修正<br>
++(3 to 5)% 、毒物魔法ダメージ修正<br>
++(11 to 15)% 召喚した配下のダメージボーナス<br>
++(4 to 5)% 召喚した配下の耐性ボーナス<br>
+毒物の効果時間を低減、 (8 to 10)%<br>
+(4 to 5)% 以下の状態で蘇生： Acid Beast<br>
+レベル 2 Diseased Cattle (15 回分のチャージ)<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invbhm.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Stillwater<br>
+ボーンヘルム (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(53-94)<br>
+</span>Durability: 32<br>
+Required Strength: 61<br>
+要求レベル: 10<br>
+</span><span align="center" class="magic">+(11 to 15) エネルギーファクター<br>
+1% Chance to cast レベル 4 Mana Sweep投射（攻撃された時）<br>
++(21 to 50)% 防御力強化<br>
++(101 to 150) 、マナ上昇<br>
+マナを回復させる +(11 to 15)%<br>
++(16 to 25) マナを、１人倒すごとに得る<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 Shields</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invbuc.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Razordisk<br>
+バックラー (1)<br>
+</b></span><span align="center" class="content">防御力: (17-28)<br>
+Durability: 32<br>
+Required Strength: 6<br>
+Required Dexterity: 17<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic">+(0.875 per レベル) 、最大ダメージ上昇 (キャラクターレベルに比例)<br>
+(3 to 5) 、筋力上昇<br>
+(11 to 15)% 、敵の傷が開く可能性<br>
+(-21 to -50) ずつ敵の防御力を下げる（命中一回ごとに）<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invsml.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Destroying Angel<br>
+スモールシールド (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(45-100)<br>
+</span>Durability: 42<br>
+Required Strength: 14<br>
+Required Dexterity: 31<br>
+要求レベル: 2<br>
+</span><span align="center" class="magic">16-24 の毒物ダメージが5 秒間持続<br>
++(11 to 15)% 、毒物魔法ダメージ修正<br>
+攻撃後逃走する (4 to 5)%<br>
++(21 to 40)% 防御力強化<br>
+毒物耐性 +(21 to 25)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invlrg.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Wheel of Fortune<br>
+ラージシールド (1)<br>
+</b></span><span align="center" class="content">防御力: (61-116)<br>
+Durability: 52<br>
+Required Strength: 22<br>
+Required Dexterity: 45<br>
+要求レベル: 4<br>
+</span><span align="center" class="magic">1% Chance to cast レベル 9 Ice Whirl投射（攻撃時）<br>
++(3 to 5)% 、冷気魔法ダメージ修正<br>
++(7 to 10) 、筋力上昇<br>
++(7 to 10) 、敏捷性上昇<br>
+(8 to 10)% 割り込み不可能攻撃の確率<br>
+(31 to 50)% のゴールドを追加入手<br>
+(16 to 25)% 、マジックアイテム入手確率上昇<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invkit.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Banner of Duncraig<br>
+カイトシールド (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(110-259)<br>
+</span>Durability: 62<br>
+Required Strength: 30<br>
+Required Dexterity: 59<br>
+要求レベル: 5<br>
+</span><span align="center" class="magic">2% Chance to cast レベル 1 Bloodlust投射（攻撃時）<br>
+2% Chance to cast レベル 1 Fortress投射（攻撃時）<br>
++(31 to 60)% 防御力強化<br>
++(9 to 15) 、筋力上昇<br>
++(9 to 15) 、敏捷性上昇<br>
+稲妻耐性 +(16 to 25)%<br>
+冷気耐性 +(16 to 25)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invtow.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The Ivory Tower<br>
+タワーシールド (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(137-309)<br>
+</span>Durability: 72<br>
+Required Strength: (33-32)<br>
+Required Dexterity: (64-62)<br>
+要求レベル: 7<br>
+</span><span align="center" class="magic">+(4 to 5)% ボーナスエネルギーファクター<br>
+5% より速い呪文詠唱<br>
++(11 to 15)% 、火炎魔法ダメージ修正<br>
++(11 to 15)% 、稲妻魔法ダメージ修正<br>
++(31 to 50)% 防御力強化<br>
+最大マナ 上昇 (3 to 5)%<br>
+必要ステイタス (-11 to -15)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invgts.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Doomfall<br>
+ゴシックシールド (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(180-425)<br>
+</span>Durability: 81<br>
+Required Strength: 46<br>
+Required Dexterity: 87<br>
+要求レベル: 10<br>
+</span><span align="center" class="magic">2% Chance to cast レベル 5 Abyss投射（攻撃された時）<br>
+5% より素早いブロック<br>
+-(3 to 5)% 、敵の冷気耐性修正<br>
+キャラクターの武器ダメージ +(21 to 25)%<br>
++(41 to 70)% 防御力強化<br>
++(16 to 25) 、筋力上昇<br>
+ターゲットの速度低下、 (4 to 5)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 Special Shields</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invbsh.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The Wailing Wall<br>
+ボーンシールド (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(55-131)<br>
+</span>Durability: 51<br>
+Required Dexterity: 44<br>
+要求レベル: 5<br>
+</span><span align="center" class="magic">5% Chance to cast レベル 1 Hunting Banshee投射（敵を殺した際）<br>
+(11-15)-(16-25) 冷気ダメージ<br>
++(31 to 60)% 防御力強化<br>
++(7 to 10) 、敏捷性上昇<br>
+魔法耐性 +(3 to 5)%<br>
+冷気耐性 +(11 to 15)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invspk.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Cloudladder<br>
+スパイクシールド (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(68-164)<br>
+</span>Durability: 59<br>
+Required Dexterity: 55<br>
+要求レベル: 7<br>
+</span><span align="center" class="magic">1% Chance to cast レベル 6 Frozen 冠 when you Take ダメージ<br>
++(31 to 50)% のダメージをアンデッドに与える<br>
++(31 to 60)% 防御力強化<br>
++(7 to 10) 、全属性値(筋力、敏捷性など)修正<br>
+ライフを徐々に回復 +(16 to 25)<br>
++(2 to 5) 冷気吸収<br>
++(2 to 5) 稲妻吸収<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 ベルトs</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invlbl.jpg" width="56" height="28" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Moonwrap<br>
+サッシュ (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(13-18)<br>
+</span>Durability: 25<br>
+Required Strength: 9<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic">5% より速い呪文詠唱<br>
++(31 to 50)% 防御力強化<br>
+マナを回復させる +(21 to 25)%<br>
+稲妻耐性 +(11 to 15)%<br>
+冷気耐性 +(11 to 15)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invvbl.jpg" width="56" height="28" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Wormtongue<br>
+ライトベルト (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(41-66)<br>
+</span>Durability: 34<br>
+Required Strength: 27<br>
+要求レベル: 3<br>
+</span><span align="center" class="magic">(31 to 50)% のボーナス攻撃値<br>
+(2-3)-(3-6) の毒物ダメージが1 秒間持続<br>
+(2 to 4)% のライフを一撃ごとに奪う<br>
++(31 to 50)% 防御力強化<br>
++(11 to 15) 、敏捷性上昇<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invmbl.jpg" width="56" height="28" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Aerin Orbiter<br>
+ベルト (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(70-111)<br>
+</span>Durability: 43<br>
+Required Strength: 45<br>
+要求レベル: 5<br>
+</span><span align="center" class="magic">5% より速い呪文詠唱<br>
++(7 to 10)% 、火炎魔法ダメージ修正<br>
++(7 to 10)% 、稲妻魔法ダメージ修正<br>
++(7 to 10)% 、冷気魔法ダメージ修正<br>
++(31 to 50)% 防御力強化<br>
++(11 to 15) 、エネルギー上昇<br>
+全耐性： +(3 to 5)%<br>
+魔法ダメージ低減： (3 to 5)<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invtbl.jpg" width="56" height="28" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Deadfall<br>
+ヘヴィベルト (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(109-185)<br>
+</span>Durability: 52<br>
+Required Strength: 63<br>
+要求レベル: 7<br>
+</span><span align="center" class="magic">5% Chance to cast レベル 3 Shower of Rocks投射（敵を殺した際）<br>
+5% 壊滅打のチャンス<br>
++(41 to 80)% 防御力強化<br>
++(16 to 25) 、筋力上昇<br>
+稲妻耐性 +(11 to 15)%<br>
+(3 to 5)% 割り込み不可能攻撃の確率<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invhbl.jpg" width="56" height="28" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Dragon Tail<br>
+プレートベルト (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(138-224)<br>
+</span>Durability: 61<br>
+Required Strength: 81<br>
+要求レベル: 10<br>
+</span><span align="center" class="magic">5% Chance to cast レベル 3 Seal of Fire投射（攻撃時）<br>
+5% より速い移動<br>
+15% 攻撃スピード強化<br>
+(11-15)-(31-40) 火炎ダメージ<br>
+スタン攻撃<br>
++(41 to 70)% 防御力強化<br>
+火炎耐性 +(16 to 25)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 Gloves</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invlgl.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Vilehand<br>
+レザーグローブ (1)<br>
+</b></span><span align="center" class="content">防御力: (4-6)<br>
+Durability: 25<br>
+Required Strength: 10<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic">+(3 to 5)% 毒物スキル効果時間ボーナス<br>
+(2-5)-(5-9) の毒物ダメージが3 秒間持続<br>
++(3 to 5)% 、毒物魔法ダメージ修正<br>
+毒物の効果時間を低減、 (2 to 5)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invvgl.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Toorc's Gift<br>
+ヘヴィグローブ (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(12-28)<br>
+</span>Durability: 32<br>
+Required Strength: 24<br>
+要求レベル: 3<br>
+</span><span align="center" class="magic">1% Chance to cast レベル 1 Glacial Nova投射（攻撃時）<br>
+5% 攻撃スピード強化<br>
+(11-15)-(16-25) 冷気ダメージ<br>
+スタン攻撃<br>
++(21 to 50)% 防御力強化<br>
+冷気耐性 +(11 to 15)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invmgl.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Featherclaw<br>
+チェーングローブ (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(22-45)<br>
+</span>Durability: 39<br>
+Required Strength: 38<br>
+要求レベル: 5<br>
+</span><span align="center" class="magic">15% より速い移動<br>
+5% 攻撃スピード強化<br>
+(21 to 50)% のボーナス攻撃値<br>
+(3 to 5)% 、敵の傷が開く可能性<br>
++(31 to 50)% 防御力強化<br>
++(6 to 10) 、敏捷性上昇<br>
++(101 to 150) 最大スタミナ<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invtgl.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Visegrip<br>
+ライトガントレット (1)<br>
+</b></span><span align="center" class="content">防御力: (21-40)<br>
+Durability: 46<br>
+Required Strength: 52<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic">5% Chance to cast レベル 1 Crucify投射（攻撃時）<br>
++(11 to 15) 、最大ダメージ上昇<br>
+(7 to 10)% 、敵の傷が開く可能性<br>
+(-21 to -50) ずつ敵の防御力を下げる（命中一回ごとに）<br>
+(4 to 5)% 筋力ボーナス<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invhgl.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Pollice Verso<br>
+ガントレット (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(39-88)<br>
+</span>Durability: 53<br>
+Required Strength: 66<br>
+要求レベル: 10<br>
+</span><span align="center" class="magic">4% Chance to cast レベル 3 Time Strike投射（攻撃された時）<br>
+5% Chance to cast レベル 4 Vanquish投射（敵を殺した際）<br>
+(3 to 5) 、筋力上昇<br>
++(41 to 70)% 防御力強化<br>
++(11 to 25) マナを、１人倒すごとに得る<br>
++(11 to 25) ライフ獲得（敵１体を殺すごとに）<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 ブーツ</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invlbt.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Rabbit's Foot<br>
+ブーツ (1)<br>
+</b></span><span align="center" class="content">防御力: (6-10)<br>
+Durability: 29<br>
+Required Strength: 10<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic">15% より速い移動<br>
++(101 to 150) 最大スタミナ<br>
+(4 to 5)% 割り込み不可能攻撃の確率<br>
+(101 to 150)% のゴールドを追加入手<br>
+(16 to 25)% 、マジックアイテム入手確率上昇<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invvbt.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Death Spur<br>
+ヘヴィブーツ (1)<br>
+</b></span><span align="center" class="content">防御力: (19-28)<br>
+Durability: 42<br>
+Required Strength: 28<br>
+要求レベル: 3<br>
+</span><span align="center" class="magic">1% Chance to cast レベル 6 Sパイク Nova when you Take ダメージ<br>
++(0.375 per レベル) 、最大ダメージ上昇 (キャラクターレベルに比例)<br>
+(21 to 25)% 、敵の傷が開く可能性<br>
++(11 to 15) 、筋力上昇<br>
++(11 to 15) 、敏捷性上昇<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invmbt.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Lionpaw<br>
+チェーンブーツ (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(39-66)<br>
+</span>Durability: 55<br>
+Required Strength: 44<br>
+要求レベル: 4<br>
+</span><span align="center" class="magic">+(31 to 50)% 防御力強化<br>
++(7 to 10) 、全属性値(筋力、敏捷性など)修正<br>
++(31 to 50) 、ライフ上昇<br>
++(31 to 50) 、マナ上昇<br>
+キャラクターの総合防御値追加 (3 to 5)%<br>
+(41 to 75)% のゴールドを追加入手<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invtbt.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Zealot Rush<br>
+ライトプレートブーツ (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(52-91)<br>
+</span>Durability: 68<br>
+Required Strength: 60<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic">5% より速い移動<br>
+5% 攻撃スピード強化<br>
+(11 to 25)% のボーナス攻撃値<br>
++(31 to 50)% 防御力強化<br>
+(3 to 5)% 敏捷性ボーナス<br>
+(1 to 2)% 以下の状態で蘇生： Dark Templar<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invhbt.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Wake of Destruction<br>
+グリーヴ (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(73-132)<br>
+</span>Durability: 81<br>
+Required Strength: (71-68)<br>
+要求レベル: 9<br>
+</span><span align="center" class="magic">100% Chance to cast レベル 14 Meteor Shower投射（レベルアップした際）<br>
++(3 to 5)% ボーナスエネルギーファクター<br>
++(3 to 5)% 、火炎魔法ダメージ修正<br>
++(3 to 5)% 、毒物魔法ダメージ修正<br>
++(41 to 70)% 防御力強化<br>
+火炎耐性 +(6 to 10)%<br>
+毒物耐性 +(6 to 10)%<br>
+穴空き済み: 1<br>
+必要ステイタス (-6 to -10)%<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 Amazon Armour</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invxkpu.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Zerae's Veil<br>
+モリオン (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(8-12)<br>
+</span>Durability: 32<br>
+(Amazon Only)<br>
+Required Strength: 10<br>
+要求レベル: 2<br>
+</span><span align="center" class="magic">5% Chance to cast レベル 3 Lightning Cascade投射（攻撃時）<br>
+100% Chance to cast レベル 11 Supernova投射（レベルアップした際）<br>
++(21 to 50)% 防御力強化<br>
+稲妻耐性 +(16 to 25)%<br>
+キャラクターの総合防御値追加 (3 to 5)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invfhlu.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Snakehair<br>
+サーブレア (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(33-63)<br>
+</span>Durability: 44<br>
+(Amazon Only)<br>
+Required Strength: 39<br>
+要求レベル: 5<br>
+</span><span align="center" class="magic">5% Chance to cast レベル 3 Venomous Spirit投射（命中時）<br>
+(2 to 4)% のライフを一撃ごとに奪う<br>
+-(11 to 15)% 、敵の毒物耐性修正<br>
++(21 to 50)% 防御力強化<br>
++(11 to 15) 、筋力上昇<br>
++(11 to 15) 、敏捷性上昇<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invuhms.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Wildhunt<br>
+エインヘルヤル・ヘルム (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(53-96)<br>
+</span>Durability: 50<br>
+(Amazon Only)<br>
+Required Dexterity: 53<br>
+要求レベル: 7<br>
+</span><span align="center" class="magic">+(11 to 15)% 、火炎魔法ダメージ修正<br>
++(11 to 15)% 物理・魔法スペルボーナス<br>
++(2 to 4) to Raven Flight<br>
++1% 防御値上昇（ルーン１個につき）<br>
++(41 to 70)% 防御力強化<br>
+(4 to 5)% 以下の状態で蘇生： Ghost Wolf<br>
++(3 to 10) ライフ獲得（敵１体を殺すごとに）<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invxrnu.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Titan's Burden<br>
+スパンゲンヘルム (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(96-180)<br>
+</span>Durability: 62<br>
+(Amazon Only)<br>
+Required Strength: (93-101)<br>
+要求レベル: 11<br>
+</span><span align="center" class="magic">5% Chance to cast レベル 3 Shower of Rocks投射（攻撃時）<br>
+スタン攻撃<br>
+5% 壊滅打のチャンス<br>
+(7 to 10)% 筋力ボーナス<br>
++(61 to 100)% 防御力強化<br>
+ダメージ低減： 5%<br>
+穴空き済み: 1<br>
+必要ステイタス +(16 to 25)%<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invxmlu.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The Sightless Eye<br>
+アスルアズ・ハンド (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(33-75)<br>
+</span>Durability: 29<br>
+(Amazon Only)<br>
+Required Dexterity: 21<br>
+要求レベル: 1<br>
+</span><span align="center" class="magic">+(16 to 25) 、最大ダメージ上昇<br>
+(11 to 25)% のボーナス攻撃値<br>
+敵の速度低下 5%<br>
++(21 to 40)% 防御力強化<br>
+(2 to 5)% 敏捷性ボーナス<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invkitu.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Dragonfire<br>
+フェニックス・シールド (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(56-130)<br>
+</span>Durability: 70<br>
+(Amazon Only)<br>
+Required Strength: 29<br>
+要求レベル: 8<br>
+</span><span align="center" class="magic">5% より速い呪文詠唱<br>
++(11 to 15)% 、火炎魔法ダメージ修正<br>
++(16 to 20)% 召喚した配下のライフボーナス<br>
++(26 to 50)% 防御力強化<br>
++(16 to 25) 、エネルギー上昇<br>
++(16 to 25) 、バイタリティ上昇<br>
++(51 to 75) 、ライフ上昇<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invutss.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Chargebreaker<br>
+セッツァチャイルド (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(421-1030)<br>
+</span>Durability: 90<br>
+(Amazon Only)<br>
+Required Strength: 47<br>
+要求レベル: 12<br>
+</span><span align="center" class="magic">5% Chance to cast レベル 3 Guard Tower投射（敵を殺した際）<br>
++(16 to 25)% 召喚した配下のダメージボーナス<br>
++(11 to 15)% 召喚した配下の耐性ボーナス<br>
++(61 to 100)% 防御力強化<br>
+(8 to 10)% 筋力ボーナス<br>
+(8 to 10)% 敏捷性ボーナス<br>
+ダメージ低減： (3 to 5)<br>
+ダメージ低減： 5%<br>
+キャラクターの総合防御値追加 (8 to 10)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 Assassin Armour</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invsmlu.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Astrogha's Eye<br>
+パルマ (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(52-124)<br>
+</span>Durability: 57<br>
+(Assassin Only)<br>
+Required Strength: 22<br>
+Required Dexterity: 45<br>
+要求レベル: 5<br>
+</span><span align="center" class="magic">+(16 to 25)% のダメージをデーモンに与える<br>
+遠距離からの攻撃者をスロー (3 to 5)%<br>
++(21 to 50)% 防御力強化<br>
++(3 to 5) のライフ回復、命中時 in Melee<br>
+(4 to 5)% 以下の状態で蘇生： Soul Spider<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invxrgu.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Bathos<br>
+アスピス (1)<br>
+</b></span><span align="center" class="content">防御力: (60-116)<br>
+Durability: 67<br>
+(Assassin Only)<br>
+Required Strength: 30<br>
+Required Dexterity: 59<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic">(2 to 4)% のライフを一撃ごとに奪う<br>
++(6 to 10)% 召喚した配下のライフボーナス<br>
++(16 to 25)% 召喚した配下のダメージボーナス<br>
++(8 to 10) 、敏捷性上昇<br>
+火炎耐性 +(11 to 15)%<br>
+(8 to 10)% 割り込み不可能攻撃の確率<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invxshu.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Black Sheep Wall<br>
+トーテム・シールド (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(36-82)<br>
+</span>Durability: 56<br>
+(Assassin Only)<br>
+Required Dexterity: 44<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic">1% Chance to cast レベル 1 Charm投射（攻撃時）<br>
+100% Chance to cast レベル 12 Beacon投射（レベルアップした際）<br>
++(21 to 40)% 防御力強化<br>
+火炎耐性 +(11 to 15)%<br>
+毒物耐性 +(11 to 15)%<br>
+(101 to 150)% のゴールドを追加入手<br>
++(1 to 2)  、照明範囲が拡大<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invxpku.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Leoric's Legion<br>
+ブレード・シールド (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(52-125)<br>
+</span>Durability: 64<br>
+(Assassin Only)<br>
+Required Dexterity: 55<br>
+要求レベル: 8<br>
+</span><span align="center" class="magic">+(11 to 15)% 毒物スキル効果時間ボーナス<br>
+-(8 to 10)% 、敵の毒物耐性修正<br>
++(41 to 70)% 防御力強化<br>
++(11 to 15) 、バイタリティ上昇<br>
+(4 to 5)% 以下の状態で蘇生： Horror Sorcerer<br>
+(4 to 5)% 以下の状態で蘇生： Burning Dead Sorcerer<br>
+(4 to 5)% 以下の状態で蘇生： Bone Sorcerer<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 Barbarian Armour</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invgtsu.jpg" width="56" height="112" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Golden Fleece<br>
+ブル・シールド (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(33-81)<br>
+</span>Durability: 31<br>
+(Barbarian Only)<br>
+Required Strength: 10<br>
+Required Dexterity: 23<br>
+要求レベル: 3<br>
+</span><span align="center" class="magic">25% Chance to cast レベル 2 Arrow投射（ミサイル被弾時）<br>
++1 、バーバリアンのスキルレベル上昇<br>
++(21 to 50)% 防御力強化<br>
++(11 to 15) 、筋力上昇<br>
+最大ライフ 上昇 (3 to 5)%<br>
++(31 to 50)% ダメージ（ヒーリングポーション使用中）<br>
+稲妻耐性 +(11 to 15)%<br>
+(21 to 30)% 、マジックアイテム入手確率上昇<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invbucu.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>The Breaking Wheel<br>
+ブロンズ・シールド (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(107-246)<br>
+</span>Durability: 59<br>
+(Barbarian Only)<br>
+Required Strength: 25<br>
+要求レベル: 7<br>
+</span><span align="center" class="magic">(3 to 5)% 壊滅打のチャンス<br>
+キャラクターの武器ダメージ +(16 to 25)%<br>
+(7 to 10)% 筋力ボーナス<br>
+(7 to 10)% 敏捷性ボーナス<br>
++(41 to 70)% 防御力強化<br>
+火炎耐性 +(21 to 25)%<br>
+毒物耐性 +(21 to 25)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invlrgu.jpg" width="56" height="84" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Invictus<br>
+ギルデッド・シールド (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(332-831)<br>
+</span>Durability: 67<br>
+(Barbarian Only)<br>
+Required Strength: 44<br>
+要求レベル: 14<br>
+</span><span align="center" class="magic">2% Chance to cast レベル 3 Gift of the Wild投射（敵を殺した際）<br>
+Lion Stance ダメージ Bonus (21 to 50)%<br>
++(41 to 80)% 防御力強化<br>
++(11 to 15) 、全属性値(筋力、敏捷性など)修正<br>
+ダメージ低減： (4 to 5)%<br>
+キャラクターの総合防御値追加 (11 to 15)%<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invba1.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Slimedrool<br>
+ジョウボーン・キャップ (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(27-46)<br>
+</span>Durability: 34<br>
+(Barbarian Only)<br>
+Required Strength: 26<br>
+要求レベル: 3<br>
+</span><span align="center" class="magic">2-(2-5) の毒物ダメージが1 秒間持続<br>
+-(7 to 10)% 、敵の毒物耐性修正<br>
+攻撃後逃走する 5%<br>
++(31 to 50)% 防御力強化<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invba2.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Bonechewer<br>
+ファングド・ヘルム (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(44-81)<br>
+</span>Durability: 40<br>
+(Barbarian Only)<br>
+Required Strength: 40<br>
+要求レベル: 4<br>
+</span><span align="center" class="magic">5% 攻撃スピード強化<br>
++(2 to 4) to Hamstリング<br>
++(31 to 60)% 防御力強化<br>
++(7 to 10) 、筋力上昇<br>
+(4 to 5)% 以下の状態で蘇生： Hungry Dead<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invba3.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Cornucopia<br>
+ホーンド・ヘルム (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(60-103)<br>
+</span>Durability: 47<br>
+(Barbarian Only)<br>
+Required Strength: 55<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic">+(31 to 50)% 防御力強化<br>
+ライフを徐々に回復 +(31 to 50)<br>
+(51 to 100)% のゴールドを追加入手<br>
+(21 to 30)% 、マジックアイテム入手確率上昇<br>
+商人の売価を全て下げる (3 to 5)%<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invba4.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Thunderdome<br>
+アソールト・ヘルメット (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(84-151)<br>
+</span>Durability: 53<br>
+(Barbarian Only)<br>
+Required Strength: 70<br>
+要求レベル: 8<br>
+</span><span align="center" class="magic">10% Chance to cast レベル 4 Flash投射（攻撃時）<br>
+100% Chance to cast レベル 14 Lightning Cascade投射（レベルアップした際）<br>
+1-(16-30) 稲妻ダメージ<br>
++(3 to 5) to Lightning Shield<br>
+(7 to 10)% 筋力ボーナス<br>
++(41 to 70)% 防御力強化<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invba5.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Spirit Teacher's Headdress<br>
+アヴェンジャー・ガード (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(102-190)<br>
+</span>Durability: 59<br>
+(Barbarian Only)<br>
+Required Strength: (75-72)<br>
+要求レベル: 10<br>
+</span><span align="center" class="magic">+(4 to 5) Enhanced Stance Radius<br>
++(16 to 20)% 召喚した配下のライフボーナス<br>
++(16 to 20)% 召喚した配下のダメージボーナス<br>
++(41 to 75)% 防御力強化<br>
+マナを回復させる +(21 to 25)%<br>
+全耐性： +(11 to 15)%<br>
+穴空き済み: 2<br>
+必要ステイタス (-11 to -15)%<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 Druid Armour</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invdr1.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Big Bad<br>
+ウルフ・ヘッド (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(26-42)<br>
+</span>Durability: 31<br>
+(Druid Only)<br>
+Required Strength: 23<br>
+要求レベル: 3<br>
+</span><span align="center" class="magic">100% Chance to cast レベル 7 Fire Cascade投射（レベルアップした際）<br>
++(31 to 50)% 防御力強化<br>
+(2 to 5)% 筋力ボーナス<br>
+キャラクターの総合防御値追加 (3 to 5)%<br>
++(4 to 5)% 、獲得経験値修正<br>
+穴空き済み: 1<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invdr2.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Earth Song<br>
+ホーク・ヘルム (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(41-70)<br>
+</span>Durability: 37<br>
+(Druid Only)<br>
+Required Strength: 37<br>
+要求レベル: 4<br>
+</span><span align="center" class="magic">1% Chance to cast レベル 4 Time Field when you Take ダメージ<br>
+5% より速い呪文詠唱<br>
++(6 to 10)% 、火炎魔法ダメージ修正<br>
++(6 to 10)% 、冷気魔法ダメージ修正<br>
++(6 to 10)% 、毒物魔法ダメージ修正<br>
++(31 to 50)% 防御力強化<br>
+火炎耐性 +(11 to 15)%<br>
+冷気耐性 +(11 to 15)%<br>
+毒物耐性 +(11 to 15)%<br>
++(16 to 25) マナを、１人倒すごとに得る<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invdr3.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Nymph's Grace<br>
+アントラーズ (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(60-108)<br>
+</span>Durability: 42<br>
+(Druid Only)<br>
+Required Strength: 50<br>
+要求レベル: 6<br>
+</span><span align="center" class="magic">5% Chance to cast レベル 1 Arrow投射（ミサイル被弾時）<br>
++(41 to 70)% 防御力強化<br>
+遠距離からの攻撃者をスロー (8 to 10)%<br>
+(8 to 10)% 敏捷性ボーナス<br>
+(8 to 10)% バイタリティボーナス<br>
+5% ダメージを避ける確率<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invdr4.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Skyguard<br>
+ファルコン・マスク (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(84-147)<br>
+</span>Durability: 48<br>
+(Druid Only)<br>
+Required Strength: 63<br>
+要求レベル: 8<br>
+</span><span align="center" class="magic">15% より速い移動<br>
+-(7 to 10)% 、敵の稲妻耐性修正<br>
+-(7 to 10)% 、敵の冷気耐性修正<br>
++(1 to 4) to Forked Lightning<br>
++(51 to 80)% 防御力強化<br>
+稲妻耐性 +(26 to 30)%<br>
+冷気耐性 +(26 to 30)%<br>
+ダメージ低減： 5%<br>
++(7 to 10) マナを、１人倒すごとに得る<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center"><img class="item" src="images/baseitems/invdr5.jpg" width="56" height="56" border="0"></span></td><td width=450><!-- font class="cenflat" --><span align="center" class="unique"><b>Grimspirit<br>
+スピリット・マスク (1)<br>
+</b></span><span align="center" class="content">防御力: <span class="magic">(94-170)<br>
+</span>Durability: 54<br>
+(Druid Only)<br>
+Required Strength: 77<br>
+要求レベル: 10<br>
+</span><span align="center" class="magic">+(1 to 4) to Summon Thunder Bear<br>
+キャラクターの武器ダメージ +(16 to 25)%<br>
+敵の速度低下 5%<br>
++(41 to 70)% 防御力強化<br>
++(16 to 20) 、筋力上昇<br>
+(4 to 5)% 以下の状態で蘇生： Shrieker<br>
+穴空き済み: 2<br>
+</span></td></tr></table></span><br />
+<p class="content"><b>Tier 1 Necromancer Armour</b></p>
+<span align="center"><table width=630 border=0 cellpadding=0 cellspacing=0><tr><td width=150><span align="center" valign="center

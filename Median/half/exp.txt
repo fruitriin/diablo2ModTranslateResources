@@ -1,0 +1,4233 @@
+Index	Name
+Descblank	
+DescSecretMsc	 FOREVER! This is not a hidden satanic message -Laz
+DescSplits	Splits 
+DescShark	 percent Chance to find Magic Items
+DescScattered	Always Pierces\n(Initial Target Takes no Damage)
+DescDmgDelay	Delay between Novas: 
+DescUpToN	Fires up to 
+DescNovas	 spike novas
+DescUnlocks	Unlocks 
+DescSeeCubeTxt	(see m2007_cube.rtf for a list of recipes)
+DescLvlBas	 (Based on Character Level)
+DescHolySor	 (Burn, You Witch!)
+DescPainspiritAny	 (By Fire Be Purged!)
+DescBloodAny	 (Dance with the Devil!)
+DescHolyDru	 (For Worshipping Pagan Gods!)
+DescHolyNec	 (Necromancy is Satanism!)
+DescHolyBar	 (The Ancients are False Gods!)
+DescUnholyPal	 (Warlocks Shall Burn)
+DescHolyAsn	 (You Wretched Vampire!)
+DescLegion	 archers
+DescArrowsTotal	 arrows total
+DescAxes	 axes
+DescSuperFireballs	 BIG PHAT fireballs!!1!
+DescSingleStars	 bloodstars per shot
+DescBloodstarz	 bloodstars total
+DescBolts	 bolts
+DescDarts	 darts
+DescAddsCrows	 extra missiles
+DescGhosts	 ghosts
+DescChickzorz	 fire streams
+DescFireballs	 fireballs
+DescHitPointz	 hit points
+DescIceBeams	 ice beams
+DescIceBeams2	 ice beams!!1!PEWPEWLAZOR!!!1!COPTER
+DescKnives	 knives
+DescAfterAKill	 life after each kill
+DescLifePerSec	 life per second
+DescAfterManaKill	 mana after each kill
+DescMeteors	 meteors
+DescMissilzor	 missiles
+DescAlchemist	 percent of Alchemist Cube Recipes
+DescEnchanter	 percent of Enchanter Cube Recipes
+DescExplorer	 percent of Explorer Cube Recipes
+DescPriest	 percent of Priest Cube Recipes
+DescRunemaster	 percent of Runemaster Cube Recipes
+DescWarlord	 percent of Warlord Cube Recipes
+DescPctPass	 percent (Passive)
+DescAffixPct	 percent effectiveness
+DescLostHP	 percent of Life Lost
+DescHPtoTarget	 percent of Maximum Life to Target
+DescTotalHP	 percent of your Maximum Life
+DescTotalMP	 percent of your Maximum Mana
+DescFracHP	 percent of Life below Maximum
+DescFracMP	 percent of Mana below Maximum
+DescACFlash	 percent while Casting
+DescDurDmg2	 per second)
+DescRocks	 rocks
+DescSec	 seconds
+DescSkillPtsGained	Gives you 1 free skill point per Skill Level
+DescSpikeVolley	 spikes per shot
+DescSpikes	 spikes
+DescExtraShadows	 shadows
+DescTimes	 times
+DescTimesBrutal	 times after Initial Strike
+DescToAllAttr	 to All Attributes
+DescLightPenalty	 to Light Radius
+DescTowers	 towers
+DescTwisters	 twisters
+DescSpirits	 voodoo spirits
+DescSporeSyn	+1 Extra Arrow on Last Split per level
+DescAddedBoltSyn	+1 Extra Bolt per 2 Levels
+DescNoSelfStack	(does not stack with itself)
+DescAllExcept	(If Original Skill Timer > 10 seconds)
+DescDurDmg1	(Lightning Damage: 
+DescJoelZorz	(thanks to Joel for the help with this skill!)
+DescSorryNoPM	(this skill is not affected by items)
+DescVindicated	(When Cursed Target is Killed)
+DescHexed	(When Struck by Cursed Enemy)
+DescHealUsed	(When you Use a Healing Potion)
+DescManaUsed	(When you Use a Mana Potion)
+DescProfession	(you can have only one profession)
+DescOnlyWhenStruck	Activate after being Struck in Combat
+DescOnlyWhenArcS	Activate after using Arcane Strike
+DescBoltsPerLevel	additional Bolts per Level
+DescGhostsPerLevel	additional Ghosts per Level
+DescKnivesPerLevel	+1 Additional Knife per 2 Levels
+DescShadowsSyn	+1 additional Shadow per 4 Levels
+DescTargetsPerLevel	additional Targets per Level
+DescAdds	Adds 
+DescLionBlind	Adds Blinds Attacker 
+DescColdSyn	Adds Cold Damage (Diminishing Returns)
+DescPhysSyn	Adds Damage (Diminishing Returns)
+DescHexElem	Adds Damage: 
+DescVindicateAdddmg	Adds Damage: 
+DescAuraShadows	Adds Elemental Damages to Aura: 
+DescVanquishAddelem	Adds Elemental Damages: 
+DescFireSyn	Adds Fire Damage (Diminishing Returns)
+DescSuntFreeze	Adds Freeze Attacker 
+DescLtngSyn	Adds Lightning Damage (Diminishing Returns)
+DescMagSyn	Adds Magic Damage (Diminishing Returns)
+DescDarkPowerRed	Adds Physical Damage Reduction: 
+DescPoisSyn	Adds Poison Damage (Diminishing Returns)
+DescBloodlustPhys	Adds to Damage: 
+DescMotwPhys	Adds to Damage: 
+DescRavenDur	Adds to Duration: 
+DescBloodlustElem	Adds to Elemental Damages: 
+DescMotwElem	Adds to Elemental Damages: 
+DescManacoilSyn	Adds to Feedback Damage: 
+DescWrathSynergy	Adds to Fire Damage: 
+DescFreezeBonus	Adds to Freeze Duration: 
+DescSamSyn	Adds to Life Healed per Corpse: 
+DescMissilesSynergy	Adds to Magic Damage: 
+DescRangeBonus	Adds to Range: 
+DescFeralStrDex	Adds to Strength and Dexterity Bonuses: 
+DescHolyArmorMove	Adds Velocity: 
+DescFeralEnrVit	Adds Vitality and Energy Bonuses: 
+DescAllSkills	All Learnable Spells
+DescAllLevels	All Skill Levels: 
+DescSpellDmg	All Spell Damages: 
+DescMortalTrigger	Also enables you to use 'when struck' skills for free!
+DescBetaPierce	Always Pierces
+DescElemAuraSyn	Aura Bonus to Elemental Damage per Level
+DescElemAura	Demon Blood Aura Increases Elemental Damages: 
+DescLifeAura	Aura Increases Max Life: 
+DescDemonBlood	Aura Increases Max Life and Heals
+DescDFSyn	Base Damage per Level
+DescContest	Based on the Winner of the Phrozen Keep Skill Contest
+DescLionSkBlind	Blinds Attacker 
+DescBlizzDur	Blizzard Duration: 
+DescToBlock	Blocking Bonus: 
+DescBoltLength	Bolt Length: 
+DescBonusDmg	Bonus Damage: 
+DescAddsGethit	Bonus Effect Duration: 
+DescAllAttr	Bonus to All Attributes: 
+DescAttrateSyn	Bonus to Attack Speed per Level
+DescDmgColdSyn	Bonus to Cold Damage per Level
+DescDmgLustSyn	Damage: 
+DescElemSyn	Bonus to Elemental Damage per Level
+DescPaganism	Bonus to Energy: 
+DescSynRes	Bonus to All Resistances per Level
+DescVelSyn	Bonus to Walk/Run Speed per Level
+DescAlcohol	Bonus to Vitality: 
+DescBenecast	\yellow;can be cast on other units
+DescChanceToEat	Chance to Eat Corpse: 
+DescHowlShield	Chance to make Attacker Flee: 
+DescDSRaven	Critical Strike Chance: 
+DescCurrentSyn	Current Bonus
+DescHPBelow	Current Life must be below 
+DescBonusDur	Damage Boost Duration: 
+DescHexSyn	Damage (Physical) per Level
+DescDmgRedSyn	Damage Reduction per Level
+DescDRef	Damage Reflection: 
+DescRedDmgBarb	Damage Taken increased by 
+DescArmorSyn	Defense per Level while Casting
+DescDexterity	Dexterity: 
+DescFortSyn	Doubles Number of Arrows per 6 Levels
+DescSucks	Drains 
+DescSuckAll	Drains 100 percent Life in 
+DescDrainsAllLife	Drains All Life
+DescDurBonus	Duration Bonus: 
+DescInsaneSyn	Effect Duration +0.2 seconds per Level
+DescHealBonusDur	Effect Duration when Target is Killed: 
+DescElemSpell	Elemental Spell Damage: 
+DescEmits	Emits 
+DescEnergy	Energy: 
+DescToGold	Extra Gold from Monsters: 
+DescFanatIAS	Fanaticism Attack Rate Bonus :
+DescFanatDmg	Fanaticism Damage Bonus: 
+DescFeedback	Feedback Damage: 
+DescSelfDmg	Fire Damage to Self: 
+DescSpectral	Fire, Cold and Lightning Damages: 
+DescFor	for 5 seconds After Casting
+DescSuntSkFreeze	Freeze Attacker 
+DescTimeBomb	Length of Fuse: 
+DescHits	Hits 
+DescMultiHits	Hits Multiple Times
+DescSuperRadius	Increased Nova Radius
+DescShadowAvSyn	Increases Nova Attack Rate every 3 Levels
+DescItemSkill	\blue;item granted skill
+DescSteals	Leeches 
+DescLevelSyn	Maximum Natural Skill Level per Level
+DescLifeDrained	Life Cost: 
+DescLifeDrain	Life Drained per Level
+DescLifePerBody	Life Healed per Corpse: 
+DescPainful	Life if Summoned After Being Struck: 
+DescLifeSyn	Life per Level
+DescPainless	Life: 
+DescAStoSS	Makes this skill work! (only when Arcane Strike is active)
+DescManaPerBody	Mana Healed per Corpse: 
+DescMaxLevel	Maximum Natural Skill Level: 
+DescMinRange	Minimum Range: 
+DescThornsToM	Minion Damage Reflection: 
+DescSpeed	Movement Speed Increased By 
+DescVelocity	Movement Speed Penalty: 
+DescPctNoS	percent
+DescPctDur	percent bonus to Duration (only when Arcane Strike is active)
+DescDmgALL	Physical and Elemental Damage: 
+DescDamageReduc	Physical Damage Reduction: 
+DescPDurSyn	Poison Duration per Level
+DescRegenAll	Regenerates 100 percent Life in 
+DescUntilStruck	Regeneration Stops when Struck in Combat
+DescAsnHeal	Returns 
+DescShadowsNr	Shadows: 
+DescShoots	Shoots 
+DescTimerReduced	Skill Timer Reduced By 
+DescDelay	Spell Timer: 
+DescDelayZ	Spell Timer: 
+DescTrapDur	Spike Duration: 
+DescStrength	Strength: 
+DescTgtDmg	Target Damage: 
+DescTgtElem	Target Elemental Damages: 
+DescTargetComp	Target Seek Range: 
+DescAoWSyn	Target Seek Range +1.3 yards per Level
+DescContest2	Thanks to SilverShadowHell for this skill
+DescSynRes2	to All Resistances per Level
+DescLRSyn	to Light Radius per Level
+DescACBonus	Total Character Defense Bonus: 
+DescTransfers	Transfers 
+DescTrapDur2	Trap Duration: 
+DescUpTo	Up to 
+DescVitality	Vitality: 
+DescLegionWidth	Wall Width: 
+DescTimesWeapn	x Weapon Damage
+ItemstatsPot1	Regenerates 100% Life in 10 seconds
+ItemstatsPot2	Regenerates 100% Life in 9 seconds
+ItemstatsPot3	Regenerates 100% Life in 8 seconds
+ItemstatsPot4	Regenerates 100% Life in 7 seconds
+ItemstatsPot5	Regenerates 100% Life in 6 seconds
+ItemstatsMP1	Mana Regeneration +50% for 10 seconds
+ItemstatsMP2	Mana Regeneration +75% for 9 seconds
+ItemstatsMP3	Mana Regeneration +100% for 8 seconds
+ItemstatsMP4	Mana Regeneration +125% for 7 seconds
+ItemstatsMP5	Mana Regeneration +150% for 6 seconds
+ItemStatsrejuvn1	Regenerates Life and Mana over 8 seconds
+ItemStatsrejuvn2	The Big One!
+fu1	Potion of Stars
+fu2	Potion of Power
+PotionStarsDesc	Drink to gain 5 attribute points
+PotionPowerDesc	Drink to gain 1 skill point
+Aerin Nexus	Aerin Nexus
+Aerin Orbiter	Aerin Orbiter
+Akarat's Crucifix	Akarat's Crucifix
+Akarat's Teaching	Akarat's Teaching
+Akarat's Trek	Akarat's Trek
+Al Nair	Al Nair
+Alma Divina	Alma Divina
+Amulet of Yendor	Amulet of Yendor
+Anthem De Frost	Anthem De Frost
+Archon's Wrath	Archon's Wrath
+Arreat's Champion	Arreat's Champion
+Arreat's Heart	Arreat's Heart
+Ashenwind	Ashenwind
+Augur's Pelt	Augur's Pelt
+Aurumvorax	Aurumvorax
+Banner of Steel	Banner of Steel
+Banshee's Chase	Banshee's Chase
+Banshee's Scream	Banshee's Scream
+Bone Gasher	Bone Gasher
+Boneclasp	Boneclasp
+Bounty Hunter	Bounty Hunter
+Brainburst	Brainburst
+Brainstorm	Brainstorm
+Branch of AM Splinters	Branch of a Million Splinters
+Bul Kathos' Reign	Bul Kathos' Reign
+Bul Kathos' Throne	Bul Kathos' Throne
+Bul Kathos' Voice	Bul Kathos' Voice
+Bull's Eye	Bullseye
+Buriza-Do Tsuru	Buriza-Do Tsuru
+Candlewake	Candlewake
+Chalice of Horrors	Chalice of Horrors
+Cheetah's Strike	Cheetah's Strike
+Cinadide's Wings	Cinadide's Wings
+Codex Umbrae	Codex Umbrae
+Coldworm's Thorax	Coldworm's Thorax
+Copperhead	Copperhead
+Crystalshroud	Crystalshroud
+Dark Star	Dark Star
+Darkhammer	Darkhammer
+Darkhunter	Darkhunter
+Darkspite	Darkspite
+Death Spur	Death Spur
+Deathgaze	Deathgaze
+Death's Bellringer	Death's Bellringer
+Death's Vessel	Death's Vessel
+Demonsong	Demonsong
+Destroying Angel	Destroying Angel
+Destruction's Wake	Destruction's Wake
+Dire Chain	Dire Chain
+Divinus	Divinus
+Doom Gong	Doom Gong
+Dragon Tail	Dragon Tail
+Dragonblood	Dragonblood
+Dragon's Breach	Dragon's Breach
+Drake Cigar	Drake Cigar
+Dreamflange	Dreamflange
+Drow Valor	Drow Valor
+Dusk Shard	Dusk Shard
+Eagle Spirit	Eagle Spirit
+Earth Rouser	Earth Rouser
+Earthbind	Earthbind
+Elephant Skin	Elephant Skin
+Emberstorm	Emberstorm
+Eos Caecans	Eos Caecans
+Everchase	Everchase
+Eye of Rah	Eye of Rah
+Fangchain	Fangchain
+Finger of Death	Finger of Death
+Flesh Trap	Flesh Trap
+Fleshdoom	Fleshdoom
+Flowerspring	Flowerspring
+Frostneedle	Frostneedle
+Fulgur Dei	Fulgur Dei
+Gheed's Noggin	Gheed's Noggin
+Gheed's Pigsticker	Gheed's Pigsticker
+Gheed's Wealth	Gheed's Wealth
+Ghost Anchor	Ghost Anchor
+Gleamsong	Gleamsong
+Glitterclash	Glitterclash
+Gnomish Telescope	Gnomish Telescope
+Goldenrod	Goldenrod
+Goldtouch	Goldtouch
+Goreclaw	Goreclaw
+Goredrill	Goredrill
+Goreshifter	Goreshifter
+Gotterdammerung	Gotterdammerung
+Grail of Souls	Grail of Souls
+Grimspike	Grimspike
+Griswold's Revenge	Griswold's Revenge
+Groundswell	Groundswell
+Gryphon's Claw	Gryphon's Claw
+Guide Star	Guide Star
+Hammerfist	Hammerfist
+Hand of Karcheus	Hand of Karcheus
+Hangman	Hangman (1)
+Harp of Vengeance	Harp of Vengeance
+Harpy's Strike	Harpy's Strike
+Heart of Darkness	Heart of Darkness
+Heaven's Gate	Heaven's Gate
+Hellduster	Hellduster
+Hellscourge	Hellscourge
+Hexentanz	Hexentanz
+Hratli's Craft	Hratli's Craft
+Hunter's Trophy	Hunter's Trophy
+Huo Zhi Wang	Huo Zhi Wang
+Hypnodisk	Hypnodisk
+Icebird	Icebird
+Icetomb	Icetomb
+Icon of Ghrab Thaar	Icon of Ghrab Thaar
+Infernolash	Infernolash
+Ironhood	Ironhood
+Jalal's Claw	Jalal's Claw
+Jalal's Communion	Jalal's Communion
+Jewel of Madness	Jewel of Madness
+Joel's Falcon	Joel's Falcon
+Kashya's Ambush	Kashya's Ambush
+Kasin Crest	Kasin Crest
+Khalim's Prayer Beads	Khalim's Prayer Beads
+Khalim's Pride	Khalim's Pride
+Khalim's Robe	Khalim's Robe
+Khalim's Stigmata	Khalim's Stigmata
+King Albrecht's Wisdom	King Albrecht's Wisdom
+Kingsblood	Kingsblood
+Koth's Lesson	Koth's Lesson
+Lachdanan's Will	Lachdanan's Will
+Lavafrost	Lavafrost
+Lavamaul	Lavamaul
+Lavasurge	Lavasurge
+Lazarus' Fall	Lazarus' Fall
+Leaper's Carapace	Leaper's Carapace
+Leoric's Iron Fist	Leoric's Iron Fist
+Lex Ferarum	Lex Ferarum
+Lightforge	Lightforge
+Light's Widow	Light's Widow
+Lionpaw	Lionpaw
+Lorekeeper	Lorekeeper
+Lumen Arcana	Lumen Arcana
+Lychnus Lyaei	Lychnus Lyaei
+Manashard	Manashard
+Manatide	Manatide
+Mark of Cain	Mark of Cain
+Mermaid's Song	Mermaid's Song
+Meshif's Iron Parrot	Meshif's Iron Parrot
+Mind Flayer	Mind Flayer
+Mindcry	Mindcry
+Mindmaze	Mindmaze
+Moonbender's Wing	Moonbender's Wing
+Moonscythe	The Silent Judge
+Nemesis	Nemesis
+Nimmenjuushin	Nimmenjuushin
+Nor Tiraj's Wisdom	Nor Tiraj's Wisdom
+Ormus' Focus	Ormus' Focus
+Phantasmal Killer	Phantasmal Killer
+The Philosophers Stone	Philosopher's Stone
+Plague Caster	Plague Caster
+Plaguemourn	Plaguemourn
+Prison of Souls	Prison of Souls
+Quietus	Quietus
+Quill Rat's Sting	Quill Rat's Sting
+Rabbit's Foot	Rabbit's Foot
+Rageforge	Rageforge
+Rainbowlash	Rainbowlash
+Ramhorn	Ramhorn
+Raven Eye	Raven Eye
+Ravencage	Ravencage
+Razorbeak	Razorbeak
+Razordisk	Razordisk
+Razorspine	Razorspine
+Ribbon of Light	Ribbon of Light
+Ring of Disengagement	Ring of Disengagement (1)
+Ripstar	Ripstar (1)
+Robe of Leaves	Robe of Leaves
+Robe of Steel	Robe of Steel
+Royal Circlet	Royal Circlet
+Rune Breaker	Rune Breaker
+Runeflesh	Runeflesh
+Runeward	Runeward
+Ryuuseiu Kyanon	Ryuuseiu Kyanon
+Sankekur's Aura	Sankekur's Aura
+Sankekur's Dogma	Sankekur's Dogma
+Sea Summoner	Sea Summoner
+Seraph Wing	Seraph Wing
+Serpent Angel	Serpent Angel
+Serpent Lock	Serpent Lock
+Shadowclaw	Shadowclaw
+Shadowhymn	Shadowhymn
+Shadowspite	Shadowspite
+Shield of a Th Stars	Shield of a Thousand Stars
+Sigil of Astra	Sigil of Astra
+Silverstrike	Silverstrike
+Sinewstring	Sinewstring
+Skullbat	Skullbat
+Skullgrin	Skullgrin
+Skullhammer	Skullhammer
+Slippers of Yaerius	Slippers of Yaerius
+Snakebite	Snakebite
+Snowhammer	Snowhammer
+Soot Chimney	Soot Chimney
+Soul Shard	Soul Shard
+Spikeblaster	Spikeblaster
+Spikeskull	Spikeskull
+Spirit Walker	Spirit Walker
+Staff of Roses	Staff of Roses
+Standard of Sescheron	Standard of Sescheron
+Steelsnare	Steelsnare
+Stone of the Skatsim	Stone of the Skatsim
+Storm Crow	Storm Crow
+Stormsurge	Stormsurge
+Stormsweeper	Stormsweeper
+Stormsweeper	Stormsweeper
+Stranglevine	Stranglevine
+Sunbearer	Sunbearer
+Sundance	Sundance
+Tailchaser	Tailchaser
+Tennousuuhai	Tennousuuhai
+Terrorcane	Terrorcane
+Asteroid Belt	The Asteroid Belt
+The Barracuda	The Barracuda
+The Black Dame	The Black Dame
+The Butcher's Wrath	The Butcher's Wrath
+The Carnivore	The Carnivore
+The Celestial Dome	The Celestial Dome
+The Defiler	The Defiler
+The Dreamcatcher	The Dreamcatcher (1)
+The Endless Loop	The Endless Loop
+The Evil Eye	The Evil Eye
+The Foculus	The Foculus
+The Grizzly	The Grizzly
+The Harbinger	The Harbinger
+The Hunter	The Hunter
+The Idolator	The Idolator
+The Mangler	The Mangler
+The One Ring	The One Ring
+The Raven	The Raven
+The Reconciler	The Reconciler
+The Rift Bow	The Rift Bow
+The Shaman	The Shaman
+The Sightless Eye	The Sightless Eye
+The Silent Judge	Moonscythe
+The Skeleton Key	The Skeleton Key
+The Stalagmite	The Stalagmite
+The Wanderer's Hood	The Wanderer's Hood
+The War Cloak	The War Cloak
+The Wasp	The Wasp
+The Watchtower	The Watchtower
+The Wood Corruptor	The Wood Corruptor
+Thinking Cap	Thinking Cap
+Thornbranch	Thornbranch
+Thorncaster	Thorncaster
+Thread of Life	Thread of Life
+Throatclasp	Throatclasp
+Throatseeker	Throatseeker
+Thunderbellow	Thunderbellow
+Thunderclap	Thunderclap
+Thunderpunch	Thunderpunch
+Toesie Warmer	Toesie Warmer
+Tome of Power	Tome of Power
+Torn Flesh of Gods	Torn Flesh of Gods
+Trang-Oul's Breath	Trang-Oul's Breath
+Trang-Oul's Relic	Trang-Oul's Relic
+Trick Gambit	Trick Gambit
+Vinewall	Vinewall
+Vizjerei's Folly	Vizjerei's Folly
+Wererat's Bite	Wererat's Bite
+Wheel of Fortune	Wheel of Fortune
+Whittlebone	Whittlebone
+Will of Zakarum	Will of Zakarum
+Windsmite	Windsmite
+Windwall	Windwall
+Witch Drum	Witch Drum
+Worldstone Shard	Worldstone Shard
+Wraithverge	Wraithverge
+Yu Tak's Dance	Yu Tak's Dance
+Zakarum's Legacy	Zakarum's Legacy
+Zerae's Fury	Zerae's Fury
+zen	modsbylaz.planetdiablo.gamespy.com\nMedian 2008 v1.57
+Angel	Angel
+Anniversary	(Median 2 - 1 year)\nAnniversary
+Abaddon	Abaddon
+Abyss	Abyss
+Air	Air
+Alchemy	Alchemy
+Archon	Archon
+Augur	Augur
+Avatar	Avatar
+Balance	Balance
+Bane	Bane
+Banshee	Banshee
+Bear	Bear
+Beauty	Beauty
+BlackCat	Black Cat
+Blaze	Blaze
+Bloom	Bloom
+Boulder	Boulder
+Brain	Brain
+Brimstone	Brimstone
+Brute	Brute
+Bull	Bull
+Caduceus	Caduceus
+Cannonball	Cannonball
+Carnage	Carnage
+Cauldron	Cauldron
+Chain	Chain
+Cheetah	Cheetah
+Chill	Chill
+Clairvoyance	Clairvoyance
+Clash	Clash
+Claw	Claw
+Cloud	Cloud
+Coil	Coil
+Compassion	Compassion
+Copperhead	Copperhead
+Courage	Courage
+Crusade	Crusade
+Curse	Curse
+DancingFlame	Dancing Flame
+Dawn	Dawn
+DeathMarch	Death March
+Decay	Decay
+Demon	Demon
+Despair	Despair
+Devotion	Devotion
+Dictator	Dictator
+Dogma	Dogma
+Dragonheart	Dragonheart
+Dreadlord	Dreadlord
+Dusk	Dusk
+Eagle	Eagle
+Earthquake	Earthquake
+Echo	Echo
+Eidolon	Eidolon
+Elder	Elder
+Elegance	Elegance
+Elf	Elf
+Energy	Energy
+Fae	Fae
+FairyTale	Fairy Tale
+Feast	Feast
+Firework	Firework
+Flake	Flake
+Forge	Forge
+Fountain	Fountain
+Freedom	Freedom
+Frenzy	Frenzy
+Galaxy	Galaxy
+Geas	Geas
+Ghost	Ghost
+Ghoul	Ghoul
+Glow	Glow
+Goddess	Goddess
+Grace	Grace
+Grandeur	Grandeur
+Halo	Halo
+Hymn	Hymn
+Hypnodisk	Hypnodisk
+Hadad	Hadad
+Hate	Hate
+Hive	Hive
+Hog	Hog
+Horror	Horror
+Icarus	Icarus
+Icebird	Icebird
+Jester	Jester
+Jinx	Jinx
+Joker	Joker
+Judas	Judas
+Justice	Justice
+Kali	Kali
+Karma	Karma
+Kestrel	Kestrel
+Kingblood	King's Blood
+Lion	Lion
+Lionpaw	Lionpaw
+Legend	Legend
+Legion	Legion
+Lich	Lich
+LumenArcana	Lumen Arcana
+Lunacy	Lunacy
+Madness	Madness
+Maelstrom	Maelstrom
+Majesty	Majesty
+Manitou	Manitou
+MarkOfCain	Mark of Cain
+Mercy	Mercy
+Mirage	Mirage
+Mirror	Mirror
+Mirth	Mirth
+Moon	Moon
+Moonlight	Moonlight
+Mosquito	Mosquito
+Mourning	Mourning
+Mystery	Mystery
+Nahual	Nahual
+Nirvana	Nirvana
+NorthernLight	Northern Light
+Oblivion	Oblivion
+Orc	Orc
+Pain	Pain
+PaxMystica	Pax Mystica
+Perdition	Perdition
+Pillow	Pillow
+Plight	Plight
+Phantom	Phantom
+Power	Power
+Prayer	Prayer
+Prodigy	Prodigy
+Prophecy	Prophecy
+Prince	Prince
+PulsaDinura	Pulsa Dinura
+Rage	Rage
+Ragnarok	Ragnarok
+Rainbow	Rainbow
+Rampage	Rampage
+Rampart	Rampart
+Reaper	Reaper
+Rebel	Rebel
+Royalty	Royalty
+Rune	Rune
+Sacrifice	Sacrifice
+Samhain	Samhain
+SatanasRuber	Satanas Ruber
+Scorpion	Scorpion
+Scream	Scream
+Seduction	Seduction
+Seid	Seid
+Seraph	Seraph
+Servitude	Servitude
+Shadow	Shadow
+Shaman	Shaman
+Shame	Shame
+Shivers	Shivers
+Shockwave	Shockwave
+SightlessEye	Sightless Eye
+Sinew	Sinew
+Skald	Skald
+Skull	Skull
+Snail	Snail
+Snake	Snake
+Snowstorm	Snowstorm
+Space	Space
+Spine	Spine
+Spiral	Spiral
+Stampede	Stampede
+Star	Star
+StrengthOfOne	Strength of One
+Summanus	Summanus
+Summit	Summit
+Sun	Sun
+Sundance	Sundance
+Surf	Surf
+Tempest	Tempest
+Terror	Terror
+ThousandStars	Thousand Stars
+Throne	Throne
+Thundergod	Thundergod
+Tide	Tide
+Titan	Titan
+Tornado	Tornado
+Torrent	Torrent
+Totem	Totem
+Tragedy	Tragedy
+Turtle	Turtle
+Twister	Twister
+Tyranny	Tyranny
+Unity	Unity
+Vengeance	Vengeance
+Vertigo	Vertigo
+Void	Void
+Vulture	Vulture
+WallOfFire	Wall of Fire
+Wasp	Wasp
+Wardance	Wardance
+Wardrum	Wardrum
+Warpath	Warpath
+Weird	Weird
+Willpower	Willpower
+World	World
+Worship	Worship
+Youth	Youth
+Zeal	Zeal
+Zeppelin	Zeppelin
+eo4	\dgreen;Spirit of Corruption
+eo6	\dgreen;Spirit of Celerity
+PotDivDesc	Casts a Level 1 Unholy Armor spell on the user
+PotCelDesc	Casts a Level 1 Celerity spell on the user
+eo7	\red;Elixir of Fire
+eo8	\red;Elixir of Cold
+eo9	\red;Elixir of Lightning
+ey1	\red;Elixir of Poison
+ey2	\red;Elixir of Experience
+ey3	\red;Elixir of Greed
+ey4	\red;Elixir of Wealth
+ey5	\red;Elixir of Strength
+ey6	\red;Elixir of Dexterity
+ey7	\red;Elixir of Energy
+ey8	\red;Elixir of Vitality
+ey9	\red;Elixir of Adrenaline
+et0	\red;Elixir of Elements
+et1	\red;Elixir of Concentration
+0g0	\red;Elixir of Greater Experience
+0g1	\red;Elixir of Greater Greed
+0g2	\red;Elixir of Greater Wealth
+0g3	\red;Elixir of Greater Strength
+0g4	\red;Elixir of Greater Dexterity
+0g5	\red;Elixir of Greater Energy
+0g6	\red;Elixir of Greater Vitality
+0g7	\red;Elixir of Power
+0g8	\red;Elixir of Love
+PotFirDesc	Fire Spell Damage +50% for 20 seconds
+PotColdDesc	Cold Spell Damage +50% for 20 seconds
+PotLtngDesc	Lightning Spell Damage +50% for 20 seconds
+PotPoisDesc	Poison Spell Damage +50% for 20 seconds
+PotExpDesc	+100% Experience for 20 seconds
+PotMagDesc	+150% Magic Find for 20 seconds
+PotGoldDesc	+300% Gold Find for 20 seconds
+PotStrDesc	+40% Strength for 20 seconds
+PotDexDesc	+40% Dexterity for 20 seconds
+PotEnrDesc	+40% Energy for 20 seconds
+PotVitDesc	+40% Vitality for 20 seconds
+PotAdrDesc	Cancels Running Skill Timers
+PotElemDesc	+4 Skill Levels for 20 seconds
+PotConcDesc	Buff/Debuff/Cold Skill Duration +25% for 20 seconds
+PotOfExpReloadedDesc	+300% Experience for 20 seconds
+PotOfMagReloadedDesc	+350% Magic Find for 20 seconds
+PotOfGoldReloadedDesc	+600% Gold Find for 20 seconds
+PotOfStrReloadedDesc	+100% Strength for 20 seconds
+PotOfDexReloadedDesc	+100% Dexterity for 20 seconds
+PotOfEnrReloadedDesc	+100% Energy for 20 seconds
+PotOfVitReloadedDesc	+100% Vitality for 20 seconds
+PotOfPowerDesc	+2 Skill Levels for 20 seconds
+PotOfLoveDesc	-5% Vendor Prices for 20 seconds
+Battlerager's Heart	Battlerager's Heart
+Battlerager's Skull	Battlerager's Skull
+Ranger's Mantle	Ranger's Mantle
+Ranger's Slippers	Ranger's Slippers
+Cleric's Grace	Cleric's Grace
+Cleric's Worship	Cleric's Worship
+Berserker's Claw	Berserker's Claw
+Berserker's Blood	Berserker's Blood
+Berserker's Horns	Berserker's Horns
+Hunter's Aim	Hunter's Aim
+Hunter's Cloak	Hunter's Cloak
+Hunter's Girdle	Hunter's Girdle
+Warcaster's Focus	Warcaster's Focus
+Warcaster's Battlerobe	Warcaster's Battlerobe
+Warcaster's Crown	Warcaster's Crown
+Wirt's Sticky Fingers	Wirt's Sticky Fingers
+Wirt's Disguise	Wirt's Disguise
+Wirt's Pigsticker	Wirt's Pigsticker
+Bear's Hide	Bear's Hide
+Eagle's Talon	Eagle's Talon
+Lion's Tooth	Lion's Tooth
+Well of Wonders	Well of Wonders
+Spring of Miracles	Spring of Miracles
+Fountain of Dreams	Fountain of Dreams
+Fool's Jest	Fool's Jest
+Fool's Best	Fool's Best
+Fool's Test	Fool's Test
+Fool's Zest	Fool's Zest
+Nature's Hide	Nature's Hide
+Nature's Sting	Nature's Sting
+Nature's Talon	Nature's Talon
+Nature's Grasp	Nature's Grasp
+Heaven In Sight	Heaven In Sight
+Till We Have	Till We Have
+Through Death's Veil	Through Death's Veil
+Lend Me Thy Light	Lend Me Thy Light
+Sankekur's Sacred Robe	Sankekur's Sacred Robe
+Sankekur's Halo	Sankekur's Halo
+Sankekur's Stigmata	Sankekur's Stigmata
+Sankekur's Sky Hammer	Sankekur's Sky Hammer
+Zerae's Winged Feet	Zerae's Winged Feet
+Zerae's Mantle	Zerae's Mantle
+Zerae's Laugh	Zerae's Laugh
+Zerae's Thunderbolt	Zerae's Thunderbolt
+Rathma's Curse	Rathma's Curse
+Rathma's Idol	Rathma's Idol
+Rathma's Shroud	Rathma's Shroud
+Rathma's Flayer	Rathma's Flayer
+Leoric's Cape	Leoric's Cape
+Leoric's Aura	Leoric's Aura
+Leoric's Banner	Leoric's Banner
+Leoric's Spurs	Leoric's Spurs
+Leoric's Clarion	Leoric's Clarion
+Celestia's Dance	Celestia's Dance
+Celestia's Ribbon	Celestia's Ribbon
+Celestia's Wings	Celestia's Wings
+Celestia's Crown	Celestia's Crown
+Celestia's Passion	Celestia's Passion
+Hadriel's Radiance	Hadriel's Radiance
+Hadriel's Compassion	Hadriel's Compassion
+Hadriel's Beauty	Hadriel's Beauty
+Hadriel's Triumph	Hadriel's Triumph
+Hadriel's Wrath	Hadriel's Wrath
+Battlerager's Fury	(Tier 1 Melee Set - contains no weapon)\nBattlerager's Fury
+Ranger's Song	(Tier 1 Archer Set - contains no weapon)\nRanger's Song
+Cleric's Light	(Tier 1 Caster Set - contains no weapon)\nCleric's Light
+Berserker's Revenge	(Tier 2 Melee Set - contains an axe)\nBerserker's Revenge
+Hunter's Arsenal	(Tier 2 Archer Set - contains a bow)\nHunter's Arsenal
+Warcaster's Wrath	(Tier 2 Caster Set - contains a sword)\nWarcaster's Wrath
+Wirt's Assets	(Tier 3 Melee Set - contains a sword)\nWirt's Assets
+Big Game Hunter	(Tier 3 Throwing Set - contains a throwing axe)\nBig Game Hunter
+Tranquil Waters	(Tier 3 Caster Set - contains a staff)\nTranquil Waters
+Divine Comedy	(Tier 4 Melee Set - contains a mace)\nDivine Comedy
+Caoi Dulra	(Tier 4 Archer Set - contains a bow)\nCaoi Dulra
+Archangel Dark Angel	(Tier 4 Caster Set - contains a staff)\nArchangel Dark Angel
+Sankekur's Wrath	(Tier 5 Melee Set - contains a scepter)\nSankekur's Wrath
+Zerae's Fury	(Tier 5 Throwing Set - contains a javelin)\nZerae's Fury
+Rathma's Ascension	(Tier 5 Caster Set - contains a staff)\nRathma's Ascension
+Leoric's Fall	(Tier 6 Melee Set - contains a sword and shield)\nLeoric's Fall
+Celestia's Myth	(Tier 6 Archer Set - contains a bow)\nCelestia's Myth
+Hadriel's Lore	(Tier 6 Caster Set - contains a staff)\nHadriel's Lore
+Azmodan	Azmodan
+Belial	Belial, Lord of Lies
+Bilefroth the Pit Master	Bilefroth the Pit Master
+Blackash the Burning	Blackash the Burning
+Blackstorm	Blackstorm
+Blightfire	Blightfire
+Bloodmoon Soulfire	Bloodmoon Soulfire
+Bloodskin Darkbow	Bloodskin Darkbow
+Brokenstorm	Brokenstorm
+Deadeye	Deadeye
+Deathshade Fleshmaul	Deathshade Fleshmaul
+Deathspit	Deathspit
+Doomcloud	Doomcloud
+Doomweaver	Doomweaver
+Dreadjudge	Dreadjudge
+El Chupacabras	El Chupacabras
+Fatal Morgana	Fatal Morgana
+Flamespike the Crawler	Flamespike the Crawler
+Fleshdoom	Fleshdoom
+Gharbad the Weak	Gharbad the Weak
+Goldblight of the Flame	Goldblight of the Flame
+Gorefeast	Gorefeast
+Gorestone	Gorestone
+Graywar the Slayer	Graywar the Slayer
+Grimspike	Grimspike
+Kermit	Kermit
+Lachdanan	Lachdanan
+Lionskull the Bent	Lionskull the Bent
+Moonbender	Moonbender
+Nightwing the Cold	Nightwing the Cold
+Plaguewrath	Plaguewrath
+Prince Albrecht	Prince Albrecht
+Pukerat the Unclean	Pukerat the Unclean
+PwndYooLol	Pwnzorz the Player Killer
+Red Vex	Red Vex
+Sir Gorash	Sir Gorash
+Snotspill	Snotspill
+The Vizier	The Vizier
+Viletouch	Viletouch
+Warlord of Blood	Warlord of Blood
+Warpwing	Warpwing
+Wrathraven	Wrathraven
+Zhar the Mad	Zhar the Mad
+Rusted	さびた
+Bent	曲った
+Used	使い古しの
+Discarded	捨てられた
+Broken	壊れた
+wow	You can't see this sentence.
+Shadow	Shadow
+SkillnameGhostArrow	Ghost Arrow
+SkillnameDeathMetal	Death Metal
+SkillnameRicochet	Ricochet
+SkillnameWraithArrow	Wraith Arrow
+SkillnameDeathCore	Deathcore
+SkillnameCatharsis	Catharsis
+SkillnameBarrage	Barrage
+SkillnameLegion	Legion
+SkillnameGuidedChain	Guided Chain
+SkillnameScatterShot	Scattershot
+SkillnameBlindside	Blindside
+SkillnameCascade	Cascade
+SkillnameSporeShot	Spore Shot
+SkillnamePhalanx	Phalanx
+SkillnameNovaShot	Nova Shot
+SkillnameDeathCoil	Death Coil
+SkillnameBloodstar	Bloodstar
+SkillnameBloodlust	Bloodlust
+SkillnameBloodstorm	Bloodstorm
+SkillnameMMiss	Magic Missiles
+SkillnameRetaliate	Retaliate
+SkillnameHolyInsanity	Holy Insanity
+SkillnameRetribute	Retribute
+SkillnameLionheart	Lionheart
+SkillnameRadiance	Radiance
+SkillnameManaCoil	Mana Coil
+SkillnamePaganHeart	Pagan Heart
+SkillnameHex	Hex
+SkillnameManaSweep	Mana Sweep
+SkillnameStormtouch	Stormtouch
+SkillnameBearClaw	Bear Claw
+SkillnameStormCrows	Storm Crows
+SkillnameEagleFlight	Rebound
+SkillnameMaelstrom	Maelstrom
+SkillnameHawkTalons	Hawk Talons
+SkillnameRuneOfFire	Rune of Fire
+SkillnameRuneOfIce	Rune of Ice
+SkillnameNovaBomb	Nova Bomb
+SkillnameImmoBomb	Immolation Bomb
+SkillnameRuneOfMana	Rune of Mana
+SkillnameSShd	Summon Shadows
+SkillnameBloodyMary	Bloody Mary
+SkillnameDarkPower	Dark Power
+SkillnameNightmare	Nightmare
+SkillnameVampiricIcon	Vampiric Icon
+SkillnameTimeStrike	Time Strike
+SkillnameCrucify	Crucify
+SkillnameOverpower	Overpower
+SkillnameLastStand	Last Stand
+SkillnameConquest	Conquest
+SkillnameApocalypse	Apocalypse
+SkillnameInnerFire	Inner Fire
+SkillnameCataclysm	Cataclysm
+SkillnameMeteors	Meteor Shower
+SkillnameFireStar	Fire Star
+SkillnameTitanStrike	Titan Strike
+SkillnameClaw	Claw Tornado
+SkillnameMOTW	Mark of the Wild
+SkillnameRocks	Shower of Rocks
+SkillnameBattlerage	Battlerage
+SkillnameArcaneStrike	Arcane Strike
+SkillnameBlackSleep	Black Sleep
+SkillnameShadowStrike	Shadow Strike
+SkillnameBloodStrike	Blood Strike
+SkillnameShadowform	Shadowform
+SkillnameGuardTower	Guard Tower
+SkillnameVanquish	Vanquish
+SkillnameFortress	Fortress
+SkillnameHolyArmor	Holy Armor
+SkillnameMountainKing	Mountain King
+SkillnameElemental	Elemental
+SkillnameFireCascade	Fire Cascade
+SkillnamePaganRites	Pagan Rites
+SkillnameFireFountain	Fire Fountain
+SkillnameBlastWave	Blast Wave
+SkillnamePFlash	Poison Flash
+SkillnameRejuv	Rejuvenate
+SkillnamePlagueAvatar	Plague Avatar
+SkillnameGammaField	Corruption Field
+SkillnameSummonAcid	Summon Acid Fiends
+SkillnameSearing	Searing Orb
+SkillnameRing	Ring of Light
+SkillnameDivTrap	Holy Trap
+SkillnameWrath	Wrath
+SkillnameVindicate	Vindicate
+SkillnameFrozenSoul	Frozen Soul
+SkillnameColdBlood	Cold Blood
+SkillnameDoomS	Doom Serpents
+SkillnameGlacNova	Glacial Nova
+SkillnameFrozenCrown	Frozen Crown
+SkillnameBFlash	Blood Flash
+SkillnamePunish	Punisher
+SkillnameMindflay	Mind Flay
+SkillnameSlayer	Slayer
+SkillnameDarkKing	Dark King
+SkillnameHunting	Hunting Banshee
+SkillnamePanda	Pandemonium
+SkillnameAvatar	Avatar
+SkillnameShadowAvatar	Winter Avatar
+SkillnameRavenHeart	Raven Heart
+SkillnameFlash	Flash
+SkillnameLightCascade	Lightning Cascade
+SkillnameLightWall	Lightning Wall
+SkillnameVortex	Vortex
+SkillnameSupernova	Supernova
+SkillnameBanish	Banish
+SkillnameDemSpeed	Demonic Speed
+SkillnamePossess	Possess
+SkillnameRavenFlight	Raven Flight
+SkillnameShackles	Shackles of Ice
+SkillnameTyphoonS	Typhoon Sentry
+SkillnameUnholyArmor	Unholy Armor
+SkillnameArrow	Arrow
+SkillnameCelerity	Celerity
+SkillnameDeathOfAGod	Death of a God
+SkillnameEnergyBeam	Energy Beam
+SkillnameFlurry	Flurry of Javelins
+SkillnameFrogPrince	Frog Prince
+SkillnameGiftOfShadows	Gift of Shadows
+SkillnameGiftOfTW	Gift of the Wild
+SkillnameImmolation	Immolation
+SkillnamePainSpirit	Pain Spirit
+SkillnameRustStorm	Rust Storm
+SkillnameSpikeNova	Spike Nova
+SkillnameStaticTrap	Static Trap
+SkillnameThunderH	Thunder Hammer
+SkillnameThunderW	Thunder Wave
+SkillnameAlchemist	Profession: Alchemist
+SkillnameEnchanter	Profession: Enchanter
+SkillnameExplorer	Profession: Explorer
+SkillnamePriest	Profession: Priest
+SkillnameRunemaster	Profession: Runemaster
+SkillnameWarlord	Profession: Warlord
+SkillanHunting	H. Banshee
+SkillanLightCascade	L. Cascade
+SkillanShackles	Icy Shackles
+SkillanSShd	S. Shadows
+SkillanMOTW	Wild's Mark
+SkillanRocks	Rock Shower
+SkillanDeathOfAGod	God's Death
+SkillanFlurry	Javelin Flurry
+SkillanGiftOfShadows	Shadow Gift
+SkillanGiftOfTW	Wild's Gift
+SkillsdGhostArrow	\red;requires a bow or crossbow\white;\nshoots an arrow that pierces enemies and level walls
+SkillsdDeathMetal	\red;requires a bow or crossbow\white;\nexplodes a corpse in a flurry of sharp steel spikes
+SkillsdRicochet	\red;requires a bow or crossbow\white;\narrow that does not hit directly, but shatters on walls
+SkillsdWraithArrow	\red;requires a bow or crossbow\white;\narrow that releases multiple homing spirits on striking
+SkillsdDeathCore	\red;requires a bow or crossbow\white;\nturns a corpse into a trap that blasts enemies with spikes
+SkillsdCatharsis	\red;requires a bow or crossbow\white;\nbow attack that protects you with a damage reducing shield
+SkillsdBarrage	\red;requires a bow or crossbow\white;\nfires a storm of arrows in all directions around you
+SkillsdLegion	\red;requires a bow or crossbow\white;\nsummons a legion of deadly archers to attack enemies
+SkillsdGuidedChain	\red;requires a bow or crossbow\white;\npiercing arrow that chases down random enemies
+SkillsdScatterShot	\red;requires a bow or crossbow\white;\narrow that shatters on striking, damaging nearby enemies
+SkillsdBlindside	\red;requires a bow or crossbow\white;\narrow that hits and stuns a random nearby enemy
+SkillsdCascade	\red;requires a bow or crossbow\white;\nshoots arrows at all nearby targets within a radius
+SkillsdSporeShot	\red;requires a bow or crossbow\white;\narrow that splits in two multiple times on striking
+SkillsdPhalanx	\red;requires a bow or crossbow\white;\nhidden archers shoot arrows that fly across the screen
+SkillsdNovaShot	\red;requires a bow or crossbow\white;\nshoots a ring of arrows around you, striking nearby enemies
+SkillsdDeathCoil	\white;dark bolt that steals life and deals damage based on life lost
+SkillsdBloodstar	\white;fires a deadly but slow moving missile of burning blood
+SkillsdBloodlust	\white;summon the power of the war god to increase all damage
+SkillsdBloodstorm	\white;skull trap that fires deadly blood stars at multiple enemies
+SkillsdMMiss	\white;fires a wave of multiple, randomly homing magic bolts
+SkillsdRetaliate	\red;requires a melee weapon\white;\nafter being struck, this attack damages nearby enemies
+SkillsdHolyInsanity	\white;curse - the opportunity to use retaliatory skills lasts longer
+SkillsdRetribute	\red;requires a melee weapon\white;\nafter being struck, this attack lowers the resistances of all nearby enemies
+SkillsdLionheart	\yellow;(cast again to turn off)\white;\nincreases your damage and defense, but slows you down
+SkillsdRadiance	\white;passive - blinds melee attackers, reducing their awareness range
+SkillsdManaCoil	\white;magic bolt that steals mana and deals damage based on mana lost
+SkillsdPaganHeart	\white;cast on self or an ally, adds an energy bonus to mana potions
+SkillsdHex	\white;curse - hits by a cursed enemy increase your spellpower
+SkillsdManaSweep	\white;steals mana and damages nearby enemies based on mana lost
+SkillsdStormtouch	\white;shock nearby enemies with a hypnotic pattern of electricity
+SkillsdBearClaw	\red;requires a throwing axe\white;\npowerful throwing axe attack that stuns and knocks back
+SkillsdStormCrows	\red;requires a throwing knife\white;\nthrow multiple, randomly homing throwing knives
+SkillsdEagleFlight	\red;requires a throwing axe\white;\nthrowing axe that shatters on walls, sending out homing shards
+SkillsdMaelstrom	\red;requires a throwing knife\white;\nthrowing knife that emits multiple spike novas while moving
+SkillsdHawkTalons	\red;requires a throwing axe\white;\nstationary mine that sends out a flurry of axes when struck
+SkillsdRuneOfFire	\white;places a highly explosive landmine of fire at your feet
+SkillsdRuneOfIce	\white;places a landmine that freezes enemies at your feet
+SkillsdNovaBomb	\white;places a powerful electric time bomb at your feet
+SkillsdImmoBomb	\white;places a powerful explosive time bomb at your feet
+SkillsdRuneOfMana	\white;mine that steals mana and does damage based on mana lost
+SkillsdSShd	\white;summon multiple shadow minions with an aura of blood
+SkillsdBloodyMary	\white;cast on self or an ally, adds a vitality bonus to healing potions
+SkillsdDarkPower	\white;summon dark forces, boosting the party's physical attacks
+SkillsdNightmare	\white;curse - slows enemies and reduces their chance to hit you
+SkillsdVampiricIcon	\white;creates a female gender icon in unholy vampiric flames
+SkillsdTimeStrike	\red;requires a melee weapon\white;\nmelee attack followed by a second delayed attack
+SkillsdCrucify	\red;requires a melee weapon\white;\nmelee attack that shoots out homing spikes on striking
+SkillsdOverpower	\red;requires a melee weapon\white;\nmelee attack followed by multiple delayed melee attacks
+SkillsdLastStand	\red;requires a melee weapon\white;\ndesperate area effect stunning attack
+SkillsdConquest	\red;requires a melee weapon\white;\nmelee attack that turns you invulnerable for a short time
+SkillsdApocalypse	\white;causes nearby enemies to explode, dealing fire damage
+SkillsdInnerFire	\white;heal yourself or a target party member with the power of fire
+SkillsdCataclysm	\white;casts a ring of deadly fireballs in all directions around you
+SkillsdMeteors	\white;bombard the target area with a continous rain of meteors
+SkillsdFireStar	\white;creates an expanding pentagram of fire around you
+SkillsdTitanStrike	\red;requires a melee weapon\white;\nmelee attack that briefly turns you into mighty stone
+SkillsdClaw	\red;requires a melee weapon\white;\nmelee attack that unleashes multiple ferocious twisters
+SkillsdMOTW	\white;invoke the power of the wild to strengthen self or target ally
+SkillsdRocks	\red;requires a melee weapon\white;\nmelee attack that rains down rocks, damaging and weakening enemies
+SkillsdBattlerage	\red;requires a melee weapon\white;\nattack that greatly increases damage on subsequent attacks
+SkillsdArcaneStrike	\red;requires a melee weapon\n\blue;only allows the use of melee and summoning skills\n\white;melee attack that boosts spell damage for a short time
+SkillsdBlackSleep	\red;requires a melee weapon\n\tan;(works only after using Arcane Strike)\n\white;melee attack that converts the target to fight other evils
+SkillsdShadowStrike	\red;requires a melee weapon\n\tan;can only be used after Arcane Strike\n\white;melee attack that unleashes hunting spirits
+SkillsdBloodStrike	\red;requires a melee weapon\n\tan;can only be used after Arcane Strike\n\white;attack that unleashes a torrent of bloody thorns
+SkillsdShadowform	\white;voodoo spirits protect you from harm, reducing all damage
+SkillsdGuardTower	\white;summons a stationary tower that shoots your enemies
+SkillsdVanquish	\white;temporarily grants a huge damage boost to self or target ally
+SkillsdFortress	\white;summons a ring of deadly arrow towers around you
+SkillsdHolyArmor	\white;protects you or target ally with a glowing shield of invulnerability
+SkillsdMountainKing	\white;passive - increases strength, dexterity, energy and vitality
+SkillsdElemental	\white;summons a running fire elemental that chases down enemies
+SkillsdFireCascade	\white;shoots fireballs at all nearby enemies within a radius
+SkillsdPaganRites	\white;consumes corpses in flames, healing you with each sacrifice
+SkillsdFireFountain	\white;scatters many volatile fire spikes around the caster
+SkillsdBlastWave	\white;multiple gigantic stunning novas that knock enemies back
+SkillsdPFlash	\white;short ranged radius blast that poisons nearby enemies
+SkillsdRejuv	\white;slowly regenerates the lost life of self or a target ally
+SkillsdPlagueAvatar	\white;floating avatar that casts clouds of poison around it
+SkillsdGammaField	\white;withering blight field that poisons foes over time
+SkillsdSummonAcid	\white;summons ferocious acid creatures with a poison attack
+SkillsdSearing	\white;blast the target area with an explosive orb of holy fire
+SkillsdRing	\white;creates a stationary ring of holy fire to burn nearby enemies
+SkillsdDivTrap	\white;holy landmine that unleashes fiery waves when triggered
+SkillsdWrath	\white;cleanses the area with a nova of deadly holy fireballs
+SkillsdVindicate	\white;curse - killing a cursed enemy heals the party and boosts damage
+SkillsdFrozenSoul	\white;shoots an ice orb at a random foe, dealing heavy damage
+SkillsdColdBlood	\white;explodes a corpse, freezing all nearby enemies in ice blocks
+SkillsdDoomS	\white;fires whirling loops of ice and frost to strike multiple targets
+SkillsdGlacNova	\white;gigantic nova that freezes and damages nearby enemies
+SkillsdFrozenCrown	\white;ice missile that shatters on impact, damaging nearby enemies
+SkillsdBFlash	\white;short ranged radius blast that steals life from nearby enemies
+SkillsdPunish	\white;casts a slow moving bolt of doom that kills or cripples a target
+SkillsdMindflay	\white;chaotic beam of unholy lightning that melts the victim's face
+SkillsdSlayer	\white;summons a stationary phantom that blasts nearby enemies
+SkillsdDarkKing	\white;passive - bonus to strength, dexterity, energy and vitality
+SkillsdHunting	\white;casts an ice spirit that tracks down random enemies
+SkillsdPanda	\white;unleash homing waves of frost upon your enemies
+SkillsdAvatar	\white;floating avatar that casts freezing waves around it
+SkillsdShadowAvatar	\white;floating avatar that blasts the area with frost novas
+SkillsdRavenHeart	\white;increases cold damage but slowly drains your life away
+SkillsdFlash	\white;short ranged radius blast that shocks nearby enemies
+SkillsdLightCascade	\white;fires bolts of searing lightning at all nearby enemies
+SkillsdLightWall	\white;creates a wall of static energy that explodes on trespassers
+SkillsdVortex	\white;creates a rotating whirlpool of electricity at the target spot
+SkillsdSupernova	\white;blasts out a gigantic nova of powerful lightning
+SkillsdBanish	\white;curse - reduces target's maximum life by a percentage
+SkillsdDemSpeed	\yellow;(cast again to turn off)\white;\nboosts movement speed but renders you vulnerable
+SkillsdPossess	\white;curse - converts one or more targets to fight other evils
+SkillsdRavenFlight	\white;unleash a flock of demonic ravens upon your enemies
+SkillsdShackles	\white;traps an enemy in a large ice block, freezing it sold
+SkillsdTyphoonS	\white;sentry that blows away nearby enemies with wind blasts
+SkillsdUnholyArmor	\white;turns you or a target ally invulnerable for a short time
+SkillsdSecret	\white;secret skill!
+SkillsdAlchemist	passive - unlocks cube recipes to create powerful alchemical elixirs
+SkillsdEnchanter	passive - unlocks cube recipes to enchant items with additional stats
+SkillsdExplorer	passive - unlocks cube recipes to regenerate magic and rare items
+SkillsdPriest	passive - unlocks cube recipes to craft powerful magical jewels
+SkillsdRunemaster	passive - unlocks cube recipes to upgrade runes to higher runes
+SkillsdWarlord	passive - unlocks cube recipes to upgrade items to higher tier items
+DescOverlapWarning	(You can only learn one profession; choose wisely!)
+SkillnameIAttributes	Increased Attributes
+SkillnameIGold	Increased Gold
+SkillnameIResist	Increased Resistances
+SkillnameIDamage	Increased Damage
+SkillnameISpells	Increased Skill Damage
+SkillnameIDefense	Increased Defense
+SkillnameLoanShark	Loan Shark
+SkillsdIAttributes	passive - increases all attributes
+SkillsdIGold	passive - increases gold dropped
+SkillsdIResist	passive - increases all resistances
+SkillsdIDamage	passive - increases physical damage
+SkillsdISpells	passive - increases all spell damage
+SkillsdIDefense	passive - increases overall defense
+SkillsdLoanshark	gives out free skill points... at a price
+DescTotalLW	(Lightning Damage per Second: 
+DescTotalLC	(Total Lightning Damage per Bolt: 
+DescTotalLC2	)
+DescShark2	\yellow;this skill is not affected by skill level bonus items\grey;
+AcidDevil	Acid Fiend
+DescPsnDmgBonus	Poison Damage Bonus: 
+DescTotalPF	Poison Flash Damage: 
+DescAcidNr	Acid Fiends: 
+DescFlashPsn	Casts Level 5 Poison Flash
+DescDevilsSyn	additional Acid Fiends per Level
+DescDevilsPFSyn	Bonus to Poison Flash Damage per Level
+DescAcidAura	Acid Trance Aura Increases Poison Damage: 
+Aether	Aether
+Affluence	Affluence
+Altitude	Altitude
+Ambush	Ambush
+Armageddon	Armageddon
+Arreat	Arreat
+Assault	Assault
+Bell	Bell
+Berserk	Berserk
+Bridge	Bridge
+Brutality	Brutality
+Butcher	Butcher
+Corruption	Corruption
+Cowardice	Cowardice
+Craze	Craze
+FallFromGrace	Fall from Grace
+Fright	Fright
+Gauntlet	Gauntlet
+Glory	Glory
+Gore	Gore
+Hoodoo	Hoodoo
+Hourglass	Hourglass
+Hunger	Hunger
+Leadership	Leadership
+Light	Light
+Majority	Majority
+Nomad	Nomad
+Osiris	Osiris
+Pantheon	Pantheon
+Pearl	Pearl
+Plow	Plow
+Priestess	Priestess
+Ra	Ra
+Raven	Raven
+Sail	Sail
+Saint	Saint
+Sphere	Sphere
+Steam	Steam
+GuideStar	Guide Star
+Temple	Temple
+Thelema	Thelema
+Thunder	Thunder
+Trance	Trance
+Tremor	Tremor
+Trench	Trench
+Truth	Truth
+Warp	Warp
+Witch	Witch
+Kodo	Kodo
+Sky	Sky
+Shark	Shark
+Drama	Drama
+Atom	Atom
+Sagarmatha	Sagarmatha
+Oxygen	Oxygen
+Evil	Evil
+Blood	Blood
+Enyo	Enyo
+Chasm	Chasm
+Growth	Growth
+Crash	Crash
+Snowflake	Snowflake
+Joy	Joy
+SkillnamePurge	Purge
+SkillsdPurge	enables you to ignore enemy immunities
+Toesie Warmer	Toesie Warmer
+Mark of Blood	Vizjun's Mark (1)
+ModitemRejuvSyn	Damage Reduction to Pact of Blood
+Carmen Alvare	Carmen Alvare
+DescLvlsPerTarget	+1 additional Target per 5 Levels
+ContestReward	(Ad Majorem Fishi Gloriam)\nSecret Runeword!
+Hornet Sting	Hornet Sting
+Coldkill Iceguard	Coldkill Iceguard
+Blightstone the Weak	Blightstone the Weak
+Tremain the Fallen	Tremain the Fallen
+Glass Skull the Jagged	Glass Skull the Jagged
+Blacktongue	Blacktongue
+Soulslasher the Hollow	Soulslasher the Hollow
+Wrathfire the Doomed	Wrathfire the Doomed
+Howlingire the Shade	Howlingire the Shade
+Stormbane	Stormbane
+Flower Prowler	Flower Prowler
+Spirit of Hatred	Spirit of Hatred
+Spirit of Terror	Spirit of Terror
+Warmaggot the Mad	Warmaggot the Mad
+Spirit of Anguish	Spirit of Anguish
+Spirit of Pain	Spirit of Pain
+Sinwar of the Storm	Sinwar of the Storm
+DescPaganSlvl	+1 to All Skills per 2 Levels
+DescPaganEx1	(When you use a
+DescPaganEx2	mana potion)
+DescAdds	Adds 
+DescToSkillsLvl	 to All Skills
+DescSuckSome	Drains 100 percent Life in 
+mon_steak3	Hides and Moooves Silently
+mon_steak4	Texas Giant Special
+mon_steak5	Summons More Cowbell
+Hellrift Tower	Hellrift Tower
+mon_hellrift	Summons Monsters!!
+Shield Generator	Shield Generator
+mon_unha	Casts Unholy Armor
+gig	Cube Reagent\n\orange;The Human Spirit
+Doomlock	Doomlock
+CowEnforcer	Cow Enforcer
+CowHonchoWithEnforcer	Cow Honcho
+CowNinja	Cow Ninja
+CowWardrummerWithEnforcer	Cow Wardrummer
+CowSummoner	Cow Summoner
+InfernalMachine	Infernal Machine
+Azmodan	Azmodan
+InariusGhost	Inarius' Mirror Image
+Inarius	Inarius
+SkillnameAcidMini	S. Acid Fiends
+Pharaoh	Pharaoh
+Babylon	Babylon
+Dajjal	Dajjal
+Asp	Asp
+Outlaw	Outlaw
+Emperor	Emperor
+Nightmare	Nightmare
+ModitemPaganB	to All Skills when using a Mana Potion
+Conquest	Conquest
+ModitemJBH	Use Lemures/Blood Thorns at Any Time
+Gravity	Gravity
+Truce	Truce
+DyausPita	Dyaus Pita
+Pinto	Pinto
+Charm	Charm
+Cathedral	Cathedral
+Liberty	Liberty
+Chrysopelea	Chrysopelea
+ModitemPASyn	Bonus to Poison Skill Duration
+ModitemMissMiss	Extra Magic Missiles Bolts
+Hangman2	Hangman (2)
+Hangman3	Hangman (3)
+Hangman4	Hangman (4)
+Hangman5	Hangman (5)
+Hangman6	Hangman (6)
+The Dreamcatcher2	The Dreamcatcher (2)
+The Dreamcatcher3	The Dreamcatcher (3)
+The Dreamcatcher4	The Dreamcatcher (4)
+The Dreamcatcher5	The Dreamcatcher (5)
+The Dreamcatcher6	The Dreamcatcher (6)
+Witchmoon2	Witchmoon (2)
+Witchmoon3	Witchmoon (3)
+Witchmoon4	Witchmoon (4)
+Witchmoon5	Witchmoon (5)
+Witchmoon6	Witchmoon (6)
+Ripstar2	Ripstar (2)
+Ripstar3	Ripstar (3)
+Ripstar4	Ripstar (4)
+Ripstar5	Ripstar (5)
+Ripstar6	Ripstar (6)
+Ring of Disengagement2	Ring of Disengagement (2)
+Ring of Disengagement3	Ring of Disengagement (3)
+Ring of Disengagement4	Ring of Disengagement (4)
+Ring of Disengagement5	Ring of Disengagement (5)
+Ring of Disengagement6	Ring of Disengagement (6)
+Mark of Blood2	Vizjun's Mark (2)
+Mark of Blood3	Vizjun's Mark (3)
+Mark of Blood4	Vizjun's Mark (4)
+Mark of Blood5	Vizjun's Mark (5)
+Mark of Blood6	Vizjun's Mark (6)
+vic	Cube Reagent\n\orange;Victim's Heart
+mec	Cube Reagent\n\orange;Meditation Candle
+s0m	Book of Summoning
+a55	Optical Detector
+a56	Azmodan's Heart
+a57	Visions of Akarat
+a58	Scroll of Kings
+a59	Laser Focus Crystal
+a60	The Butcher's Tooth
+ScrollOfSummons	Book of Summoning
+OpticalDetector	Optical Detector
+AzmodansHeart	Azmodan's Heart
+BookOfAkarat	Visions of Akarat
+ScrollOfKings	Scroll of Kings
+LaserFocusCrystal	Laser Focus Crystal
+ButchersTooth	The Butcher's Tooth
+Akarat	\gold;Akarat
+FollowerOfAkarat	Follower of Akarat
+TalRasha	\gold;Tal Rasha
+HoradricMage	Horadric Mage
+HoradricGuardian	Horadric Guardian
+mon_killdesc	Kill to Temporarily Weaken Akarat
+mon_antivuln	Aura Renders Tal Rasha Invulnerable!
+CowShadowlord	Cow Shadowlord
+SkillnameAreaRejuv	Gift of Rejuvenation
+SkillnameDarkSummon	Dark Summoning
+SkillsdDarkSummon	\blue;have some quite surprising results...\nusing this skill in certain places may\n\n\white;summon a random monster from the current area
+SkillanDarkSummon	Dark Summ.
+SkillnameArcWave	Arcane Wave
+SkillsdArcWave	\white;casts a wave of magic energy
+InariusPriest	Priest of Inarius
+mon_inamorph	Aura Removes Inarius' Immunities! Respawns when Killed
+SkillnameDemonBlood	Demon Blood
+SkillnameInaMorph	Inarius Morph
+TheButcher	\gold;The Butcher
+mon_meat	RUN!
+SkillnameBling	Gold Creation
+SkillnameExpAura	Experience Creation
+DescSplits	Splits into 
+DescArrowSpl	 bolts on the last split
+DescExp	Experience
+DescAllKings	To all Attributes: 
+DescKingOne	Adds 
+DescKingTwo	 percent Life Steal to attacks
+a72	Healer's Light Key
+a73	Summoner's Shadow Key
+a74	Cleric's Order Key
+a75	Shaman's Chaos Key
+SkillnameAreaCel	Gift of Celerity
+SkillnameAreaFire	Gift of Inner Fire
+SkillnameAreaV	Gift of Vanquishing
+SkillanAreaFire	Gift of I.F.
+SkillanAreaRejuv	Gift of Rejuv.
+Liberation	Liberation
+Ascension	Ascension
+Cherub	Cherub
+Satellite	Satellite
+Citadel	Citadel
+SkillnameSpellbomb	Spellbomb
+SkillsdSpellbomb	\white;kills enemies dead
+Koth	\gold;King Koth
+Shaman	Bear Shaman
+mon_antivuln2	Aura Renders Koth Invulnerable!
+a61	Sacred Worldstone Key
+SacredWorldstoneKey	Sacred Worldstone Key
+mon_auratitan	Stun Attack Aura Enchanted
+Death Projector	Death Projector
+DeathOperator	Death's Mechanic
+mon_donotkill	Aura Removes Death Projector's Immunities!
+PsnPctSyn	to Poison Damage per Level
+DescLtngSD	Lightning Damage: 
+DescColdSD	Cold Damage: 
+DescFireSD	Fire Damage: 
+DescPsnSD	Poison Damage: 
+DescMagSD	Magic Damage: 
+DescWhenNotStruck	Activate after avoiding Hits for 2 seconds
+DescBombs	 bombs
+DescShurikens	 throwing stars
+DescTimerDrop	Skill Timer Reduced by 
+DescTrackAvoid	Chance to Dodge Attacks: 
+DescSlowThs	Slows Attacker by 
+DescDefenzor	 defense
+DescStunDur	Stun Length: 
+DescSplatters	Blood Splatters: 
+DescToAtPct	 percent (to Battle Meditation hits only)
+DescOnlyPctPh	Damage per Level
+DescLightningBolts	 lightning bolts
+DescAntiLtng	Lightning Damage Penalty to Conduction: 
+DescAntiFire	Fire Damage Penalty to Convection: 
+DescLvlsPerLB	+1 Lightning Bolt per 2 Levels
+DescMissVel	Throwing Skill Missile Velocity: 
+DescHitRec	Hit Recovery and Block Rate: 
+DescAttackTakes	Attacker Takes 
+DescLtngDmg	 lightning damage
+DescTotemShoots	Totem Shoots 
+DescYouCanHave	Maximum Number of Totems: 
+DescSlowsT	Party Members: Attacks Slow Target by 
+DescHPT	Party Members: Maximum Life 
+DescDefenseT	Party Members: Defense: 
+DescElemT	Party Members: Elemental Damages: 
+DescDmgT	Party Members: Damage: 
+DescMaxTotems	 to maximum totems
+DescTotemsPerLevel	extra Totem per 2 Levels
+DescRunDist	Monster Flees for 
+DescFleeDur	Monster Flee Duration: 
+DescPctOfMana	 percent of mana lost
+DescManaHealK	 mana after each kill
+DescGoldFinder	Gold from Monsters: 
+DescToBlock	To Shield Block Rate: 
+DescBlockSyn	+5% to Shield Block per level
+DescDmgRedBy	Damage Reduced by 
+DescLifeHealK	 life after each kill
+DescLifeLeech	Life Steal: 
+DescMaxPetSyn	Aura Bonus to Maximum Summoned Minions per level
+DescOverlordsNr	Overlords: 
+DescAuraAdds	Dark Legion Aura Adds 
+DescPets	 maximum minions
+DescRampagorNr	Rampagors: 
+DescRampSyn	additional Rampagor per 4 levels
+DescDarklingsNr	Darklings: 
+DescDarkSyn	+1 additional Darklings per 2 Levels
+DescLamiaNr	Ghosts: 
+DescLamiaSyn	+1 additional Ghost per 2 Levels
+DescOmgZR	 darklings ^_^ OMG DARKLING RUSH KEKE!1! @_@
+Darkling	Darkling
+Rampagor	Rampagor
+Lamia	Lamia
+Overlord	Overlord
+DescSlowGhoul	Lamia: Slows Target by 
+DescAuraOL	Overlords: Aura Adds 
+DescElemAuraSH	Shadows: Aura Increases Elemental Damages: 
+DescBarbDark	Darklings: 
+DescSlowsYoo	Slows Target by 
+DescHealWhenST	 life when struck
+DescHealRamp	Rampagors: 
+DescRefSyn	damage reflected per level
+DescTormSyn	life when struck
+DescSlowSyn	Ghoul Touch: Slows Target 5% per level
+SkillnameTriumphant	Triumphant Strike
+SkillnameSunspear	Sunspear
+SkillnameWingedStrike	Winged Strike
+SkillnameEnfilade	Enfilade
+SkillnameLightswarm	Lightswarm
+SkillnameACHarmony	Defensive Harmony
+SkillnameBladesOfLight	Blades of Light
+SkillnameBalance	Balance
+SkillnameRejuvLG	Pact of Blood
+SkillnameWrathWings	Wings of Wrath
+SkillnameHadesGate	Hades Gate
+SkillnameDoom	Doom
+SkillnameWayOfTheSdr	Way of the Spider
+SkillnameShadowRef	Shadow Refuge
+SkillnameBlackLotus	Black Lotus Strike
+SkillnameBlossom	Death Blossom
+SkillnameWayOfThePh	Way of the Phoenix
+SkillnameScorpionBlade	Scorpion Blade
+SkillnameDarkEmbrace	Dark Embrace
+SkillnameShadowBlade	Shadow Blade
+SkillnameBlink	Blink
+SkillnameShurryFlurry	Starburst
+SkillnamePreMed	Premeditation
+SkillnameBoomKaboom	Rain of Bombs
+SkillnameGodSaveThe	Perfect Being
+SkillnameCautious	Cautious Strike
+SkillnameLionStance	Lion Stance
+SkillnameThunderSlam	Thunder Slam
+SkillnameBearStance	Bear Stance
+SkillnameBerStrike	Berserker Strike
+SkillnameHamRadio	Hamstring
+SkillnameSnakeStance	Snake Stance
+SkillnameBloodshed	Bloodshed
+SkillnameEagleStance	Eagle Stance
+SkillnameBattleMed	Battle Meditation
+SkillnameImmocopter	Fire Splash
+SkillnameConvection	Convection
+SkillnameEclairFourche	Forked Lightning
+SkillnameConduction	Conduction
+SkillnameBerserkFury	Berserk Fury
+SkillnameLightningSh	Lightning Shield
+SkillnameStampede	Stampede
+SkillnameStormwind	Stormwind
+SkillnameSDrk	Summon Darklings
+SkillnameSRam	Summon Rampagor
+SkillnameSLam	Summon Lamia
+SkillnameSOvr	Summon Overlord
+SkillnameDemonBlood	Demon Blood
+SkillnameBarbWire	Barb Wire
+SkillnameSpectralTorment	Spectral Torment
+SkillnameGhoulTouch	Ghoul Touch
+SkillnameDarkLegion	Dark Legion
+SkillnameSlowTotem	Death's Fury Totem
+SkillnameBloodTotem	Blood Tide Totem
+SkillnameShadowTotem	Liche Totem
+SkillnameElemTotem	Elemental Totem
+SkillnameAlphaTotem	Alpha Totem
+SkillnameTotMast	Demon Seed
+SkillnameFrostCTotem	Frostclaw Totem
+SkillnameFireHTotem	Fireheart Totem
+SkillnameLoaTotem	Mana Tide Totem
+SkillnameStormeyeT	Stormeye Totem
+SkillnameBlessedLife	Blessed Life
+SkillnameLemu	Lemures
+SkillnameBTHS	Blood Thorns
+SkillnameHmmmmm	Vessel of Judgement
+SkillnameSpHeal	Light and Shadow
+SkillnameRad2	Radiance
+SkillnameColdFear	Cold Fear
+SkillnameManaCircle	Circle of Mana
+SkillnameArcTorrent	Arcane Torrent
+SkillnameArcPower	Arcane Power
+SkillnameMageArmor	Mage Armor
+SkillsdTriumphant	\red;requires a spear or javelin\white;\nmelee attack that temporarily boosts your defense
+SkillsdSunspear	\red;requires a javelin\white;\njavelin attack that bounces, turning into a stunning bolt
+SkillsdWingedStrike	\red;requires a spear or javelin\white;\ncharge the target and deliver a powerful knockback attack
+SkillsdEnfilade	\red;requires a javelin\green;\npress and hold mouse button for rapid fire\white;\nthrow a continuous stream of javelins at your enemies
+SkillsdLightswarm	\red;requires a spear or javelin\white;\nmelee attack that unleashes homing spirits of light
+SkillsdACHarmony	\white;passive - the gods protect you in battle, slowing your attackers
+SkillsdBladesOfLight	\white;provides self or target ally with magical thorns of light
+SkillsdBalance	\white;passive - adds a flat bonus to your defense rating
+SkillsdRejuvLG	\white;enchants the party, returning life when struck with a weapon
+SkillsdWrathWings	\white;passive - greatly increases your movement speed
+SkillsdHadesGate	\red;requires a melee weapon\white;\nteleport into a corpse, damaging and knocking back enemies
+SkillsdDoom	\white;curse - adds points to all physical damage taken
+SkillsdWayOfTheSdr	\white;passive - enables you to inflict powerful poisonous attacks
+SkillsdShadowRef	\red;requires a melee weapon\white;\nmelee attack that temporarily protects your well-being
+SkillsdBlackLotus	\red;requires a melee weapon\white;\nadds a wave of expanding poison to a melee attack
+SkillsdBlossom	\red;requires a melee weapon\white;\nadds a searing shockwave of fire to a melee attack
+SkillsdWayOfThePh	\white;passive - enables you to inflict powerful fiery attacks
+SkillsdScorpionBlade	\red;requires a throwing knife\white;\ninflict deadly poison with a thrown knife attack
+SkillsdDarkEmbrace	\red;requires a throwing knife\white;\nthrowing knife attack that stuns a single target
+SkillsdShadowBlade	\red;requires a throwing knife\white;\ndeadly throwing knife that instantly kills the target
+SkillsdBlink	\white;teleport to a target, stunning enemies around you
+SkillsdShurryFlurry	\white;throw multiple magical homing ninja stars around you
+SkillsdPreMed	\white;passive - reduces all assassin skill timers by a percentage
+SkillsdBoomKaboom	\white;pound the target area with a hail of explosives
+SkillsdGodSaveThe	\white;passive - grants a chance to avoid taking damage
+SkillsdCautious	\red;requires two melee weapons\white;\nmelee attack that temporarily reduces damage taken
+SkillsdLionStance	\white;stance - increases damage dealt and damage received
+SkillsdThunderSlam	\red;requires a melee weapon\white;\nmelee attack that blasts out a stunning thunderclap
+SkillsdBearStance	\white;stance - increases all your elemental resistances
+SkillsdBerStrike	\red;requires a melee weapon\white;\nmelee attack that temporarily boosts physical damage
+SkillsdHamRadio	\red;requires a melee weapon\white;\nyour attack and subsequent attacks stun the target
+SkillsdSnakeStance	\white;stance - adds fire, cold and lightning damage to your attacks
+SkillsdBloodshed	\red;requires a melee weapon\white;\nmelee attack that sprays the area with demon blood
+SkillsdEagleStance	\white;stance - slowly regenerates lost hit points over time
+SkillsdBattleMed	\red;requires two melee weapons\white;\nmelee attack that increases your mana regeneration
+SkillsdImmocopter	\red;requires a melee weapon\white;\nmelee attack that sets the ground around the target on fire
+SkillsdConvection	\white;passive - heed the call of the fire spirits
+SkillsdEclairFourche	\red;requires a melee weapon\white;\nmelee attack that shoots out snaking bolts of lightning
+SkillsdConduction	\white;passive - heed the call of the storm spirits
+SkillsdBerserkFury	\white;passive - increases attack, movement and recovery rate
+SkillsdLightningSh	\white;cast a retaliatory shield of lightning on self and nearby allies
+SkillsdStampede	\red;requires a throwing axe\white;\nthrow multiple axes that stun and knock back enemies
+SkillsdStormwind	\white;passive - increases melee damage and missile speed of throwing weapons
+SkillsdSDrk	\white;summon shadow beasts to tear your enemies apart
+SkillsdSRam	\white;summon small numbers of strong defensive shadows
+SkillsdSLam	\white;summon many powerful shadow ghost creatures
+SkillsdSOvr	\white;summon a shadow overlord to lead your phantom army
+SkillsdDemonBlood	\white;passive - your shadows' aura increases spell damage
+SkillsdBarbWire	\white;passive - grants your darklings damage reflection
+SkillsdSpectralTorment	\white;passive - your rampagors heal when they take damage
+SkillsdGhoulTouch	\white;passive - provides your lamia with a slowing attack
+SkillsdDarkLegion	\white;passive - increases your overlord's bonus to army size
+SkillsdSlowTotem	\white;corpse totem - adds elemental damage to the party's attacks
+SkillsdBloodTotem	\white;corpse totem - boosts life of the party by a percentage
+SkillsdShadowTotem	\white;corpse totem - grants all party members a bonus to attributes
+SkillsdElemTotem	\white;corpse totem - increases elemental damage of the party
+SkillsdAlphaTotem	\white;corpse totem - increases physical damage of the party
+SkillsdTotMast	\white;passive bonus - increases maximum allowed number of totems\nsummons a corpse that can be used to create totems
+SkillsdFrostCTotem	\white;corpse totem - casts waves of cold at nearby enemies
+SkillsdFireHTotem	\white;corpse totem - casts a barrage of meteors at nearby targets
+SkillsdLoaTotem	\white;corpse totem - rapidly regenerates the party's mana
+SkillsdStormeyeT	\white;corpse totem - casts a crackling discharge of lightning
+SkillsdBlessedLife	\white;passive - reduces all incoming physical damage
+SkillsdLemu	\red;requires a melee weapon\n\tan;(works only after using Arcane Strike)\white;\nmelee attack that unleashes multiple homing ice wraiths
+SkillsdBTHS	\red;requires a melee weapon\n\tan;(works only after using Arcane Strike)\white;\nmelee attack that blasts enemies with burning thorns
+SkillsdHmmmmm	\white;when active, periodically casts divine blasts at nearby targets
+SkillsdSpHeal	\white;passive - improves your Vessel of Judgement spell depending on alignment
+SkillsdRad2	\white;passive - slows attackers and increases gold drops
+SkillsdColdFear	\white;nova of icy terror that forces nearby monsters to flee
+SkillsdManaCircle	\white;passive - regenerates mana when you kill an enemy
+SkillsdArcTorrent	\white;strike enemies in front of you with the power of the void
+SkillsdArcPower	\white;passive - provides mastery over all schools of magic
+SkillsdMageArmor	\white;passive - magically increases your total defense rating
+SkillanBoL	Light's Blades
+SkillanRLG	Blood Pact
+SkillanWoS	Spider's Way
+SkillanBL	Black Lotus
+SkillanWoP	Phoenix' Way
+SkillanFL	Forked Ltng
+SkillanBTT	Blood Totem
+SkillanSWT	Liche Totem
+DescThrDmg	Throwing Weapons: Melee Damage: 
+DescDmgToMP	 percent of damage taken goes to mana
+DescMelDmg	Weapon Damage: 
+DescSlowsThem	Slows Attacker by 
+DescHPSV	Maximum Life per level
+DescFDtoWPN	Fire Damage to Weapon
+DescPDtoWPN	Poison Damage to Weapon
+ModitemUpgraded	Already upgraded!
+ModitemArrrgh	to We Have A Bug Here
+ModitemAvoidance	Chance to Avoid Damage
+ModitemHPMinBonus	Bonus to Summoned Minion Life
+Spider	Spider
+DescOnEachHit	 per hit
+SkillnameTS	T. Strike
+DescDamageIncr	Damage Taken Increased by 
+SkillanSOR	Rock Shower
+Nether	Nether
+Fuse	Fuse
+SkillnameGuardianSp	Guardian Spirit
+SkillnameDefenderSp	Defender Spirit
+SkillnameProtectorSp	Protector Spirit
+SkillnameGreaterM	Greater Manifestations
+SkillnameShamansPath	Shaman's Path
+DescAncSpi	Ancient Spirits: 
+DescMoreAncSyn	Extra Ancient Spirits per level
+BloodSynL	Adds to Bloodlust Damage per level
+BloodSynE	Adds to Bloodlust Elemental Damage per level
+DescBloodPhysAC	Bloodlust Spell: Damage: 
+DescBloodElemAC	Bloodlust Spell: Elemental Damages: 
+DescBloodPhysAD	Adds to Bloodlust Spell: Damage: 
+DescBloodElemAD	Adds to Bloodlust Spell: Elemental Damages: 
+GMAddsDmg	Adds Damage to Ancient Spirits: 
+GMAddsLife	Adds Life to Ancient Spirits: 
+DescBasedOnType	(Based on Spirit Type)
+SkillsdGuardianSp	\white;summons a guardian spirit to attack enemies with axe skills
+SkillsdDefenderSp	\white;summons a defender spirit to fight and take damage for you
+SkillsdProtectorSp	\white;summons a protector spirit with a powerful melee attack
+SkillsdGreaterM	\white;passive - improves the quantity and quality of your spirits
+SkillsdShamansPath	All Stances: adds area of effect to your battle stances to boost allies\nEagle Stance: adds mana regeneration bonus when active\nProtector Spirit: increases damage dealt by the Bloodlust spell\n\n\white;passive - improves various barbarian and ancient spirit skills
+DescGuardian	Uses various Axe Skills
+DescDefender	Uses Level 3 Retaliate
+DescProtector	Casts Level 1 Bloodlust
+GuardianSpirit	Guardian Spirit
+DefenderSpirit	Defender Spirit
+ProtectorSpirit	Protector Spirit
+DescYPL	Adds Area Effect: +2 Yards per level
+DescAddsRadius	Stances: Adds to Radius: 
+DescNMRegenBlock	\n\dgreen;prevents monsters from healing on hit/kill
+improved attributes	(none)
+added deadly strike	(none)
+increased resistances	(none)
+increased exp gain	(none)
+added crushing blow	(none)
+improved damage	(none)
+improved armor class	(none)
+adds to amazon skills	(none)
+adds to druid skills	(none)
+adds to necromancer skills	(none)
+adds to paladin skills	(none)
+adds to sorceress skills	(none)
+DescCrusNr	Crusaders: 
+DescFCLDmg	Fire/Cold/Lightning Damage: 
+DescOverAllElem	 per element
+DescAFCLDmg	Aura Adds Fire/Cold/Lightning Damage: 
+DescAuraRad	Aura Radius: 
+DescFCL	fire/cold/lightning damage
+DescAuraMade	Turns the fire/cold/lightning damage bonus into an aura
+SkillnameHey	Summon Crusader Spirit
+SkillsdHey	\white;summons a powerful crusader spirit to aid you in battle
+SkillanHY	S. Crus. Sp.
+SkillnameRepent	Jihad
+SkillsdRepent	\white;passive - your crusader's elemental damage affects other units
+Ligeia	Ligeia
+SkillnameCircleOfLife	Circle of Life
+SkillsdCircleOfLife	\white;passive - regenerates life when you kill an enemy
+DescSnakez	 snakes
+DescHPBonus	Life Bonus: 
+DescPerCD	 per character level
+DescLifeWhenStruck	 life when struck
+DescManaWhenStruck	 mana when struck
+DescRadiusAround	Radius around Commanded Monster: 
+DescNovaRad	Command Radius: 
+DescFreezesAtt	Freezes Attacker 
+DescCrushEm	Crushing Blow: 
+DescRadBon	Bonus to Charm Radius: 
+DescRadSynC	+0.6 yards per level
+DescAttSyR	Bonus to Attack Rating per level
+RadSynD	Aura Radius: +3.3 yards
+SkillnameCharm	Charm
+SkillnameHuffAndPuff	Killer Instinct
+SkillnameAlwaysHits	Tranquil Spirit
+SkillnameSurvivalist	Extinction
+SkillnameDireCharms	Dire Charm
+SkillnameBrambles	Brambles
+SkillnameThrillOfTheHunt	Thrill of the Hunt
+SkillnameSotFit	Survival of the Fittest
+SkillnameFriends	Friendship
+SkillsdCharm	\white;converts a small area of monsters, forcing them to fight for you
+SkillsdHuffAndPuff	\orange;once commanded, the monster retains the bonus forever\white;\ncommand - increases damage of your converted monsters
+SkillsdAlwaysHits	\orange;once commanded, the monster retains the bonus forever\white;\ncommand - anything that hits your converted monsters is slowed
+SkillsdSurvivalist	\orange;once commanded, the monster retains the penalty forever\white;\ncommand - reduces poison resistance of your converted monsters
+SkillsdDireCharms	\dgrey;each point in Charm cancels out one point in Dire Charm\white;\n\npassive - increases the area of effect of your Charm skill
+SkillsdBrambles	\orange;once commanded, the monster retains the bonus forever\white;\ncommand - causes your converted monsters to reflect damage
+SkillsdThrillOfTheHunt	\orange;once commanded, the monster retains the bonus forever\white;\ncommand - enables your converted monsters to deal crushing blows
+SkillsdSotFit	\orange;once commanded, the monster retains the penalty forever\white;\ncommand - lowers physical resistance of your converted monsters
+SkillsdFriends	\white;passive - increases the radius of your monster commands
+SkillanSurv	Surv. Instinct
+SkillanTotH	Hunt's Thrill
+SkillanSOTHF	Surv. o/t F.
+DescNovaBon	Command Radius Bonus: 
+DescToNext	percent to other attacks
+eur	Cube Reagent\n\orange;Dull Arcane Shards
+eus	Cube Reagent\n\orange;Regular Arcane Shards
+eut	Cube Reagent\n\orange;Glowing Arcane Shards
+eux	Cube Reagent\n\orange;Brilliant Arcane Shards
+DescPhFSyn	Adds Physical and Fire Damage (Diminishing Returns)
+PhFdplev	Physical and Fire Damage per Level
+DescThisIsHoly	\orange;(not counting skill bonuses from items)\nputting points into a holy skill disables all unholy skills\nHoly Skill
+DescThisIsUnholy	\purple;(not counting skill bonuses from items)\nputting points into an unholy skill disables all holy skills\nUnholy Skill
+Inarius	Inarius
+High Cleric Dorian	High Cleric Dorian
+High Cleric Gray	High Cleric Gray
+NunOfVanity	Nun of Vanity
+Crystal Ball	Crystal Ball
+Glass Skull the Jagged	Glass Skull the Jagged
+a66	Idol of Vanity
+a67	Congratulations. You got it\nSpirit of Damnation
+SkillnameDSPR	Death Spiral
+TehOvarlord	\gold;Inarius
+FleshdoomTD	\gold;Creature of Flame
+IdolOfVanity	Idol of Vanity
+SpiritOfDamnation	Spirit of Damnation
+a68	Horazon's Focus
+CursedShadowfang	Horazon's Focus
+FleshdoomTDF	\gold;Horazon's Familiar
+SkillanDFT	Death's Totem
+SkillanMMT	Mana T. Totem
+DescIASSyn	Attack Speed per Level
+DescMRS	Added Mana Recovery Rate per Level
+SPESynDesc	Eagle Stance: Adds to Mana Recovery Rate: 
+DescTLSyn	Totem Life per Level
+DescOverSyn	Aura Bonus to Maximum Minions per Level
+DescTLDesc	to Totem Life
+DescOver	over 
+DescPctLS	 percent of Light Speed)
+DescAka	(or 
+DescHammers	 blasts
+DescHolySynLAS	adds Enhanced Damage (Alignment: Holy)
+DescUnholySynLAS	adds Extra Targets (Alignment: Unholy)
+ToJudgements	To Vessel of Judgement Spell:
+DescPctHoly	 percent (Alignment: Holy)
+DescHammersUnh	 extra targets (Alignment: Unholy)
+SummTotem	Shadowgate Totem
+mon_shieldgen	Shield Generator Summons Undead
+SuperSumm	\gold;Ennead Necromancer
+mon_summonar	Summons Undead
+GuardThing	Death Machine
+DescSparklies	 bolts
+ModitemDiffCrank	 Increased Difficulty Setting
+ModitemNirMorph	Cube to Morph between Staff and Bow
+ModitemDAeq	Level 10 Demon Blood Aura when Equipped
+ModitemElix	Damage when using a Healing Potion
+Martyr's Garb	Martyr's Garb
+Martyr's Mantle	Martyr's Mantle
+Martyr's Death Mask	Martyr's Death Mask
+Martyr's Slippers	Martyr's Slippers
+Martyr's Crucifix	Martyr's Crucifix
+Martyr's Girdle	Martyr's Girdle
+Transcendent Vestments	Transcendent Vestments
+Transcendent Cloak	Transcendent Cloak
+Transcendent Veil	Transcendent Veil
+Transcendent Handguards	Transcendent Handguards
+Transcendent Legguards	Transcendent Legguards
+Nirvana's Raiments	Nirvana's Raiments
+Nirvana's Tunic	Nirvana's Tunic
+Nirvana's Crown	Nirvana's Crown
+Nirvana's Girdle	Nirvana's Girdle
+Nirvana's Gaunts	Nirvana's Gaunts
+Nirvana's Branch	Nirvana's Branch
+Rathma's Asc	Rathma's Ascension
+Rathma's Talons	Rathma's Talons
+Sankekur's Glory	Sankekur's Glory
+Sankekur's W	Sankekur's Wrath
+Nature's Branch	Nature's Branch
+Nature's Crown	Nature's Crown
+Caoi D	Caoi Dulra
+The Elements	The Elements
+Arc Dark	Archangel Dark Angel
+Rathma's Mantra	Rathma's Mantra
+Firestorm	Firestorm
+Icestorm	Icestorm
+Thunderstorm	Thunderstorm
+Manastorm	Manastorm
+The Elements	The Elements
+Nexus	Nexus
+Celestia's M	Celestia's Myth
+Celestia's Thunderbolt	Celestia's Thunderbolt
+Celestia's Aim	
+Bul Kathos' Negotiator	Bul Kathos' Negotiator
+Bul Kathos' Furs	Bul Kathos' Furs
+Bul Kathos' Crown	Bul Kathos' Crown
+Bul Kathos' Fist	Bul Kathos' Fist
+Bul Kathos' Stride	Bul Kathos' Stride
+Bul Kathos' Th	Bul Kathos' Throne
+Heaven's Children	Heaven's Children
+Thunder Tribe's Fury	Thunder Tribe's Fury
+Bear Tribe's Furs	Bear Tribe's Furs
+Snake Tribe's Fangs	Snake Tribe's Fangs
+Crane Tribe's Reach	Crane Tribe's Reach
+Wolf Tribe's Swiftness	Wolf Tribe's Swiftness
+Witchhunter's Attire	Witchhunter's Attire
+Witchhunter's Steel	Witchhunter's Steel
+Witchhunter's Faith	Witchhunter's Faith
+Witchhunter's Hood	Witchhunter's Hood
+Witchhunter's Fire	Witchhunter's Fire
+Witchhunter's Conviction	Witchhunter's Conviction
+Nature's Reach	Nature's Reach
+DescShower	Uses Level 1 Shower of Rocks\nReceives your Pet Commands at 1/4 Effectiveness
+SkillnameLeader	Leader of the Sun
+SkillnameLifeblood	Lifeblood
+SkillnameWolfStance	Wolf Stance
+SkillnameSummonThB	Summon Thunder Bear
+SkillnameUnholyPrayer	Unholy Prayer
+SkillnameDivApparition	Divine Apparition
+SkillnameMFlare	Arcane Fury
+SkillsdLeader	\green;press and hold mouse button for rapid fire\white;\nchannel the power of your pagan deities into nearby allies
+SkillsdLifeblood	\white;rapidly replenishes the life of self or target ally over time
+SkillsdWolfStance	\white;stance - increases attack, hit recovery and movement speed
+SkillsdSummonThB	\orange;you can use pet commands on your thunder bear\n\red;requires a staff\white;\nsummons a ferocious bear to rain stone blocks on your enemies
+SkillsdUnholyPrayer	\green;press and hold mouse button for rapid fire\white;\nchannel dark forces, making allies invulnerable and boosting damage
+SkillsdDivApparition	\white;teleport to target location, freezing nearby monsters on arrival
+SkillsdMFlare	\white;temporarily provides a large bonus to your cast rate
+SkillanLotS	Sun's Leader
+SkillanSTB	S. Thunder Bear
+SkillanDivA	Divine App.
+ModitemDmgMinBonus	Bonus to Summoned Minion Damage
+ModitemNeedsUpgraded	Can Be Upgraded with Attribute Challenge 1
+Sacred Sunstone	(Amazon Challenge Item)\nSacred Sunstone
+Shadow Vortex	(Assassin Challenge Item)\nShadow Vortex
+Worldstone Orb	(Barbarian Challenge Item)\nWorldstone Orb
+Caoi Dulra Fruit	(Druid Challenge Item)\nCaoi Dulra Fruit
+Soulstone Shard	(Necromancer Challenge Item)\nSoulstone Shard
+Orb of Divinity	(Paladin Challenge Item)\nEye of Divinity
+Nexus Crystal	(Sorceress Challenge Item)\nNexus Crystal
+x01	Sacred Sunstone
+x02	Shadow Vortex
+x03	Worldstone Orb
+x04	Caoi Dulra Fruit
+x05	Soulstone Shard
+x06	Eye of Divinity
+x07	Nexus Crystal
+DescPctManaKept	 percent of Current Mana
+ModitemAm	Life Bonus to Leader of the Sun
+ModitemDr	Life to Summon Thunder Bear
+ThunderBear	Thunder Bear
+Path	Path
+Leviathan	Leviathan
+Endor	Endor
+Nebiros	Nebiros
+Inti	Inti
+Slime	Slime
+Aiwass	Aiwass
+Epicenter	Epicenter
+Hallucination	Hallucination
+Huracan	Huracan
+Glare	Glare
+DescFaCaRa	% Faster Cast Rate
+w10	ウルフ・ヘッド (1)
+w11	ホーク・ヘルム (1)
+w12	アントラーズ (1)
+w13	ファルコン・マスク (1)
+w14	スピリット・マスク (1)
+w15	ジョウボーン・キャップ (1)
+w16	ファングド・ヘルム (1)
+w17	ホーンド・ヘルム (1)
+w18	アソールト・ヘルメット (1)
+w19	アヴェンジャー・ガード (1)
+w20	タージ (1)
+w21	ロンダッシュ (1)
+w22	ヘラルディック・シールド (1)
+w23	アエリン・シールド (1)
+w24	クラウン・シールド (1)
+w25	プリザーブド・ヘッド (1)
+w26	ゾンビー・ヘッド (1)
+w27	アンラヴェラー・ヘッド (1)
+w28	ガーゴイル・ヘッド (1)
+w29	デーモン・ヘッド (1)
+k01	サークレット (1)
+k02	コロネット (1)
+k03	ティアラ (1)
+k04	ダイアデム (1)
+w30	ウルフ・ヘッド (2)
+w31	ホーク・ヘルム (2)
+w32	アントラーズ (2)
+w33	ファルコン・マスク (2)
+w34	スピリット・マスク (2)
+w35	ジョウボーン・キャップ (2)
+w36	ファングド・ヘルム (2)
+w37	ホーンド・ヘルム (2)
+w38	アソールト・ヘルメット (2)
+w39	アヴェンジャー・ガード (2)
+w40	タージ (2)
+w41	ロンダッシュ (2)
+w42	ヘラルディック・シールド (2)
+w43	アエリン・シールド (2)
+w44	クラウン・シールド (2)
+w45	プリザーブド・ヘッド (2)
+w46	ゾンビー・ヘッド (2)
+w47	アンラヴェラー・ヘッド (2)
+w48	ガーゴイル・ヘッド (2)
+w49	デーモン・ヘッド (2)
+k05	サークレット (2)
+k06	コロネット (2)
+k07	ティアラ (2)
+k08	ダイアデム (2)
+w50	ウルフ・ヘッド (3)
+w51	ホーク・ヘルム (3)
+w52	アントラーズ (3)
+w53	ファルコン・マスク (3)
+w54	スピリット・マスク (3)
+w55	ジョウボーン・キャップ (3)
+w56	ファングド・ヘルム (3)
+w57	ホーンド・ヘルム (3)
+w58	アソールト・ヘルメット (3)
+w59	アヴェンジャー・ガード (3)
+w60	タージ (3)
+w61	ロンダッシュ (3)
+w62	ヘラルディック・シールド (3)
+w63	アエリン・シールド (3)
+w64	クラウン・シールド (3)
+w65	プリザーブド・ヘッド (3)
+w66	ゾンビー・ヘッド (3)
+w67	アンラヴェラー・ヘッド (3)
+w68	ガーゴイル・ヘッド (3)
+w69	デーモン・ヘッド (3)
+k09	サークレット (3)
+k10	コロネット (3)
+k11	ティアラ (3)
+k12	ダイアデム (3)
+w70	ウルフ・ヘッド (4)
+w71	ホーク・ヘルム (4)
+w72	アントラーズ (4)
+w73	ファルコン・マスク (4)
+w74	スピリット・マスク (4)
+w75	ジョウボーン・キャップ (4)
+w76	ファングド・ヘルム (4)
+w77	ホーンド・ヘルム (4)
+w78	アソールト・ヘルメット (4)
+w79	アヴェンジャー・ガード (4)
+w80	タージ (4)
+w81	ロンダッシュ (4)
+w82	ヘラルディック・シールド (4)
+w83	アエリン・シールド (4)
+w84	クラウン・シールド (4)
+w85	プリザーブド・ヘッド (4)
+w86	ゾンビー・ヘッド (4)
+w87	アンラヴェラー・ヘッド (4)
+w88	ガーゴイル・ヘッド (4)
+w89	デーモン・ヘッド (4)
+k13	サークレット (4)
+k14	コロネット (4)
+k15	ティアラ (4)
+k16	ダイアデム (4)
+w90	ウルフ・ヘッド (5)
+w91	ホーク・ヘルム (5)
+w92	アントラーズ (5)
+w93	ファルコン・マスク (5)
+w94	スピリット・マスク (5)
+w95	ジョウボーン・キャップ (5)
+w96	ファングド・ヘルム (5)
+w97	ホーンド・ヘルム (5)
+w98	アソールト・ヘルメット (5)
+w99	アヴェンジャー・ガード (5)
+e10	タージ (5)
+e11	ロンダッシュ (5)
+e12	ヘラルディック・シールド (5)
+e13	アエリン・シールド (5)
+e14	クラウン・シールド (5)
+e15	プリザーブド・ヘッド (5)
+e16	ゾンビー・ヘッド (5)
+e17	アンラヴェラー・ヘッド (5)
+e18	ガーゴイル・ヘッド (5)
+e19	デーモン・ヘッド (5)
+k17	サークレット (5)
+k18	コロネット (5)
+k19	ティアラ (5)
+k20	ダイアデム (5)
+e20	ウルフ・ヘッド (6)
+e21	ホーク・ヘルム (6)
+e22	アントラーズ (6)
+e23	ファルコン・マスク (6)
+e24	スピリット・マスク (6)
+e25	ジョウボーン・キャップ (6)
+e26	ファングド・ヘルム (6)
+e27	ホーンド・ヘルム (6)
+e28	アソールト・ヘルメット (6)
+e29	アヴェンジャー・ガード (6)
+e30	タージ (6)
+e31	ロンダッシュ (6)
+e32	ヘラルディック・シールド (6)
+e33	アエリン・シールド (6)
+e34	クラウン・シールド (6)
+e35	プリザーブド・ヘッド (6)
+e36	ゾンビー・ヘッド (6)
+e37	アンラヴェラー・ヘッド (6)
+e38	ガーゴイル・ヘッド (6)
+e39	デーモン・ヘッド (6)
+k21	サークレット (6)
+k22	コロネット (6)
+k23	ティアラ (6)
+k24	ダイアデム (6)
+l10	ワンド (1)
+l11	木のワンド (1)
+l12	ボーンワンド (1)
+l13	グリムワンド (1)
+l34	ウォーハンマー (1)
+l35	モール (1)
+l36	グレートモール (1)
+l52	ライト・クロスボウ (1)
+l53	クロスボウ (1)
+l54	ヘヴィ・クロスボウ (1)
+l55	連射クロスボウ (1)
+j10	イーグル・オーブ (1)
+j11	セイクリッド・グローブ (1)
+j12	スモークト・スフィア (1)
+j13	クラスプト・オーブ (1)
+j14	ジャレッズ・ストーン (1)
+j15	スタッグ・ボウ (1)
+j16	リフレックス・ボウ (1)
+j17	メイデン・スピア (1)
+j18	メイデン・パイク (1)
+j19	メイデン・ジャベリン (1)
+j20	カタール (1)
+j21	リスト・ブレイド (1)
+j22	ハチェット・ハンズ (1)
+j23	セスタス (1)
+j24	クローズ (1)
+j25	ブレイド・タロンズ (1)
+j26	シザース・カタール (1)
+l14	ワンド (2)
+l15	木のワンド (2)
+l16	ボーンワンド (2)
+l17	グリムワンド (2)
+l37	ウォーハンマー (2)
+l38	モール (2)
+l39	グレートモール (2)
+l56	ライト・クロスボウ (2)
+l57	クロスボウ (2)
+l58	ヘヴィ・クロスボウ (2)
+l59	連射クロスボウ (2)
+j27	イーグル・オーブ (2)
+j28	セイクリッド・グローブ (2)
+j29	スモークト・スフィア (2)
+j30	クラスプト・オーブ (2)
+j31	ジャレッズ・ストーン (2)
+j32	スタッグ・ボウ (2)
+j33	リフレックス・ボウ (2)
+x34	メイデン・スピア (2)
+j35	メイデン・パイク (2)
+j36	メイデン・ジャベリン (2)
+j37	カタール (2)
+j38	リスト・ブレイド (2)
+j39	ハチェット・ハンズ (2)
+j40	セスタス (2)
+j41	クローズ (2)
+j42	ブレイド・タロンズ (2)
+j43	シザース・カタール (2)
+l18	ワンド (3)
+l19	木のワンド (3)
+l20	ボーンワンド (3)
+l21	グリムワンド (3)
+l40	ウォーハンマー (3)
+l41	モール (3)
+l42	グレートモール (3)
+l60	ライト・クロスボウ (3)
+l61	クロスボウ (3)
+l62	ヘヴィ・クロスボウ (3)
+l63	連射クロスボウ (3)
+j44	イーグル・オーブ (3)
+j45	セイクリッド・グローブ (3)
+j46	スモークト・スフィア (3)
+j47	クラスプト・オーブ (3)
+j48	ジャレッズ・ストーン (3)
+j49	スタッグ・ボウ (3)
+j50	リフレックス・ボウ (3)
+j51	メイデン・スピア (3)
+j52	メイデン・パイク (3)
+j53	メイデン・ジャベリン (3)
+j54	カタール (3)
+j55	リスト・ブレイド (3)
+j56	ハチェット・ハンズ (3)
+j57	セスタス (3)
+j58	クローズ (3)
+j59	ブレイド・タロンズ (3)
+j60	シザース・カタール (3)
+l22	ワンド (4)
+l23	木のワンド (4)
+l24	ボーンワンド (4)
+l25	グリムワンド (4)
+l43	ウォーハンマー (4)
+l44	モール (4)
+l45	グレートモール (4)
+l64	ライト・クロスボウ (4)
+l65	クロスボウ (4)
+l66	ヘヴィ・クロスボウ (4)
+l67	連射クロスボウ (4)
+j61	イーグル・オーブ (4)
+j62	セイクリッド・グローブ (4)
+j63	スモークト・スフィア (4)
+j64	クラスプト・オーブ (4)
+j65	ジャレッズ・ストーン (4)
+j66	スタッグ・ボウ (4)
+j67	リフレックス・ボウ (4)
+j68	メイデン・スピア (4)
+j69	メイデン・パイク (4)
+j70	メイデン・ジャベリン (4)
+j71	カタール (4)
+j72	リスト・ブレイド (4)
+j73	ハチェット・ハンズ (4)
+j74	セスタス (4)
+j75	クローズ (4)
+j76	ブレイド・タロンズ (4)
+j77	シザース・カタール (4)
+l26	ワンド (5)
+l27	木のワンド (5)
+l28	ボーンワンド (5)
+l29	グリムワンド (5)
+l46	ウォーハンマー (5)
+l47	モール (5)
+l48	グレートモール (5)
+l68	ライト・クロスボウ (5)
+l69	クロスボウ (5)
+l70	ヘヴィ・クロスボウ (5)
+l71	連射クロスボウ (5)
+j78	イーグル・オーブ (5)
+j79	セイクリッド・グローブ (5)
+j80	スモークト・スフィア (5)
+j81	クラスプト・オーブ (5)
+j82	ジャレッズ・ストーン (5)
+j83	スタッグ・ボウ (5)
+j84	リフレックス・ボウ (5)
+j85	メイデン・スピア (5)
+j86	メイデン・パイク (5)
+j87	メイデン・ジャベリン (5)
+j88	カタール (5)
+j89	リスト・ブレイド (5)
+j90	ハチェット・ハンズ (5)
+j91	セスタス (5)
+j92	クローズ (5)
+j93	ブレイド・タロンズ (5)
+j94	シザース・カタール (5)
+l30	ワンド (6)
+l31	木のワンド (6)
+l32	ボーンワンド (6)
+l33	グリムワンド (6)
+l49	ウォーハンマー (6)
+l50	モール (6)
+l51	グレートモール (6)
+l72	ライト・クロスボウ (6)
+l73	クロスボウ (6)
+l74	ヘヴィ・クロスボウ (6)
+l75	連射クロスボウ (6)
+j95	イーグル・オーブ (6)
+j96	セイクリッド・グローブ (6)
+j97	スモークト・スフィア (6)
+j98	クラスプト・オーブ (6)
+j99	ジャレッズ・ストーン (6)
+o10	スタッグ・ボウ (6)
+o11	リフレックス・ボウ (6)
+o12	メイデン・スピア (6)
+o13	メイデン・パイク (6)
+o14	メイデン・ジャベリン (6)
+o15	カタール (6)
+o16	リスト・ブレイド (6)
+o17	ハチェット・ハンズ (6)
+o18	セスタス (6)
+o19	クローズ (6)
+o20	ブレイド・タロンズ (6)
+o21	シザース・カタール (6)
+Storm Cloud	Storm Cloud
+Sky Sweeper	Sky Sweeper
+Vizjun's Justice	Vizjun's Justice
+Noblebane	Noblebane
+Earthrend	Earthrend
+Skythrone	Skythrone
+Manafeast	Manafeast
+Larzuk's Contraption	Larzuk's Contraption
+Earthwaker	Earthwaker
+The Predator	The Predator
+Spirit of Corruption	Spirit of Corruption
+Nature's Menace	Nature's Menace
+Trollskull	Trollskull
+Hero's Fang	Hero's Fang
+Firemouth	Firemouth
+Fearward	Fearward
+Razordisk	Razordisk
+Leoric's Banner	Leoric's Banner
+Shadowmoon	Shadowmoon
+Warp Crystal	Warp Crystal
+The Allseeing Eye	The Allseeing Eye
+Manaflare	Manaflare
+Flamebreath	Flamebreath
+Thunder Machine	Thunder Machine
+Larzuk's Bombard	Larzuk's Bombard
+Mind Probe	Mind Probe
+Dragonspine	Dragonspine
+Rathma's Charm	Rathma's Charm
+Jalal's Charge	Jalal's Charge
+Leoric's Fall	Leoric's Fall
+Demonhorn	Demonhorn
+The Puppet Master	Shadowmaster
+Siege Breaker	Siege Breaker
+The Legionnaire	The Legionnaire
+The Ripper	The Ripper
+The Warthog	The Warthog
+The Atom Splitter	The Atom Splitter
+Messiah	Messiah
+Creed	Creed
+Word	Word
+Song	Song
+Poem	Poem
+Aura	Aura
+Tao	Tao
+Zen	Zen
+Blasphemy	Blasphemy
+Anathema	Anathema
+Essus	Essus
+Judge	Judge
+Mantra	Mantra
+Order	Order
+Trishula	Trishula
+Amenonuhoko	Amenonuhoko
+Dust	Dust
+Centurion	Centurion
+Thunderbird	Thunderbird
+Rapture	Rapture
+Harvest	Harvest
+Warlock	Warlock
+Loa	Loa
+Trance	Trance
+Ice Breaker	Ice Breaker
+Liquid	Liquid
+Choronzon	Choronzon
+Frequency	Frequency
+Quimbanda	Quimbanda
+Elemental	Elemental
+Hourglass	Hourglass
+Cube	Cube
+Black Sheep	Black Sheep
+Fog	Fog
+Cloudburst	Cloudburst
+Deep Water	Deep Water
+Ruin	Ruin
+Scar	Scar
+Fiend	Fiend
+Misery	Misery
+Circe	Circe
+Illusion	Illusion
+Binding	Binding
+Wave	Wave
+Dead Ringer	Dead Ringer
+Spark	Spark
+Shedim	Shedim
+Kabbalah	Kabbalah
+Hestia	Hestia
+ModitemDruidString	Druid Morph
+SkillnameDBAura	Demon Blood
+ModitemDBA	Level 1 Demon Blood Aura when Equipped
+Azrael	Azrael
+Berith	Berith
+Berserkergang	Berserkergang
+ModitemThrown	 to Throw Damage
+yo1	\purple;Chipped Rainbow Stone
+yo2	\purple;Flawed Rainbow Stone
+yo3	\purple;Rainbow Stone
+yo4	\purple;Flawless Rainbow Stone
+yo5	\purple;Perfect Rainbow Stone
+yq1	Sunless Crystal Bird
+yq2	Six Angel Bag
+SunlessCrystalBird	Sunless Crystal Bird
+SixAngelBag	Six Angel Bag
+DescPoisRes	Poison Resistance Reduced by 
+DescTcs	May Cast Level 10 Bloodlust or Gift of the Wild\nUses Level 20 Time Strike
+yq7	Hard Mode Charm
+JollyRoger	Hard Mode Charm
+ModitemIncDif	Increased Difficulty
+ModitemJollyRoger	\purple;and Reward, cube with a Mana Potion to lower it\nCube with a Healing Potion to Increase Difficulty
+mon_shieldfull	Kill Other Monsters to Remove Immunity
+mon_mf	Mind Flay Attack
+FireBeast	Fire Beast
+IceGlobe	Ice Globe
+PoisonOrb	Poison Orb
+EvilForce	Evil Force
+MageFlayer	Mage Flayer
+Zharr The Mad	Zhar the Mad
+Bhelial	Belial
+ZharsMessenger	\gold;Zhar's Messenger
+SpiritOfMefis	Spirit of Mefis
+NewMalic	Malic
+NewMalicMessenger	Malic's Messenger
+NewLucion	\gold;Lucion, Son of Mephisto
+NewPrimus	Primus
+Lucion	Lucion
+DescCLevel	Character Level
+DescDLAdds	Adds 1 Minion per 
+DescPerCLVLDL	 Skill Levels (Based on Character Level)
+mon_letskillgod	Kill to Weaken Others
+EtherealQ	Ethereal
+LightwellQ	Lightwell
+ZOMGZakarum	\gold;Zakarum's Avatar
+ToGermanTranslators	Thanks for the translation effort! :)
+ModitemMorSkillz	Maximum Skill Level Increased by
+yq8	Zakarum's Ear
+ZakarumsEar	Zakarum's Ear
+DescMultiplier	\n\dgreen;by weapon damage multipliers on attack skills\nthe elemental damage from this skill is affected
+Jubilee	(Median 2008 - 2 years)\nJubilee
+Venomhive	Venom Hive
+Warp Shards	Warp Shards
+Raven Flock	Ravenflock
+Love Bucket	Love Bucket
+Windsmite	Windsmite
+Soot Chimney	Soot Chimney
+Test Tube	Test Tube
+Pixie Legion	Pixie Legion
+Thunderswarm	Thunderswarm
+SkyHamm2V	Sky Hammer
+Vizjun's Rockets	Vizjun's Rockets
+Hammerspace	Hammerspace
+DescATCLocked	\orange;Complete Attribute Challenge 1
+DescATCHeeeeelp	\orange;Attribute Challenge Reward Skill
+DescReferToSite	\red;See the documentation or website for more details
+DescToUnlock	\yellow;To unlock this skill:
+DescLevel90	\orange;Reach character level 90
+SkillnameSlow	Slow
+SkillsdSlow	\white;curse - greatly slows down the movement speed of the cursed
+IceElemental	Ice Elemental
+SkillnameIceElem	Summon Ice Elementals
+SkillsdIceElem	\red;requires a staff, orb or crystal sword\white;\nsummon multiple ice elementals with a freezing nova attack
+DescElementals	Elementals: 
+DescCastsGN	10% Chance to cast Level 6 Glacial Nova
+DescBlades	 blades
+SkillnameBladestorm	Bladestorm
+SkillsdBladestorm	\red;requires a staff, orb or crystal sword\white;\nmelee attack that unleashes magical homing blades
+SkillnameBladez	Blade Barrier
+SkillsdBladez	\white;creates a meat grinding wall of blades that carry weapon damage
+DescCDGCombo	(When Cursed Target is Killed)\nEffect Duration when Target is Killed: 10 seconds\nRegeneration Stops when Struck in Combat
+SkillnameCoupDeGrace	Coup de Grace
+SkillsdCoupDeGrace	the party is healed and receives a physical damage boost\ncurse - curses and damages targets, if the cursed target is killed,
+DescLtngSD	Lightning Damage: 
+DescLDtoWPN	Lightning Damage to Weapon
+SkillnameGryphonsWay	Way of the Gryphon
+SkillsdGryphonsWay	\white;passive - enables you to inflict powerful shocking attacks
+DescBlackHole	\n\dgreen;damage is dealt by the center singularity
+DescReequip	\n\dgreen;if bonus is not applied, reequip items
+DescParaHP	 to Vitality (Per Equipped Gem)
+DescRuneAC	 Defense (Per Equipped Rune)
+DescDeathComes4U	\n\dgreen;extra spirits die when the state wears off
+DescChampions	Spearwomen: 
+DescPDRAura	Aura Reduces Damage Taken by 
+DescElemResAura	Aura Increases All Resistances: 
+DescAllSkGem	 to All Skills (Per Equipped Gem)
+DescAllSkRune	 to All Skills (Per Equipped Rune)
+DescHarmfulDur	Vulnerability Duration: 
+DescGunAndFoot	\n\dgreen;do not target yourself when you are under attack!
+DescDispelsHealing	Dispels and is Dispelled By Healing Spells and Potions
+DescDropoff	Disengages Below 
+DescManaKraken	 mana
+DescSelfEffect	Pet Commands Affect Self when Activated: 
+DescEffectBonus	Increases Effect of Pet Commands on Converted Monsters: 
+DescVolatile	\n\dgreen;requires the pet command to be actively running
+DescOnlyGood	\n\dgreen;affects only beneficial pet commands\nthe pet command must be actively running to receive the bonus
+ModitemParagon	to Vitality per Socketed Gem
+ModitemRunemaster	to Defense per Socketed Rune
+SkillnameSeismicField	Seismic Field
+SkillnameParagon	Paragon
+SkillnameRMBar	Runemaster
+SkillnameShamansTrance	Shamanic Trance
+SkillnameChimps	Champions of the Sun
+SkillnameGreaterCel	Greater Celerity
+SkillnameSoulshatter	Soulshatter
+SkillnameFleshFlesh	Necromantic Trance
+SkillnameQuirky	Bend the Shadows
+SkillnameAngelic	Cherub Strike
+SkillnameRob	Superbeast
+SkillnameTrembleInFear	Tremor
+SkillnameKrakenStance	Kraken Stance
+SkillnamePackLeader	Leader of the Pack
+SkillnameDaddy	Earthfather
+SkillnameBurnInHellz	Exorcism
+SkillsdParagon	\white;passive - grants a life bonus for each gem equipped
+SkillsdRMBar	\white;passive - grants a defense bonus for each rune equipped
+SkillsdSeismicField	\white;creates a stationary hovering black hole of concentrated evil
+SkillsdShamansTrance	\white;temporarily boosts maximum number of spirits and mana recovery
+SkillsdChimps	\white;summon golden spearwomen with a powerful defensive aura
+SkillsdGreaterCel	\white;greatly increases movement speed of self or target ally
+SkillsdSoulshatter	\white;target minion emits a magical nova, but is very vulnerable afterwards
+SkillsdFleshFlesh	\white;temporarily boosts maximum number of summonable ghost minions
+SkillsdQuirky	\white;teleport to the target spot, taking your minions with you
+SkillsdAngelic	\red;requires a melee weapon\white;\npowerful melee attack that shifts you into the ethereal plane
+SkillsdRob	\white;increases damage of self or target ally, but is cancelled by healing
+SkillsdTrembleInFear	\white;causes a violent earthquake that damages all visible enemies
+SkillsdKrakenStance	\white;stance - adds fire, cold and lightning damage to attacks
+SkillsdPackLeader	\white;passive - pet commands provide a bonus to self when active
+SkillsdDaddy	\white; the Acid Trance aura used by your Acid Fiends\npassive - adds lethal poison to your attacks and improves
+SkillsdBurnInHellz	\red;requires a melee weapon\white;\nmelee attack that inflicts heavenly flames that spread to others
+SkillanShamansTrance	Shroooomzzz...
+SkillanChimps	Sun's Champs
+SkillanGreaterCel	G. Celerity
+SkillanQuirky	Shadow Bend
+ChampionOTS	Champion of the Sun
+SunsChimp	Champion
+DescMinions	Minions: 
+DescSpiritsCome4U	\n\dgreen;extra minions die when the state wears off
+DescWpn	to Weapon Damage
+LoneWolfsPathSet	\red;YOU CAN NO LONGER FIND ADDITIONAL PIECES\nTIER 6 SETS HAVE BEEN REPLACED IN 1.55\nLone Wolf's Path
+CaoiDulraSet	\red;YOU CAN NO LONGER FIND ADDITIONAL PIECES\nTIER 6 SETS HAVE BEEN REPLACED IN 1.55\nCaoi Dulra
+TribesGatheringSet	\red;YOU CAN NO LONGER FIND ADDITIONAL PIECES\nTIER 6 SETS HAVE BEEN REPLACED IN 1.55\nGathering of the Tribes
+RathmasEmpireSet	\red;YOU CAN NO LONGER FIND ADDITIONAL PIECES\nTIER 6 SETS HAVE BEEN REPLACED IN 1.55\nRathma's Empire
+HadrielsLoreSet	\red;YOU CAN NO LONGER FIND ADDITIONAL PIECES\nTIER 6 SETS HAVE BEEN REPLACED IN 1.55\nHadriel's Lore
+SankekursLegacySet	\red;YOU CAN NO LONGER FIND ADDITIONAL PIECES\nTIER 6 SETS HAVE BEEN REPLACED IN 1.55\nSankekur's Legacy
+CelestiasMythSet	\red;YOU CAN NO LONGER FIND ADDITIONAL PIECES\nTIER 6 SETS HAVE BEEN REPLACED IN 1.55\nCelestia's Myth
+WarmagesWrathSet	\red;YOU CAN NO LONGER FIND ADDITIONAL PIECES\nTIER 6 SETS HAVE BEEN REPLACED IN 1.55\nWarmage's Wrath
+ZannEsusSecretsSet	\red;YOU CAN NO LONGER FIND ADDITIONAL PIECES\nTIER 6 SETS HAVE BEEN REPLACED IN 1.55\nZann Esu's Secrets
+VizjunsDevicesSet	\red;YOU CAN NO LONGER FIND ADDITIONAL PIECES\nTIER 6 SETS HAVE BEEN REPLACED IN 1.55\nVizjun's Devices
+CinadidesCraftSet	\red;YOU CAN NO LONGER FIND ADDITIONAL PIECES\nTIER 6 SETS HAVE BEEN REPLACED IN 1.55\nCinadide's Craft
+TrackersWaySet	\red;YOU CAN NO LONGER FIND ADDITIONAL PIECES\nTIER 6 SETS HAVE BEEN REPLACED IN 1.55\nTracker's Way
+BigGameHunterSet	\red;YOU CAN NO LONGER FIND ADDITIONAL PIECES\nTIER 6 SETS HAVE BEEN REPLACED IN 1.55\nBig Game Hunter
+SatanicMantraSet	\red;YOU CAN NO LONGER FIND ADDITIONAL PIECES\nTIER 6 SETS HAVE BEEN REPLACED IN 1.55\nSatanic Mantra
+ZeraesFurySet	\red;YOU CAN NO LONGER FIND ADDITIONAL PIECES\nTIER 6 SETS HAVE BEEN REPLACED IN 1.55\nZerae's Fury
+TowerlordsArtSet	\red;YOU CAN NO LONGER FIND ADDITIONAL PIECES\nTIER 6 SETS HAVE BEEN REPLACED IN 1.55\nTowerlord's Art
+RainbowWarriorSet	\red;YOU CAN NO LONGER FIND ADDITIONAL PIECES\nTIER 6 SETS HAVE BEEN REPLACED IN 1.55\nThe Rainbow Warrior
+CircleOfElementsSet	\red;YOU CAN NO LONGER FIND ADDITIONAL PIECES\nTIER 6 SETS HAVE BEEN REPLACED IN 1.55\nCircle of Elements
+TheSnakePitSet	\red;YOU CAN NO LONGER FIND ADDITIONAL PIECES\nTIER 6 SETS HAVE BEEN REPLACED IN 1.55\nThe Snake Pit
+DivineComedySet	\red;YOU CAN NO LONGER FIND ADDITIONAL PIECES\nTIER 6 SETS HAVE BEEN REPLACED IN 1.55\nDivine Comedy
+RedVexEmbraceSet	\red;YOU CAN NO LONGER FIND ADDITIONAL PIECES\nTIER 6 SETS HAVE BEEN REPLACED IN 1.55\nRed Vex' Embrace
+LoneWolfsTrackSetItem	Lone Wolf's Track
+LoneWolfsGazeSetItem	Lone Wolf's Gaze
+LoneWolfsFursSetItem	Lone Wolf's Furs
+LoneWolfsClawsSetItem	Lone Wolf's Claws
+LoneWolfsMaulSetItem	Lone Wolf's Maul
+NaturesGraspSetItem	Nature's Grasp
+NaturesEmbraceSetItem	Nature's Embrace
+NaturesVigilSetItem	Nature's Vigil
+NaturesWillSetItem	Nature's Will
+NaturesStingSetItem	Nature's Sting
+CranesReachSetItem	Crane Tribe's Reach
+SnakesBattleChantSetItem	Snake Tribe's Battle Chant
+BearsWardingSetItem	Bear Tribe's Warding
+WolfsFangSetItem	Wolf Tribe's Fang
+TheComingStormSetItem	The Coming Storm
+RathmasChaseSetItem	Rathma's Chase
+RathmasTrapSetItem	Rathma's Trap
+RathmasDeathGazeSetItem	Rathma's Death Gaze
+RathmasSkeletonSetItem	Rathma's Skeleton
+RathmasTyrannySetItem	Rathma's Tyranny
+HadrielsPresenceSetItem	Hadriel's Presence
+HadrielsWardSetItem	Hadriel's Ward
+HadrielsHaloSetItem	Hadriel's Halo
+HadrielsWingsSetItem	Hadriel's Wings
+HadrielsAvengerSetItem	Hadriel's Avenger
+SankekursFallSetItem	Sankekur's Fall
+SankekursCrusadeSetItem	Sankekur's Crusade
+SankekursRadianceSetItem	Sankekur's Pride
+SankekursAuraSetItem	Sankekur's Aura
+SankekursSkyHammerSetItem	Sankekur's Sky Hammer
+CelestiasFurySetItem	Celestia's Fury
+CelestiasRibbonSetItem	Celestia's Ribbon
+CelestiasGlorySetItem	Celestia's Glory
+CelestiasWingsSetItem	Celestia's Wings
+CelestiasPassionSetItem	Celestia's Passion
+WarmagesWakeSetItem	Warmage's Wake
+WarmagesConjurationSetItem	Warmage's Conjuration
+WarmagesBreathSetItem	Warmage's Breath
+WarmagesFlameshroudSetItem	Warmage's Flameshroud
+WarmagesFirebladeSetItem	Warmage's Fireblade
+ZannEsusRuneLoopSetItem	Zann Esu's Rune Loop
+ZannEsusMysteriesSetItem	Zann Esu's Mysteries
+ZannEsusRobesSetItem	Zann Esu's Robes
+ZannEsusBindingCircleSetItem	Zann Esu's Binding Circle
+ZannEsusCharmSetItem	Zann Esu's Charm
+VizjunsProgressSetItem	Vizjun's Progress
+VizjunsForesightSetItem	Vizjun's Foresight
+VizjunsEngineSetItem	Vizjun's Engine
+VizjunsMonitorSetItem	Vizjun's Monitor
+VizjunsScienceSetItem	Vizjun's Science
+CinadidesBenderSetItem	Cinadide's Bender
+CinadidesAnvilSetItem	Cinadide's Anvil
+CinadidesBellowsSetItem	Cinadide's Bellows
+CinadidesForgeSetItem	Cinadide's Forge
+CinadidesMalusSetItem	Cinadide's Malus
+TrackersRunewardSetItem	Tracker's Runeward
+TrackersTotemSetItem	Tracker's Totem
+TrackersStealthSetItem	Tracker's Stealth
+TrackersEffigySetItem	Tracker's Effigy
+TrackersStrikeSetItem	Tracker's Strike
+HuntersTracklessStepSetItem	Hunter's Trackless Step
+HuntersTrophySetItem	Hunter's Trophy
+HuntersSkinsSetItem	Hunter's Skins
+HuntersCamouflageSetItem	Hunter's Camouflage
+HuntersClawFistSetItem	Hunter's Claw Fist
+HeavenInSightSetItem	Heaven In Sight
+TillWeHaveSetItem	Till We Have
+ThroughDeathsVeilSetItem	Through Death's Veil
+LendMeThyLightSetItem	Lend Me Thy Light
+ArchangelDarkAngelSetItem	Archangel Dark Angel
+ZeraesThunderboltSetItem	Zerae's Thunderbolt
+ZeraesCloudSetItem	Zerae's Cloud
+ZeraesWrathSetItem	Zerae's Wrath
+ZeraesStormSetItem	Zerae's Storm
+ZeraesClarionSetItem	Zerae's Clarion
+TowerlordsBombardsSetItem	Towerlord's Bombards
+TowerlordsGargoyleSetItem	Towerlord's Gargoyle
+TowerlordsBellSetItem	Towerlord's Bell
+TowerlordsSpireSetItem	Towerlord's Spire
+TowerlordsWeathercockSetItem	Towerlord's Weathercock
+EmeraldGrowthSetItem	Emerald Growth
+EmeraldSkySetItem	Emerald Sky
+EmeraldEarthSetItem	Emerald Earth
+EmeraldCloudSetItem	Emerald Cloud
+EmeraldFlowerSetItem	Emerald Flower
+PentadSetItem	Pentad
+TetradSetItem	Tetrad
+TriadSetItem	Triad
+DyadSetItem	Dyad
+MonadSetItem	Monad
+SerpentsTailSetItem	Serpent's Tail
+SerpentsCoilSetItem	Serpent's Coil
+SerpentsTongueSetItem	Serpent's Tongue
+SerpentsScalesSetItem	Serpent's Scales
+SerpentsFangSetItem	Serpent's Fang
+FoolsJestSetItem	Fool's Jest
+FoolsPestSetItem	Fool's Pest
+FoolsZestSetItem	Fool's Zest
+FoolsTestSetItem	Fool's Test
+FoolsBestSetItem	Fool's Best
+RedVexSinSetItem	Red Vex' Sin
+RedVexCurseSetItem	Red Vex' Curse
+RedVexMantleSetItem	Red Vex' Mantle
+RedVexIdolSetItem	Red Vex' Idol
+RedVexFlayerSetItem	Red Vex' Flayer
+DescUberHeeeeelp	\orange;Uber Skill
+DescUberWarning	\yellow;Choose wisely!\nYou can only have one uber skill per character
+mon_spawner	Who's Your Mommy? Spawns Monsters
+mon_flash	Lightning Hit Flash Attack
+FleshMother	Flesh Mother
+FleshFiend	Flesh Fiend
+Deathspawn	Deathspawn
+mon_fortknox	Spectral Hit Black Lotus Attack!
+VenomFiend	Venom Fiend
+ObsidianKnight	Obsidian Knight
+Darksister	Darksister
+BaneMonster	Bane Monster
+DoomSpitter	DoomSpitter
+DeathPrince	DeathPrince
+ReaperM	Reaper
+KillerKitty	Blood Bengal
+DescBecausePplAreIdiots	\n\dgreen;totem activates near monsters
+DescThatllTeachYa	New 1.46 - No Longer affected by Weapon Damage
+SkillanIceElemental	Evil Snowball
+DescDmgMPH	Magic/Physical Spell Damage: 
+DescDisaffected	Not Affected by Physical/Magic Spell Damage Bonuses
+Stormscourge	Stormscourge
+Bloodbrother	Bloodbrother
+ModitemExtraPets	to Maximum Necromancer Minions
+Desc5PS	Hits 5 times per second
+ModitemCursedCurse	Curse Length Reduction
+ModitemMoreBarbs	to Maximum Barbarian Minions
+DescARNeeded	Chance to Hit
+DescSupernovaMelee	\n\dgreen;more damage at close range
+RPrimus	Lord Primus
+RGoreCrawler	Gore Crawler
+mon_firespit	Respawns on Death! Ranged Physical Attack
+RCrystalKing	Crystalline King
+RWindSpirit	Wind Spirit
+mon_killmeplz	Command Increases Monster Damage
+RCorrupted	Spirit of Death
+mon_cannibal	Spits Poison!
+RathmaPrimus	Lord Primus
+DescDmgCBL	Cold Damage
+yqx	Spirit Trance Herb
+HerbalQuintessence	Spirit Trance Herb
+ModitemSpinalTap	Spinal Tap Lives!
+01@	ショートソード (Sacred)
+02@	シミター (Sacred)
+03@	サーベル (Sacred)
+04@	フォルシオン (Sacred)
+05@	ブロードソード (Sacred)
+06@	ロングソード (Sacred)
+07@	ウォーソード (Sacred)
+08@	両手用ソード (Sacred)
+09@	クレイモア (Sacred)
+10@	ジャイアントソード (Sacred)
+11@	バスタードソード (Sacred)
+12@	フランベルジュ (Sacred)
+13@	グレートソード (Sacred)
+14@	クリスタルソード (Sacred)
+15@	ハンドアックス (Sacred)
+16@	アックス (Sacred)
+17@	ダブルアックス (Sacred)
+18@	ミリタリー・ピック (Sacred)
+19@	ウォーアックス (Sacred)
+20@	ラージアックス (Sacred)
+21@	ブロードアックス (Sacred)
+22@	バトルアックス (Sacred)
+23@	グレートアックス (Sacred)
+24@	ジャイアントアックス (Sacred)
+25@	クラブ (Sacred)
+26@	スパイク付きクラブ (Sacred)
+27@	メイス (Sacred)
+28@	モーニングスター (Sacred)
+29@	フレイル (Sacred)
+30@	セプター (Sacred)
+31@	グランドセプター (Sacred)
+32@	ウォーセプター (Sacred)
+33@	ジャベリン (Sacred)
+34@	パイラム (Sacred)
+35@	ショートスピア (Sacred)
+36@	グレイヴ (Sacred)
+37@	投げスピア (Sacred)
+38@	スピア (Sacred)
+39@	トライデント (Sacred)
+40@	ブランディストック (Sacred)
+41@	スペタム (Sacred)
+42@	パイク (Sacred)
+43@	ダガー (Sacred)
+44@	短刀 (Sacred)
+45@	クリース (Sacred)
+46@	ブレイド (Sacred)
+47@	投げナイフ (Sacred)
+48@	フライング・ナイフ (Sacred)
+49@	バランスナイフ (Sacred)
+50@	投げアックス (Sacred)
+51@	バランスアックス (Sacred)
+52@	ショート・スタッフ (Sacred)
+53@	ロング・スタッフ (Sacred)
+54@	節くれだったスタッフ (Sacred)
+55@	バトル・スタッフ (Sacred)
+56@	ウォー・スタッフ (Sacred)
+57@	バーダイク (Sacred)
+58@	バウルジ (Sacred)
+59@	大鎌 (Sacred)
+60@	ハルバード (Sacred)
+61@	ショートボウ (Sacred)
+62@	ハンターズ・ボウ (Sacred)
+63@	ロングボウ (Sacred)
+64@	複合ボウ (Sacred)
+65@	ショート・バトルボウ (Sacred)
+66@	ロング・バトルボウ (Sacred)
+67@	ショート・ウォーボウ (Sacred)
+68@	ロング・ウォーボウ (Sacred)
+69@	ワンド (Sacred)
+70@	木のワンド (Sacred)
+71@	ボーンワンド (Sacred)
+72@	グリムワンド (Sacred)
+73@	ウォーハンマー (Sacred)
+74@	モール (Sacred)
+75@	グレートモール (Sacred)
+76@	ライト・クロスボウ (Sacred)
+77@	クロスボウ (Sacred)
+78@	ヘヴィ・クロスボウ (Sacred)
+79@	連射クロスボウ (Sacred)
+80@	イーグル・オーブ (Sacred)
+81@	セイクリッド・グローブ (Sacred)
+82@	スモークト・スフィア (Sacred)
+83@	クラスプト・オーブ (Sacred)
+84@	ジャレッズ・ストーン (Sacred)
+85@	スタッグ・ボウ (Sacred)
+86@	リフレックス・ボウ (Sacred)
+87@	メイデン・スピア (Sacred)
+88@	メイデン・パイク (Sacred)
+89@	メイデン・ジャベリン (Sacred)
+90@	カタール (Sacred)
+91@	リスト・ブレイド (Sacred)
+92@	ハチェット・ハンズ (Sacred)
+93@	セスタス (Sacred)
+94@	クローズ (Sacred)
+95@	ブレイド・タロンズ (Sacred)
+96@	シザース・カタール (Sacred)
+@01	キルトのアーマー (Sacred)
+@02	レザーアーマー (Sacred)
+@03	ハードレザー・アーマー (Sacred)
+@04	鋲つき革アーマー (Sacred)
+@05	リングメイル (Sacred)
+@06	スケールメイル (Sacred)
+@07	チェーンメイル (Sacred)
+@08	ブレストプレート (Sacred)
+@09	スプリントメイル (Sacred)
+@10	プレートメイル (Sacred)
+@11	フィールドプレート (Sacred)
+@12	ライト・プレート (Sacred)
+@13	ゴシックプレート (Sacred)
+@14	フルプレートメイル (Sacred)
+@15	古代のアーマー (Sacred)
+@16	キャップ (Sacred)
+@17	スカルキャップ (Sacred)
+@18	ヘルム (Sacred)
+@19	フル・ヘルム (Sacred)
+@20	グレイト・ヘルム (Sacred)
+@21	冠 (Sacred)
+@22	バックラー (Sacred)
+@23	スモールシールド (Sacred)
+@24	ラージシールド (Sacred)
+@25	カイトシールド (Sacred)
+@26	タワーシールド (Sacred)
+@27	ゴシックシールド (Sacred)
+@28	サッシュ (Sacred)
+@29	ライトベルト (Sacred)
+@30	ベルト (Sacred)
+@31	ヘヴィベルト (Sacred)
+@32	プレートベルト (Sacred)
+@33	レザーグローブ (Sacred)
+@34	ヘヴィグローブ (Sacred)
+@35	チェーングローブ (Sacred)
+@36	ライトガントレット (Sacred)
+@37	ガントレット (Sacred)
+@38	ブーツ (Sacred)
+@39	ヘヴィブーツ (Sacred)
+@40	チェーンブーツ (Sacred)
+@41	ライト・プレートd ブーツ (Sacred)
+@42	グリーヴ (Sacred)
+@43	ボーンシールド (Sacred)
+@44	スパイクシールド (Sacred)
+@45	マスク (Sacred)
+@46	ボーンヘルム (Sacred)
+@47	ウルフ・ヘッド (Sacred)
+@48	ホーク・ヘルム (Sacred)
+@49	アントラーズ (Sacred)
+@50	ファルコン・マスク (Sacred)
+@51	スピリット・マスク (Sacred)
+@52	ジョウボーン・キャップ (Sacred)
+@53	ファングド・ヘルム (Sacred)
+@54	ホーンド・ヘルム (Sacred)
+@55	アソールト・ヘルメット (Sacred)
+@56	アヴェンジャー・ガード (Sacred)
+@57	タージ (Sacred)
+@58	ロンダッシュ (Sacred)
+@59	ヘラルディック・シールド (Sacred)
+@60	アエリン・シールド (Sacred)
+@61	クラウン・シールド (Sacred)
+@62	プリザーブド・ヘッド (Sacred)
+@63	ゾンビー・ヘッド (Sacred)
+@64	アンラヴェラー・ヘッド (Sacred)
+@65	ガーゴイル・ヘッド (Sacred)
+@66	デーモン・ヘッド (Sacred)
+@67	サークレット (Sacred)
+@68	コロネット (Sacred)
+@69	ティアラ (Sacred)
+@70	ダイアデム (Sacred)
+ModitemEnrFactor	Energy Factor to Spell Damage
+DescParaBonus	Vitality Bonus per Gem: 
+DescRMBonus	Defense Bonus per Rune: 
+SkillnameBloodFuryZomg	Blood Fury
+SkillsdBloodFuryZomg	\white;increases elemental and magic damage at the cost of your well-being
+SkillsdAngelicS	\red;requires a melee weapon\white;\nafter being struck, this attack summons a stunning avatar of justice
+DescAvatDur	Avatar Duration: 
+DescAvaChance	 percent Chance to Summon Avatar
+DescAvaSpawns	Avatar Shoots up to 
+DescPunishers	 Bolts
+DescSlowSyn2	Lion Stance: Slows Target 1% per level
+mon_hero1	Aura Enchanted
+mon_hero3	Aura Enchanted Crushing Blow
+mon_hero4	Aura Enchanted Slows Target
+mon_hero5	Aura Enchanted Heals on Striking
+OasisToad	Bullfrog
+Genies	Genie
+mon_advo	Casts Fire Bolts
+DescWDS	Avatar Duration: 4 seconds\nAvatar Shoots up to 30 times\nBolt Damage: 3/4 Weapon Damage\n
+mon_royalguard	Aura Renders Aldric Invulnerable! Tri-Elemental Hit
+LordAldricJitan	\gold;Lord Aldric Jitan
+RoyalGuard	Rakkis Guardsman
+mon_aldric	Tri-Elemental Hit
+yqe	By Richard Knaak\nMoon of the Spider
+TomeOfTheSpider	Moon of the Spider
+DescMDtoWPN	Magic Damage to Party Weapons
+DescDmgWhenHitZomg	Damage Bonus when Struck: 
+DescBonDX	Bonus to Damage: 
+Sankekur's Ribbon	Sankekur's Ribbon
+Cathan's Rod	Cathan's Rod
+Grimterror	Grimterror
+The Alligator	The Alligator
+Naga's Tooth	Naga's Tooth
+Stormhead	Stormhead
+Coldhunger	Coldhunger
+Sinwar	Sinwar
+Stoneshatter	Stoneshatter
+Al Dhih	Al Dhih
+Thornwall	Thornwall
+Heaven's Arc	Heaven's Arc
+Witchdance	Witchdance
+Ghostmoon	Ghostmoon
+Slayer's Feast	Slayer's Feast
+Skulleye	Skulleye
+The Piranha	The Piranha
+Tidekiller	Tidekiller
+Iceshell	Iceshell
+Demonspike Coat	Demonspike Coat
+Natalya's Pincers	Natalya's Pincers
+Darkfeast	Darkfeast
+The Grizzly	The Grizzly
+Gonnagal's Dirk	Gonnagal's Dirk
+Crackrust	Crackrust
+Hammer of Jholm	Hammer of Jholm
+Blackoak Bow	Blackoak Bow
+Aguinara's Hatchet	Aguinara's Hatchet
+The Bonesaw	The Bonesaw
+Black Razor	Black Razor
+Bow of the Dead	Bow of the Dead
+Leather of Aut	Leather of Aut
+Wisdom's Wrap	Wisdom's Wrap
+Gibbous Moon	Gibbous Moon
+Gnarled Root	Gnarled Root
+Split Skull Shield	Split Skull Shield
+The Rainbow Cloak	The Rainbow Cloak
+Shadowhawk	Shadowhawk
+Stone Cleaver	Stone Cleaver
+The Needler	The Needler
+Thinking Cap	Thinking Cap
+Helm of Sprits	Helm of Sprits
+The Overlord	The Overlord
+Bone Chain	Bone Chain
+Diamondedge	Diamondedge
+Goatlord	Goatlord
+Vizjerei's Curse	Vizjerei's Curse
+Deadly Hunter	Deadly Hunter
+Eater of Souls	Eater of Souls
+Horazon's Trebuchet	Horazon's Trebuchet
+Icewind	Icewind
+Hellmaw	Hellmaw
+Celestia's Defense	Celestia's Defense
+Xorine's Cane	Xorine's Cane
+Furyblood	Furyblood
+Warwind	Warwind
+Zakarum's Fortress	Zakarum's Fortress
+Cathan's Guard	Cathan's Guard
+Kashya's Ward	Kashya's Ward
+The Deflector	The Deflector
+Thundercrack	Thundercrack
+Cloudbreaker	Cloudbreaker
+The Prospector's Pick	The Prospector's Pick
+Ghostwind	Ghostwind
+Boneknot	Boneknot
+Scryer's Globe	Scryer's Globe
+Witchbane	Witchbane
+The Punisher	The Punisher
+Windcrown	Windcrown
+Cloak of Flames	Cloak of Flames
+Angler's Hook	Angler's Hook
+Nature's Orphan	Nature's Orphan
+Death's Visage	Death's Visage
+Naiad's Form	Naiad's Form
+Spellbreaker	Spellbreaker
+Annuit's End	Annuit's End
+Skylord	Skylord
+Fogo Da Sombra	Fogo Da Sombra
+Lance of Skovos	Lance of Skovos
+Argentek's Tide	Argentek's Tide
+Stoneflesh	Stoneflesh
+Sash of Shadows	Sash of Shadows
+Deadman's Hand	Deadman's Hand
+Trang-Oul's Evangelion	Trang-Oul's Evangelion
+Wyand's Fervor	Wyand's Fervor
+Razorjack	Razorjack
+Raindance	Raindance
+The Rattler	The Rattler
+Greiz' Feint	Greiz' Feint
+Rakkas' Glory	Rakkas' Glory
+Taan's Secret	Taan's Secret
+Athulua's Command	Athulua's Command
+Demonlure	Demonlure
+Geglash's Dusters	Geglash's Dusters
+The Xiphos	The Xiphos
+The Toecutter	The Toecutter
+Aldric's Vanguard	Aldric's Vanguard
+Etherwarp	Etherwarp
+Feltongue	Feltongue
+Hellrake	Hellrake
+Ashaera's Armor	Ashaera's Armor
+Cloudwhirl	Cloudwhirl
+Destruction's Wake	Destruction's Wake
+Felsteel	Felsteel
+Spiritbreaker	Spiritbreaker
+Sharkbaiter	Sharkbaiter
+Spellthirst	Spellthirst
+Thunderdome	Thunderdome
+Lazarus' Binding	Lazarus' Binding
+Soulsqueeze	Soulsqueeze
+Bonecrusher	Bonecrusher
+Glacier's Force	Glacier's Force
+Rei Di Gelo	Rei Di Gelo
+Habacalva's Firestar	Habacalva's Firestar
+Banner of Duncraig	Banner of Duncraig
+Warp Shard	Warp Shard
+Warhound	Warhound
+1@1	Compound Bow (1)
+2@1	Compound Bow (2)
+3@1	Compound Bow (3)
+4@1	Compound Bow (4)
+5@1	Compound Bow (5)
+6@1	Compound Bow (6)
+7@1	Compound Bow (Sacred)
+8@1	Serpent Bow (1)
+9@1	Serpent Bow (2)
+1@2	Serpent Bow (3)
+2@2	Serpent Bow (4)
+3@2	Serpent Bow (5)
+4@2	Serpent Bow (6)
+5@2	Serpent Bow (Sacred)
+6@2	Maple Bow (1)
+7@2	Maple Bow (2)
+8@2	Maple Bow (3)
+9@2	Maple Bow (4)
+1@3	Maple Bow (5)
+2@3	Maple Bow (6)
+3@3	Maple Bow (Sacred)
+4@3	Viper Bow (1)
+5@3	Viper Bow (2)
+6@3	Viper Bow (3)
+7@3	Viper Bow (4)
+8@3	Viper Bow (5)
+9@3	Viper Bow (6)
+1@4	Viper Bow (Sacred)
+2@4	Recurve Bow (1)
+3@4	Recurve Bow (2)
+4@4	Recurve Bow (3)
+5@4	Recurve Bow (4)
+6@4	Recurve Bow (5)
+7@4	Recurve Bow (6)
+8@4	Recurve Bow (Sacred)
+9@4	Spatha (1)
+1@5	Spatha (2)
+2@5	Spatha (3)
+3@5	Spatha (4)
+4@5	Spatha (5)
+5@5	Spatha (6)
+6@5	Spatha (Sacred)
+7@5	Backsword (1)
+8@5	Backsword (2)
+9@5	Backsword (3)
+1@6	Backsword (4)
+2@6	Backsword (5)
+3@6	Backsword (6)
+4@6	Backsword (Sacred)
+5@6	Ida (1)
+6@6	Ida (2)
+7@6	Ida (3)
+8@6	Ida (4)
+9@6	Ida (5)
+1@7	Ida (6)
+2@7	Ida (Sacred)
+3@7	Bronze Sword (1)
+4@7	Bronze Sword (2)
+5@7	Bronze Sword (3)
+6@7	Bronze Sword (4)
+7@7	Bronze Sword (5)
+8@7	Bronze Sword (6)
+9@7	Bronze Sword (Sacred)
+1@8	Kriegsmesser (1)
+2@8	Kriegsmesser (2)
+3@8	Kriegsmesser (3)
+4@8	Kriegsmesser (4)
+5@8	Kriegsmesser (5)
+6@8	Kriegsmesser (6)
+7@8	Kriegsmesser (Sacred)
+8@8	Bonebreaker (1)
+9@8	Bonebreaker (2)
+1@9	Bonebreaker (3)
+2@9	Bonebreaker (4)
+3@9	Bonebreaker (5)
+4@9	Bonebreaker (6)
+5@9	Bonebreaker (Sacred)
+6@9	Goedendag (1)
+7@9	Goedendag (2)
+8@9	Goedendag (3)
+9@9	Goedendag (4)
+1@A	Goedendag (5)
+2@A	Goedendag (6)
+3@A	Goedendag (Sacred)
+4@A	Angel Star (1)
+5@A	Angel Star (2)
+6@A	Angel Star (3)
+7@A	Angel Star (4)
+8@A	Angel Star (5)
+9@A	Angel Star (6)
+1@B	Angel Star (Sacred)
+9@B	Hand of God (1)
+1@C	Hand of God (2)
+2@C	Hand of God (3)
+3@C	Hand of God (4)
+4@C	Hand of God (5)
+5@C	Hand of God (6)
+6@C	Hand of God (Sacred)
+7@C	Needle Crossbow (1)
+8@C	Needle Crossbow (2)
+9@C	Needle Crossbow (3)
+1@D	Needle Crossbow (4)
+2@D	Needle Crossbow (5)
+3@D	Needle Crossbow (6)
+4@D	Needle Crossbow (Sacred)
+5@D	Dart Thrower (1)
+6@D	Dart Thrower (2)
+7@D	Dart Thrower (3)
+8@D	Dart Thrower (4)
+9@D	Dart Thrower (5)
+1@E	Dart Thrower (6)
+2@E	Dart Thrower (Sacred)
+3@E	Stinger Crossbow (1)
+4@E	Stinger Crossbow (2)
+5@E	Stinger Crossbow (3)
+6@E	Stinger Crossbow (4)
+7@E	Stinger Crossbow (5)
+8@E	Stinger Crossbow (6)
+9@E	Stinger Crossbow (Sacred)
+1@F	Trebuchet (1)
+2@F	Trebuchet (2)
+3@F	Trebuchet (3)
+4@F	Trebuchet (4)
+5@F	Trebuchet (5)
+6@F	Trebuchet (6)
+7@F	Trebuchet (Sacred)
+1@G	Gambeson (1)
+2@G	Gambeson (2)
+3@G	Gambeson (3)
+4@G	Gambeson (4)
+5@G	Gambeson (5)
+6@G	Gambeson (6)
+7@G	Gambeson (Sacred)
+8@G	Lamellar Armor (1)
+9@G	Lamellar Armor (2)
+1@H	Lamellar Armor (3)
+2@H	Lamellar Armor (4)
+3@H	Lamellar Armor (5)
+4@H	Lamellar Armor (6)
+5@H	Lamellar Armor (Sacred)
+6@H	Kazarghand (1)
+7@H	Kazarghand (2)
+8@H	Kazarghand (3)
+9@H	Kazarghand (4)
+1@I	Kazarghand (5)
+2@I	Kazarghand (6)
+3@I	Kazarghand (Sacred)
+4@I	Banded Plate (1)
+5@I	Banded Plate (2)
+6@I	Banded Plate (3)
+7@I	Banded Plate (4)
+8@I	Banded Plate (5)
+9@I	Banded Plate (6)
+1@J	Banded Plate (Sacred)
+2@J	Ceremonial Armor (1)
+3@J	Ceremonial Armor (2)
+4@J	Ceremonial Armor (3)
+5@J	Ceremonial Armor (4)
+6@J	Ceremonial Armor (5)
+7@J	Ceremonial Armor (6)
+8@J	Ceremonial Armor (Sacred)
+9@J	Morion (1)
+1@K	Morion (2)
+2@K	Morion (3)
+3@K	Morion (4)
+4@K	Morion (5)
+5@K	Morion (6)
+6@K	Morion (Sacred)
+7@K	Cervelliere (1)
+8@K	Cervelliere (2)
+9@K	Cervelliere (3)
+1@L	Cervelliere (4)
+2@L	Cervelliere (5)
+3@L	Cervelliere (6)
+4@L	Cervelliere (Sacred)
+5@L	Einherjar Helm (1)
+6@L	Einherjar Helm (2)
+7@L	Einherjar Helm (3)
+8@L	Einherjar Helm (4)
+9@L	Einherjar Helm (5)
+1@M	Einherjar Helm (6)
+2@M	Einherjar Helm (Sacred)
+3@M	Spangenhelm (1)
+4@M	Spangenhelm (2)
+5@M	Spangenhelm (3)
+6@M	Spangenhelm (4)
+7@M	Spangenhelm (5)
+8@M	Spangenhelm (6)
+9@M	Spangenhelm (Sacred)
+1@N	Parma (1)
+2@N	Parma (2)
+3@N	Parma (3)
+4@N	Parma (4)
+5@N	Parma (5)
+6@N	Parma (6)
+7@N	Parma (Sacred)
+8@N	Aspis (1)
+9@N	Aspis (2)
+1@O	Aspis (3)
+2@O	Aspis (4)
+3@O	Aspis (5)
+4@O	Aspis (6)
+5@O	Aspis (Sacred)
+6@O	Totem Shield (1)
+7@O	Totem Shield (2)
+8@O	Totem Shield (3)
+9@O	Totem Shield (4)
+1@P	Totem Shield (5)
+2@P	Totem Shield (6)
+3@P	Totem Shield (Sacred)
+4@P	Bladed Shield (1)
+5@P	Bladed Shield (2)
+6@P	Bladed Shield (3)
+7@P	Bladed Shield (4)
+8@P	Bladed Shield (5)
+9@P	Bladed Shield (6)
+1@Q	Bladed Shield (Sacred)
+Nor Tiraj's Turinash	Nor Tiraj's Turinash
+Athulua's Glory	Athulua's Glory
+Ureh's Will	Ureh's Will
+Blisterdart	Blisterdart
+Bonethorn	Bonethorn
+Mageslayer	Mageslayer
+Glor-An-Fhaidha's Branch	Glor-An-Fhaidha's Branch
+Fiacla-Gear's Wisdom	Fiacla-Gear's Wisdom
+Firestreak	Firestreak
+Magma Spitter	Magma Spitter
+Nereid's Coil	Nereid's Coil
+Runeshatter	Runeshatter
+Hand of Rathma	Hand of Rathma
+Mad King's Spine	Mad King's Spine
+Lachdanan's Vindicator	Lachdanan's Vindicator
+Will of Zakarum	Will of Zakarum
+Manastorm	Manastorm
+Bloodrage	Bloodrage
+Bul Kathos' Teaching	Bul Kathos' Teaching
+Quov Tsin's Fall	Quov Tsin's Fall
+Nymyr's Shadow	Nymyr's Shadow
+Philios' Crest	Philios' Crest
+Bartuc's Curse	Bartuc's Curse
+Hand of Naz	Hand of Naz
+Norrec's Targe	Norrec's Targe
+Azgar's Mark	Azgar's Mark
+Gift of the Spiritbeast	Gift of the Spiritbeast
+The Flying Anvil	The Flying Anvil
+The Gauntlet	The Gauntlet
+Mageslayer's Oath	Mageslayer's Oath
+Hellstrike	Hellstrike
+Skulldome	Skulldome
+Crown of the Rakkas	Crown of the Rakkas
+Blade of the Jitan	Blade of the Jitan
+Hellreaper	Hellreaper
+The Prophet's Veil	The Prophet's Veil
+The Wailing Wall	The Wailing Wall
+Ennead's Bane	Ennead's Bane
+Claw of the Spirit Wolf	Claw of the Spirit Wolf
+Nightscape	Nightscape
+Zerae's Veil	Zerae's Veil
+Scales of the Serpent	Scales of the Serpent
+Embershot	Embershot
+Cloudladder	Cloudladder
+Malleus Maleficarum	Malleus Maleficarum
+GheedsPigstick2	Gheed's Pigsticker
+Skeld's Battlesong	Skeld's Battlesong
+Helepolis	Helepolis
+Darkslayer	Darkslayer
+Kaskara of the Taan	Kaskara of the Taan
+Kethryes' Phalanx	Kethryes' Phalanx
+Astrogha's Gaze	Astrogha's Gaze
+Vizjerei's Birthright	Vizjerei's Birthright
+Griefbringer	Griefbringer
+Hepsheeba's Mantle	Hepsheeba's Mantle
+Leathdhiabhala	Leathdhiabhala
+Razorweb Snare	Razorweb Snare
+Armor of the Old Religion	Armor of the Old Religion
+Crest of Arnazeus	Crest of Arnazeus
+Talon of Trang-Oul	Talon of Trang-Oul
+The Khalim Organ	The Khalim Organ
+Fauztin's Visage	Fauztin's Visage
+ModitemResMinBonus	Bonus to Summoned Minion Resistances
+Grim Fang	Grim Fang
+ModitemACLess	Total Character Defense = 0
+Rattenfanger	Rattenfanger
+ModitemKnockThorns	Knocks Attacker Back
+ModitemHealThorns	Life when Struck by an Enemy
+ModitemDoomed	Target Takes Additional Damage of
+ModitemStamDrain	Stamina stolen per Hit
+Faithshaker	Faithshaker
+ModitemCursedDR	Damage Reduction Decreased by
+Sigil of Tur Dulra	Sigil of Tur Dulra
+Death Ward	Death Ward
+ModitemSocketed	Socketed
+Edda	Edda
+Pyramid	Pyramid
+Amaterasu	Amaterasu
+Siegfried	Siegfried
+Asmodai	Asmodai
+Sangreal	Sangreal
+Amaymon	Amaymon
+Opera	Opera
+Savitr	Savitr
+Ram	Ram
+King Tiger	King Tiger
+Peacock	Peacock
+Great Bear	Great Bear
+Mouse	Mouse
+Free Spirit	Free Spirit
+Genie	Genie
+Thammuz	Thammuz
+Shaula	Shaula
+Jihad	Jihad
+Rex Deus	Rex Deus
+Intifada	Intifada
+Demeter	Demeter
+Swan	Swan
+Astarte	Astarte
+Constellation	Constellation
+abu	Do Not Use Ethereal Items Idiot
+SkillnamePhoenixStance	Phoenix Stance
+SkillsdPhoenixStance	\white;stance - increases strength, dexterity, energy and vitality
+DescFirDmg	 fire damage
+DescFAbs	Fire Absorb: 
+DescPctOfLife	 percent of life lost
+SkillsdApoc2	nearby enemies explode, taking damage based on your life lost
+Citizen	Citizen
+BloodTurret	Blood Turret
+OblivionTurret	Oblivion Turret
+Roach	Roach
+Brawler	City Guard
+JurisKhan	Juris Khan, King of Ureh
+IceKing	Ice King
+PunisherTurret	Punishment Turret
+mon_ureh_dead	Poison Hit Bloodlust on Striking!
+mon_bloodstarattack	Shield Generator Casts Bloodstars
+mon_shadowattack	Shield Generator Casts Shadowstorm
+mon_exorcism	Hits Deal Fire Damage over Time
+mon_punisherspiral	Shield Generator Casts Punishment Spiral
+SummTotem2	Shadowgate Totem
+x0x	Eternal Bone Pile
+EternalBonePile	Eternal Bone Pile
+PursuitBreaker	Pursuit Breaker
+DescWereDoomed	Damage Bonus per Level
+ModitemEnrFactor2	Energy Factor to Spell Damage (Automod)
+SkillnameFlames	Flamestrike
+SkillsdFlames	\white;calls down a pillar of flames from the sky to strike your target
+Adriana's Tail	Adriana's Tail
+Adriana's Fangs	Adriana's Fangs
+Adriana's Fur	Adriana's Fur
+Adriana's Bite	Adriana's Bite
+Adriana's Sting	Adriana's Sting
+Adriana's Bark	Adriana's Bark
+Witchhunter's Rope	Witchhunter's Rope
+Witchhunter's Hood	Witchhunter's Hood
+Witchhunter's Faith	Witchhunter's Faith
+Witchhunter's Crucifix	Witchhunter's Crucifix
+Witchhunter's Steel	Witchhunter's Steel
+Witchhunter's Fire	Witchhunter's Fire
+Frostbite	Frostbite
+Rockslide	Rockslide
+Ravine	Ravine
+Avalanche	Avalanche
+Snowstorm	Snowstorm
+Eruption	Eruption
+Scosglen's Legends	Scosglen's Legends
+Scosglen's Lore	Scosglen's Lore
+Scosglen's History	Scosglen's History
+Scosglen's Tales	Scosglen's Tales
+Scosglen's Fables	Scosglen's Fables
+Scosglen's Myths	Scosglen's Myths
+Plague's Cord	Plague's Cord
+Plague's Screaming Skull	Plague's Screaming Skull
+Plague's Death Shroud	Plague's Death Shroud
+Plague's Infector	Plague's Infector
+Plague's Soul Drainer	Plague's Soul Drainer
+Plague's Reaper	Plague's Reaper
+Lachdanan's Stride	Lachdanan's Stride
+Lachdanan's Courage	Lachdanan's Courage
+Lachdanan's Pure Heart	Lachdanan's Pure Heart
+Lachdanan's Fury	Lachdanan's Fury
+Lachdanan's Wrath	Lachdanan's Wrath
+Lachdanan's Might	Lachdanan's Might
+Elemental Clash	Elemental Clash
+Elemental Trance	Elemental Trance
+Elemental Spirit	Elemental Spirit
+Elemental Rage	Elemental Rage
+Elemental Fury	Elemental Fury
+Elemental Storm	Elemental Storm
+Full Moon	(Amazon Set - Bow, Spear, Scepter)\nFull Moon
+Witchhunter's Attire2	(Assassin Set - Scythe, Claw, Throwing Knife)\nWitchhunter's Attire
+Mount Arreat	(Barbarian Set - Sword, Throwing Axe, Maul)\nMount Arreat
+Sacred Earth	(Druid Set - Staff, Bow, Crossbow)\nSacred Earth
+The Black Death	(Necromancer Set - Staff, Wand, Crossbow)\nThe Black Death
+House of God	(Paladin Set - Maul, Mace, Scepter)\nRedemption
+TheElements2	(Sorceress Set - Staff, Orb, Crystal Sword)\nThe Elements
+DescTotalStrike	(Total Fire Damage per Blast: 
+DescTotalFlash	(Total Lightning Damage per Blast: 
+DescLazorbeam	 lazorbeams
+DescMoreBeamz	+1 Beam per 10 Levels
+DescElemMPH	Party Members: Magic/Physical Spell Damage: 
+DescReflectNoKills	\n\dgreen;do not trigger on-death effects\nenemies killed by reflected damage
+SkillnameDeathstrike	Deathstrike
+SkillsdDeathstrike	\red;requires a crossbow\white;\nblasts the target zone with concentrated physical energy
+SkillanDeathstrike	Pew Pew Pew
+DescFireDurPerLevel	Burning Duration per Level
+DescImprovedEffect	Improved Effect per Level
+DescSelfSynergy	\orange;(Self-synergies add bonuses for hard points in the skill)
+DescFearVelocity	Velocity of Fleeing Enemy: 
+DescRunSyn	Faster Fleeing Enemies per Level
+DescFreezeSyn	Freeze Duration per Level
+DescExtraSoul	+1 Extra Soul per 10 Levels
+DescSoulsFired	 souls
+DescDurPerLevel	Duration per Level
+DescFPOTlvl	5% Increased Healing Rate from Potions per Level
+ModitemFasterPots	Increased Healing Rate from Potions
+DescFasterPotz	 percent Increased Healing Rate from Potions
+ModitemImprovedTotems	Bonus to Totem Life
+DescNovaShotDex	(Adds an Additional Nova every 10 Levels)
+DescNovas	 novas
+DescDeadly	Chance of Deadly Strike: 
+DescLionDS	Deadly Strike per Level
+DescStarz	+1 Extra Target per 5 Levels
+SkillnameBlackArrows	Black Arrows
+SkillsdBlackArrows	\white;passive - imbues your bow attacks with vengeful energy
+SkillnameElfinArrows	Elfin Arrows
+SkillsdElfinArrows	\white;passive - enables your arrows to do more damage and deal deadly strikes
+DescDmgVsDemons	Damage vs. Demons: 
+DescBlackArrows	25% Open Wounds
+SkillnameTaintedBlades	Tainted Blades
+SkillsdTaintedBlades	\white;passive - enables your rampagors to deal poison damage
+DescTaintedSyn	Adds Poison Damage per Level
+SkillnameSilverstreak	Silver Dart
+SkillsdSilverstreak	\red;requires a crossbow\white;\nfires a short ranged bolt that shatters on impact with an enemy
+DescShatterStreak	 bolts on impact
+DescRangeComp	Initial Missile Range: 
+ttt	\red;PERMANENT EFFECT\n\grey;(Necromancer Only)\n\dgreen;Concoction of Necromancy
+PotNecDesc	Maximum Minions = 1 of each type\nMinion Life: +100%\nMinion Damage: +500%
+DescConcoction	Concoction of Necromancy
+ModitemSorcieString	Sorceress Morph
+ModitemDarklingsCB	Crushing Blow to Darklings
+ModitemCotsWhenPact	Bonus to Blood Elemental Damage if Summoned during Pact of Blood
+ModitemReactor	(Based on Faster Run/Walk)
+ModitemSlowerPots	Reduced Healing Rate from Potions
+ModitemMinionAttack	Bonus to Summoned Minion Attack Rating
+Aes Dana	Aes Dana
+Aether	Aether
+Afrit	Afrit
+Aglibol	Aglibol
+Akhenaten	Akhenaten
+Anarchy	Anarchy
+Apsu	Apsu
+Araboth	Araboth
+Arbiter	Arbiter
+Ball	Ball
+Bandit	Bandit
+Blot	Blot
+Colliding Worlds	Colliding Worlds
+Coming Storm	Coming Storm
+Corsair	Corsair
+Craton	Craton
+Crucible	Crucible
+Curandera	Curandera
+Dharmachakra	Dharmachakra
+Djinn	Djinn
+Dragonfly	Dragonfly
+Elverfolk	Elverfolk
+Enmerkar	Enmerkar
+Ensi	Ensi
+Eulenspiegel	Eulenspiegel
+Evanescence	Evanescence
+Galdr	Galdr
+Ginfaxi	Ginfaxi
+Grove	Grove
+Hand of Fatima	Hand of Fatima
+Heathen	Heathen
+Khan	Khan
+King of Kings	King of Kings
+Koan	Koan
+Kronos	Kronos
+Lammasu	Lammasu
+Lily	Lily
+Locust	Locust
+Lynx	Lynx
+Magnet	Magnet
+Malakbel	Malakbel
+Mass	Mass
+Mold	Mold
+Morthwyrtha	Morthwyrtha
+Nasrudin	Nasrudin
+Ngozi	Ngozi
+Noise	Noise
+Ocean	Ocean
+Oracle	Oracle
+Peak	Peak
+Pele	Pele
+Purgatory	Purgatory
+Queen	Queen
+Red Dwarf	Red Dwarf
+Roc	Roc
+Rusalka	Rusalka
+Sabertooth	Sabertooth
+Scorched Earth	Scorched Earth
+Sewer	Sewer
+Shaitan	Shaitan
+Slyph	Slyph
+Static	Static
+Steam	Steam
+Templar	Templar
+Thorn	Thorn
+Unicorn	Unicorn
+Unrest	Unrest
+Vanity	Vanity
+Vendetta	Vendetta
+Vexation	Vexation
+Vice	Vice
+Vixen	Vixen
+Zikkorath	Zikkorath
+Zodiac	Zodiac
+Zohar	Zohar
+DescAcidIAS	Acid Trance Aura increases Attack Rate: 
+DescAcidFRW	Acid Trance Aura increases Velocity: 
+DescItsNotRocketSciGuys	(Damage per Second Remains Constant)
+DescMonsterFlee	Hit Causes Monster to Flee: 
+DescBlackDmg	Bow Damage: 
+DescBlackAR	Bow Attack Rating: 
+DescBlackDeadly	Bow Deadly Strike: 
+DescDmgPLvl	Damage per Level
+DescDmgDemPLvl	Damage vs. Demons per Level
+DescMaxLvlSyn	+1 Maximum Skill Level per 2 Levels
+SksynSelf	%s Receives Self-Synergies From:
+DescSelf	Hard skill points
+DescACIsSpecial	\n\dgreen;you, not just hit you, and also slows ranged monsters\nunlike the item modifier, this slows monsters that attack
+DescAthuIAS	All Weapons Attack Rate: 
+DescElfinPB	10% Crushing Blow
+DescShotsFirad	Lazorbeams: 
+DescMaxSlayers	Fires 10 Shots
+DescThisIsEither	\blue;requires points into a holy or unholy skill
+DescRanged	Missile Range: 
+DescVanqDur	+0.2 Seconds per Level
+DescManaBene	\yellow;can be cast on other units\n\grey;(When you Use a Mana Potion)
+DescShamansSyn	+1 Extra Ancient Spirit per Level
+DescGhostsSyn	+2 Extra Minions per Level
+DescAcidTranceIAS	Acid Trance Aura Increases Attack and Movement Speed: 
+DescAbbrShaman	\nShaman's Path: Adds Area Effect: +2 Yards per level
+DescItsASelfSynGuysItWontBite	\n\dgreen;to using items with +skill levels to raise its skill level\nthis skill benefits from putting hard points into it, as opposed
+DescBeneGulp	\yellow;can be cast on other units\n\grey;(When you Use a Healing Potion)
+DescBloodySelf	Damage per Level when using a Healing Potion
+ModitemStrBL	(Based on Blessed Life Skill Level)
+Nahemah	Nahemah
+Shamash	Shamash
+Black Mamba	Black Mamba
+Rahab	Rahab
+Santa Compana	Santa Compana
+Oriflamme	Oriflamme
+Manta	Manta
+Lohengrin	Lohengrin
+Vesta	Vesta
+Lahmu	Lahmu
+Constantine	Constantine
+Longinus	Longinus
+Hibagon	Hibagon
+Wintermute	Wintermute
+Ahriman	Ahriman
+Orisha	Orisha
+Drekavac	Drekavac
+SkillnameEyeForAnEye	Eye for an Eye
+SkilldescEyeForAnEye	\red;requires a shield\white;\nor weakening bonus effect on both you and your target\nshield bash that inflicts damage, and has a strengthening
+DescHolySynSOF	reduces Skill Timer (Alignment: Holy)
+DeescUnholySynSOF	adds Enhanced Damage (Alignment: Unholy)
+SkillnameFaithSaves	Shield of Faith
+SkillsdFaithSaves	\purple;Unholy: does more damage, slowly regenerates your life and has no timer\n\orange;Holy: stuns, can be followed up with Retaliate or Retribute, has a skill timer\n\white;this skill has a different effect depending on alignment:\n\n\red;requires a shield\white;\ndeadly holy shield bash that knocks back the target
+SkillanFaithSaves	Faith's Shield
+ToShields	\nTo Shield of Faith Spell:
+DescTimerLossHoly	 seconds (Alignment: Holy)
+DescDmgUnholy	 percent (Alignment: Unholy)
+DescTimerInitHoly	Skill Timer Reduced by 
+DescGainsSlowthorns	Slow Attacker per Level
+DescSoIsBane	\n\dgreen;unlike the item modifier, this also slows ranged monsters
+r34	\purple;Sha Rune
+r35	\purple;Lah Rune
+r36	\purple;Kur Rune
+r37	\purple;Ix Rune
+r38	\purple;Thur Rune
+r39	\purple;Nas Rune
+r40	\purple;Ath Rune
+r41	\purple;Kra Rune
+r42	\purple;Vith Rune
+r43	\purple;No Rune
+r44	\purple;Yul Rune
+r45	\purple;Thai Rune
+r46	\purple;Rha Rune
+r47	\purple;Xar Rune
+ModitemHPManaP	Increase Maximum Life and Mana
+Erawan	Erawan
+Atlantis	Atlantis
+Sulfur	Sulfur
+Semhazai	Semhazai
+Sphinx	Sphinx
+Ley	Ley
+Atlas	Atlas
+Megalith	Megalith
+Nephilim	Nephilim
+Hook	Hook
+Wish	Wish
+Apocalypse	Apocalypse
+Gehenna	Gehenna
+Victory	Victory
+Triune	Triune
+Gabriel	Gabriel
+Durga	Durga
+Viper	Viper
+Geyser	Geyser
+Ladon	Ladon
+Erilaz	Erilaz
+Starvation	Starvation
+Typhaon	Typhaon
+Flood	Flood
+Burlesque	Burlesque
+Storm	Storm
+Harsith	Harsith
+Anger	Anger
+Svantevit	Svantevit
+Cyclops	Cyclops
+Tartarus	Tartarus
+Myriad	Myriad
+Naiad	Naiad
+Aegina	Aegina
+Seed of Conflict	Seed of Conflict
+Worm	Wyrm
+Salus	Salus
+Acid	Acid
+Asclepion	Asclepion
+Python	Python
+Hail2	Hail
+Sankara	Sankara
+Brahman	Brahman
+Rattler	Rattler
+Cleopatra	Cleopatra
+Virus	Virus
+Crescendo	Crescendo
+Fugue	Fugue
+Mouse Trap	Mouse Trap
+DescTremorHP	 percent of Target Life
+DescKIEffect	(Exception: Killer Instinct: 
+DescPctBr	 percent)
+SkillnameMooooo	Golden Calf
+SkillsdMooooo	\white;summons a golden calf that forces enemies to attack it
+SkillanMooooo	Moooooo!
+DescTeleportStruck	\n\dgreen;the golden calf may teleport randomly when struck
+SkillnameRathmaRulez	Rathma's Chosen
+SkillsdRathmaRulez	\white;turns target minion into a manifestation of the god Rathma
+SkillanRathmaRulez	Rathma's Chosen
+DescRathmaFC	Enchanted Minion deals Magic Damage: 
+DescRathmaHP	Enchanted Minion Maximum Life: 
+DescRathmaImmun	Enchanted Minion is Invulnerable
+DescRathmasCrushEm	Enchanted Minion deals Crushing Blows: 
+GoldenCalf	Golden Calf
+DescSlowACSyn	Slows Target per Level
+DescAllKingsT	Party Members: To all Attributes: 
+ModitemHMCbonus	Magic Find Bonus
+ModitemBOD	(Based on Difficulty Setting)
+SkillnameZomgVolcano	Pyroclastic Flow
+SkillsdZomgVolcano	\white;summons a fiery wave of brimstone that burns everything nearby
+SkillanZomgVolcano	Pyro Flow
+PriestessOfKarcheus	Priestess of Karcheus
+PriestessOfHefaetrus	Priestess of Hefaetrus
+PriestessOfZerae	Priestess of Zerae
+TehSkovos	Skovos, Priestess of Karcheus
+TehPhilios	Philios, Priestess of Hefaetrus
+TehLycander	Lycander, Priestess of Zerae
+Amazonite	Amazon Warrior
+KarcheusHimself	\gold;Avatar of Karcheus
+mon_brrrrrrrrr	Summoned by a Priestess of Karcheus
+FireBelchingThingy	Volcanic Shrine
+x1x	Sunstone of Fire
+x2x	Sunstone of Ice
+x3x	Sunstone of Thunder
+SunstoneOfFire	Sunstone of Fire
+SunstoneOfIce	Sunstone of Ice
+SunstoneOfThunder	Sunstone of Thunder
+x4x	Sunstone of the Gods
+SunstoneOfTheGods	Sunstone of the Gods
+DescElemTotemSyn	Elemental Damage per Level
+DescExtraMslBuck	+1 Extra Missile per Level
+SkillnameBuck	Buckshot
+SkillsdBuck	\red;requires a bow or crossbow\white;\nblasts out a short ranged spread of shrapnel in front of you
+Wingow	Stained Glass Window
+SkillanDSeed	Demon Seed
+DescMaxTotems2	 to maximum totems (Passive)
+MakesOneBody	Number of Corpses: 
+DescMoreBodies	 per cast
+DescMoreCorpsesSyn	+1 Extra Corpse Spawned per 5 Levels
+AmazoniteNinja	Amazon Tracker
+mon_superamazon	Respawns on Death! Invisibility
+mon_pewpewpew	Omg Lazorgunz!
+mon_glavewurm	Blade Attack Bounces between Targets
+mon_neonz	Slowing Hit
+Robotnik	Robotnik
+Harpylisk	Harpylisk
+NeonFiend	Neon Fiend
+x5x	Hax!
+DescExtraPassSyn	+1 Extra Totem per 2 Levels (Passive)
+SkillnameBladeQ	Queen of Blades
+SkillsdBladeQ	\white;when active, periodically launches bouncing blades at nearby foes
+SkillanBladeQ	Queen of B.
+DescBladesMax	 blades per Volley
+DescBladesOnAPlane	Extra Blade per Level
+DescBladeBabble	Delay between Blade Volleys: 1 second\nBlade Bounces Once: 1/4 Weapon Damage\n1/2 Weapon Damage
+DescRathmasStun	Enchanted Minion causes Stun Length: 
+DescRathStun	Stun Length +0.2 Seconds per Level
+SkillnameAncSr	Ancient Strike
+SkillsdAncSr	\white;targets a summoned minion, causing it to blast nearby enemies
+DescLCHeeeeelp	\orange;Level Challenge Reward Skill
+DescLevel30	\orange;Reach character level 30
+DescLCLocked	\orange;Complete Level Challenge 2
+SkillnameShadowWarp	Bend the Shadows
+SkillsdShadowWarp	\white;teleport to the location of target minion, gathering your army
+SkillnameVoidChannel	Unearthly Power
+SkillsdVoidChannel	\white;temporarily enhances energy factor of self or target ally
+SkillnameSSerp	Serpent Strike
+SkillsdSSerp	\red;requires dual claws\white;\ndouble swing attack that deals extra damage and poisons the target
+DescTargetSpeed	Target Velocity: 
+DescTDisZERO	Defense: -100 percent
+InitiateAcolyte	Initiate/Acolyte
+InitAco	Init/Acol
+SkillnameInitAco	Initiate / Acolyte
+SkillsdInitAco	\white;summon a paladin in training to battle for the light or the shadow
+DescThisIsFriendly	\blue;receives bonuses if you have points into any holy or unholy skill
+SkillanIAc	Init. / Aco.
+DescRndEx	Energy Factor: 50\n\nUses your Selected Abilities\nUses Random Items
+DescHolinessBonus	Holiness: Strength Bonus Tripled
+DescUnholinessBonus	Unholiness: Energy Bonus Tripled
+DescIHate110	\red;bonuses will be applied. This bug has been fixed in 1.11.\nto a level 1 skill of the opposite alignment, neither of the\nCaution: in Diablo II 1.10, if you are using an item with +X
+DescCovExclusivity	\tan;(not counting skill bonuses from items)\nthis skill is mutually exclusive with all neutral skills
+DescToSkillsPotLvl	 to All Maximum Skill Levels
+DescEnrFB	Energy Factor: 
+SkillnameCovenPwnzYoo	Scourge
+SkillsdCovenPwnzYoo	\white;summon a zealous army of followers to slay all who stand in your way
+ForceofNature	Force of Nature
+ForceNat	Force
+SkillnameForceofNature	Faerie Fire
+SkillsdForceofNature	\white;protects you and leaves a trail of dazzling lights that damage enemies
+SkillanFoNa	Faerie Fire
+DescLCCombo	\red;See the documentation or website for more details\n\orange;Reach character level 30\nComplete Level Challenge 2
+DescFoNSyn	+1 Extra Druid every 4 Levels
+DescASTRtimerSyn	reduces Skill Timer (Diminishing Returns)
+DescLvlPenaltyIs	(You are already Missing Out on 
+DescLowerThanWO	 Skill Levels)
+DescSkillCapStopsAt	All Maximum Natural Skill Levels stop increasing after Character Level 
+DescCovenSyn	Penalty to Maximum Natural Skill Levels -1 every 2 Levels
+DescExtraBlank	Allows you to Ignore Holy/Unholy Skill Restrictions\n
+DesctoLife	 to Life
+DesctoMana	 to Mana
+DescNothingToSee	\dgrey;(This skill has no regular effect, only a self-synergy)
+SkillnameWaspSting	War Spirit
+SkillsdWaspSting	\white;increases run speed and shoots spike novas when near enemies
+DescArenas	depending on Monsters within Range: 1-
+DescDamageAddsUpTo	May Hit up to 
+DescRingRad	Radius of Force Ring: 
+DescTriggerRad	1/4 Weapon Damage\nTrigger Radius: 3.3 yards
+DescWtfIsThis	\red;May the Light of Dien-Ap-Sten shine upon you!
+DescTrailHits	Spark Trail Hits 5 times per second
+DescSparkDur	Spark Trail Duration: 
+ScPet	Scourge
+DescScourgesNr	Scourges: 
+DescACtotal	Total Character Defense: 
+DescAAC	Defense per Level
+xg0	\red;Elixir of Damnation
+PotOfExpRevolutionsDesc	Invulnerability\n+1000% Experience for 20 seconds\n\orange;"Unholy power!"
+DescBlack1	Trial of Fear completed!
+DescBlack2	Trial of Greed completed!
+DescBlack3	Trial of Knowledge completed!
+DescBlack4	Trial of Blood completed!
+DescBlack5	Trial of Contrition completed!
+DescBlack6	Trial of Ash completed!
+DescBlack7	You Slew Kabraxis' Avatar!
+2x5	\dgreen;Alpha Brain
+2x6	\dgreen;Beta Brain
+2x7	\dgreen;Gamma Brain
+2x8	\dgreen;Delta Brain
+2x9	\dgreen;Epsilon Brain
+KabraxisHimself	\gold;Kabraxis
+mon_xis	Scared yet?
+SkillanVoS	ZOMG DMG!1!
+ModitemNeedsLCed	Can Be Upgraded with Level Challenge 2
+DescMinRCMag	Enchanted Minion Deals +2500-5000 Magic Damage per Level
+DescATTS	Attack Speed: 
+DescShards	 shards
+DescShardsSyn	Shards per Level
+DescAttrSyn	Increased Bonus to all Attributes
+SkillnameTowerCrane	Crane Stance
+SkillsdTowerCrane	\white;what?
+SkillnameAAAGH	Plague
+SkillsdAAAGH	\white;passive - adds deadly poison damage to weapon attacks of self and minions
+Treewarden	Treewarden
+SkillnameAngryOak	Summon Treewarden
+SkillsdAngryOak	\white;summons a mighty hostile treant creature for you to charm
+SkillanAngOak	Treewarden
+TreeLife	Hug!
+TreeStats	\white;Not affected by minion enhancing items\grey;\nUses Level 1 Rolling Thunder\nCrushing Blow: 50 percent\nAll Resistances: 75 percent\n\white;(Based on Area Level)\grey;\nLife: 1500% of Average Monster Life\nDamage: 1000% of Average Monster Damage
+DescFiendATS	+3% Attack and Run Speed to Acid Trance Aura per Level
+DescFireResPena	Enemy Resistances: 
+DescImmunPena	 percent Resistance
+DescRedImmunTo	Reduces Elemental Immunes to 
+DescPewPewPewPewPew	Delay between Blasts: 0.2 seconds\nMissile Range: 10 yards
+DescRetrib	Radius: 18.6 yards
+SkillnameSplotch	Bloodspeaker's Mark
+SkillsdSplotch	\red;requires a spear\white;\nmelee attack that summons one or more allied blood knights
+SkillnamePwn	Bloodsp.Mark
+DescBloodSumm	Bloodknights Summoned: 
+DescBloodBabble	Not affected by minion enhancing items\nLife: 500 hit points\nMagic Damage: 2 percent of Target Life
+DescBSMSyn	+1 Extra Bloodknight per 3 Levels
+SkillnameWychwind	Wychwind
+SkillsdWychwind	\red;requires a throwing knife\white;\nthrown knife that creates a field of rifts, but leaves you weaker to damage
+DescWychbabble	Rift Effect Duration: 2 seconds\nRift Effect hits 10 times\nRift Effect does 3/2 Weapon Damage
+DescVulDurRed	Vulnerability Duration Reduced by 0.2 seconds per Level
+DescWychSelfEffect	Vulnerability: Damage Taken Increased by 
+DescPFSynHowl	Attacker Flees: 
+DescThatSynergy	Chance to make Attacker Flee while Casting
+mon_charmmeplz	Charm Me Plz
+SkillnameHm	V.o. Judgement
+DescReflectNoKillsC	\n\dgreen;do not trigger on-death effects\nenemies killed by reflected damage
+DescHitHitHitHit	Hits 25 times per second
+The Boulder	The Boulder
+ThisIsASecretMessage	Eye of the Storm
+Demonstone Blood	Demonstone Blood
+Zakarum Stoning Rock	Zakarum Stoning Rock
+Farsight Globe	Farsight Globe
+Ashaera's Cateye	Ashaera's Cateye
+Cornerstone of the Roflworld	Cornerstone of the World
+The Loadstone	The Loadstone
+Heavenstone	Heavenstone
+Dragon's Egg	Dragon's Egg
+LocustHive	Locust Hive
+Cindercone	Cindercone
+LoveBarrel	Bucket of Love
+KingsportsSignals	Kingsport's Signals
+TestTube	Test Tube
+LarzuksBandolier	Larzuk's Bandolier
+PlagueGland	Plague Gland
+WhyDoIAlwaysListenToIdiots	Hammerspace
+DreamcatcherX	The Dreamcatcher
+RipstarX	Ripstar
+RingOfDiscoX	Ring of Disengagement
+BecauseImADoormatX	Hangman
+ThatsWhyX	Felblood
+WitchmoonX	Witchmoon
+GrmblX	Angel Heart
+AthuluasOracleX	Athulua's Oracle
+XorinesRingX	Xorine's Ring
+RingOfTruthX	Ring of Truth
+EmpyreanBandX	Empyrean Band
+EarthRouserX	Earth Rouser
+DescPDtoSCOWPN	Poison Damage to Scourge Minion Weapons
+HiddenBoss	\gold;Bartuc
+HiddenMinion	Blood Golem
+mon_hiddenboss	Summoner Only Vulnerable after Using Wychwind Spell
+mon_hiddenminion	Only Vulnerable after Attacking
+adi	By Richard Knaak\nLegacy of Blood
+LegOfBlood	Legacy of Blood
+BarShaman	Bear Shaman
+Moon	Moon
+Star	Star
+Leviath	Leviathan
+ZakQ	Zakarum
+Peace	Peace
+Gut	Gut
+Spell	Spell
+Mana	Mana
+TerrQ	Terror
+Flame	Flame
+DrQ	Dragon
+slammer	Slammer
+breaker	Breaker
+halo	Halo
+voiceX	Voice
+prophetX	Prophet
+spines	Spines
+boxX	Box
+barrelX	Barrel
+charmX	Charm
+stoneX	Stone
+gemX	Gem
+SkillanSDrk	S. Darklings
+SkillanSRam	S. Rampagor
+SkillanSOvr	S. Overlord
+Witchdance	Witchdance
+SkillanFleshFlesh	ZERG RUSH KEKE
+DescReflectLeft	\n\dgreen;prevent you from clicking on objects\nputting this ability on left click may
+qus	Cube Reagent (Grade 1/4)\n\orange;Regular Arcane Crystal
+qut	Cube Reagent (Grade 2/4)\n\orange;Glowing Arcane Crystal
+qux	Cube Reagent (Grade 3/4)\n\orange;Brilliant Arcane Crystal
+quy	Cube Reagent (Grade 4/4)\n\orange;Dazzling Arcane Crystal
+zkq	Right-click to receive 2 attribute points\n\green;Book of Might
+zkr	Right-click to receive 1 skill point\n\green;Book of Power
+ModitemRLZOMG	Required Level
+ModitemLHStupid	Lionheart Spell Blinds Attacker
+ModitemAllSkillsBlack	to all Skills when Black Fury is Active
+WeapBetaPierce	Always Pierces\n3/2 Weapon Damage
+DescRegenSynDR	Increases Healing Rate (Diminishing Returns)
+DescDurWDM	Duration: 5 seconds\n3/2 Weapon Damage
+DescTimerLossLeg	Skill Timer Reduced by 0.2 seconds per Level
+DescPhysResPena	Enemy Physical Resistance: 
+DescRedImPhysTo	Physical Immunes Reduced to 
+DescLowerResSelf	Physical Resistance Reduction per Level
+DescPierceResSelf	Immunity Pierce per Level
+SkillnameAwwww	Terminate
+SkillsdAwww	\red;requires a spear or javelin\white;\nmelee attack that inflicts an amplify damage curse on the target
+FireElementalZomg	Blood Elemental
+SkillnameFireEl	Summon Blood Elementals
+SkillsdFireEl	\red;requires a scepter\white;\nsummon multiple fire elementals with a fiery healing spell
+DescCastsGOIF	2% Chance to cast level 2 Gift of Inner Fire
+SkillanSFE	Huh?
+DescPactCheck	Damage when Pact of Blood is Active
+SkillnamePoizond	Curare
+SkillsdPoizond	\white;passive - adds deadly poison to all your weapon attacks
+DescRangeSelfSynergy	Target Seek Range +2 yards per Level
+DescBlinkStunSS	Stun Length +0.64 seconds per Level
+DesecPDtoWPNsynergy	Poison Damage to Weapon per Level
+DescFDtoWPNsynergy	Fire Damage to Weapon per Level
+SovietSpy	Betrayer
+mon_backstab	Aura Lowers Resistances of Other Enemies
+SkillnameSovietSpy	Betrayer
+SkillsdSovietSpy	\red;requires a throwing knife\white;\nthrowing knife that summons a hostile spirit that weakens other enemies
+BetrayerStats	\white;Not affected by minion enhancing items\grey;\nBetrayal Aura Reduces Physical Immunes to 90 percent Resistance\nBetrayal Aura Lowers Enemy Physical Resistance: -50 percent\n\white;(Based on Area Level)\grey;\nLife: 250% of Average Monster Life\nDamage: 25% of Average Monster Damage
+DescBetaStun	Stun Length: 1 second\nAlways Pierces
+DescSeekDamageCombo	1/2 Weapon Damage\nTarget Seek Range: 13.3 yards
+DescRocksDmg	1/2 Weapon Damage\n20 rocks\n
+SkillnameFalconPUNCH	Eagle Dive
+SkillsdFalconPUNCH	\red;requires a throwing axe\white;\nthrow an axe at target point, lowering enemy resistances in an area
+DescLowerAllResSelf	Elemental Resistance Reduction per Level
+SkillnameSPGuide	Spirit Guide
+SkillsdSPGuide	\white;passive - being near your ancient spirits increases your damage
+DescPctWhenNear	 percent when near a Summoned Ancient Spirit
+VoidArchon	Void Archon
+SkillnameSVAr	Summon Void Archon
+SkillsdSVAr	\white;summons a mighty void spirit with an aura that slows enemy attacks
+SkillanSVAr	S. Void Archon
+DescAuraSlowsAS	Warp Field Aura Reduces Enemy Attack Speed: 
+DescWarpReduces	Warp Field Aura Lowers Enemy Physical Resistance: 
+DescWarpBreaches	Warp Field Aura Reduces Physical Immunes to 
+DescWarpAuraSynergy	Aura Penalty to Enemy Physical Resistance per Level
+DescWarpBreachSynergy	Aura Enemy Immunity Pierce per Level
+SkillnameWarpField	Warp Field
+SkillsdWarpField	\white;passive - your void archon's aura lowers physical resist by an additional amount
+DescBlankBlind	Hit Blinds Target +2\n
+SkillnameBoomGotcha	Exploding Totem
+SkillsdBoomGotcha	\white;corpse totem - explodes when destroyed, creating a blast wave
+SkillanBoomGotcha	Tick Tock
+DescGotchaMulti	??
+DescBlankHits	Stun Length: 1 second\nHits 6 times\n
+DescEnergyBonus	Energy Factor Bonus to Totem Damage: 
+DescToTotemApp	 percent
+SkillnameEmoKid	Black Fury
+SkillsdEmoKid	\yellow;(cast again to turn off)\white;\narmor of darkness that turns you into a mighty unholy warrior!
+DescSelfAvoidSyn	Increases Chance to Avoid Attacks (Diminishing Returns)
+DescBlankBlackID	You can only use Unholy Melee and Neutral skills\n
+SkillnameStartouch	Startouch
+SkillsdStartouch	\white;fires a web of mana flares that lowers enemy resistances
+SkillnameMercHug	Covenant
+SkillsdMercHug	\white;increases life regeneration of the party, especially mercs
+DescPctMErc	 Life per Second (Mercenary)
+DescPctSelf	 Life per Second (Caster, Allies and Summoned Minions)
+DescMErc	 (Mercenary)
+DescCovenantSelf	 (Caster, Allies and Summoned Minions)
+DescBlankCov	Damage: +250 percent (Mercenary)
+DescHPRegenCov	Regenerates 
+DescCRSelf	Radius: +0.6 yards per Level
+EvilRatHalp	Kill Rat
+SkillnameOhRats	Summon Kill Rats
+SkillsdOhRats	\white;summons several hostile cannibal rats for you to charm
+SkillanOhRats	S. Kill Rats
+DescNrRats	 rats per Cast
+DescRatStats	\white;Not affected by minion enhancing items\n(Based on Area Level - Terror and Destruction Difficulty)\grey;\nLife: 50% of Average Monster Life\nDamage: 25% of Average Monster Damage\n\white;(Hatred difficulty)\grey;\nLife: 15\nDamage: 2
+DescBlankAcidCommandz	 
+SkillnameBlackW	Widowmaker
+SkillsdBlackW	\red;requires a crossbow\white;\ntargets a minion, unleashing a barrage of homing bolts around it
+DescBlankHoly	\n\orange;(not counting skill bonuses from items)\nputting points into a holy skill disables all unholy skills\nHoly Skill
+DescPunishzors	Punishers Fired: 
+DescMoreSpikeThings	+1 Punisher per 10 Levels
+SkillnameBearski	Bear Stance
+SkillsdBearski	\blue;only allows the use of melee and summoning skills\n\white;stance - increases your character's defense by a percentage
+DescGLAll	\n\orange;(Self-synergies add bonuses for hard points in the skill)\n\grey;Hard skill points: Skill Timer Reduced by 0.6 seconds per Level
+SkillnameFork	Forked Lightning
+SkillanFork	Muhahaha
+SkillsdFork	\white;unleashes multiple snaking discharges of electrical power
+SkillanSET	Tesla Was Here
+SkillanFCT	Frostclaw T.
+SkillanFHT	Fireheart T.
+0k1	Location: Ancient Tunnels\n\white;Dungeon Uberquest (1/6)\n\dgrey;Hint: Creature of Flame
+0k2	Location: The Pit Lv2\n\white;Dungeon Uberquest (2/6)\n\dgrey;Hint: Infernal Machine
+0k3	Location: Swampy Pit Lv3\n\white;Dungeon Uberquest (3/6)\n\dgrey;Hint: Death Projector
+0k4	Location: Forgotten Reliquary\n\white;Dungeon Uberquest (4/6)\n\dgrey;Hint: Azmodan
+0k5	Location: Ruined Fane\n\white;Dungeon Uberquest (5/6)\n\dgrey;Hint: Rathma Square
+0k6	Location: Undergr. Pass. Lv2\n\white;Dungeon Uberquest (6/6)\n\dgrey;Hint: Cathedral of Vanity
+0k7	Location: The Hole Lv2\n\white;Summoning Uberquest (1/6)\n\dgrey;Hint: The Butcher
+0k8	Location: Kurast Causeway\n\white;Summoning Uberquest (2/6)\n\dgrey;Hint: Akarat
+0k9	Location: Valley of Snakes\n\white;Summoning Uberquest (3/6)\n\dgrey;Hint: Binding of Baal
+0k0	Location: Arreat Summit\n\white;Summoning Uberquest (4/6)\n\dgrey;Hint: Assault on Arreat
+0l1	Location: Nihlathak's Temple\n\white;Summoning Uberquest (5/6)\n\dgrey;Hint: Aldric Jitan
+0l2	Location: Tower Lv1\n\white;Summoning Uberquest (6/6)\n\dgrey;Hint: Legacy of Blood
+0l3	Location: Arachnid Lair\n\white;Uberlevel (1/6)\n\dgrey;Hint: Kurast 3000 BA
+0l4	x
+0l5	x
+0l6	x
+0l7	x
+0l8	x
+0l9	x
+0l0	x
+0m1	x
+0m2	x
+0m3	x
+0m4	x
+0m5	x
+0u1	Hammer of the Taan Judges
+0u2	Weighted Companion Cube
+HotTJ	Hammer of the Taan Judges
+WCC	Weighted Companion Cube
+SkillnameDeathSweep	Death Sweep
+SkillsdDeathSweep	\white;steals life and damages nearby enemies based on life lost
+DescBlankFracHP	Leeches 25-35 percent of Life below Maximum\n
+DescBlankDmg	Damage: +150 percent\n
+SkillnameLaLaLaLa	Hymn
+SkillsdLaLaLaLa	\white;enables you and party members to gain life with weapon attacks
+DescStuffed	\red;See the documentation or website for more details\n\orange;Reach character level 30\nComplete Level Challenge 2\n\yellow;To unlock this skill:
+DescOnlyHoly	Any Holy Skill
+DescOnlyUnholy	Any Unholy Skill
+ModitemHealAttack	Life on Striking
+ModitemManaAttack	Mana on Striking
+ModitemManaThorns	Mana when Struck by an Enemy
+zks	Right-click to receive 2 attribute points\n\green;Book of Might
+zkt	Right-click to receive 1 skill point\n\green;Book of Power
+ModitemSlowsRangedAt	Slows Ranged Attacker by
+wtb	Crucifix
+ModitemExtraAllPets	to All Maximum Minions
+A0+	\orange;by heavenly faith" \n"Strength is bolstered \nCreepy Shrine (10 Charges)
+A1+	\orange;by heavenly faith" \n"Strength is bolstered \nCreepy Shrine (9 Charges)
+A2+	\orange;by heavenly faith" \n"Strength is bolstered \nCreepy Shrine (8 Charges)
+A3+	\orange;by heavenly faith" \n"Strength is bolstered \nCreepy Shrine (7 Charges)
+A4+	\orange;by heavenly faith" \n"Strength is bolstered \nCreepy Shrine (6 Charges)
+A5+	\orange;by heavenly faith" \n"Strength is bolstered \nCreepy Shrine (5 Charges)
+A6+	\orange;by heavenly faith" \n"Strength is bolstered \nCreepy Shrine (4 Charges)
+A7+	\orange;by heavenly faith" \n"Strength is bolstered \nCreepy Shrine (3 Charges)
+A8+	\orange;by heavenly faith" \n"Strength is bolstered \nCreepy Shrine (2 Charges)
+A9+	\orange;by heavenly faith" \n"Strength is bolstered \nCreepy Shrine (1 Charge)
+B0+	\orange;be guided by fate" \n"The hands of men may \nAbandoned Shrine (10 Charges)
+B1+	\orange;be guided by fate" \n"The hands of men may \nAbandoned Shrine (9 Charges)
+B2+	\orange;be guided by fate" \n"The hands of men may \nAbandoned Shrine (8 Charges)
+B3+	\orange;be guided by fate" \n"The hands of men may \nAbandoned Shrine (7 Charges)
+B4+	\orange;be guided by fate" \n"The hands of men may \nAbandoned Shrine (6 Charges)
+B5+	\orange;be guided by fate" \n"The hands of men may \nAbandoned Shrine (5 Charges)
+B6+	\orange;be guided by fate" \n"The hands of men may \nAbandoned Shrine (4 Charges)
+B7+	\orange;be guided by fate" \n"The hands of men may \nAbandoned Shrine (3 Charges)
+B8+	\orange;be guided by fate" \n"The hands of men may \nAbandoned Shrine (2 Charges)
+B9+	\orange;be guided by fate" \n"The hands of men may \nAbandoned Shrine (1 Charge)
+C0+	\orange;flows from within" \n"The essence of life \nQuiet Shrine (10 Charges)
+C1+	\orange;flows from within" \n"The essence of life \nQuiet Shrine (9 Charges)
+C2+	\orange;flows from within" \n"The essence of life \nQuiet Shrine (8 Charges)
+C3+	\orange;flows from within" \n"The essence of life \nQuiet Shrine (7 Charges)
+C4+	\orange;flows from within" \n"The essence of life \nQuiet Shrine (6 Charges)
+C5+	\orange;flows from within" \n"The essence of life \nQuiet Shrine (5 Charges)
+C6+	\orange;flows from within" \n"The essence of life \nQuiet Shrine (4 Charges)
+C7+	\orange;flows from within" \n"The essence of life \nQuiet Shrine (3 Charges)
+C8+	\orange;flows from within" \n"The essence of life \nQuiet Shrine (2 Charges)
+C9+	\orange;flows from within" \n"The essence of life \nQuiet Shrine (1 Charge)
+D0+	\orange;at the cost of self" \n"Knowledge and wisdom \nEerie Shrine (10 Charges)
+D1+	\orange;at the cost of self" \n"Knowledge and wisdom \nEerie Shrine (9 Charges)
+D2+	\orange;at the cost of self" \n"Knowledge and wisdom \nEerie Shrine (8 Charges)
+D3+	\orange;at the cost of self" \n"Knowledge and wisdom \nEerie Shrine (7 Charges)
+D4+	\orange;at the cost of self" \n"Knowledge and wisdom \nEerie Shrine (6 Charges)
+D5+	\orange;at the cost of self" \n"Knowledge and wisdom \nEerie Shrine (5 Charges)
+D6+	\orange;at the cost of self" \n"Knowledge and wisdom \nEerie Shrine (4 Charges)
+D7+	\orange;at the cost of self" \n"Knowledge and wisdom \nEerie Shrine (3 Charges)
+D8+	\orange;at the cost of self" \n"Knowledge and wisdom \nEerie Shrine (2 Charges)
+D9+	\orange;at the cost of self" \n"Knowledge and wisdom \nEerie Shrine (1 Charge)
+E0+	\orange;is swift and sharp" \n"The sword of justice \nWeird Shrine (10 Charges)
+E1+	\orange;is swift and sharp" \n"The sword of justice \nWeird Shrine (9 Charges)
+E2+	\orange;is swift and sharp" \n"The sword of justice \nWeird Shrine (8 Charges)
+E3+	\orange;is swift and sharp" \n"The sword of justice \nWeird Shrine (7 Charges)
+E4+	\orange;is swift and sharp" \n"The sword of justice \nWeird Shrine (6 Charges)
+E5+	\orange;is swift and sharp" \n"The sword of justice \nWeird Shrine (5 Charges)
+E6+	\orange;is swift and sharp" \n"The sword of justice \nWeird Shrine (4 Charges)
+E7+	\orange;is swift and sharp" \n"The sword of justice \nWeird Shrine (3 Charges)
+E8+	\orange;is swift and sharp" \n"The sword of justice \nWeird Shrine (2 Charges)
+E9+	\orange;is swift and sharp" \n"The sword of justice \nWeird Shrine (1 Charge)
+F0+	\orange;seldom attack" \n"Those who defend \nGloomy Shrine (10 Charges)
+F1+	\orange;seldom attack" \n"Those who defend \nGloomy Shrine (9 Charges)
+F2+	\orange;seldom attack" \n"Those who defend \nGloomy Shrine (8 Charges)
+F3+	\orange;seldom attack" \n"Those who defend \nGloomy Shrine (7 Charges)
+F4+	\orange;seldom attack" \n"Those who defend \nGloomy Shrine (6 Charges)
+F5+	\orange;seldom attack" \n"Those who defend \nGloomy Shrine (5 Charges)
+F6+	\orange;seldom attack" \n"Those who defend \nGloomy Shrine (4 Charges)
+F7+	\orange;seldom attack" \n"Those who defend \nGloomy Shrine (3 Charges)
+F8+	\orange;seldom attack" \n"Those who defend \nGloomy Shrine (2 Charges)
+F9+	\orange;seldom attack" \n"Those who defend \nGloomy Shrine (1 Charge)
+G0+	\orange;may yet be first" \n"Those who are last \nTainted Shrine (10 Charges)
+G1+	\orange;may yet be first" \n"Those who are last \nTainted Shrine (9 Charges)
+G2+	\orange;may yet be first" \n"Those who are last \nTainted Shrine (8 Charges)
+G3+	\orange;may yet be first" \n"Those who are last \nTainted Shrine (7 Charges)
+G4+	\orange;may yet be first" \n"Those who are last \nTainted Shrine (6 Charges)
+G5+	\orange;may yet be first" \n"Those who are last \nTainted Shrine (5 Charges)
+G6+	\orange;may yet be first" \n"Those who are last \nTainted Shrine (4 Charges)
+G7+	\orange;may yet be first" \n"Those who are last \nTainted Shrine (3 Charges)
+G8+	\orange;may yet be first" \n"Those who are last \nTainted Shrine (2 Charges)
+G9+	\orange;may yet be first" \n"Those who are last \nTainted Shrine (1 Charge)
+H0+	\orange;at the cost of wisdom" \n"Intensity comes \nFascinating Shrine (10 Charges)
+H1+	\orange;at the cost of wisdom" \n"Intensity comes \nFascinating Shrine (9 Charges)
+H2+	\orange;at the cost of wisdom" \n"Intensity comes \nFascinating Shrine (8 Charges)
+H3+	\orange;at the cost of wisdom" \n"Intensity comes \nFascinating Shrine (7 Charges)
+H4+	\orange;at the cost of wisdom" \n"Intensity comes \nFascinating Shrine (6 Charges)
+H5+	\orange;at the cost of wisdom" \n"Intensity comes \nFascinating Shrine (5 Charges)
+H6+	\orange;at the cost of wisdom" \n"Intensity comes \nFascinating Shrine (4 Charges)
+H7+	\orange;at the cost of wisdom" \n"Intensity comes \nFascinating Shrine (3 Charges)
+H8+	\orange;at the cost of wisdom" \n"Intensity comes \nFascinating Shrine (2 Charges)
+H9+	\orange;at the cost of wisdom" \n"Intensity comes \nFascinating Shrine (1 Charge)
+I0+	\orange;at the cost of wisdom" \n"Energy comes \nOrnate Shrine (10 Charges)
+I1+	\orange;at the cost of wisdom" \n"Energy comes \nOrnate Shrine (9 Charges)
+I2+	\orange;at the cost of wisdom" \n"Energy comes \nOrnate Shrine (8 Charges)
+I3+	\orange;at the cost of wisdom" \n"Energy comes \nOrnate Shrine (7 Charges)
+I4+	\orange;at the cost of wisdom" \n"Energy comes \nOrnate Shrine (6 Charges)
+I5+	\orange;at the cost of wisdom" \n"Energy comes \nOrnate Shrine (5 Charges)
+I6+	\orange;at the cost of wisdom" \n"Energy comes \nOrnate Shrine (4 Charges)
+I7+	\orange;at the cost of wisdom" \n"Energy comes \nOrnate Shrine (3 Charges)
+I8+	\orange;at the cost of wisdom" \n"Energy comes \nOrnate Shrine (2 Charges)
+I9+	\orange;at the cost of wisdom" \n"Energy comes \nOrnate Shrine (1 Charge)
+J0+	\orange;at the cost of wisdom" \n"Salvation comes \nSacred Shrine (10 Charges)
+J1+	\orange;at the cost of wisdom" \n"Salvation comes \nSacred Shrine (9 Charges)
+J2+	\orange;at the cost of wisdom" \n"Salvation comes \nSacred Shrine (8 Charges)
+J3+	\orange;at the cost of wisdom" \n"Salvation comes \nSacred Shrine (7 Charges)
+J4+	\orange;at the cost of wisdom" \n"Salvation comes \nSacred Shrine (6 Charges)
+J5+	\orange;at the cost of wisdom" \n"Salvation comes \nSacred Shrine (5 Charges)
+J6+	\orange;at the cost of wisdom" \n"Salvation comes \nSacred Shrine (4 Charges)
+J7+	\orange;at the cost of wisdom" \n"Salvation comes \nSacred Shrine (3 Charges)
+J8+	\orange;at the cost of wisdom" \n"Salvation comes \nSacred Shrine (2 Charges)
+J9+	\orange;at the cost of wisdom" \n"Salvation comes \nSacred Shrine (1 Charge)
+K0+	\orange;at the cost of wisdom" \n"Persistence comes \nShimmering Shrine (10 Charges)
+K1+	\orange;at the cost of wisdom" \n"Persistence comes \nShimmering Shrine (9 Charges)
+K2+	\orange;at the cost of wisdom" \n"Persistence comes \nShimmering Shrine (8 Charges)
+K3+	\orange;at the cost of wisdom" \n"Persistence comes \nShimmering Shrine (7 Charges)
+K4+	\orange;at the cost of wisdom" \n"Persistence comes \nShimmering Shrine (6 Charges)
+K5+	\orange;at the cost of wisdom" \n"Persistence comes \nShimmering Shrine (5 Charges)
+K6+	\orange;at the cost of wisdom" \n"Persistence comes \nShimmering Shrine (4 Charges)
+K7+	\orange;at the cost of wisdom" \n"Persistence comes \nShimmering Shrine (3 Charges)
+K8+	\orange;at the cost of wisdom" \n"Persistence comes \nShimmering Shrine (2 Charges)
+K9+	\orange;at the cost of wisdom" \n"Persistence comes \nShimmering Shrine (1 Charge)
+L0+	\orange;as one grows strong" \n"Some are weakened \nMysterious Shrine (10 Charges)
+L1+	\orange;as one grows strong" \n"Some are weakened \nMysterious Shrine (9 Charges)
+L2+	\orange;as one grows strong" \n"Some are weakened \nMysterious Shrine (8 Charges)
+L3+	\orange;as one grows strong" \n"Some are weakened \nMysterious Shrine (7 Charges)
+L4+	\orange;as one grows strong" \n"Some are weakened \nMysterious Shrine (6 Charges)
+L5+	\orange;as one grows strong" \n"Some are weakened \nMysterious Shrine (5 Charges)
+L6+	\orange;as one grows strong" \n"Some are weakened \nMysterious Shrine (4 Charges)
+L7+	\orange;as one grows strong" \n"Some are weakened \nMysterious Shrine (3 Charges)
+L8+	\orange;as one grows strong" \n"Some are weakened \nMysterious Shrine (2 Charges)
+L9+	\orange;as one grows strong" \n"Some are weakened \nMysterious Shrine (1 Charge)
+M0+	\orange;least expected" \n"Riches abound when \nSpiritual Shrine (10 Charges)
+M1+	\orange;least expected" \n"Riches abound when \nSpiritual Shrine (9 Charges)
+M2+	\orange;least expected" \n"Riches abound when \nSpiritual Shrine (8 Charges)
+M3+	\orange;least expected" \n"Riches abound when \nSpiritual Shrine (7 Charges)
+M4+	\orange;least expected" \n"Riches abound when \nSpiritual Shrine (6 Charges)
+M5+	\orange;least expected" \n"Riches abound when \nSpiritual Shrine (5 Charges)
+M6+	\orange;least expected" \n"Riches abound when \nSpiritual Shrine (4 Charges)
+M7+	\orange;least expected" \n"Riches abound when \nSpiritual Shrine (3 Charges)
+M8+	\orange;least expected" \n"Riches abound when \nSpiritual Shrine (2 Charges)
+M9+	\orange;least expected" \n"Riches abound when \nSpiritual Shrine (1 Charge)
+N0+	\orange;the body thrives" \n"While the spirit is vigilant \nMagical Shrine (10 Charges)
+N1+	\orange;the body thrives" \n"While the spirit is vigilant \nMagical Shrine (9 Charges)
+N2+	\orange;the body thrives" \n"While the spirit is vigilant \nMagical Shrine (8 Charges)
+N3+	\orange;the body thrives" \n"While the spirit is vigilant \nMagical Shrine (7 Charges)
+N4+	\orange;the body thrives" \n"While the spirit is vigilant \nMagical Shrine (6 Charges)
+N5+	\orange;the body thrives" \n"While the spirit is vigilant \nMagical Shrine (5 Charges)
+N6+	\orange;the body thrives" \n"While the spirit is vigilant \nMagical Shrine (4 Charges)
+N7+	\orange;the body thrives" \n"While the spirit is vigilant \nMagical Shrine (3 Charges)
+N8+	\orange;the body thrives" \n"While the spirit is vigilant \nMagical Shrine (2 Charges)
+N9+	\orange;the body thrives" \n"While the spirit is vigilant \nMagical Shrine (1 Charge)
+O0+	\orange;what it seems to be" \n"Magic is not always \nEnchanted Shrine (10 Charges)
+O1+	\orange;what it seems to be" \n"Magic is not always \nEnchanted Shrine (9 Charges)
+O2+	\orange;what it seems to be" \n"Magic is not always \nEnchanted Shrine (8 Charges)
+O3+	\orange;what it seems to be" \n"Magic is not always \nEnchanted Shrine (7 Charges)
+O4+	\orange;what it seems to be" \n"Magic is not always \nEnchanted Shrine (6 Charges)
+O5+	\orange;what it seems to be" \n"Magic is not always \nEnchanted Shrine (5 Charges)
+O6+	\orange;what it seems to be" \n"Magic is not always \nEnchanted Shrine (4 Charges)
+O7+	\orange;what it seems to be" \n"Magic is not always \nEnchanted Shrine (3 Charges)
+O8+	\orange;what it seems to be" \n"Magic is not always \nEnchanted Shrine (2 Charges)
+O9+	\orange;what it seems to be" \n"Magic is not always \nEnchanted Shrine (1 Charge)
+P0+	\orange;refreshed" \n"Drink and be \nDivine Shrine (10 Charges)
+P1+	\orange;refreshed" \n"Drink and be \nDivine Shrine (9 Charges)
+P2+	\orange;refreshed" \n"Drink and be \nDivine Shrine (8 Charges)
+P3+	\orange;refreshed" \n"Drink and be \nDivine Shrine (7 Charges)
+P4+	\orange;refreshed" \n"Drink and be \nDivine Shrine (6 Charges)
+P5+	\orange;refreshed" \n"Drink and be \nDivine Shrine (5 Charges)
+P6+	\orange;refreshed" \n"Drink and be \nDivine Shrine (4 Charges)
+P7+	\orange;refreshed" \n"Drink and be \nDivine Shrine (3 Charges)
+P8+	\orange;refreshed" \n"Drink and be \nDivine Shrine (2 Charges)
+P9+	\orange;refreshed" \n"Drink and be \nDivine Shrine (1 Charge)
+Q0+	\orange;through destruction"\n"New strength is forged\nHidden Shrine (10 Charges)
+Q1+	\orange;through destruction"\n"New strength is forged\nHidden Shrine (9 Charges)
+Q2+	\orange;through destruction"\n"New strength is forged\nHidden Shrine (8 Charges)
+Q3+	\orange;through destruction"\n"New strength is forged\nHidden Shrine (7 Charges)
+Q4+	\orange;through destruction"\n"New strength is forged\nHidden Shrine (6 Charges)
+Q5+	\orange;through destruction"\n"New strength is forged\nHidden Shrine (5 Charges)
+Q6+	\orange;through destruction"\n"New strength is forged\nHidden Shrine (4 Charges)
+Q7+	\orange;through destruction"\n"New strength is forged\nHidden Shrine (3 Charges)
+Q8+	\orange;through destruction"\n"New strength is forged\nHidden Shrine (2 Charges)
+Q9+	\orange;through destruction"\n"New strength is forged\nHidden Shrine (1 Charge)
+R0+	\orange;refocused renews"\n"The powers of mana\nStone Shrine (10 Charges)
+R1+	\orange;refocused renews"\n"The powers of mana\nStone Shrine (9 Charges)
+R2+	\orange;refocused renews"\n"The powers of mana\nStone Shrine (8 Charges)
+R3+	\orange;refocused renews"\n"The powers of mana\nStone Shrine (7 Charges)
+R4+	\orange;refocused renews"\n"The powers of mana\nStone Shrine (6 Charges)
+R5+	\orange;refocused renews"\n"The powers of mana\nStone Shrine (5 Charges)
+R6+	\orange;refocused renews"\n"The powers of mana\nStone Shrine (4 Charges)
+R7+	\orange;refocused renews"\n"The powers of mana\nStone Shrine (3 Charges)
+R8+	\orange;refocused renews"\n"The powers of mana\nStone Shrine (2 Charges)
+R9+	\orange;refocused renews"\n"The powers of mana\nStone Shrine (1 Charge)
+S0+	\orange;the power of steel"\n"Time cannot diminish\nReligious Shrine (10 Charges)
+S1+	\orange;the power of steel"\n"Time cannot diminish\nReligious Shrine (9 Charges)
+S2+	\orange;the power of steel"\n"Time cannot diminish\nReligious Shrine (8 Charges)
+S3+	\orange;the power of steel"\n"Time cannot diminish\nReligious Shrine (7 Charges)
+S4+	\orange;the power of steel"\n"Time cannot diminish\nReligious Shrine (6 Charges)
+S5+	\orange;the power of steel"\n"Time cannot diminish\nReligious Shrine (5 Charges)
+S6+	\orange;the power of steel"\n"Time cannot diminish\nReligious Shrine (4 Charges)
+S7+	\orange;the power of steel"\n"Time cannot diminish\nReligious Shrine (3 Charges)
+S8+	\orange;the power of steel"\n"Time cannot diminish\nReligious Shrine (2 Charges)
+S9+	\orange;the power of steel"\n"Time cannot diminish\nReligious Shrine (1 Charge)
+T0+	\orange;brings destruction"\n"Arcane power\nCryptic Shrine (10 Charges)
+T1+	\orange;brings destruction"\n"Arcane power\nCryptic Shrine (9 Charges)
+T2+	\orange;brings destruction"\n"Arcane power\nCryptic Shrine (8 Charges)
+T3+	\orange;brings destruction"\n"Arcane power\nCryptic Shrine (7 Charges)
+T4+	\orange;brings destruction"\n"Arcane power\nCryptic Shrine (6 Charges)
+T5+	\orange;brings destruction"\n"Arcane power\nCryptic Shrine (5 Charges)
+T6+	\orange;brings destruction"\n"Arcane power\nCryptic Shrine (4 Charges)
+T7+	\orange;brings destruction"\n"Arcane power\nCryptic Shrine (3 Charges)
+T8+	\orange;brings destruction"\n"Arcane power\nCryptic Shrine (2 Charges)
+T9+	\orange;brings destruction"\n"Arcane power"\nCryptic Shrine (1 Charge)
+SkillnameQQSkill	Moonstrike
+SkillsdQQSkill	\red;requires a staff, orb or crystal sword\white;\nmystical melee technique that increases your survivability in melee
+SkillnameNovaCharge	Nova Charge
+SkillsdNovaCharge	\white;when activated, causes you to periodically shoot novas when near enemies
+DescZapZapZapZap	Delay between Blasts: 0.4 seconds\nActivation Range: 6 yards
+DescManaHealIR	Increases Mana per Kill per Level (Increasing Returns)
+DescNCS	abc
+DescNCAll	\n\orange;(Self-synergies add bonuses for hard points in the skill)
+DescBlankDmg2	3/4 Weapon Damage\n
+DescThisSkillHasA	Notice : This skill has a 
+DescSecondTimerIfItem	 second Spell Timer if Granted by an Item
+DescPctToAtt	 percent to Attack
+DescToDur	 percent
+DescOnlyPct2	Damage per Level
+DescBlankCov2	Energy Factor: +30 (Caster, Allies and Summoned Minions)\n
+mon_charmme	Homing Spikes Charm Me
+ModitemStatCap	Attribute Points from Books
+ModitemSkillCap	Skill Points from Books
+DescLDtoWPNsyn	Lightning Damage to Weapon per Level
+DescBlank25	25% Chance to leave an Exploitable Corpse on Death\n
+DescBlank50	75% Chance to leave an Exploitable Corpse on Death\n
+DescLifeOnHitPwn	 Life on Striking
+DescLCHeeelpstuffed	\orange;Level Challenge Reward Skill\n\n\tan;Inherits your Blessed Life and Radiance skills
+DescWFRed	Physical Immunes Reduced by an additional 
+gcv	\purple; 欠けたアメジスト
+gfv	\purple; 傷のあるアメジスト
+gsv	\purple; アメジスト
+gzv	\purple; 無傷のアメジスト
+gpv	\purple; 完璧なアメジスト
+gcy	\purple; 欠けたトパーズ
+gfy	\purple; 傷のあるトパーズ
+gsy	\purple; トパーズ
+gly	\purple; 無傷のトパーズ
+gpy	\purple; 完璧なトパーズ
+gcb	\purple; 欠けたサファイア
+gfb	\purple; 傷のあるサファイア
+gsb	\purple; サファイア
+glb	\purple; 無傷のサファイア
+gpb	\purple; 完璧なサファイア
+gcg	\purple; 欠けたエメラルド
+gfg	\purple; 傷のあるエメラルド
+glg	\purple; 無傷のエメラルド
+gsg	\purple; エメラルド
+gpg	\purple; 完璧なエメラルド
+gcr	\purple; 欠けたルビー
+gfr	\purple; 傷のあるルビー
+gsr	\purple; ルビー
+glr	\purple; 無傷のルビー
+gpr	\purple; 完璧なルビー
+gcw	\purple; 欠けたダイアモンド
+gfw	\purple; 傷のあるダイアモンド
+gsw	\purple; ダイアモンド
+glw	\purple; 無傷のダイアモンド
+gpw	\purple; 完璧なダイアモンド
+skc	\purple; 欠けた頭蓋骨
+skf	\purple; 傷のある頭蓋骨
+sku	\purple; 頭蓋骨
+skl	\purple; 無傷の頭蓋骨
+skz	\purple; 完璧な頭蓋骨
+null	null

@@ -1,0 +1,561 @@
+Eng	JPN
+Quilted Armor	キルトのアーマー
+Hard Leather Armor	ハードレザー・アーマー
+Leather Armor	レザーアーマー
+Studded Leather	鋲つき革アーマー
+Ring Mail	リングメイル
+Scale Mail	スケールメイル
+Chain Mail	チェーンメイル
+Breast Plate	ブレストプレート
+Splint Mail	スプリントメイル
+Field Platge	フィールドプレート
+Gothic Plate	ゴシックプレート
+Full Plate Mail	フルプレートメイル
+Ancient Armor	古代のアーマー
+Small Shield	スモールシールド
+Large Shield	ラージシールド
+Kite Shield	カイトシールド
+Tower Shield	タワーシールド
+Gothic Shield	ゴシックシールド
+Leather Gloves	レザーグローブ
+Heavy Gloves	ヘヴィグローブ
+Chain Gloves	チェーングローブ
+Light Gauntlets	ライトガントレット
+Heavy Boots	ヘヴィブーツ
+Chain Boots	チェーンブーツ
+Light Plated Boots	ライトプレートブーツ
+Heavy Belt	ヘヴィベルト
+Plated Belt	プレートベルト
+Bone Helm	ボーンヘルム
+Bone Shield	ボーンシールド
+Spiked Shield	スパイクシールド
+Hand Axe	ハンドアックス
+Double Axe	ダブルアックス
+Military Pick	ミリタリー・ピック
+War Axe	ウォーアックス
+Large Axe	ラージアックス
+Broad Axe	ブロードアックス
+Battle Axe	バトルアックス
+Great Axe	グレートアックス
+Giant Axe	ジャイアントアックス
+Yew Wand	木のワンド
+Bone Wand	ボーンワンド
+Grim Wand	グリムワンド
+Grand Scepter	グランドセプター
+War Scepter	ウォーセプター
+Spiked Club	スパイク付きクラブ
+Morning Star	モーニングスター
+War Hammer	ウォーハンマー
+Great Maul	グレートモール
+Short Sword	ショートソード
+Scimitar	シミター
+Sabre	サーベル
+Saber	サーベル
+Falchion	フォルシオン
+Crystal Sword	クリスタルソード
+Broad Sword	ブロードソード
+Long Sword	ロングソード
+War Sword	ウォーソード
+Two-Handed Sword	両手用ソード
+Claymore	クレイモア
+Giant Sword	ジャイアントソード
+Bastard Sword	バスタードソード
+Flamberge	フランベルジュ
+Great Sword	グレートソード
+Throwing Knife	投げナイフ
+Throwing Axe	投げアックス
+Balanced Knife	バランスナイフ
+Balanced Axe	バランスアックス
+Short Spear	ショートスピア
+Throwing Spear	投げスピア
+War Scythe	戦争の大鎌
+Short Staff	ショート・スタッフ
+Long Staff	ロング・スタッフ
+Gnarled Staff	節くれだったスタッフ
+Battle Staff	バトル・スタッフ
+War Staff	ウォー・スタッフ
+Short Bow	ショートボウ
+Hunter's Bow	ハンターズ・ボウ
+Long Bow	ロングボウ
+Composite Bow	複合ボウ
+Short Battle Bow	ショート・バトルボウ
+Long Battle Bow	ロング・バトルボウ
+Short War Bow	ショート・ウォーボウ
+Long War Bow	ロング・ウォーボウ
+Light Crossbow	ライト・クロスボウ
+Heavy Crossbow	ヘヴィ・クロスボウ
+Repeating Crossbow	連射クロスボウ
+Barbed Shield	有刺シールド
+Grim Shield	グリムシールド
+Grim Helm	グリムヘルム
+War Belt	ウォーベルト
+Battle Belt	バトルベルト
+Mesh Belt	メッシュベルト
+Sharkskin Belt	鮫皮ベルト
+Demonhide Sash	魔獣の皮のサッシュ
+War Boots	ウォーブーツ
+Battle Boots	バトルブーツ
+Mesh Boots	メッシュブーツ
+Sharkskin Boots	鮫皮ブーツ
+Demonhide Boots	魔獣の皮のブーツ
+War Gaunlets	ウォー・ガントレット
+Battle Gauntlets	バトル・ガントレット
+Heavy Bracers	重い弓籠手
+Sharkskin Gloves	鮫皮グローブ
+Demonhide Gloves	魔獣の皮のグローブ
+Ancient Shield	古代のシールド
+Pavise	パバイス
+Dragon Shield	ドラゴンシールド
+Scutum	スキュータム
+Round Shield	ラウンドシールド
+Defender	ディフェンダー
+Mage Plate	魔道師のプレート
+Ornate Plate	装飾のプレート
+Chaos Armor	混沌のアーマー
+Embossed Plate	エンボスのプレート
+Sharktooth Armor	鮫の歯のアーマー
+Templar Coat	聖堂騎士のコート
+Russet Armor	ラセットアーマー
+Cuirass	クゥイラス
+Mesh Armor	メッシュアーマー
+Tigulated Mail	ティギュレート・メイル
+Linked Mail	リンクト・メイル
+Trellised Armor	格子のアーマー
+Demonhide Armor	魔獣の皮のアーマー
+Serpentskin Armor	蛇皮のアーマー
+Ghost Armor	ゴーストアーマー
+Death Mask	デスマスク
+Grand Crown	大いなる冠
+Winged helm	ウィングヘルム
+Basinet	バシネット
+Casque	カスク
+Sallet	サレット
+War Hat	ウォー・ハット
+Chu-Ko-Nu	チュコヌ
+Ballista	バリスタ
+Siege Crossbow	攻城クロスボウ
+Arbalest	アルバレスト
+Gothic Bow	ゴシック・ボウ
+Rune Bow	ルーン・ボウ
+Large Siege Bow	大攻城弓
+Short Siege Bow	短攻城弓
+Double Bow	ダブルボウ
+Cedar Bow	シダーの弓
+Razor Bow	剃刀の弓
+Edge Bow	エッジ・ボウ
+Rune Staff	ルーン・スタッフ
+Gothic Staff	ゴシック・スタッフ
+Cedar Staff	シダーのスタッフ
+Quarterstaff	クォータースタッフ
+Jo Staff	ジョウのスタッフ
+Grim Scythe	死の大鎌
+Bec-de-Corbin	ベクドコービン
+Partizan	パルチザン
+Battle Scythe	戦いの大鎌
+Lochaber Axe	ロッホアーバー・アックス
+War Fork	ウォー・フォーク
+Fuscina	フシナ
+War Spear	ウォー・スピア
+Harpoon	ハープーン
+Spiculum	スピキュラム
+Simbilan	シンビラン
+Great Pilum	グレートパイラム
+War Javelin	ウォージャベリン
+Hurlbat	ハールバット
+War Dart	ウォー・ダート
+Francisca	フランシスカ
+Battle Dart	バトルダート
+Stilleto	スティレット
+Cinquedeas	チンクエデア
+Rondel	ロンデル
+Poignard	ポイグナード
+Executioner Sword	処刑人のソード
+Zweihander	ツヴァイハンダー
+Tusk Sword	タスク・ソード
+Dacian Falx	ダキアの鎌
+Espandon	エスパンドン
+Ancient Sword	古代のソード
+Rune Sword	ルーンソード
+Battle Sword	バトルソード
+Dimensional Blade	ディメンショナル・ブレイド
+Tulwar	タルワール
+Shamshir	シャムシール
+Cutlass	カットラス
+Gladius	グラディウス
+Martel de Fer	マーテル・ドゥ・フェール
+War Club	ウォー・クラブ
+Battle Hammer	バトルハンマー
+Knout	むち
+Jagged Star	鋸歯のスター
+Flanged Mace	フランジド・メイス
+Barbed Club	有刺クラブ
+Divine Scepter	ディバイン・セプター
+Holy Water Sprinkler	聖水スプリンクラー
+Rune Scepter	新米のセプター
+Cudgel	カジェル
+Grave Wand	グレイブワンド
+Tomb Wand	トゥームワンド
+Petrified Wand	硬いワンド
+Burnt Wand	焦げたワンド
+Ancient Axe	古代のアックス
+Gothic Axe	ゴシックアックス
+Tabar	テイバー
+Bearded Axe	鉤付きアックス
+Military Axe	ミリタリーアックス
+Naga	ナーガ
+Crowbill	クロウビル
+Twin Axe	ツインアックス
+Cleaver	クリーヴァー
+Gothic Sword	ゴシック・ソード
+Wrist Blade	リスト・ブレイド
+Blade Talons	ブレイド・タロンズ
+Scissors Katar	シザース・カタール
+Wrist Spike	リスト・スパイク
+Hand Scythe	ハンド・サイズ
+Greater Claws	グレイター・クローズ
+Greater Talons	グレイター・タロンズ
+Scissors Quhab	シザース・クハーブ
+Suwayyah	スゥエイヤー
+Wrist Sword	リスト・ソード
+War Fist	ウォー・フィスト
+Battle Cestus	バトル・セスタス
+Feral Claws	フェラル・クローズ
+Runic Talons	ルーニック・タロンズ
+Scissors Suwayyah	シザース・スゥエイヤー
+Small Crescent	スモール・クレッセント
+Ettin Axe	エティン・アックス
+War Spike	ウォー・スパイク
+Beserker Axe	バーサーカー・アックス
+Feral Axe	フェラル・アックス
+Silver-edged Axe	シルバー・エッジド・アックス
+Decapitator	ディキャピテイター
+Champion Axe	チャンピオン・アックス
+Glorious Axe	グロリアス・アックス
+Polished Wand	ポリッシュト・ワンド
+Ghost Wand	ゴースト・ワンド
+Lich Wand	リッチ・ワンド
+Unearthed Wand	アンアースト・ワンド
+Truncheon	トランチャン
+Mighty Scepter	マイティ・セプター
+Seraph Rod	セラフ・ロッド
+Caduceus	カデューシアス
+Tyrant Club	タイラント・クラブ
+Reinforced Mace	リインフォースト・メイス
+Devil Star	デヴィル・スター
+Legendary Mallet	レジェンダリー・マレット
+Ogre Maul	オウガ・モール
+Thunder Maul	サンダー・モール
+Falcata	ファルカタ
+Ataghan	アタガン
+Elegant Blade	エレガント・ブレイド
+Hydra Edge	ハイドラ・エッジ
+Phase Blade	フェイズ・ブレイド
+Conquest Sword	コンクエスト・ソード
+Cryptic Sword	クリプティック・ソード
+Mythical Sword	ミシカル・ソード
+Legend Sword	レジェンド・ソード
+Highland Blade	ハイランド・ブレイド
+Balrog Blade	バルログ・ブレイド
+Champion Sword	チャンピオン・ソード
+Colossus Sword	コロッサス・ソード
+Colossus Blade	コロッサス・ブレイド
+Bone Knife	ボーン・ナイフ
+Mithril Point	ミスリル・ポイント
+Fanged Knife	ファングド・ナイフ
+Legend Spike	レジェンド・スパイク
+Flying Knife	フライング・ナイフ
+Flying Axe	フライング・アックス
+Winged Knife	ウィングド・ナイフ
+Winged Axe	ウィングド・アックス
+Hyperion Javelin	ハイペリオン・ジャベリン
+Stygian Pilum	スティジアン・パイラム
+Balrog Spear	バルログ・スピア
+Ghost Glaive	ゴースト・グレイヴ
+Winged Harpoon	ウィングド・ハープーン
+Hyperion Spear	ハイペリオン・スピア
+Stygian Pike	スティジアン・パイク
+Mancatcher	マンキャッチャー
+Ghost Spear	ゴースト・スピア
+War Pike	ウォー・パイク
+Ogre Axe	オウガ・アックス
+Colossus Voulge	コロッサス・バウルジ
+Thresher	スレッシャー
+Cryptic Axe	クリプティック・アックス
+Great Poleaxe	グレイト・ポールアックス
+Giant Thresher	ジャイアント・スレッシャー
+Walking Stick	ウォーキング・スティック
+Stalagmite	スタラグマイト
+Elder Staff	エルダー・スタッフ
+Shillelagh	シレイリ
+Archon Staff	アーカン・スタッフ
+Spider Bow	スパイダー・ボウ
+Blade Bow	ブレイド・ボウ
+Shadow Bow	シャドウ・ボウ
+Great Bow	グレイト・ボウ
+Diamond Bow	ダイアモンド・ボウ
+Crusader Bow	クルセイダー・ボウ
+Ward Bow	ウォード・ボウ
+Hydra Bow	ハイドラ・ボウ
+Pellet Bow	ペレット・ボウ
+Gorgon Crossbow	ゴーゴン・クロスボウ
+Colossus Crossbow	コロッサス・クロスボウ
+Demon Crossbow	デーモン・クロスボウ
+Eagle Orb	イーグル・オーブ
+Sacred Globe	セイクリッド・グローブ
+Smoked Sphere	スモークト・スフィア
+Clasped Orb	クラスプト・オーブ
+Stag Bow	スタッグ・ボウ
+Reflex Bow	リフレックス・ボウ
+Maiden Spear	メイデン・スピア
+Maiden Pike	メイデン・パイク
+Maiden Javelin	メイデン・ジャベリン
+Glowing Orb	グローイング・オーブ
+Crystalline Globe	クリスタリン・グローブ
+Cloudy Sphere	クラウディ・スフィア
+Sparkling Ball	スパークリング・ボール
+Swirling Crystal	スワーリング・クリスタル
+Ashwood Bow	アッシュウッド・ボウ
+Ceremonial Bow	セレモニアル・ボウ
+Ceremonial Spear	セレモニアル・スピア
+Ceremonial Pike	セレモニアル・パイク
+Ceremonial Javelin	セレモニアル・ジャベリン
+Heavenly Stone	ヘヴンリー・ストーン
+Eldritch Orb	エルドリッチ・オーブ
+Demon Heart	デーモン・ハート
+Vortex Orb	ヴォーテックス・オーブ
+Dimensional Shard	ディメンショナル・シャード
+Matriarchal Bow	メイトリアーカル・ボウ
+Grand Matron Bow	グランド・メイトロン・ボウ
+Matriarchal Spear	メイトリアーカル・スピア
+Matriarchal Pike	メイトリアーカル・パイク
+Matriarchal Javelin	メイトリアーカル・ジャベリン
+Falcon Mask	ファルコン・マスク
+Hawk Helm	ホーク・ヘルム
+Wolf Head	ウルフ・ヘッド
+Spirit Mask	スピリット・マスク
+Jawbone Cap	ジョウボーン・キャップ
+Fanged Helm	ファングド・ヘルム
+Horned Helm	ホーンド・ヘルム
+Assault Helmet	アソールト・ヘルメット
+Avenger Guard	アヴェンジャー・ガード
+Targe	タージ
+Rondache	ロンダッシュ
+Heraldic Shield	ヘラルディック・シールド
+Aerin Shield	アエリン・シールド
+Crown Shield	クラウン・シールド
+Preserved Head	プリザーブド・ヘッド
+Zombie Head	ゾンビー・ヘッド
+Unraveller Head	アンラヴェラー・ヘッド
+Gargoyle Head	ガーゴイル・ヘッド
+Demon Head	デーモン・ヘッド
+Circlet	サークレット
+Coronet	コロネット
+Tiara	ティアラ
+Diadem	ダイアデム
+Shako	シャコー
+Hydraskull	ハイドラスカル
+Armet	アーメット
+Giant Conch	ジャイアント・カンク
+Spired Helm	スパイアード・ヘルム
+Corona	コロナ
+Demonhead	デーモンヘッド
+Dusk Shroud	ダスク・シュラウド
+Wyrmhide	ワームハイド
+Scarab Husk	スカラブ・ハスク
+Wire Fleece	ワイア・フリース
+Diamond Mail	ダイアモンド・メイル
+Loricated Mail	ロリケイティッド・メイル
+Boneweave	ボーンウィーヴ
+Great Hauberk	グレイト・ホーバーク
+Balrog Skin	バルログ・スキン
+Hellforge Plate	ヘルフォージ・プレート
+Kraken Shell	クラーケン・シェル
+Lacquered Plate	ラッカード・プレート
+Shadow Plate	シャドウ・プレート
+Sacred Armor	セイクリッド・アーマー
+Archon Plate	アルコン・プレート
+Heater	ヒーター
+Luna	ルナ
+Hyperion	ハイペリオン
+Monarch	モナーク
+Aegis	イージス
+Ward	ウォード
+Bramble Mitts	ブランブル・ミッツ
+Vampirebone Gloves	ヴァンパイアボーン・グローブ
+Vambraces	ヴァンブレイシズ
+Crusader Gauntlets	クルセイダー・ガントレット
+Ogre Gauntlets	オウガ・ガントレット
+Wyrmhide Boots	ワームハイド・ブーツ
+Scarabshell Boots	スカラブシェル・ブーツ
+Boneweave Boots	ボーンウィーヴ・ブーツ
+Mirrored Boots	ミラード・ブーツ
+Myrmidon Greaves	ミュルミドーン・グリーヴ
+Spiderweb Sash	スパイダーウェブ・サッシュ
+Vampirefang Belt	ヴァンパイアファング・ベルト
+Mithril Coil	ミスリル・コイル
+Troll Belt	トロール・ベルト
+Colossus Girdle	コロッサス・ガードル
+Bone Visage	ボーン・ヴィズィッジ
+Troll Nest	トロール・ネスト
+Blade Barrier	ブレイド・バリア
+Sacred Feathers	セイクリッド・フェザーズ
+Griffon Headdress	グリフォン・ヘッドドレス
+Hunter's Guise	ハンターズ・ガイス
+Alpha Helm	アルファ・ヘルム
+Totemic Mask	トーテミック・マスク
+Jawbone Visor	ジョウボーン・ヴァイザー
+Lion Helm	ライオン・ヘルム
+Rage Mask	レイジ・マスク
+Savage Helmet	サヴェッジ・ヘルメット
+Slayer Guard	スレイヤー・ガード
+Akaran Targe	アカラン・タージ
+Akaran Rondache	アカラン・ロンダッシュ
+Protector Shield	プロテクター・シールド
+Gilded Shield	ギルデッド・シールド
+Royal Shield	ロイヤル・シールド
+Mummified Trophy	マミファイド・トロフィー
+Fetish Trophy	フェティッシュ・トロフィー
+Sexton Trophy	セクストン・トロフィー
+Cantor Trophy	キャンター・トロフィー
+Hierophant Trophy	ハイエロファント・トロフィー
+Sky Spirit	スカイ・スピリット
+Sun Spirit	サン・スピリット
+Earth Spirit	アース・スピリット
+Blood Spirit	ブラッド・スピリット
+Dream Spirit	ドリーム・スピリット
+Carnage Helm	カーネイジ・ヘルム
+Fury Visor	フューリー・ヴァイザー
+Destroyer Helm	デストロイヤー・ヘルム
+Conqueror Crown	コンクァラー・クラウン
+Guardian Crown	ガーディアン・クラウン
+Sacred Targe	セイクリッド・タージ
+Sacred Rondache	セイクリッド・ロンダッシュ
+Zakarum Shield	ザカラム・シールド
+Vortex Shield	ヴォーテックス・シールド
+Minion Skull	ミニオン・スカル
+Hellspawn Skull	ヘルスポーン・スカル
+Overseer Skull	オーヴァーシーアー・スカル
+Succubus Skull	サキュバス・スカル
+Bloodlord Skull	ブラッドロード・スカル
+Compound Bow	コンパウンド・ボウ
+Serpent Bow	サーペント・ボウ
+Maple Bow	メイプル・ボウ
+Viper Bow	ヴァイパー・ボウ
+Recurve Bow	リカーブ・ボウ
+Spatha	スパタ
+Backsword	バックソード
+Ida	エイダ
+Bronze Sword	ブロンズ・ソード
+Kriegsmesser	クリーグスマッシャー
+Bonebreaker	ボーンブレイカー
+Goedendag	グデンダグ
+Angel Star	エンジェル・スター
+Hand of God	ハンド・オブ・ゴッド
+Needle Crossbow	ニードル・クロスボウ
+Dart Thrower	ダート・スロワー
+Stinger Crossbow	スティンガー・クロスボウ
+Trebuchet	トレバシェット
+Gambeson	ジャンブゾン
+Lamellar Armor	ラメラー・アーマー
+Kazarghand	カザーグハンド
+Banded Plate	バンデッド・プレート
+Ceremonial Armor	セレモニアル・アーマー
+Morion	モリオン
+Cervelliere	サーブレア
+Einherjar Helm	エインヘルヤル・ヘルム
+Spangenhelm	スパンゲンヘルム
+Jared's Stone	ジャレッズ・ストーン
+Kurast Shield	クラスト・シールド
+Hatchet Hands	ハチェット・ハンズ
+Parma	パルマ
+Aspis	アスピス
+Totem Shield	トーテム・シールド
+Bladed Shield	ブレード・シールド
+Naginata	薙刀
+Raptor Scythe	ラプター・サイズ
+Bonesplitter	ボーンスプリッター
+Mammen Axe	マーマン・アックス
+Hammerhead Axe	ハンマーハンド・アックス
+Ono	斧
+Valaska	ヴァラスカ
+Labrys	ラブリュス
+Flamen Staff	フレイムン・スタッフ
+Marrow Staff	マロウ・スタッフ
+Hexblade	ヘクスブレイド
+Spirit Edge	スピリット・エッジ
+Holy Lance	ホーリー・ランス
+Tepoztopilli	テポストピリー
+Warp Blade	ワープ・ブレイド
+Athulua's Hand	アスルアズ・ハンド
+Phoenix Shield	フェニックス・シールド
+Setzschild	セッツァチャイルド
+Bull Shield	ブル・シールド
+Bronze Shield	ブロンズ・シールド
+Gilded Shield	ギルディッド・シールド
+Hundsgugel	ファウンズグーゲル
+Blackguard Helm	ブラックガード・ヘルム
+Wraps	ラップス
+Skull Cap	スカルキャップ
+Cap	キャップ
+Full Helm	フル・ヘルム
+Great Helm	グレイト・ヘルム
+Field Plate	フィールドプレート
+Helm	ヘルム
+Crown	冠
+Knuckles	ナックルズ
+Slashers	スラッシャーズ
+Splay	スプレイ
+Hook	フック
+Shank	シャンク
+Claws	クローズ
+Bill	長鉾
+Spear	スピア
+Trident	トライデント
+Brandistock	ブランディストック
+Scythe	大鎌
+Poleaxe	ポールアックス
+Halberd	ハルバード
+Spetum	スペタム
+Glaive	グレイヴ
+Javelin	ジャベリン
+Dagger	ダガー
+Mace	メイス
+Flail	フレイル
+Club	クラブ
+Greaves	グリーヴ
+Sash	サッシュ
+Light Belt	ライトベルト
+Gauntlets	ガントレット
+Boots	ブーツ
+Plate Mail	プレートメイル
+Light Plate	ライト・プレート
+Buckler	バックラー
+Mask	マスク
+Belt	ベルト
+Axe	アックス
+Wand	ワンド
+Scepter	セプター
+Maul	モール
+Dirk	短刀
+Kris	クリース
+Blade	ブレイド
+Pilum	パイラム
+Pike	パイク
+Bardiche	バーダイク
+Voulge	バウルジ
+Lance	ランス
+Yari	東洋の槍
+Katar	カタール
+Cestus	セスタス
+Claws	クローズ
+Quhab	クハーブ
+Fascia	ファシア
+Tomahawk	トマホーク
+Scourge	スカージ
+Antlers	アントラーズ
+Hatchet	ハチェット
+Crossbow	クロスボウ
+Amulet	アミュレット
+Ring	リング
+Arrow Quiver	矢
+Bolt Quiver	ボルト

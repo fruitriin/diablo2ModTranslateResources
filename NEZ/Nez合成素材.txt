@@ -1,0 +1,38 @@
+Cross	十字架
+Nature Symbol	自然のシンボル
+Soul Hunter Medallion	ソウル・ハンター・メダリオン
+Magic Palette	マジック・パレット
+Skill Coins	スキル・コイン
+Magic Mirror	マジック・ミラー
+Shiva Frost Stone	シヴァー・フロスト・ストーン
+Spectral Gate	スペクトラル・ゲート
+Assassin Mark	暗殺者の印
+Gem Arm	ジェム・アーム
+Item Arm	アイテム・アーム
+Ancient's Blessing	古代の恵み
+Angel Statue	天使の像
+Torn Wing	トーン・ウィング
+Skewer Head	スキューアー・ヘッド
+Salvation Stone	サルベイション・ストーン
+Enchanted Leaf	エンチャンティッド・リーフ
+Bear Skin	ベアー・スキン
+Soul Feeder	ソウル・フィーダー
+Flame Man Doll	フレイムマン・ドール
+Surge Stick	サージ・スティック
+Lightning Bolt	ライトニング・ボルト
+Elemental Arrows	エレメンタル・アロー
+Magic Field	マジック・フィールド
+Valkyrie Helmet	ヴァルキリー・ヘルメット
+Talisman of Skill	タリスマン・オブ・スキル
+Ring Downgrader	リング・ダウングレーダー
+Amulet Downgrader	アミュレット・ダウングレーダー
+Blank Slate	ブランク・スレイト
+Socket Hammer	ソケット・ハンマー
+Talic Stone	タリク・ストーン
+Madawc Stone	マドウク・ストーン
+Korlic Stone	コーリック・ストーン
+Stone of Cold Mastery	コールドマスタリーのストーン
+Stone of Fire Mastery	ファイアマスタリーのストーン
+Stone of Lightning Mastery	ライトニングマスタリーのストーン
+Stone of Poison Mastery	ポイズンマスタリーのストーン
+Stone of Magic Mastery	マジックマスタリーのストーン

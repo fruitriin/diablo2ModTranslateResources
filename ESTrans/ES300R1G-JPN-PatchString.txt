@@ -1,0 +1,5348 @@
+Index	Name
+null	null
+ModStr5d	最大スタミナ
+Mauler	モーラー
+StrSkill41	ダメージ
+D2bnetHelp13	/whisper <*accountname>, /w <*accountname>
+D2bnetHelp13b	/msg <*accountname>, /m <*accountname>
+D2bnetHelp15	/squelch <*accountname>
+D2bnetHelp15b	/ignore <*accountname>
+D2bnetHelp16	/unsquelch <*accountname>
+D2bnetHelp16b	/unignore <*accountname>
+D2bnetHelp21	/ban <*accountname>
+D2bnetHelp23	/designate <*accountname>
+D2bnetHelp24	/kick <*accountname>
+D2bnetHelp26	/whois <*accountname>, /where <*accountname>
+D2bnetHelp26b	/whereis <*accountname>
+D2bnetHelp32	/stats <*accountname> <programID>
+x	HELL
+x	NIGHTMARE
+x	NORMAL
+x	難易度選択
+ModStr6e	スタミナ減少が低下
+xhm	ウィングド・ヘルム
+Hsarus' Defense	フサルの守り
+strModEnhancedDamage	強化ダメージ\n
+strModAllResistances	全耐性：+%d
+strModAllSkillLevels	全スキルレベル：+%d
+strModFireDamage	 +%d火炎ダメージ
+strModFireDamageRange	%d-%dの火炎ダメージを追加
+strModColdDamage	 +%d冷気ダメージ
+strModColdDamageRange	%d-%dの冷気ダメージを追加
+strModLightningDamage	 +%d稲妻ダメージ
+strModLightningDamageRange	%d-%dの稲妻ダメージを追加
+strModMagicDamage	 +%d魔法ダメージ
+strModMagicDamageRange	%d-%dの魔法ダメージを追加
+strModPoisonDamage	 +%dのポーションダメージが%d秒間持続
+strModPoisonDamageRange	%d-%dの毒物ダメージを追加、%d秒間持続
+strModMinDamage	 +%dダメージ
+strModMinDamageRange	%d-%dのダメージを追加
+strModEnhancedDamage	強化ダメージ
+ModStre9j	火炎ダメージ低減：
+ModStre9k	冷気ダメージ低減：
+ModStre9l	稲妻ダメージ低減：
+ModStre9m	毒物ダメージ低減：
+ModStre9n	魔法ダメージ吸収
+ModStre9o	火炎ダメージ吸収
+ModStre9p	冷気ダメージ吸収
+ModStre9q	稲妻ダメージ吸収
+ModStre9r	毒物ダメージ吸収
+of the Wraith	（レイス）
+of Equilibrium	(均衡)
+Valkyrie's	ワルキューレの
+Maiden's	メイデンの
+Blank	虚無の
+strEskilllighttoattack	(あなたの攻撃に)
+StrSklTabItem1	ジャベリンとスピアのスキル +%d
+StrSklTabItem2	パッシブと魔術のスキル +%d
+StrSklTabItem3	弓とクロスボウのスキル +%d
+StrSklTabItem4	防御のオーラ +%d
+StrSklTabItem5	攻撃のオーラ +%d
+StrSklTabItem6	戦闘のスキル +%d
+StrSklTabItem6	召喚呪文 +%d
+StrSklTabItem7	毒物と骨の呪文 +%d
+StrSklTabItem8	呪い +%d
+StrSklTabItem10	高地のスキル +%d
+StrSklTabItem11	部族のスキル +%d
+StrSklTabItem12	部族の極意 +%d
+StrSklTabItem13	冷気呪文 +%d
+StrSklTabItem14	稲妻呪文 +%d
+StrSklTabItem15	火炎呪文 +%d
+StrSklTabItem16	召喚呪文 +%d
+StrSklTabItem17	変身能力 +%d
+StrSklTabItem18	エレメンタル +%d
+StrSklTabItem19	トラップ +%d
+StrSklTabItem20	シャドウ・ディシプリン +%d
+StrSklTabItem21	マーシャル・アーツ +%d
+x	キャラクター'%s'は３か月以上使用されなかったので、削除されました
+upgraderestrictEx	マジック、ソケット、レア、ユニーク、セットなどのアイテムは不可。宝石やジュエルも不可。
+x	アンデッド
+x	デーモン
+strScaryMonDescA	
+strScaryMonDescB	
+strScaryMonDesc1	火炎無効
+strScaryMonDesc2	冷気無効
+strScaryMonDesc3	稲妻無効
+strScaryMonDesc4	毒物無効
+strScaryMonDesc5	物理攻撃無効
+strScaryMonDesc6	魔法無効
+PlayerNameOnItemstring	%sの
+PlayerNameOnItemstringX	%の
+SetItemFormatX	%0
+x	拡張版ランキング
+x	拡張版ハードコア・ランキング
+D2bnetHelp47a	「拡張版ランキング」とは、獲得経験値の順にキャラクターを表示するリスト、別名「ラダー」です。デフォルト設定ではクラスに関係なく表示されますが、クラス別表示を見るオプションもあります。
+D2bnetHelp48a	「拡張版ハードコア・ランキング」とは、獲得経験値の順にハードコア・キャラクターを表示するリスト、別名「ラダー」です。デフォルト設定ではクラスに関係なく表示されますが、クラス別表示を見るオプションもあります。
+x	すべて修理
+x	全装備を修理: %d
+x	装備中のアイテムに修理は不要
+Druid	ドルイド
+Assassin	アサシン
+partychardru	ドルイド
+partycharass	アサシン
+x	ゲームに参加できません。Diablo IIキャラクターは、Diablo II拡張版キャラクターの作成したゲームには入れません。
+x	ゲームに入れません。拡張版キャラクターは、Diablo IIキャラクターの作成したゲームには参加できません。
+charmonsterX	%s： %d%%
+charmontohit1X	%sの攻撃が自分に命中する確率：%d%%
+charmontohit2X	ブロック成功確率：%d%% \n%sの攻撃が自分に命中する確率：%d%%
+Party1X	%sは、汝に屍から物を取る許可を与えた。
+Party2X	%sは、汝に屍から物を取る許可を与えた。
+Party10	%sは、自分の屍から物を取る許可を取り消した。
+Party11	%sは、自分の屍から物を取る許可を取り消した。
+Party12	汝らは互いに敵対している。
+Party13	%sは汝に敵対しているが、汝は彼に友好的だ。
+Party14	%sは汝に敵対しているが、汝は彼女に友好的だ。
+Party 15	%sは汝に友好的だが、汝は彼と敵対している。
+Party16	%sは汝に友好的だが、汝は彼女と敵対している。
+Party17	汝らは互いに友好的だ。
+Party18	汝らは互いの屍から物を取ることができる。
+Party19	%sは汝の屍から物を取れるが、汝は彼の屍から取れない。
+Party20	%sは汝の屍から物を取れるが、汝は彼女の屍から取れない。
+Party21	%sは汝の屍から物を取れないが、汝は彼の屍から取れる。
+Party22	%sは汝の屍から物を取れないが、汝は彼女の屍から取れる。
+Party23	汝らは互いに、屍から物を取る許可を与えていない。
+Civerb's Ward	シバーブの防護
+Civerb's Icon	シバーブの聖像
+Civerb's Cudgel	シバーブのカジェル
+Hsarus' Iron Heel	フサルの鉄のかかと
+Hsarus' Iron Fist	フサルの鉄拳
+Hsarus' Iron Stay	フサルの鉄帯
+Cleglaw's Tooth	クレグローの歯
+Cleglaw's Claw	クレグローの鉤爪
+Cleglaw's Pincers	クレグローの鉄手袋
+Iratha's Cord	イラーサの紐
+Iratha's Coil	イラーサのコイル
+Iratha's Cuff	イラーサの袖小手
+Iratha's Collar	イラーサの襟
+Isenhart's Horns	アイゼンハートの角
+Isenhart's Case	アイゼンハートの胴丸
+Isenhart's Parry	アイゼンハートの防御
+Isenhart's Lightbrand	アイゼンハートのライトブランド
+Vidala's Snare	ビダラの誘惑
+Vidala's Ambush	ビダラの伏兵
+Vidala's Fetlock	ビダラの足枷
+Vidala's Barb	ビダラの鉤
+Milabrega's Robe	ミラブレガのローブ
+Milabrega's Diadem	ミラブレガの冠輪
+Milabrega's Rod	ミラブレガのロッド
+Milabrega's Orb	ミラブレガの宝玉
+Cathan's Seal	カサンの封印
+Cathan's Sigil	カサンの印璽
+Cathan's Visage	カサンの覆面
+Cathan's Mesh	カサンのメッシュ
+Cathan's Rule	カサンのルール
+Tancred's Crowbill	タンクレッドのクロウビル
+Tancred's Spine	タンクレッドの棘
+Tancred's Hobnails	タンクレッドのホブネイル
+Tancred's Weird	タンクレッドの宿命
+Tancred's Skull	タンクレッドの頭蓋骨
+Sigon's Visor	サイゴンのバイザー
+Sigon's Shelter	サイゴンのシェルター
+Sigon's Gage	サイゴンの籠手
+Sigon's Sabot	サイゴンの木靴
+Sigon's Wrap	サイゴンの巻き布
+Sigon's Guard	サイゴンのガード
+Infernal Cranium	冥界の頭骨
+Infernal Torch	冥界のたいまつ
+Infernal Sign	冥界の紋章
+Berserker's Headgear	狂戦士のヘッドギア
+Berserker's Hauberk	狂戦士のホーバーク
+Berserker's Hatchet	狂戦士のハチェット
+Death's Hand	死神の手
+Death's Guard	死神のガード
+Death's Touch	死神の接触
+Angelic Sickle	天使の手鎌
+Angelic Mantle	天使のマント
+Angelic Halo	天使の光輪
+Angelic Wings	天使の翼
+Arctic Horn	極地の角
+Arctic Furs	極地の毛皮
+Arctic Binding	極地の帯
+Arctic Mitts	極地の手袋
+Arcanna's Sign	アルカナのサイン
+Arcanna's Deathwand	アルカナの死のワンド
+Arcanna's Head	アルカナの頭
+Arcanna's Flesh	アルカナの肉
+skillxname0	 
+skillxsd0	 
+skillxld0	 
+skillxan0	 
+skillxname1	 
+skillxsd1	 
+skillxld1	 
+skillxan1	 
+skillxname2	 
+skillxsd2	 
+skillxld2	 
+skillxan2	 
+skillxname3	 
+skillxsd3	 
+skillxld3	 
+skillxan3	 
+skillxname4	 
+skillxsd4	 
+skillxld4	 
+skillxan4	 
+skillxname5	 
+skillxsd5	 
+skillxld5	 
+skillxan5	 
+skillxname6	 
+skillxsd6	 
+skillxld6	 
+skillxan6	 
+skillxname7	 
+skillxsd7	 
+skillxld7	 
+skillxan7	 
+skillxname8	 
+skillxsd8	 
+skillxld8	 
+skillxan8	 
+skillxname9	 
+skillxsd9	 
+skillxld9	 
+skillxan9	 
+skillxname10	 
+skillxsd10	 
+skillxld10	 
+skillxan10	 
+skillxname11	 
+skillxsd11	 
+skillxld11	 
+skillxan11	 
+skillxname12	 
+skillxsd12	 
+skillxld12	 
+skillxan12	 
+skillxname13	 
+skillxsd13	 
+skillxld13	 
+skillxan13	 
+skillxname14	 
+skillxsd14	 
+skillxld14	 
+skillxan14	 
+skillxname15	 
+skillxsd15	 
+skillxld15	 
+skillxan15	 
+skillxname16	 
+skillxsd16	 
+skillxld16	 
+skillxan16	 
+skillxname17	 
+skillxsd17	 
+skillxld17	 
+skillxan17	 
+skillxname18	 
+skillxsd18	 
+skillxld18	 
+skillxan18	 
+skillxname19	 
+skillxsd19	 
+skillxld19	 
+skillxan19	 
+skillxname20	 
+skillxsd20	 
+skillxld20	 
+skillxan20	 
+skillxname21	 
+skillxsd21	 
+skillxld21	 
+skillxan21	 
+skillxname22	 
+skillxsd22	 
+skillxld22	 
+skillxan22	 
+skillxname23	 
+skillxsd23	 
+skillxld23	 
+skillxan23	 
+skillxname24	 
+skillxsd24	 
+skillxld24	 
+skillxan24	 
+skillxname25	 
+skillxsd25	 
+skillxld25	 
+skillxan25	 
+skillxname26	 
+skillxsd26	 
+skillxld26	 
+skillxan26	 
+skillxname27	 
+skillxsd27	 
+skillxld27	 
+skillxan27	 
+skillxname28	 
+skillxsd28	 
+skillxld28	 
+skillxan28	 
+skillxname29	 
+skillxsd29	 
+skillxld29	 
+skillxan29	 
+skillxname30	 
+skillxsd30	 
+skillxld30	 
+skillxan30	 
+skillxname31	 
+skillxsd31	 
+skillxld31	 
+skillxan31	 
+skillxname32	 
+skillxsd32	 
+skillxld32	 
+skillxan32	 
+skillxname33	 
+skillxsd33	 
+skillxld33	 
+skillxan33	 
+skillxname34	 
+skillxsd34	 
+skillxld34	 
+skillxan34	 
+skillxname35	 
+skillxsd35	 
+skillxld35	 
+skillxan35	 
+skillxname36	 
+skillxsd36	 
+skillxld36	 
+skillxan36	 
+skillxname37	 
+skillxsd37	 
+skillxld37	 
+skillxan37	 
+skillxname38	 
+skillxsd38	 
+skillxld38	 
+skillxan38	 
+skillxname39	 
+skillxsd39	 
+skillxld39	 
+skillxan39	 
+skillxname40	 
+skillxsd40	 
+skillxld40	 
+skillxan40	 
+skillxname41	 
+skillxsd41	 
+skillxld41	 
+skillxan41	 
+skillxname42	 
+skillxsd42	 
+skillxld42	効果範囲内の敵全員の体力を奪う \n激しい放電を発生させ
+skillxan42	 
+skillxname43	 
+skillxsd43	 
+skillxld43	 
+skillxan43	 
+skillxname44	 
+skillxsd44	 
+skillxld44	 
+skillxan44	 
+skillxname45	 
+skillxsd45	 
+skillxld45	 
+skillxan45	 
+skillxname46	 
+skillxsd46	 
+skillxld46	 
+skillxan46	 
+skillxname47	 
+skillxsd47	 
+skillxld47	 
+skillxan47	 
+skillxname48	 
+skillxsd48	 
+skillxld48	 
+skillxan48	 
+skillxname49	 
+skillxsd49	 
+skillxld49	 
+skillxan49	 
+skillxname50	 
+skillxsd50	 
+skillxld50	 
+skillxan50	 
+skillxname51	 
+skillxsd51	 
+skillxld51	 
+skillxan51	 
+skillxname52	 
+skillxsd52	 
+skillxld52	 
+skillxan52	 
+skillxname53	 
+skillxsd53	 
+skillxld53	 
+skillxan53	 
+skillxname54	 
+skillxsd54	 
+skillxld54	 
+skillxan54	 
+skillxname55	 
+skillxsd55	 
+skillxld55	 
+skillxan55	 
+skillxname56	 
+skillxsd56	 
+skillxld56	 
+skillxan56	 
+skillxname57	 
+skillxsd57	 
+skillxld57	 
+skillxan57	 
+skillxname58	 
+skillxsd58	 
+skillxld58	 
+skillxan58	 
+skillxname59	 
+skillxsd59	 
+skillxld59	 
+skillxan59	 
+skillxname60	 
+skillxsd60	 
+skillxld60	 
+skillxan60	 
+skillxsname61	 
+skillxsd61	 
+skillxld61	 
+skillxan61	 
+skillxname62	 
+skillxsd62	 
+skillxld62	 
+skillxan62	 
+skillxname63	 
+skillxsd63	パッシヴ - 稲妻ダメージを増幅
+skillxld63	パッシヴ - 稲妻の呪文で与えるダメージを増幅
+skillxan63	 
+skillxname64	 
+skillxsd64	 
+skillxld64	 
+skillxan64	 
+skillxname65	 
+skillxsd65	 
+skillxld65	 
+skillxan65	 
+skillxname66	 
+skillxsd66	 
+skillxld66	 
+skillxan66	 
+skillxname67	 
+skillxsd67	 
+skillxld67	 
+skillxan67	 
+skillxname68	 
+skillxsd68	 
+skillxld68	 
+skillxan68	 
+skillxname69	 
+skillxsd69	 
+skillxld69	 
+skillxan69	 
+skillxname70	 
+skillxsd70	 
+skillxld70	 
+skillxan70	 
+skillxname71	 
+skillxsd71	 
+skillxld71	 
+skillxan71	 
+skillxname72	 
+skillxsd72	 
+skillxld72	 
+skillxan72	 
+skillxname73	 
+skillxsd73	 
+skillxld73	 
+skillxan73	 
+skillxname74	 
+skillxsd74	 
+skillxld74	 
+skillxan74	 
+skillxname75	 
+skillxsd75	 
+skillxld75	 
+skillxan75	 
+skillxname76	 
+skillxsd76	 
+skillxld76	 
+skillxan76	 
+skillxname77	 
+skillxsd77	 
+skillxld77	 
+skillxan77	 
+skillxname78	 
+skillxsd78	 
+skillxld78	 
+skillxan78	 
+skillxname79	 
+skillxsd79	 
+skillxld79	 
+skillxan79	 
+skillxname80	 
+skillxsd80	 
+skillxld80	 
+skillxan80	 
+skillxname81	 
+skillxsd81	 
+skillxld81	 
+skillxan81	 
+skillxname82	 
+skillxsd82	 
+skillxld82	 
+skillxan82	 
+skillxname83	 
+skillxsd83	 
+skillxld83	 
+skillxan83	 
+skillxname84	 
+skillxsd84	 
+skillxld84	 
+skillxan84	 
+skillxname85	 
+skillxsd85	 
+skillxld85	 
+skillxan85	 
+skillxname86	 
+skillxsd86	 
+skillxld86	この呪いは他の呪いで上書きできない \n周囲のモンスター全員が攻撃 \n標的のモンスター１体を
+skillxan86	 
+skillxname87	 
+skillxsd87	 
+skillxld87	 
+skillxan87	 
+skillxname88	 
+skillxsd88	 
+skillxld88	 
+skillxan88	 
+skillxname89	 
+skillxsd89	 
+skillxld89	 
+skillxan89	 
+skillxname90	 
+skillxsd90	 
+skillxld90	 
+skillxan90	 
+skillxname91	 
+skillxsd91	 
+skillxld91	 
+skillxan91	 
+skillxname92	 
+skillxsd92	 
+skillxld92	 
+skillxan92	 
+skillxname93	 
+skillxsd93	 
+skillxld93	 
+skillxan93	 
+skillxname94	 
+skillxsd94	 
+skillxld94	 
+skillxan94	 
+skillxname95	 
+skillxsd95	 
+skillxld95	 
+skillxan95	 
+skillxname96	 
+skillxsd96	 
+skillxld96	 
+skillxan96	 
+skillxname97	 
+skillxsd97	 
+skillxld97	 
+skillxan97	 
+skillxname98	 
+skillxsd98	 
+skillxld98	 
+skillxan98	 
+skillxname99	 
+skillxsd99	 
+skillxld99	 
+skillxan99	 
+skillxname100	 
+skillxsd100	 
+skillxld100	 
+skillxan100	 
+skillxname101	 
+skillxsd101	 
+skillxld101	 
+skillxan101	 
+skillxname102	 
+skillxsd102	 
+skillxld102	 自分の武器に火炎ダメージを追加 \nオーラ - 付近の敵に火炎ダメージを与え、
+skillxan102	 
+skillxname103	 
+skillxsd103	 
+skillxld103	 
+skillxan103	 
+skillxname104	 
+skillxsd104	 
+skillxld104	 
+skillxan104	 
+skillxname105	 
+skillxsd105	 
+skillxld105	 
+skillxan105	 
+skillxname106	 
+skillxsd106	 
+skillxld106	 
+skillxan106	 
+skillxname107	 
+skillxsd107	 
+skillxld107	 
+skillxan107	 
+skillxname108	 
+skillxsd108	 
+skillxld108	 
+skillxan108	 
+skillxname109	 
+skillxsd109	 
+skillxld109	 
+skillxan109	 
+skillxname110	 
+skillxsd110	 
+skillxld110	 
+skillxan110	 
+skillxname111	 
+skillxsd111	 
+skillxld111	 
+skillxan111	 
+skillxname112	 
+skillxsd112	 
+skillxld112	 
+skillxan112	 
+skillxname113	 
+skillxsd113	 
+skillxld113	 
+skillxan113	 
+skillxname114	 
+skillxsd114	 
+skillxld114	 自分の武器に冷気ダメージを追加 \nオーラ - 付近の敵に冷気ダメージを与え、
+skillxan114	 
+skillxname115	 
+skillxsd115	 
+skillxld115	 
+skillxan115	 
+skillxname116	 
+skillxsd116	 
+skillxld116	 
+skillxan116	 
+skillxname117	 
+skillxsd117	 
+skillxld117	 
+skillxan117	 
+skillxname118	 
+skillxsd118	 
+skillxld118	自分の武器に稲妻ダメージを追加 \nオーラ - 付近の敵に稲妻ダメージを与え、
+skillxan118	 
+skillxname119	 
+skillxsd119	 
+skillxld119	 
+skillxan119	 
+skillxname120	 
+skillxsd120	 
+skillxld120	 
+skillxan120	 
+skillxname121	 
+skillxsd121	 
+skillxld121	 
+skillxan121	 
+skillxname122	 
+skillxsd122	オーラ - 攻撃のスピードとダメージが上昇
+skillxld122	攻撃値が上昇する \nこのオーラを帯びると、味方の攻撃速度とダメージ、
+skillxan122	 
+skillxname123	 
+skillxsd123	オーラ - 敵を弱体化
+skillxld123	 
+skillxan123	 
+skillxname124	 
+skillxsd124	 
+skillxld124	徐々に回復する \n自分と味方のライフとマナが \n敵の死体に近づくと
+skillxan124	 
+skillxname125	 
+skillxsd125	 
+skillxld125	 
+skillxan125	 
+skillxname126	 
+skillxsd126	 
+skillxld126	 
+skillxan126	 
+skillxname127	 
+skillxsd127	 
+skillxld127	 
+skillxan127	 
+skillxname128	 
+skillxsd128	 
+skillxld128	 
+skillxan128	 
+skillxname129	 
+skillxsd129	 
+skillxld129	 
+skillxan129	 
+skillxname130	 
+skillxsd130	 
+skillxld130	 
+skillxan130	 
+skillxname131	 
+skillxsd131	 
+skillxld131	 
+skillxan131	 
+skillxname132	 
+skillxsd132	 
+skillxld132	 
+skillxan132	 
+skillxname133	 
+skillxsd133	 
+skillxld133	 
+skillxan133	 
+skillxname134	 
+skillxsd134	 
+skillxld134	 
+skillxan134	 
+skillxname135	 
+skillxsd135	 
+skillxld135	 
+skillxan135	 
+skillxname136	 
+skillxsd136	 
+skillxld136	 
+skillxan136	 
+skillxname137	 
+skillxsd137	 
+skillxld137	 
+skillxan137	 
+skillxname138	 
+skillxsd138	 
+skillxld138	 
+skillxan138	 
+skillxname139	 
+skillxsd139	 
+skillxld139	 
+skillxan139	 
+skillxname140	 
+skillxsd140	 
+skillxld140	 
+skillxan140	 
+skillxname141	 
+skillxsd141	 
+skillxld141	 
+skillxan141	 
+skillxname142	 
+skillxsd142	 
+skillxld142	 
+skillxan142	 
+skillxname143	 
+skillxsd143	 
+skillxld143	 
+skillxan143	 
+skillxname144	 
+skillxsd144	 
+skillxld144	 
+skillxan144	 
+skillxname145	 
+skillxsd145	 
+skillxld145	 
+skillxan145	 
+skillxname146	 
+skillxsd146	 
+skillxld146	 
+skillxan146	 
+skillxname147	 
+skillxsd147	 
+skillxld147	 
+skillxan147	 
+skillxname148	 
+skillxsd148	 
+skillxld148	 
+skillxan148	 
+skillxname149	 
+skillxsd149	 
+skillxld149	 
+skillxan149	 
+skillxname150	 
+skillxsd150	 
+skillxld150	 
+skillxan150	 
+skillxname151	 
+skillxsd151	 
+skillxld151	 
+skillxan151	 
+skillxname152	 
+skillxsd152	 
+skillxld152	 
+skillxan152	 
+skillxname153	 
+skillxsd153	 
+skillxld153	 
+skillxan153	 
+skillxname154	 
+skillxsd154	 
+skillxld154	 
+skillxan154	 
+skillxname155	 
+skillxsd155	 
+skillxld155	 
+skillxan155	 
+strHostileTimeout	そのプレイヤーに敵対を宣言するには、しばらく待たねばならない。
+ShrId0	効力のないほこら
+ShrId1	充填のほこら
+ShrId2	健康のほこら
+ShrId3	マナのほこら
+ShrId4	健康交換のほこら
+ShrId5	マナ交換のほこら
+ShrId6	アーマーのほこら
+ShrId7	戦闘のほこら
+ShrId8	火炎耐性のほこら
+ShrId9	冷気耐性のほこら
+ShrId10	稲妻耐性のほこら
+ShrId11	毒物耐性のほこら
+ShrId12	スキルのほこら
+ShrId13	マナ回復力のほこら
+ShrId14	スタミナのほこら
+ShrId15	経験のほこら
+ShrId16	イナースのほこら
+ShrId17	ポータルのほこら
+ShrId18	宝石のほこら
+ShrId19	火のほこら
+ShrId20	魔物のほこら
+ShrId21	爆発のほこら
+ShrId22	毒のほこら
+x	新規キャラクター作成
+CfgSkillPick	スキル・スピードバー
+x	パスワード確認
+MercX101	ウォーロード
+MercX102	カーン
+MercX103	ザーン
+MercX104	レックス・ロー
+MercX105	ゴールドアーク
+MercX106	ケルスター
+MercX107	ゴル
+MercX108	アイアン・マクフィスト
+MercX109	ヴェスト
+MercX110	ラリアス
+MercX111	スパーホーク
+MercX112	ウォースパイト
+MercX113	バック
+MercX114	リトルマン
+MercX115	ピート
+MercX116	ジョン
+MercX117	ヴァラーヤ
+MercX118	オンドゥ
+MercX119	バクー
+MercX120	ガッツ
+MercX121	ラミュル
+MercX122	デヴ
+MercX123	バラ
+MercX124	フォルクウォルド
+MercX125	フリシアン
+MercX126	フナエフ
+MercX127	ガスラフ
+MercX128	オスラフ
+MercX129	ユーメンラフ
+MercX130	ガームンド
+MercX131	フリーワル
+MercX132	イードジルス
+MercX133	オネラ
+MercX134	ダミエン
+MercX135	エルフォー
+MercX136	ウェオスタン
+MercX137	ウールフ
+MercX138	ブルワイア
+MercX139	リーフ
+MercX140	マグナス
+MercX141	クラトゥー
+MercX142	ドルス
+MercX143	ホク
+MercX144	コード
+MercX145	ウーサー
+MercX146	イップ
+MercX147	ウルッフ
+MercX148	サール
+MercX149	ケイリム
+MercX150	ウルリック
+MercX151	アラリック
+MercX152	エセルレッド
+MercX153	カーデン
+MercX154	エルジフ
+MercX155	トスティグ
+MercX156	アルクイン
+MercX157	イームンド
+MercX158	ジークルート
+MercX159	ゴルム
+MercX160	ホリス
+MercX161	ラグナー
+MercX162	トーケル
+MercX163	ウルフスタン
+MercX164	アルバン
+MercX165	バーロック
+MercX166	ビル
+MercX167	セオドリック
+!r16	\yellow;ゆ・ルーン
+!r16L	ゆ
+!r13	\red;つ・ルーン
+!r13L	つ
+!r31	\green;せ・ルーン
+!r31L	せ
+DarkStalker	ダークストーカー
+VileArcher	ヴァイル・アーチャー
+Runeword22	ホーリー
+Whichwild String	ホィッチワイルド・ストリング
+x	あなたが「Diablo II: Lord of Destruction」のインストールに使ったCDキーには、Battle.netへのアクセス権がありません。
+x	現在お使いの「Diablo II: Lord of Destruction」CDキーは、Battle.netへのアクセスを停止されています。詳しくはカプコンのテクニカルサポートにお電話ください。
+x	あなたと同じCDキーを、以下の人物が現在使用中です：
+x	あなたが「Diablo II: Lord of Destruction」のインストールに使ったCDキーは、別の製品のものです。正しいCDキーを使って再インストールしてください。
+Playersubtitles29	退却！
+AmaOnly	(アマゾンのみ)
+SorOnly	(ソーサレスのみ)
+NecOnly	(ネクロマンサーのみ)
+PalOnly	(パラディンのみ)
+BarOnly	(バーバリアンのみ)
+DruOnly	(ドルイドのみ)
+AssOnly	(アサシンのみ)
+Chatcaps	チャット
+Newscaps	ニュース
+Laddercaps	ラダー
+LaddeCharacter	ラダー専用キャラクター
+x	作成されるラダー専用キャラクターは、現在進 行中のラダー期間のみ、他のラダー専用キャラクターと対戦できます。現在のラ ダー期間が終了すると、本キャラクターは通常キャラクターになり次回ラダー期間 への持ち越しはできません。作成しますか？
+x	ゲームに参加できません。ラダー専用 キャラクターにより作成されたゲームへは、通常キャラクターでは参加できません。
+x	ゲームに参加できません。通常キャラクター により作成されたゲームへは、ラダー専用キャラクターでは参加できません。
+Sksyn	%sへのボーナス
+Damplev	ダメージ修正（１レベルにつき）
+ElemDampLev	エレメンタル・ダメージ修正（１レベルにつき）
+Firedplev	火炎ダメージ修正（１レベルにつき）
+Colddplev	冷気ダメージ修正（１レベルにつき）
+Ltngdplev	稲妻ダメージ修正（１レベルにつき）
+Poisdplev	毒物ダメージ修正（１レベルにつき）
+Magdplev	魔法ダメージ修正（１レベルにつき）
+Rangplev	射程修正（１レベルにつき）
+RateFireplev	速射性能修正（１レベルにつき）
+AttRateplev	攻撃値修正（１レベルにつき）
+AttSpeedplev	攻撃速度修正（１レベルにつき）
+Defplev	防御力修正（１レベルにつき）
+Manacoredplev	マナ消費修正（１レベルにつき）
+Missplev1	の射弾追加（１レベルにつき）
+Missplev2	+1の射弾追加（１レベルにつき）
+Missplev3	+1の射弾追加（%dレベルにつき）
+Boltplev1	個の球電追加（１レベルにつき）
+Boltplev2	+1個の球電追加（１レベルにつき）
+Boltplev3	+1個の球電追加（%dレベルにつき）
+Shotplev1	ショット（１レベルにつき）
+Shotplev2	+1ショット（１レベルにつき）
+Shotplev3	+1ショット（%dレベルにつき）
+Hpplev	ライフ修正（１レベルにつき）
+WRSpeedplev	移動速度修正（１レベルにつき）
+Durateplev	持続時間修正（１レベルにつき）
+CoLenplev	冷気持続時間修正（１レベルにつき）
+FrezLenplev	凍結持続時間修正（１レベルにつき）
+PoisLenplev	毒物持続時間修正（１レベルにつき）
+Convphy2magplev	物理ダメージの%d%%を魔法ダメージに変換（１レベルにつき）
+Convphy2elemplev	物理ダメージの%d%%をエレメンタル・ダメージに変換（１レベルにつき）
+Convphy2magalt	物理ダメージの%d%%をエレメンタル・ダメージに変換
+Convphy2elemalt	物理ダメージの%d%%を魔法ダメージに変換
+Secplev1	秒（１レベルにつき）
+Secplev2	秒（１レベルにつき）
+Damabsplev	ダメージ吸収（１レベルにつき）
+WeapDamsk	武器攻撃ダメージ
+Hbdplev	ホーリー・ボルトのダメージ修正（１レベルにつき）
+Healplev	ライフ回復（２秒あたり）（１レベルにつき）
+Healplev2	ライフ回復（２秒あたり）
+FanYDam	あなたのダメージ： 
+PartDam	パーティーのダメージ： 
+AFDImm	平均火炎ダメージ修正（１秒あたり）
+Cgslow	敵の速度低下： 
+Corexpdam	死体爆発ダメージ：
+ModitemAura	装備すると、レベル%dの%s オーラを獲得
+Moditem2allattrib	、全属性値(筋力、敏捷性など)修正
+Moditem2ExpG	、獲得経験値修正
+ModitemHPaK	ライフ獲得（敵１体を殺すごとに）
+ModitemRedVendP	商人の売価を全て下げる
+ModitemSMRIP	殺したモンスターを成仏させる
+ModitemAttratvsM	、以下に対する攻撃値修正：
+Moditemdamvsm	、以下に対するダメージ修正：
+Moditemslayat	殺害：
+Moditemreanimas	以下の状態で蘇生：
+Moditemenrescoldsk	、敵の冷気耐性修正
+Moditemenresfiresk	、敵の火炎耐性修正
+Moditemenresltngsk	、敵の稲妻耐性修正
+Moditemenrespoissk	、敵の毒物耐性修正
+ModitemdamFiresk	、火炎スキルダメージ修正
+ModitemdamColdsk	、冷気スキルダメージ修正
+ModitemdamLtngsk	、稲妻スキルダメージ修正
+ModitemdamPoissk	、毒物スキルダメージ修正
+Moditemskondeath	%d%%の確率で、あなたが死んだ際(に)Lv %d %s投射
+ModitemskonLevel	%d%%の確率で、あなたがレベルアップした際(に)Lv %d %s投射
+ModitemskonKill	%d%%の確率で、あなたが敵を殺した際(に)Lv %d %s投射
+Skillname224	ウィアウルフ
+Skillsd224	ウィアウルフ(人狼)に変身
+Skillld224	ウィアウルフ(人狼)に変身
+Skillan224	ウィアウルフ
+StrSkill43a	体のヴァンパイア
+StrSkill44a	体のヴァンパイア
+StrSklTabItem9	召喚呪文 +%d
+SOJSold	%d個の「ザ・ワン・リング」を商人に売却
+DiabloWalksEarth	ディアブロが地上を歩く
+neg	ヘルスポーン・スカル
+TrappDoor	トラップドア
+uhf	レジェンダリー・マレット
+skillld124P	your life and mana \nthe souls of slain enemies to give \nwhen active, aura attempts to redeem
+7wa	バーサーカー・アックス
+skillld42	効果範囲内の敵全員の体力を奪う \n激しい放電を発生させ
+xhg	ウォー・ガントレット
+Fiendra	フィーンドの
+Wraithra	レイスの
+Fiend	ガーゴイル
+Wraith	レイス
+D2bnetHelp10	 \blue;青い文字yc4は、チャットチャンネル内のプレイヤーの動作を表わします。
+ItemStats1r	ブロック成功率：
+x	サーバーが一杯です
+x	現在、「新規作成」は受け付けられません。他のゲームに「参加」されるか、しばらくお待ちになってから再度「新規作成」をお試しください。
+merca239	ジャルルフ
+StrSkill63Patch	持続時間：
+x	ゲームの「新規作成」は現在、順番待ちです。早くプレイしたければ「参加」をお選び下さい。
+X	順番待ち
+x	現在、ゲーム数が多すぎて「新規作成」はできません。他のゲームに「参加」されるか、順番待ちの列にお並びください。
+x	あなたの待ち順位：
+x	
+9bl	スティレット
+eats and spits corpses	屍を食べて吐く
+qstsa2q63f	タル・ラシャの墓所を探索せよ
+Shocking Hit	ショッキング・ヒット
+ModStr1w	のゴールドを追加入手
+ModStr1x	、マジックアイテム入手確率上昇
+ModStr3u	命中するとモンスターが逃走
+ModStr4c	のボーナス攻撃値
+ModStr5r	敵の速度低下
+ModStr6f	、目標を蘇生する可能性
+ModStr6d	命中すると敵は視力を失う
+x	ゲームに参加するには、ホストのIPアドレスを入力してください
+StrSkill61	複数ヒット
+D2bnetHelp13c	/reply
+D2bnethelp13d	アカウント名を打ち込まなくても、「ささやき（whisper）」してきた相手に返信できます。
+D2bnetHelp52	/whisper, /msg, /reply
+D2bnetHelp10a	\yellow; 黄色の文字yc4は、Battle.netから直接送られてきた特別なメッセージを示します。
+BnetnewGameTime	ゲーム時間：
+D2bnetHelp12c	特殊コマンドを使う際、相手のアカウント名だけでなく、キャラクター名を使うこともできるようになりました。同じレルムの相手ならキャラクター名のみ、別のレルムなら「キャラクター名@レルム名」と打ち込んでください。
+D2bnetHelp12d	別のゲーム（Starcraftなど）でBattle.netを利用している人にメッセージを送るには、*アカウント名を使わなければなりません。
+D2bnetHelp12b	以下のコマンド表で<アカウント名>となっている部分には、<キャラクター名>、<キャラクター名@レルム名>、<*アカウント名>のうち、いずれか便利なものをお使いください。
+x	ゲートウェイ： %s
+x	パスワード変更
+x	パスワード変更
+x	現在のパスワード
+x	新しいパスワード
+x	確認のため再入力
+x	ゲートウェイ選択
+x	現在のゲートウェイにご不満の場合は、他のBattle.netゲートウェイをお選びください。
+x	レルム変更
+x	現在のレルム
+x	「%s」という名前のキャラクターは、すでにこのレルムに存在しています。
+D2bnetHelp6a	\dgrey;グレーの文字yc4はまた、チャットチャンネル内のプレイヤーがとった動作も示します。
+D2bnetHelp10aPatch	\blue;青い文字yc4は、Battle.netから、またはBlizzardの代表者から送られてきた特別なメッセージを示します。
+x	送信
+x	パスワード警告
+x	Battle.net上でパスワードを他のプレイヤーに送ることはできません。Blizzardは如何なる理由があってもユーザーにパスワードを聞く事はありません。
+x	接続中・・・
+x	レルムがダウンしています。
+x	More...
+x	あなたはこのDiablo IIレルムに、８人を超えるキャラクターを保管しています。表示できるのは最大８人までなので、現在は隠れているキャラクターがあります。
+x	隠れたキャラクターを表示させるには、すでにあるキャラクターを削除しなくてはなりません。一度削除されたキャラクターを復旧することはできません。詳細はwww.blizzard.com/support/diablo2をご覧ください。
+x	使用者同意書
+x	Battle.netにログオンした場合、お客様は最新の使用者同意書を読んで理解し、同意したものと見なされます。
+x	%0 %1
+GemXp1	兜、ブーツ:
+GemXp2	盾、鎧、ベルト:
+GemXp3	武器、グローブ:
+GemXp4	指輪、護符、チャーム:
+x	拡張版キャラクター
+x	Missing string
+EskillLowersResistX	耐性低下
+ExInsertSocketsX	ソケットアイテムに挿入可能
+EskillToMeleeX	(近接攻撃のみ)
+eskillincasemasteryX	クリティカル確率：%d％
+CfgSay7X	「退却！」と言う
+champghostlyX	ゴーストリー・
+champfanaticX	ファナティック・
+champpossessedX	ポゼスト・
+champberserkX	バーサーカー・
+PalMercExST1X	防御の
+PalMercEXST3X	攻撃の
+PalMercEXST4X	戦闘の
+increaseswithplaylevelX	(キャラクターレベルに比例)
+RankX	Rank
+x	有効な電子メールアドレスを入力してください。
+x	電子メールアドレスを入力すると、パスワードを忘れたときにアカウントを回復する機能など、追加機能を使用できるようになります。詳細は、www.battle.net/email-address を参照してください。
+x	電子メールアドレス:
+x	電子メールアドレスの確認:
+x	登録
+x	登録しない
+x	必ず同じ電子メールアドレスを入力してください。
+x	無効な電子メールアドレス
+x	入力した電子メールアドレスは有効なアドレスではありません。有効な電子メールアドレスを入力してください。
+x	電子メールアドレスを登録しない場合、パスワードを忘れると、アカウントを回復できなくなります。ここで登録しない場合、後からこのアカウントで電子メールアドレスを登録することはできません。 
+x	このアカウントで電子メールアドレスを登録している場合は、パスワードを忘れた場合でも、「送信」をクリックすることで新しいパスワードを要求することができます。
+x	新しいパスワードが要求されたことを確認しました。このアカウントで電子メールアドレスを登録している場合は、パスワードの変更方法に関する電子メールが届きます。
+x	続行
+x	パスワードを忘れた場合は、[アカウント設定] をクリックしてください。
+x	入力したパスワードは間違っています。[アカウント設定] をクリックして、新しいパスワードを取得することができます。
+x	アカウント設定
+x	アカウント設定
+x	パスワードを覚えていて、それを変更したい場合は、ここをクリックしてください。
+x	パスワードを忘れたか、パスワードが機能しない場合は、ここをクリックしてください。
+x	登録した電子メールアドレスを変更する必要がある場合は、ここをクリックしてください。
+x	新しいパスワードの取得
+x	新しいパスワードの取得
+x	電子メールの変更
+x	電子メールの変更
+x	今までの電子メールアドレス:
+x	新しい電子メールアドレス:
+x	新しい電子メールアドレスの確認:
+x	このアカウントで電子メールアドレスを登録している場合は、それをここで変更できます。この変更を行うには、両方の電子メールアドレスが使用可能な状態でなければなりません。
+x	今までの電子メールアドレスと新しい電子メールアドレスが同じです。異なる電子メールアドレスを入力してください。
+x	両方の新しい電子メールアドレスは必ず同じでなければなりません。
+x	Battle.net ニュースアップデート
+x	前回完了した難易度設定:
+x	なし
+x	チャットに入る
+x	パスワードをメモしておいて下さい。
+x	安全でないパスワード
+x	選択したパスワードは安全ではありません。別のパスワードを指定してください。
+x	CD キーの警告
+x	Battle.net 上の他のユーザーに CD キーを送信することはできません。Blizzard がユーザーの CD キーを尋ねることは一切ありません。
+x	今日有効期限が切れます
+x	%d 日後に有効期限が切れます
+x	キャラクターの有効期限切れ
+x	
+x	
+x	
+x	
+x	
+x	
+x	
+x	
+yap	フード
+ykp	フィドーラ
+ylm	ガーディアン・ヘルム
+yhl	グラディエイター・ヘルム
+yhm	タスク・ヘルム
+yrn	ロイヤル・クラウン
+ysk	デビル・マスク
+yui	パッディド・アーマー
+yea	ヴァイパー・スキン
+yla	デーモン・カラペイス
+ytu	ジェムストーンド・アーマー
+yng	ヘヴィー・メイル
+ycl	ドラゴン・スケイル
+yhn	チェイン・シャツ
+yrs	チェスト・ガード
+ypl	デーモン・フリース
+ylt	プレーティド・クゥイラス
+yld	コンバット・プレート
+yth	ロイヤル・アーマー
+yul	セレモニアル・アーマー
+yar	アーケイック・アーマー
+ytp	アークメイジ・プレート
+yuc	ペトリファイド・バックラー
+yml	デザート・シールド
+yrg	ジャイアント・バックラー
+yit	ミリタリー・シールド
+yow	ロイヤル・ガード
+yts	ボディ・シールド
+ylg	スペルキャスター・グローブ
+yvg	ヴァイパー・ハンズ
+ymg	セパルカー・グローブ
+ytg	グラディエーター・ブレイサー
+yhg	タイタン・ブレイサー
+ylb	ローグ・ブーツ
+yvb	ヴァイパー・ブーツ
+ymb	セパルカー・ブーツ
+ytb	プレーテッド・ブーツ
+yhb	グラディエーター・ブーツ
+alb	ヘンプ・バンド
+avb	ローグ・ベルト
+bmb	マーチャント・ベルト
+atb	ミリタリー・ベルト
+ahb	ガードル
+yh9	デーモン・スカル
+ysh	デーモン・シールド
+ypk	ソーンド・シールド
+cix	鉢金
+dwc	ドワーフの冠
+xdw	ドワーフのヘルム
+ydw	ドワーフのバトル・ヘルム
+elv	エルフのチェイン
+xlv	ドロウ・アダマンタイト・チェイン
+ylv	シルヴァン・チェイン
+fts	フォートレス・シールド
+xft	リフレクション・シールド
+yft	セレモニアル・シールド
+irg	アイアン・ガード
+xig	インペリアル・ガード
+yig	ロイヤル・ガード
+dbt	ディメンショナル・ブーツ
+xbt	ミスティル・ブーツ
+ybt	スピリット・ブーツ
+msb	マッスル・ベルト
+xms	タイタン・ブレイス
+yms	グラディエーター・ラップ
+shl	スパイクト・ショルダー
+xhh	ソーンド・アーマー
+yhh	スパイクト・アーマー
+clk	クローク
+xlk	召喚師のクローク
+ylk	蠱惑のクローク
+rob	ローブ
+xrb	魔法使いのローブ
+yrb	アークメイジのローブ
+eht	魂の冠
+xht	天界の冠
+yht	蠱惑の冠
+merc01	シーナ
+merc02	サシャ
+merc03	シルヴァードーン
+merc04	ティングル
+merc05	シスタ
+merc06	杏奈
+merc07	リンゼイ
+merc08	ジル
+merc09	まどか
+merc10	フェイ
+merc11	クンドゥリ
+merc12	カイル
+merc13	ビサーラ
+merc14	エレクサ
+merc15	フローリア
+merc16	フィオナ
+merc17	グゥインニ
+merc18	ガイル
+merc19	ハンナ
+merc20	ヘザー
+merc21	イアンサ
+merc22	ダイアン
+merc23	イソルデ
+merc24	ディボ
+merc25	イセラ
+merc26	イトニア
+merc27	リエネ
+merc28	麻衣子
+merc29	まほろ
+merc30	リアザ
+merc31	メガン
+merc32	オレナ
+merc33	オリアナ
+merc34	リヤン
+merc35	ロゼーヌ
+merc36	ライサ
+merc37	シャリン
+merc38	シカ
+merc39	デビ
+merc40	ティレナ
+merc41	ウェンディ
+merca201	ハザデ
+merca202	ファーゴ
+merca203	マドナーク
+merca204	ルート
+merca205	ファスマン
+merca206	ズールムクライスト
+merca207	ウェッソン
+merca208	ジャーダ
+merca209	フォーゼンハート
+merca210	トリップ
+merca211	ジェマリ
+merca212	カシム
+merca213	グルザール
+merca214	ミザン
+merca215	レハラス
+merca216	ダーガ
+merca217	ニーラジ
+merca218	イルザン
+merca219	ザナリー
+merca220	ワヒード
+merca221	ヴィキャト
+merca222	アコライト
+merca223	レッド・デス
+merca224	ワンダラー
+merca225	ドノヴァン
+merca226	ゴヴ
+merca227	ラナ・ロレアス
+merca228	メファンステラス
+merca229	アイオワン
+merca230	ロサー
+merca231	セル
+merca232	ドラコス
+merca233	シャイシス
+merca234	ケセフ
+merca235	ダークメイジ
+merca236	アバター
+merca237	ゴースト
+merca238	デヴィアン
+merca239	ジャルーフ
+merca240	フラックス
+merca241	スコーチ
+Pit Level 1	ブラッドレイブンの地下工房 レベル1
+To The Pit Level 1	ブラッドレイブンの地下工房 レベル1へ
+Pit Level 2	ブラッドレイブンの地下工房 レベル2
+To The Pit Level 2	ブラッドレイブンの地下工房 レベル2へ
+Far Oasis	はるかなるオアシス
+To The Far Oasis	はるかなるオアシスへ
+Lost City	失われた牧場
+To The Lost City	失われた牧場へ
+Sewers Level 1	寺院の通路 レベル1
+To The Sewers Level 1	寺院の通路 レベル1へ
+Sewers Level 2	下水溝 レベル1
+To The Sewers Level 2	下水溝 レベル1へ
+Sewers Level 3	下水溝 レベル2
+To The Sewers Level 3	下水溝 レベル2へ
+Harem Level 2	地下大迷宮
+To The Harem Level 2	地下大迷宮へ
+Stony Tomb Level 1	闇の魔術師の石室 レベル1
+To The Stony Tomb Level 1	闇の魔術師の石室 レベル1へ
+Stony Tomb Level 2	闇の魔術師の石室 レベル2
+To The Stony Tomb Level 2	闇の魔術師の石室 レベル2へ
+Halls of the Dead Level 2	寺院の通路 レベル2
+To The Halls of the Dead Level 2	寺院の通路 レベル2へ
+Halls of the Dead Level 3	亡者の回廊 レベル2
+To The Halls of the Dead Level 3	亡者の回廊 レベル2へ
+Claw Viper Temple Level 2	忌まわしき祭壇
+To The Claw Viper Temple Level 2	忌まわしき祭壇へ
+Maggot Lair Level 1	蛆虫のトンネル
+To The Maggot Lair Level 1	蛆虫のトンネルへ
+Maggot Lair Level 2	蛆虫の抜け道
+To The Maggot Lair Level 2	蛆虫の抜け道へ
+Maggot Lair Level 3	蛆虫の巣窟
+To The Maggot Lair Level 3	蛆虫の巣窟へ
+Ancient Tunnels	アンダリエルの仕度部屋
+To The Ancient Tunnels	アンダリエルの仕度部屋へ
+Great Marsh	苦痛の沼
+To The Marsh of Pain	苦痛の沼へ
+Spider Cave	ハーピーの棲処 レベル2
+To The Spider Cave	ハーピーの棲処 レベル2へ
+Swampy Pit Level 1	サリーナ書店 地下1階
+To The Swampy Pit Level 1	サリーナ書店 地下1階へ
+Swampy Pit Level 2	ハーピーの棲処 レベル1
+To The Swampy Pit Level 2	ハーピーの棲処 レベル2へ
+Swampy Pit Level 3	泥沼の穴
+To The Swampy Pit Level 3	泥沼の穴へ
+Flayer Dungeon Level 1	フレイヤーのトンネル
+To The Flayer Dungeon Level 1	フレイヤーのトンネルへ
+Flayer Dungeon Level 2	フレイヤーのダンジョン レベル1
+To The Flayer Dungeon Level 2	フレイヤーのダンジョン レベル1へ
+Flayer Dungeon Level 3	フレイヤーのダンジョン レベル2
+To The Flayer Dungeon Level 3	フレイヤーのダンジョン レベル2へ
+A3 Sewers Level 1	下水溝 レベル1
+To The A3 Sewers Level 1	下水溝 レベル1へ
+A3 Sewers Level 2	下水溝 レベル2
+To The A3 Sewers Level 2	下水溝 レベル2へ
+Ruined Temple	サリーナ書店 地下2階
+To The Ruined Temple	サリーナ書店 地下2階へ
+Ruined Fane	神殿の廃墟
+To The Ruined Fane	神殿の廃墟へ
+Crystalized Cavern Level 1	奈落 レベル2
+To The Crystalized Cavern Level 1	奈落 レベル2へ
+Crystalized Cavern Level 2	奈落 レベル3
+To The Crystalized Cavern Level 2	奈落 レベル3へ
+Echo Chamber	G・フレイザー・ドーム
+To The Echo Chamber	G・フレイザー・ドームへ
+Glacial Caves Level 2	ビル・ローパー記念球場
+To The Glacier Caves Level 2	ビル・ローパー記念球場へ
+Nihlathaks Temple	次元門
+To Nihlathaks Temple	次元門へ
+Halls of Anguish	行き止まり
+To The Halls of Anguish	行き止まりへ
+Halls of Death's Calling	奈落 レベル1
+To The Halls of Death's Calling	奈落 レベル1へ
+Halls of Vaught	ニーラサックの事務所
+To The Halls of Vaught	ニーラサックの事務所へ
+Hell1	密造酒工場
+To Hell1	密造酒工場へ
+Hell2	ニセ札工場
+To Hell2	ニセ札工場へ
+Hell3	けし畑
+To Hell3	けし畑へ
+The Worldstone Keep Level 1	ワールドストーンの城塞　レベル1
+To The Worldstone Keep Level 1	ワールドストーンの城塞　レベル1
+The Worldstone Keep Level 2	この世に存在しない場所
+To The Worldstone Keep Level 2	この世に存在しない場所へ
+The Worldstone Keep Level 3	ワールドストーンの城塞 レベル2
+To The Worldstone Keep Level 3	ワールドストーンの城塞 レベル2へ
+ArchMage's	アークメイジの
+Assailant's	襲撃者の
+Awesome	畏怖すべき
+Blinding	目潰しの
+Bloodlust	血に飢えた
+Champion's	王者の
+Clever	知恵者の
+Crystal	水晶の
+Elusive	玉虫色の
+Evasive	逃げ水の
+Exacting	厳格な
+Heartless	無情な
+Heavy	重い
+Horrific	血も凍る
+Knowledgeable	博識の
+Looter's	盗掘者の
+Necromancer's	ネクロマンサーの
+Precise	正確無比の
+Ruthless	無慈悲な
+Striker's	撃ち手の
+Titan's	タイタンの
+White	白い
+of Alleviation	(緩和)
+of Arcing	(放電)
+of Aurora	(オーロラ)
+of Avoidance	(忌避)
+of Ducking	(避難)
+of Elusion	(退避)
+of Evasion	(回避)
+of Fade	(フェイド)
+of Fire Shield	(ファイア・シールド)
+of Freezing	(凍結)
+of Grand Mastery	(グランドマスタリー)
+of Immolation	(イモレイション)
+of Mastery	(マスタリー)
+of Mauling	of Mauling
+of Meteor Shower	(メテオ・シャワー)
+of Molasses	(糖蜜)
+of Plenty	(潤沢)
+of Riches	(富豪)
+of Shielding	(防盾)
+of Skill Master	(スキルマスター)
+of Targeting	(照準)
+of Toxin	(有毒)
+of Wildfire	(野火)
+of Wounding	(致傷)
+of the Angel	(天使)
+of the Arctic	(極地)
+of the Collector	(収集家)
+of the Heavens	(天)
+of the Iceburg	(氷河)
+of the Lurker	(伏兵)
+of the Psyche	(プシケー)
+of the Rainbow	(虹)
+of the Rogue	(ローグ)
+of the Saint	(聖人)
+of the Tank	(戦車)
+of the Valiant	(果敢)
+of the Werebear	(ウィアベア)
+of the Wererat	(ウィアラット)
+of the Weretiger	(ウィアタイガー)
+of the Werewolf	(ウィアウルフ)
+of the Wicked	(邪悪)
+map	\gold;メイプルリーフ金貨
+sss	\dgrey;蜘蛛のシルク
+ggg	\blue;宝石粉
+eee	\red;ブラックムーア
+hly	\white;聖印
+hh2	\tan;鍛造ハンマー
+ttt	\dgrey;ティラニウム鉱
+ppp	\purple;ドラゴン・ストーン
+ddd	\gold;古代の解読片
+sdo	\orange;穴あけドーナツ
+rnd	ランダム・ストーン
+an0	\gold;ユニーク・ストーン (ノーマル)
+an1	\gold;ユニーク・ストーン (上位)
+an2	\gold;ユニーク・ストーン (エリート)
+an3	\green;オーラ・ストーン (緑)
+an4	\red;オーラ・ストーン (赤)
+an5	\purple;オーラ・ストーン (紫)
+an6	\yellow;オーラ・ストーン (黄)
+an7	\dgrey;オーラ・ストーン (黒)
+an8	\white;オーラ・ストーン (白)
+an9	\blue;オーラ・ストーン (青)
+yyy	\yellow;クックブック
+zzz	\red;ステーキ
+hrt	\red;心臓
+brz	\red;脳
+jaw	\tan;顎骨
+eyz	\yellow;眼
+hrn	\dgreen;角
+tal	\orange;尾
+flg	\red;旗
+fng	\dgrey;牙
+qll	\dgrey;棘
+sol	\blue;魂
+scz	\dgreen;頭皮
+spe	\purple;鱗
+00g	グリスワルドの手
+00t	樹の拳のツリーヘッドの腕
+00r	ラダメントの頭
+00h	へファストの手
+fkn	偽札
+po1	ヒーローの薬
+po2	スーパー・ヒーローの薬
+po3	マウンテン・デュー
+po4	涅槃の草
+fkndesc	換金アイテム
+vpsdesc	(90秒間持続) \nスタミナ回復 5000%
+ypsdesc	(45秒間持続) \n最大毒物耐性 +10% \n毒物耐性 +50%
+wmsdesc	(45秒間持続) \n凍結されない \n最大冷気耐性 +10% \n冷気耐性 +50%
+po2desc	(45秒間持続) \n最大ライフ 上昇 100% \n+200% 強化ダメージ \n全スキルレベル +2
+po1desc	(45秒間持続) \n最大ライフ 上昇 50% \n+100% 強化ダメージ \n全スキルレベル +1
+po3desc	(90秒間持続) \n100% より速い呪文詠唱 \n100% 攻撃スピード強化 \n100% より速い移動
+po4desc	(45秒間持続) \n20% 獲得経験値修正
+zrn	アマゾンの鐶
+srn	ソーサラーの輪
+nrn	ネクロマンサーの石
+prn	パラディンの後光
+brg	バーバリアンの拳
+drn	ドルイドの紋章
+arn	アサシンの螺旋
+zam	アマゾンのピン
+sam	ソーサラーのタリズマン
+nam	死神のロケット
+pam	聖なるペンダント
+bam	原始のチャーム
+dam	ドルイドのネックレス
+aam	アサシンのチョーカー
+cm4	オッド・チャーム
+cm5	スクウェア・チャーム
+gcv	\purple;欠けたアメジスト
+gfv	\purple;傷のあるアメジスト
+gsv	\purple;アメジスト
+gzv	\purple;無傷のアメジスト
+gpv	\purple;汚れたアメジスト
+gcy	\yellow;欠けたトパーズ
+gfy	\yellow;傷のあるトパーズ
+gsy	\yellow;トパーズ
+gly	\yellow;無傷のトパーズ
+gpy	\yellow;汚れたトパーズ
+gcb	\blue;欠けたサファイア
+gfb	\blue;傷のあるサファイア
+gsb	\blue;サファイア
+glb	\blue;無傷のサファイア
+gpb	\blue;汚れたサファイア
+gcg	\green;欠けたエメラルド
+gfg	\green;傷のあるエメラルド
+gsg	\green;エメラルド
+glg	\green;無傷のエメラルド
+gpg	\green;汚れたエメラルド
+gcr	\red;欠けたルビー
+gfr	\red;傷のあるルビー
+gsr	\red;ルビー
+glr	\red;無傷のルビー
+gpr	\red;汚れたルビー
+gcw	\white;欠けたダイアモンド
+gfw	\white;傷のあるダイアモンド
+gsw	\white;ダイアモンド
+glw	\white;無傷のダイアモンド
+gpw	\white;汚れたダイアモンド
+skc	\grey;欠けた頭蓋骨
+skf	\grey;傷のある頭蓋骨
+sku	\grey;頭蓋骨
+skl	\grey;無傷の頭蓋骨
+skz	\grey;汚れた頭蓋骨
+gvb	\purple;完璧なアメジスト
+gyb	\yellow;完璧なトパーズ
+gbb	\blue;完璧なサファイア
+ggb	\green;完璧なエメラルド
+grb	\red;完璧なルビー
+gwb	\white;完璧なダイアモンド
+skb	\grey;完璧な頭蓋骨
+gck	\dgrey;欠けた黒曜石
+gfk	\dgrey;傷のある黒曜石
+gsk	\dgrey;黒曜石
+gzk	\dgrey;無傷の黒曜石
+gpk	\dgrey;汚れた黒曜石
+gbk	\dgrey;完璧な黒曜石
+r01	\white;い・ルーン
+r02	\white;う・ルーン
+r03	\white;し・ルーン
+r04	\white;か・ルーン
+r05	\white;ん・ルーン
+r06	\white;く・ルーン
+r07	\white;よ・ルーン
+r08	\red;き・ルーン
+r09	\red;り・ルーン
+r10	\red;み・ルーン
+r11	\red;や・ルーン
+r12	\red;あ・ルーン
+r13	\red;つ・ルーン
+r14	\red;ち・ルーン
+r15	\yellow;さ・ルーン
+r16	\yellow;ゆ・ルーン
+r17	\yellow;け・ルーン
+r18	\yellow;え・ルーン
+r19	\yellow;こ・ルーン
+r20	\yellow;ら・ルーン
+r21	\yellow;お・ルーン
+r22	\orange;ほ・ルーン
+r23	\orange;め・ルーン
+r24	\orange;る・ルーン
+r25	\orange;た・ルーン
+r26	\orange;と・ルーン
+r27	\orange;わ・ルーン
+r28	\orange;は・ルーン
+r29	\green;な・ルーン
+r30	\green;に・ルーン
+r31	\green;せ・ルーン
+r32	\green;ふ・ルーン
+r33	\green;ま・ルーン
+r34	\green;ひ・ルーン
+r35	\green;も・ルーン
+r36	\gold;の・ルーン
+r37	\gold;て・ルーン
+r38	\gold;ろ・ルーン
+r39	\gold;そ・ルーン
+r40	\gold;む・ルーン
+r41	\gold;ね・ルーン
+r42	\gold;れ・ルーン
+r43	\purple;す・ルーン
+r44	\purple;へ・ルーン
+r45	\purple;ぬ・ルーン
+r46	\purple;を・ルーン
+r47	か・ルーン
+r01L	い
+r02L	う
+r03L	し
+r04L	か
+r05L	ん
+r06L	く
+r07L	よ
+r08L	き
+r09L	り
+r10L	み
+r11L	や
+r12L	あ
+r13L	つ
+r14L	ち
+r15L	さ
+r16L	ゆ
+r17L	け
+r18L	え
+r19L	こ
+r20L	ら
+r21L	お
+r22L	ほ
+r23L	め
+r24L	る
+r25L	た
+r26L	と
+r27L	わ
+r28L	は
+r29L	な
+r30L	に
+r31L	せ
+r32L	ふ
+r33L	ま
+r34L	ひ
+r35L	も
+r36L	の
+r37L	て
+r38L	ろ
+r39L	そ
+r40L	む
+r41L	ね
+r42L	れ
+r43L	す
+r44L	へ
+r45L	ぬ
+r46L	を
+r47L	か
+r51	エル・ルーン
+r52	エルド・ルーン
+r53	ティル・ルーン
+r54	ネフ・ルーン
+r55	エス・ルーン
+r56	イス・ルーン
+r57	タル・ルーン
+r58	ラル・ルーン
+r59	オート・ルーン
+r60	スル・ルーン
+r61	アムン・ルーン
+r62	ソル・ルーン
+r63	シャエル・ルーン
+r64	ドル・ルーン
+r65	ヘル・ルーン
+r66	イオ・ルーン
+r67	ルム・ルーン
+r68	コー・ルーン
+r69	ファル・ルーン
+r70	レム・ルーン
+r71	プル・ルーン
+r72	ウム・ルーン
+r73	マル・ルーン
+r74	イスト・ルーン
+r75	グル・ルーン
+r76	ヴェックス・ルーン
+r77	オーム・ルーン
+r78	ロー・ルーン
+r79	サー・ルーン
+r80	バー・ルーン
+r81	ジャ・ルーン
+r82	チャム・ルーン
+r83	ゾッド・ルーン
+r51L	エル
+r52L	エルド
+r53L	ティル
+r54L	ネフ・ルーン
+r55L	エス・ルーン
+r56L	イス
+r57L	タル
+r58L	ラル
+r59L	オート
+r60L	スル
+r61L	アムン
+r62L	ソル
+r63L	シャエル
+r64L	ドル
+r65L	ヘル
+r66L	イオ
+r67L	ルム
+r68L	コー
+r69L	ファル
+r70L	レム
+r71L	プル
+r72L	ウム
+r73L	マル
+r74L	イスト
+r75L	グル
+r76L	ヴェックス
+r77L	オーム
+r78L	ロー
+r79L	サー
+r80L	バー
+r81L	ジャ
+r82L	チャム
+r83L	ゾッド
+01l	(い -> エル) \n\gold;古代のデカール
+02l	(う -> エルド) \n\gold;古代のデカール
+03l	(し -> ティル) \n\gold;古代のデカール
+04l	(か -> ネフ) \n\gold;古代のデカール
+05l	(ん -> エス) \n\gold;古代のデカール
+06l	(く -> イス) \n\gold;古代のデカール
+07l	(よ -> タルl) \n\gold;古代のデカール
+08l	(き -> ラル) \n\gold;古代のデカール
+09l	(り -> オート) \n\gold;古代のデカール
+10l	(み -> スル) \n\gold;古代のデカール
+11l	(や -> アムン) \n\gold;古代のデカール
+12l	(あ -> ソル) \n\gold;古代のデカール
+13l	(つ -> シャエル) \n\gold;古代のデカール
+14l	(ち -> ドル) \n\gold;古代のデカール
+15l	(さ -> ヘル) \n\gold;古代のデカール
+16l	(ゆ -> イオ) \n\gold;古代のデカール
+17l	(ケ -> ルム) \n\gold;古代のデカール
+18l	(え -> コー) \n\gold;古代のデカール
+19l	(こ -> ファル) \n\gold;古代のデカール
+20l	(ら -> レム) \n\gold;古代のデカール
+21l	(ほ -> プル) \n\gold;古代のデカール
+22l	(る -> ウム) \n\gold;古代のデカール
+23l	(と -> マル) \n\gold;古代のデカール
+24l	(は -> イスト) \n\gold;古代のデカール
+25l	(に -> グル) \n\gold;古代のデカール
+26l	(ふ -> ヴェックス) \n\gold;古代のデカール
+27l	(ひ -> オーム) \n\gold;古代のデカール
+28l	(の -> ロー) \n\gold;古代のデカール
+29l	(ろ -> サー) \n\gold;古代のデカール
+30l	(む -> バー) \n\gold;古代のデカール
+31l	(れ -> ジャ) \n\gold;古代のデカール
+32l	(へ -> チャム) \n\gold;古代のデカール
+33l	(を -> ゾッド) \n\gold;古代のデカール
+00a	\gold;古代の巻物
+01a	\gold;古代の巻物 1
+02a	\gold;古代の巻物 2
+03a	\gold;古代の巻物 3
+04a	\gold;古代の巻物 4
+05a	\gold;古代の巻物 5
+06a	\gold;古代の巻物 6
+07a	\gold;古代の巻物 7
+08a	\gold;古代の巻物 8
+09a	\gold;古代の巻物 9
+10a	\gold;古代の巻物 10
+11a	\gold;古代の巻物 11
+12a	\gold;古代の巻物 12
+13a	\gold;古代の巻物 13
+14a	\gold;古代の巻物 14
+15a	\gold;古代の巻物 15
+16a	\gold;古代の巻物 16
+17a	\gold;古代の巻物 17
+18a	\gold;古代の巻物 18
+19a	\gold;古代の巻物 19
+20a	\gold;古代の巻物 20
+21a	\gold;古代の巻物 21
+22a	\gold;古代の巻物 22
+23a	\gold;古代の巻物 23
+24a	\gold;古代の巻物 24
+25a	\gold;古代の巻物 25
+26a	\gold;古代の巻物 26
+27a	\gold;古代の巻物 27
+28a	\gold;古代の巻物 28
+29a	\gold;古代の巻物 29
+30a	\gold;古代の巻物 30
+31a	\gold;古代の巻物 31
+32a	\gold;古代の巻物 32
+33a	\gold;古代の巻物 33
+34a	\gold;古代の巻物 34
+35a	\gold;古代の巻物 35
+36a	\gold;古代の巻物 36
+37a	\gold;古代の巻物 37
+38a	\gold;古代の巻物 38
+39a	\gold;古代の巻物 39
+40a	\gold;古代の巻物 40
+41a	\gold;古代の巻物 41
+42a	\gold;古代の巻物 42
+43a	\gold;古代の巻物 43
+44a	\gold;古代の巻物 44
+45a	\gold;古代の巻物 45
+46a	\gold;古代の巻物 46
+47a	\gold;古代の巻物 47
+48a	\gold;古代の巻物 48
+49a	\gold;古代の巻物 49
+50a	\gold;古代の巻物 50
+01b	エリクサー \n-> \n(この巻物) \nステーキ \nクックブック
+02b	または対応した宝石 \n完璧なルビー \n-> \n(この巻物) \nまたはその変化した物 \nドラゴン・ストーン 2
+03b	え・ルーン (r18) \n-> \n(この巻物) \n鍛造ハンマー \nブラックムーア \nティラニウム鉱
+04b	ユニーク武器/防具 \n-> \n(この巻物) \n鍛造ハンマー \nドラゴン・ストーン \n完璧な宝石 2 \nクラフト武器/防具 (ノーマル)
+05b	セット武器/防具 \n-> \n(この巻物) \n2 鍛造ハンマー \n2 ドラゴン・ストーン \n完璧な宝石 \nクラフト武器/防具 (ノーマル)
+06b	ユニーク指輪/護符 \n-> \n(この巻物) \n鍛造ハンマー \nドラゴン・ストーン \n完璧な宝石 \nクラフト指輪/護符
+07b	セット指輪/護符 \n-> \n(この巻物) \n鍛造ハンマー \nドラゴン・ストーン \n完璧な宝石 \nクラフト指輪/護符
+08b	(フォージング扱い) \n5% 獲得経験値修正 を加える \n-> \n(この巻物) \n魂 10 \n耳 5 \nユニーク/セット武器
+09b	(フォージング扱い) \n66%のゴールドを追加入手 を加える \n-> \n(この巻物) \n心臓 10 \n耳 5 \nユニーク/セット武器
+10b	付加されたレア護符 \n1-5% 獲得経験値修正 の \n-> \n(この巻物) \n魂 5 \n耳 2 \n脳 3
+11b	付加されたレア指輪 \n1-66%のゴールドを追加入手 の \n-> \n(この巻物) \n心臓 5 \n耳 2 \n眼 3
+12b	1個のソケットを作る \n-> \n(この巻物) \n眼 \nエリクサー \nジュエル \nマジック/レア/クラフト指輪
+13b	1個のソケットを作る \n-> \n(この巻物) \n脳 \nエリクサー \nジュエル \nマジック/レア/クラフト護符
+14b	白武器 \n-> \n(この巻物) \n鍛造ハンマー \n欠けた黒曜石 5 \nマジック武器
+15b	白防具 \n-> \n(この巻物) \n鍛造ハンマー \n欠けたダイアモンド \nマジック防具
+16b	1-6個のソケットを作る \n-> \n(この巻物) \n穴あけドーナツ \n宝石 1-6 無傷/汚れ(上位)/完璧(エリート)  \n白武器
+17b	1-6個のソケットを作る \n-> \n(この巻物) \nSocket Donut \n宝石 1-6 無傷/汚れ(上位)/完璧(エリート)  \n白防具
+18b	10% より速い移動 を加える \n-> \n(この巻物) \nクックブック \n鍛造ハンマー \n蜘蛛のシルク \nマジック・ブーツ
+19b	10% より素早いブロック を加える \n-> \n(この巻物) \nクックブック \n鍛造ハンマー \n聖印 \nマジック・シールド
+20b	10% 攻撃スピード強化 を加える \n-> \n(この巻物) \nクックブック \n鍛造ハンマー \nドラゴン・ストーン \nマジック武器
+21b	10% より速い呪文詠唱 を加える \n-> \n(この巻物) \nクックブック \n鍛造ハンマー \nブラックムーア \nマジック・グローブ
+22b	イシリアルのマジック武器/防具 \n-> \n(この巻物) \n完璧な宝石 \nイシリアルのマジック武器/防具
+23b	イシリアルのレア武器/防具 \n-> \n(この巻物) \n完璧な宝石 3 \nイシリアルのレア武器/防具
+24b	ユニーク武器/防具 \n-> \n(この巻物) \n鍛造ハンマー 2 \nドラゴン・ストーン 2 \n完璧な宝石 4 \nクラフト武器/防具 (上位)
+25b	セット武器/防具 \n-> \n(この巻物) \n鍛造ハンマー 4 \nドラゴン・ストーン 4 \n完璧な宝石 2 \nクラフト武器/防具 (上位)
+26b	メイプルリーフ金貨 \n-> \n(この巻物) \n完璧な宝石 16 \nドラゴン・ストーン 16
+27b	同じサイズのレア・チャーム \n-> \n(この巻物) \n同じサイズのマジック・チャーム 7
+28b	同じサイズのレア・チャーム \n-> \n(この巻物) \n完璧な宝石 3 \nレア・チャーム
+29b	レア・ジュエル \n-> \n(この巻物) \nユニーク指輪 3
+30b	ユニーク・ジュエル \n-> \n(この巻物) \nレア・ジュエル 7
+31b	同じ性能を持ったグローブ \n-> \n(この巻物) \nエリクサー 1(レア)/2(セット・ユニーク) \nレア/セット/ユニーク・ベルト
+32b	同じ性能を持ったグローブ \n-> \n(この巻物) \nエリクサー 1(レア)/2(セット・ユニーク) \nレア/セット/ユニーク・ブーツ
+33b	同じ性能を持ったベルト \n-> \n(この巻物) \nエリクサー 1(レア)/2(セット・ユニーク) \nレア/セット/ユニーク・グローブ
+34b	同じ性能を持ったベルト \n-> \n(この巻物) \nエリクサー 1(レア)/2(セット・ユニーク) \nレア/セット/ユニーク・ブーツ
+35b	同じ性能を持ったブーツ \n-> \n(この巻物) \nエリクサー 1(レア)/2(セット・ユニーク) \nレア/セット/ユニーク・グローブ
+36b	同じ性能を持ったブーツ \n-> \n(この巻物) \nエリクサー 1(レア)/2(セット・ユニーク) \nレア/セット/ユニーク・ベルト
+37b	を加える \n1ずつ耐久力を自然修復／20秒ごとに \n-> \n(この巻物) \nエリクサー \nティラニウム鉱 \nイシリアルでない武器/防具
+38b	を加える \n殺したモンスターを成仏させる \n-> \n(この巻物) \nエリクサー \n聖印 \nあらゆる武器
+39b	オーラ・ストーン \n-> \n(この巻物) \n聖印 \n最上位のユニーク・クラス専用護符
+40b	(フォージング扱い) \n全スキルレベル +1 を加える \n-> \n(この巻物) \nドラゴン・ストーン 5 \n完璧な宝石 \nメイプルリーフ金貨 \nマジック/レア/セット/ユニーク装備
+41b	1個のソケットを作る \n-> \n(この巻物) \n眼 \nエリクサー \nユニーク・ジュエル \nセット指輪
+42b	1個のソケットを作る \n-> \n(この巻物) \n脳 \nエリクサー \nユニーク・ジュエル \nセット護符
+43b	1個のソケットを作る \n-> \n(この巻物) \n眼 \nエリクサー \nユニーク・ジュエル \nユニーク指輪
+44b	1個のソケットを作る \n-> \n(この巻物) \n脳 \nエリクサー \nユニーク・ジュエル \nユニーク護符
+45b	同じ性能のスクウェア・チャーム \n1個のソケットを持った \n-> \n(この巻物) \nソケットを持ったマジック護符 \nソケットを持ったマジック指輪 \nマジック・スモール・チャーム
+46b	同じ性能のオッド・チャーム \n1個のソケットを持った \n-> \n(この巻物) \nソケットを持ったマジック護符 \nソケットを持ったマジック指輪 \nマジック・グランド・チャーム
+47b	同じ性能のスクウェア・チャーム \n1個のソケットを持った \n-> \n(この巻物) \nソケットを持ったユニーク護符 \nソケットを持ったユニーク指輪 \nユニーク・スモール・チャーム
+48b	同じ性能のオッド・チャーム \n1個のソケットを持った \n-> \n(この巻物) \nソケットを持ったユニーク護符 \nソケットを持ったユニーク指輪 \nユニーク・グランド/オッド・チャーム
+49b	白オッド・チャーム \n1個のソケットを持った \n-> \n(この巻物) \nメイプルリーフ金貨 \nエリクサー \nレア・チャーム 7
+50b	必要レベル増加を1取り除く \n-> \n(この巻物) \nさ・ルーン (r15) \nメイプルリーフ金貨 \n必要レベルが増加したアイテム
+01c	\gold;(バックラー) \n古代のクーポン
+02c	\gold;(キャップ) \n古代のクーポン
+03c	\gold;(レザーグローブ) \n古代のクーポン
+04c	\gold;(ブーツ) \n古代のクーポン
+05c	\gold;(キルトのアーマー) \n古代のクーポン
+06c	\gold;(サッシュ) \n古代のクーポン
+07c	\gold;(スモールシールド) \n古代のクーポン
+08c	\gold;(ヘヴィグローブ) \n古代のクーポン
+09c	\gold;(ヘヴィブーツ) \n古代のクーポン
+10c	\gold;(レザーアーマー) \n古代のクーポン
+11c	\gold;(ライトベルト) \n古代のクーポン
+12c	\gold;(ラージシールド) \n古代のクーポン
+13c	\gold;(ハードレザー・アーマー) \n古代のクーポン
+14c	\gold;(ヘルム) \n古代のクーポン
+15c	\gold;(リングメイル) \n古代のクーポン
+16c	\gold;(スカルキャップ) \n古代のクーポン
+17c	\gold;(スパイクシールド) \n古代のクーポン
+18c	\gold;(チェーングローブ) \n古代のクーポン
+19c	\gold;(チェーンブーツ) \n古代のクーポン
+20c	\gold;(スケールメイル) \n古代のクーポン
+21c	\gold;(鋲つき革アーマー) \n古代のクーポン
+22c	\gold;(フル・ヘルム) \n古代のクーポン
+23c	\gold;(カイトシールド) \n古代のクーポン
+24c	\gold;(チェーンメイル) \n古代のクーポン
+25c	\gold;(タワーシールド) \n古代のクーポン
+26c	\gold;(マスク) \n古代のクーポン
+27c	\gold;(ブレストプレート) \n古代のクーポン
+28c	\gold;(ボーンシールド) \n古代のクーポン
+29c	\gold;(ベルト) \n古代のクーポン
+30c	\gold;(ボーンヘルム) \n古代のクーポン
+31c	\gold;(スプリントメイル) \n古代のクーポン
+32c	\gold;(ライトガントレット) \n古代のクーポン
+33c	\gold;(ライトプレートブーツ) \n古代のクーポン
+34c	\gold;(ヘヴィベルト) \n古代のクーポン
+35c	\gold;(グレイト・ヘルム) \n古代のクーポン
+36c	\gold;(プレートメイル) \n古代のクーポン
+37c	\gold;(ガントレット) \n古代のクーポン
+38c	\gold;(グリーヴ) \n古代のクーポン
+39c	\gold;(プレートベルト) \n古代のクーポン
+40c	\gold;(冠) \n古代のクーポン
+41c	\gold;(フィールドプレート) \n古代のクーポン
+42c	\gold;(ゴシックシールド) \n古代のクーポン
+43c	\gold;(ゴシックプレート) \n古代のクーポン
+44c	\gold;(ライト・プレート) \n古代のクーポン
+45c	\gold;(フルプレートメイル) \n古代のクーポン
+46c	\gold;(古代のアーマー) \n古代のクーポン
+01d	\gold;(ウォー・ハット) \n古代のクーポン
+02d	\gold;(ゴーストアーマー) \n古代のクーポン
+03d	\gold;(ディフェンダー) \n古代のクーポン
+04d	\gold;(魔獣の皮のグローブ) \n古代のクーポン
+05d	\gold;(魔獣の皮のブーツ) \n古代のクーポン
+06d	\gold;(魔獣の皮のサッシュ) \n古代のクーポン
+07d	\gold;(蛇皮のアーマー) \n古代のクーポン
+08d	\gold;(サレット) \n古代のクーポン
+09d	\gold;(魔獣の皮のアーマー) \n古代のクーポン
+10d	\gold;(ラウンドシールド) \n古代のクーポン
+11d	\gold;(鮫皮グローブ) \n古代のクーポン
+12d	\gold;(鮫皮ベルト) \n古代のクーポン
+13d	\gold;(鮫皮ブーツ) \n古代のクーポン
+14d	\gold;(格子のアーマー) \n古代のクーポン
+15d	\gold;(カスク) \n古代のクーポン
+16d	\gold;(リンクト・メイル) \n古代のクーポン
+17d	\gold;(スキュータム) \n古代のクーポン
+18d	\gold;(有刺シールド) \n古代のクーポン
+19d	\gold;(重い弓籠手) \n古代のクーポン
+20d	\gold;(メッシュブーツ) \n古代のクーポン
+21d	\gold;(ティギュレート・メイル) \n古代のクーポン
+22d	\gold;(メッシュベルト) \n古代のクーポン
+23d	\gold;(バシネット) \n古代のクーポン
+24d	\gold;(メッシュアーマー) \n古代のクーポン
+25d	\gold;(ドラゴンシールド) \n古代のクーポン
+26d	\gold;(デスマスク) \n古代のクーポン
+27d	\gold;(クゥイラス) \n古代のクーポン
+28d	\gold;(グリムシールド) \n古代のクーポン
+29d	\gold;(バトルベルト) \n古代のクーポン
+30d	\gold;(グリムヘルム) \n古代のクーポン
+31d	\gold;(ラセットアーマー) \n古代のクーポン
+32d	\gold;(バトル・ガントレット) \n古代のクーポン
+33d	\gold;(バトルブーツ) \n古代のクーポン
+34d	\gold;(スレイヤー・ガード) \n古代のクーポン
+35d	\gold;(ハイエロファント・トロフィー) \n古代のクーポン
+36d	\gold;(ギルデッド・シールド) \n古代のクーポン
+37d	\gold;(トーテミック・マスク) \n古代のクーポン
+38d	\gold;(ウィングヘルム) \n古代のクーポン
+39d	\gold;(パバイス) \n古代のクーポン
+40d	\gold;(聖堂騎士のコート) \n古代のクーポン
+41d	\gold;(ウォー・ガントレット) \n古代のクーポン
+42d	\gold;(ウォーブーツ) \n古代のクーポン
+43d	\gold;(ウォーベルト) \n古代のクーポン
+44d	\gold;(鮫の歯のアーマー) \n古代のクーポン
+45d	\gold;(大いなる冠) \n古代のクーポン
+46d	\gold;(古代のシールド) \n古代のクーポン
+47d	\gold;(エンボスのプレート) \n古代のクーポン
+48d	\gold;(魔道師のプレート) \n古代のクーポン
+49d	\gold;(混沌のアーマー) \n古代のクーポン
+50d	\gold;(装飾のプレート) \n古代のクーポン
+01e	\gold;(ルナ) \n古代のクーポン
+02e	\gold;(ヴァンパイアファング・ベルト) \n古代のクーポン
+03e	\gold;(シャコー) \n古代のクーポン
+04e	\gold;(デストロイヤー・ヘルム) \n古代のクーポン
+05e	\gold;(アーメット) \n古代のクーポン
+06e	\gold;(ミスリル・コイル) \n古代のクーポン
+07e	\gold;(ブラッド・スピリット) \n古代のクーポン
+08e	\gold;(スカラブシェル・ブーツ) \n古代のクーポン
+09e	\gold;(ブラッドロード・スカル) \n古代のクーポン
+10e	\gold;(ボーン・ヴィズィッジ) \n古代のクーポン
+11e	\gold;(クラーケン・シェル) \n古代のクーポン
+12e	\gold;(シャドウ・プレート) \n古代のクーポン
+13e	\gold;(ボーンウィーヴ・ブーツ) \n古代のクーポン
+14e	\gold;(スパイアード・ヘルム ii) \n古代のクーポン
+15e	\gold;(アース・スピリット) \n古代のクーポン
+16e	\gold;(ウォード) \n古代のクーポン
+17e	\gold;(スパイアード・ヘルム i) \n古代のクーポン
+18e	\gold;(モナーク) \n古代のクーポン
+19e	\gold;(ブレイド・バリア) \n古代のクーポン
+20e	\gold;(オウガ・ガントレット) \n古代のクーポン
+21e	\gold;(ミュルミドーン・グリーヴ) \n古代のクーポン
+22e	\gold;(サキュバス・スカル) \n古代のクーポン
+23e	\gold;(セイクリッド・アーマー i) \n古代のクーポン
+24e	\gold;(ヴァンブレイシズ) \n古代のクーポン
+25e	\gold;(スカイ・スピリット) \n古代のクーポン
+26e	\gold;(ダスク・シュラウド) \n古代のクーポン
+27e	\gold;(トロール・ネスト) \n古代のクーポン
+28e	\gold;(ヴァンパイアボーン・グローブ) \n古代のクーポン
+29e	\gold;(イージス) \n古代のクーポン
+30e	\gold;(ダイアデム) \n古代のクーポン
+31e	\gold;(ザカラム・シールド) \n古代のクーポン
+32e	\gold;(デーモンヘッド) \n古代のクーポン
+33e	\gold;(ワイア・フリース) \n古代のクーポン
+34e	\gold;(バルログ・スキン) \n古代のクーポン
+35e	\gold;(ティアラ) \n古代のクーポン
+36e	\gold;(フューリー・ヴァイザー) \n古代のクーポン
+37e	\gold;(コンクァラー・クラウン) \n古代のクーポン
+38e	\gold;(セイクリッド・ロンダッシュ) \n古代のクーポン
+39e	\gold;(コロナ) \n古代のクーポン
+40e	\gold;(セイクリッド・アーマー ii) \n古代のクーポン
+41e	\gold;(スパイダーウェブ・サッシュ) \n古代のクーポン
+01f	\gold;(ショートソード) \n古代のクーポン
+02f	\gold;(クラブ) \n古代のクーポン
+03f	\gold;(ダガー) \n古代のクーポン
+04f	\gold;(ワンド) \n古代のクーポン
+05f	\gold;(ショート・スタッフ) \n古代のクーポン
+06f	\gold;(ハンドアックス) \n古代のクーポン
+07f	\gold;(スパイク付きクラブ) \n古代のクーポン
+08f	\gold;(セプター) \n古代のクーポン
+09f	\gold;(ショートボウ) \n古代のクーポン
+10f	\gold;(シミター) \n古代のクーポン
+11f	\gold;(スピア) \n古代のクーポン
+12f	\gold;(ラージアックス) \n古代のクーポン
+13f	\gold;(バーダイク) \n古代のクーポン
+14f	\gold;(アックス) \n古代のクーポン
+15f	\gold;(ライト・クロスボウ) \n古代のクーポン
+16f	\gold;(メイス) \n古代のクーポン
+17f	\gold;(ロング・スタッフ) \n古代のクーポン
+18f	\gold;(サーベル) \n古代のクーポン
+19f	\gold;(短刀) \n古代のクーポン
+20f	\gold;(両手用ソード) \n古代のクーポン
+21f	\gold;(トライデント) \n古代のクーポン
+22f	\gold;(フォルシオン) \n古代のクーポン
+23f	\gold;(ハンターズ・ボウ) \n古代のクーポン
+24f	\gold;(クリスタルソード) \n古代のクーポン
+25f	\gold;(バウルジ) \n古代のクーポン
+26f	\gold;(ブロードアックス) \n古代のクーポン
+27f	\gold;(木のワンド) \n古代のクーポン
+28f	\gold;(ロングボウ) \n古代のクーポン
+29f	\gold;(モーニングスター) \n古代のクーポン
+30f	\gold;(ダブルアックス) \n古代のクーポン
+31f	\gold;(ブロードソード) \n古代のクーポン
+32f	\gold;(ブランディストック) \n古代のクーポン
+33f	\gold;(グランドセプター) \n古代のクーポン
+34f	\gold;(節くれだったスタッフ) \n古代のクーポン
+35f	\gold;(クロスボウ) \n古代のクーポン
+36f	\gold;(クレイモア) \n古代のクーポン
+37f	\gold;(大鎌) \n古代のクーポン
+38f	\gold;(クリース) \n古代のクーポン
+39f	\gold;(バトルアックス) \n古代のクーポン
+40f	\gold;(複合ボウ) \n古代のクーポン
+41f	\gold;(ボーンワンド) \n古代のクーポン
+42f	\gold;(バトル・スタッフ) \n古代のクーポン
+43f	\gold;(フレイル) \n古代のクーポン
+44f	\gold;(ミリタリー・ピック) \n古代のクーポン
+45f	\gold;(スペタム) \n古代のクーポン
+46f	\gold;(ロングソード) \n古代のクーポン
+47f	\gold;(ウォーセプター) \n古代のクーポン
+48f	\gold;(ジャイアントソード) \n古代のクーポン
+49f	\gold;(モール) \n古代のクーポン
+50f	\gold;(ショート・バトルボウ) \n古代のクーポン
+51f	\gold;(ブレイド) \n古代のクーポン
+52f	\gold;(ポールアックス) \n古代のクーポン
+53f	\gold;(グレートアックス) \n古代のクーポン
+54f	\gold;(フランベルジュ) \n古代のクーポン
+55f	\gold;(バスタードソード) \n古代のクーポン
+56f	\gold;(ロング・バトルボウ) \n古代のクーポン
+57f	\gold;(ヘヴィ・クロスボウ) \n古代のクーポン
+58f	\gold;(パイク) \n古代のクーポン
+59f	\gold;(ショート・ウォーボウ) \n古代のクーポン
+60f	\gold;(ウォーハンマー) \n古代のクーポン
+61f	\gold;(ウォーアックス) \n古代のクーポン
+62f	\gold;(ロング・ウォーボウ) \n古代のクーポン
+63f	\gold;(連射クロスボウ) \n古代のクーポン
+64f	\gold;(ハルバード) \n古代のクーポン
+65f	\gold;(グリムワンド) \n古代のクーポン
+66f	\gold;(ウォー・スタッフ) \n古代のクーポン
+67f	\gold;(ジャイアントアックス) \n古代のクーポン
+68f	\gold;(ウォーソード) \n古代のクーポン
+69f	\gold;(戦争の大鎌) \n古代のクーポン
+70f	\gold;(グレートモール) \n古代のクーポン
+71f	\gold;(グレートソード) \n古代のクーポン
+01g	\gold;(ジョウのスタッフ) \n古代のクーポン
+02g	\gold;(エッジ・ボウ) \n古代のクーポン
+03g	\gold;(グラディウス) \n古代のクーポン
+04g	\gold;(剃刀の弓) \n古代のクーポン
+05g	\gold;(ウォー・スピア) \n古代のクーポン
+06g	\gold;(クォータースタッフ) \n古代のクーポン
+07g	\gold;(カットラス) \n古代のクーポン
+08g	\gold;(ポイグナード) \n古代のクーポン
+09g	\gold;(アルバレスト) \n古代のクーポン
+10g	\gold;(フシナ) \n古代のクーポン
+11g	\gold;(焦げたワンド) \n古代のクーポン
+12g	\gold;(シダーの弓) \n古代のクーポン
+13g	\gold;(シャムシール) \n古代のクーポン
+14g	\gold;(カジェル) \n古代のクーポン
+15g	\gold;(ミリタリーアックス) \n古代のクーポン
+16g	\gold;(シダーのスタッフ) \n古代のクーポン
+17g	\gold;(ウォー・フォーク) \n古代のクーポン
+18g	\gold;(トゥームワンド) \n古代のクーポン
+19g	\gold;(タルワール) \n古代のクーポン
+20g	\gold;(攻城クロスボウ) \n古代のクーポン
+21g	\gold;(ロンデル) \n古代のクーポン
+22g	\gold;(ハチェット) \n古代のクーポン
+23g	\gold;(硬いワンド) \n古代のクーポン
+24g	\gold;(ダブルボウ) \n古代のクーポン
+25g	\gold;(東洋の槍) \n古代のクーポン
+26g	\gold;(ディメンショナル・ブレイド) \n古代のクーポン
+27g	\gold;(新米のセプター) \n古代のクーポン
+28g	\gold;(チンクエデア) \n古代のクーポン
+29g	\gold;(有刺クラブ) \n古代のクーポン
+30g	\gold;(聖水スプリンクラー) \n古代のクーポン
+31g	\gold;(ランス) \n古代のクーポン
+32g	\gold;(短攻城弓) \n古代のクーポン
+33g	\gold;(ゴシック・スタッフ) \n古代のクーポン
+34g	\gold;(クリーヴァー) \n古代のクーポン
+35g	\gold;(バトルソード) \n古代のクーポン
+36g	\gold;(鉤付きアックス) \n古代のクーポン
+37g	\gold;(フランジド・メイス) \n古代のクーポン
+38g	\gold;(ロッホアーバー・アックス) \n古代のクーポン
+39g	\gold;(テイバー) \n古代のクーポン
+40g	\gold;(ルーンソード) \n古代のクーポン
+41g	\gold;(ルーン・スタッフ) \n古代のクーポン
+42g	\gold;(大攻城弓) \n古代のクーポン
+43g	\gold;(スティレット) \n古代のクーポン
+44g	\gold;(グレイブワンド) \n古代のクーポン
+45g	\gold;(セレモニアル・ジャベリン) \n古代のクーポン
+46g	\gold;(鋸歯のスター) \n古代のクーポン
+47g	\gold;(スワーリング・クリスタル) \n古代のクーポン
+48g	\gold;(ディバイン・セプター) \n古代のクーポン
+49g	\gold;(古代のソード) \n古代のクーポン
+50g	\gold;(長鉾) \n古代のクーポン
+51g	\gold;(戦いの大鎌) \n古代のクーポン
+52g	\gold;(セレモニアル・パイク) \n古代のクーポン
+53g	\gold;(セレモニアル・ボウ) \n古代のクーポン
+54g	\gold;(エスパンドン) \n古代のクーポン
+55g	\gold;(ゴシックアックス) \n古代のクーポン
+56g	\gold;(グレイター・タロンズ) \n古代のクーポン
+57g	\gold;(ルーン・ボウ) \n古代のクーポン
+58g	\gold;(パルチザン) \n古代のクーポン
+59g	\gold;(ダキアの鎌) \n古代のクーポン
+60g	\gold;(バトルハンマー) \n古代のクーポン
+61g	\gold;(ツインアックス) \n古代のクーポン
+62g	\gold;(バトルダート) \n古代のクーポン
+63g	\gold;(死の大鎌) \n古代のクーポン
+64g	\gold;(ベクドコービン) \n古代のクーポン
+65g	\gold;(タスク・ソード) \n古代のクーポン
+66g	\gold;(ゴシック・ソード) \n古代のクーポン
+67g	\gold;(クロウビル) \n古代のクーポン
+68g	\gold;(古代のアックス) \n古代のクーポン
+69g	\gold;(マーテル・ドゥ・フェール) \n古代のクーポン
+70g	\gold;(むち) \n古代のクーポン
+71g	\gold;(ゴシック・ボウ) \n古代のクーポン
+72g	\gold;(ツヴァイハンダー) \n古代のクーポン
+73g	\gold;(処刑人のソード) \n古代のクーポン
+74g	\gold;(ナーガ) \n古代のクーポン
+75g	\gold;(ウォー・クラブ) \n古代のクーポン
+76g	\gold;(チュコヌ) \n古代のクーポン
+77g	\gold;(バリスタ) \n古代のクーポン
+78g	\gold;(フランシスカ) \n古代のクーポン
+01h	\gold;(フェイズ・ブレイド i) \n古代のクーポン
+02k	\gold;(カデューシアス) \n古代のクーポン
+03h	\gold;(ボーン・ナイフ) \n古代のクーポン
+04h	\gold;(マイティ・セプター i) \n古代のクーポン
+05h	\gold;(エレガント・ブレイド) \n古代のクーポン
+06h	\gold;(レジェンド・スパイク) \n古代のクーポン
+07h	\gold;(デヴィル・スター) \n古代のクーポン
+08h	\gold;(ディキャピテイター) \n古代のクーポン
+09h	\gold;(タイラント・クラブ) \n古代のクーポン
+10h	\gold;(ウォー・スパイク) \n古代のクーポン
+11h	\gold;(メイトリアーカル・スピア) \n古代のクーポン
+12k	\gold;(オウガ・アックス) \n古代のクーポン
+13h	\gold;(スカージ i) \n古代のクーポン
+14h	\gold;(アタガン) \n古代のクーポン
+15h	\gold;(ウォード・ボウ) \n古代のクーポン
+16h	\gold;(リスト・ソード) \n古代のクーポン
+17h	\gold;(アンアースト・ワンド) \n古代のクーポン
+18h	\gold;(エルダー・スタッフ) \n古代のクーポン
+19h	\gold;(チャンピオン・ソード) \n古代のクーポン
+20h	\gold;(トマホーク) \n古代のクーポン
+21h	\gold;(チャンピオン・アックス) \n古代のクーポン
+22k	\gold;(フェラル・クローズ) \n古代のクーポン
+23h	\gold;(ウィングド・アックス) \n古代のクーポン
+24h	\gold;(レジェンダリー・マレット i) \n古代のクーポン
+25h	\gold;(トランチャン) \n古代のクーポン
+26h	\gold;(ファングド・ナイフ) \n古代のクーポン
+27h	\gold;(オウガ・モール) \n古代のクーポン
+28h	\gold;(バルログ・スピア) \n古代のクーポン
+29h	\gold;(サンダー・モール i) \n古代のクーポン
+30h	\gold;(メイトリアーカル・ジャベリン) \n古代のクーポン
+31h	\gold;(ウォー・パイク) \n古代のクーポン
+32k	\gold;(クルセイダー・ボウ) \n古代のクーポン
+33h	\gold;(フライング・アックス) \n古代のクーポン
+34h	\gold;(クリプティック・ソード) \n古代のクーポン
+35h	\gold;(バーサーカー・アックス) \n古代のクーポン
+36h	\gold;(	ジャイアント・スレッシャー) \n古代のクーポン
+37h	\gold;(ウィングド・ハープーン) \n古代のクーポン
+38h	\gold;(デーモン・クロスボウ) \n古代のクーポン
+39h	\gold;(メイトリアーカル・ボウ) \n古代のクーポン
+40h	\gold;(バルログ・ブレイド) \n古代のクーポン
+41h	\gold;(マンキャッチャー) \n古代のクーポン
+42k	\gold;(エティン・アックス) \n古代のクーポン
+43h	\gold;(ハイドラ・エッジ) \n古代のクーポン
+44h	\gold;(マイティ・セプター ii) \n古代のクーポン
+45h	\gold;(エルドリッチ・オーブ) \n古代のクーポン
+46h	\gold;(ディメンショナル・シャード) \n古代のクーポン
+47h	\gold;(シルバー・エッジド・アックス) \n古代のクーポン
+48h	\gold;(レジェンダリー・マレット ii \n古代のクーポン)
+49h	\gold;(ウィングド・ナイフ) \n古代のクーポン
+50h	\gold;(グロリアス・アックス) \n古代のクーポン
+51h	\gold;(スレッシャー) \n古代のクーポン
+52k	\gold;(リッチ・ワンド) \n古代のクーポン
+53h	\gold;(コロッサス・クロスボウ) \n古代のクーポン
+54h	\gold;(ゴースト・グレイヴ) \n古代のクーポン
+55h	\gold;(サンダー・モール ii) \n古代のクーポン
+56h	\gold;(バトル・セスタス) \n古代のクーポン
+57h	\gold;(コロッサス・ブレイド) \n古代のクーポン
+58h	\gold;(ハイペリオン・スピア) \n古代のクーポン
+59h	\gold;(クリプティック・アックス) \n古代のクーポン
+60h	\gold;(スカージ ii) \n古代のクーポン
+61h	\gold;(アーカン・スタッフ) \n古代のクーポン
+62k	\gold;(フェイズ・ブレイド ii) \n古代のクーポン
+01i	\gold;(護符 i) \n古代のクーポン
+02i	\gold;(護符 ii) \n古代のクーポン
+03i	\gold;(護符 iii) \n古代のクーポン
+04i	\gold;(護符 iv) \n古代のクーポン
+05i	\gold;(護符 v) \n古代のクーポン
+06i	\gold;(護符 vi) \n古代のクーポン
+07i	\gold;(護符 vii) \n古代のクーポン
+08i	\gold;(護符 viii) \n古代のクーポン
+09i	\gold;(護符 ix) \n古代のクーポン
+10i	\gold;(護符 x) \n古代のクーポン
+11i	\gold;(護符 xi) \n古代のクーポン
+12i	\gold;(護符 xii) \n古代のクーポン
+01j	\gold;(指輪 i) \n古代のクーポン
+02j	\gold;(指輪 ii) \n古代のクーポン
+03j	\gold;(指輪 iii) \n古代のクーポン
+04j	\gold;(指輪 iv) \n古代のクーポン
+05j	\gold;(指輪 v) \n古代のクーポン
+06j	\gold;(指輪 vi) \n古代のクーポン
+07j	\gold;(指輪 vii) \n古代のクーポン
+08j	\gold;(指輪 viii) \n古代のクーポン
+09j	\gold;(指輪 ix) \n古代のクーポン
+10j	\gold;(指輪 x) \n古代のクーポン
+99j	\gold;(ワイルドカード) \n古代のクーポン
+cpndesc	LODのユニークアイテムを作れる  \n1個のソケットを持った  \n3個の同種のクーポンを合成して
+tkn000	\green;トークン  \nオートリュカスのローブ
+tkn001	\green;トークン  \nオートリュカスの解錠器
+tkn002	\green;トークン  \n忍び足のブーツ
+tkn003	\green;トークン  \nアキレスの膂力
+tkn004	\green;トークン  \nアキレスの腰帯
+tkn005	\green;トークン  \nアキレスの踵
+tkn006	\green;トークン  \nヘルム・オヴ・スピリッツ
+tkn007	\green;トークン  \nアーマー・オヴ・グルーム
+tkn008	\green;トークン  \nストームシールド
+tkn009	\green;トークン  \nザーンの守護
+tkn010	\green;トークン  \nバードの優美なる手
+tkn011	\green;トークン  \nからみつく根の拘束
+tkn012	\green;トークン  \n放浪者のワルツ
+tkn013	\green;トークン  \n飢餓の輪
+tkn014	\green;トークン  \n死の谷の曲杖
+tkn015	\green;トークン  \nシェパードの祝福
+tkn016	\green;トークン  \nシェパードの祈り
+tkn017	\green;トークン  \nタッセルホフの革上着
+tkn018	\green;トークン  \nタッセルホフのポーチ
+tkn019	\green;トークン  \nタッセルホフの背信
+tkn020	\green;トークン  \n極地の角
+tkn021	\green;トークン  \n極地の手袋
+tkn022	\green;トークン  \n極地の帯
+tkn023	\green;トークン  \nガブリエルの尖杖
+tkn024	\green;トークン  \nガブリエルの守り
+tkn025	\green;トークン  \nガブリエルの啓示
+tkn026	\green;トークン  \nリクソスの飛翔
+tkn027	\green;トークン  \nリクソスのハープ
+tkn028	\green;トークン  \nリクソスのコート
+tkn029	\green;トークン  \nアーンナの松明
+tkn030	\green;トークン  \nアーンナのドレス
+tkn031	\green;トークン  \nアーンナの技巧
+tkn032	\green;トークン  \nアーンナの行軍
+tkn033	\green;トークン  \nアラジエルの穂先
+tkn034	\green;トークン  \nアラジエルのプロテクター
+tkn035	\green;トークン  \nアラジエルのバックラー
+tkn036	\green;トークン  \nアラジエルのグリップ
+tkn037	\green;トークン  \nノワールの予知
+tkn038	\green;トークン  \nノワールの集中
+tkn039	\green;トークン  \nノワールの執念
+tkn040	\green;トークン  \nノワールの闊歩
+tkn041	\green;トークン  \nミレアの冠
+tkn042	\green;トークン  \nミレアの癈兵槍
+tkn043	\green;トークン  \nミレアの帷子
+tkn044	\green;トークン  \n死神の接触
+tkn045	\green;トークン  \n死神の手
+tkn046	\green;トークン  \n死神のガード
+tkn047	\green;トークン  \nベガの美貌
+tkn048	\green;トークン  \nグレイス
+tkn049	\green;トークン  \nパワー
+tkn050	\green;トークン  \nベガのサッシュ
+tkn051	\green;トークン  \n素子のパワー
+tkn052	\green;トークン  \n素子の着物
+tkn053	\green;トークン  \nアローラのヴェール
+tkn054	\green;トークン  \nアローラの奇襲
+tkn055	\green;トークン  \nアローラのシルエット
+tkn056	\green;トークン  \nアローラの気配
+tkn057	\green;トークン  \nサシャのイチコロ爪
+tkn058	\green;トークン  \nサシャの双丘
+tkn059	\green;トークン  \nサシャのギザギザ爪
+tkn060	\green;トークン  \nサシャの黒スリッパ
+tkn061	\green;トークン  \nイーサンの睨み
+tkn062	\green;トークン  \nイーサンの背骨
+tkn063	\green;トークン  \nイーサンのかぎ爪
+tkn064	\green;トークン  \nイーサンのコイル
+tkn065	\green;トークン  \nボーリックの夜の剣
+tkn066	\green;トークン  \nボーリックの闇の帯
+tkn067	\green;トークン  \nボーリックの黒手袋
+tkn068	\green;トークン  \n冥界の頭骨
+tkn069	\green;トークン  \n冥界のたいまつ
+tkn070	\green;トークン  \n冥界の紋章
+tkn071	\green;トークン  \nラソルの凝視
+tkn072	\green;トークン  \nラソルの接触
+tkn073	\green;トークン  \nラソルの恐怖
+tkn074	\green;トークン  \nラザモンのスカル
+tkn075	\green;トークン  \nラザモンの破滅の鎌
+tkn076	\green;トークン  \nラザモンの夜のとばり
+tkn077	\green;トークン  \nヴァイアーの手
+tkn078	\green;トークン  \nリッチの叡智
+tkn079	\green;トークン  \nリッチの呪い
+tkn080	\green;トークン  \nリッチの檻
+tkn081	\green;トークン  \nリッチの爪
+tkn082	\green;トークン  \nリッチの靴底
+tkn083	\green;トークン  \nナプラプタのスカル
+tkn084	\green;トークン  \nナプラプタの殲滅器
+tkn085	\green;トークン  \nナプラプタのしもべ
+tkn086	\green;トークン  \nリム＝ダルの魔力
+tkn087	\green;トークン  \nリム＝ダルの守護魔神
+tkn088	\green;トークン  \nリム＝ダルの櫃
+tkn089	\green;トークン  \nリム＝ダルの誓約
+tkn090	\green;トークン  \n死の天使のマスク
+tkn091	\green;トークン  \n混沌の天使の血肉
+tkn092	\green;トークン  \n殲滅の天使の強奪者
+tkn093	\green;トークン  \n狂戦士のヘッドギア
+tkn094	\green;トークン  \n狂戦士のホーバーク
+tkn095	\green;トークン  \n狂戦士のハチェット
+tkn096	\green;トークン  \nメッサーシュミットの略奪者
+tkn097	\green;トークン  \nメッサーシュミットの燃えさかる掌
+tkn098	\green;トークン  \nメッサーシュミットの留め金
+tkn099	\green;トークン  \nブラッド・バロン
+tkn100	\green;トークン  \nケインの恐怖
+tkn101	\green;トークン  \nケインの歩哨
+tkn102	\green;トークン  \nケインの翼
+tkn103	\green;トークン  \nクレイクラグの切っ先
+tkn104	\green;トークン  \nクレイクラグの胸当て
+tkn105	\green;トークン  \nクレイクラグの殺戮
+tkn106	\green;トークン  \nダークシェイドの煙霧
+tkn107	\green;トークン  \nダークシェイドの鉄串
+tkn108	\green;トークン  \nダークシェイドの回鞘
+tkn109	\green;トークン  \nダークシェイドの切削
+tkn110	\green;トークン  \nダークシェイドの束縛
+tkn111	\green;トークン  \nサレヴォクの憎しみの目
+tkn112	\green;トークン  \nサレヴォクの開眼
+tkn113	\green;トークン  \nサレヴォクの野蛮な心
+tkn114	\green;トークン  \nノーザン・トライブのクラウン
+tkn115	\green;トークン  \nハロガスの至宝
+tkn116	\green;トークン  \nミラブレガの鉄底靴
+tkn117	\green;トークン  \nミラブレガのロッド
+tkn118	\green;トークン  \nミラブレガの宝玉
+tkn119	\green;トークン  \nティラエルの後光
+tkn120	\green;トークン  \nティラエルの美徳
+tkn121	\green;トークン  \nティラエルの信心
+tkn122	\green;トークン  \nアンデュインの野望
+tkn123	\green;トークン  \nアンデュインの征服者
+tkn124	\green;トークン  \nアンデュインの守護者
+tkn125	\green;トークン  \nマレクの視界
+tkn126	\green;トークン  \nマレクの一撃
+tkn127	\green;トークン  \nマレクの誇り
+tkn128	\green;トークン  \nマレクの守り
+tkn129	\green;トークン  \nマレクの支配
+tkn130	\green;トークン  \nランスロットの予言
+tkn131	\green;トークン  \nランスロットの防護
+tkn132	\green;トークン  \nランスロットの獅子紋
+tkn133	\green;トークン  \nグリフィスの視線
+tkn134	\green;トークン  \nグリフィスの受け流し
+tkn135	\green;トークン  \nグリフィスの防御
+tkn136	\green;トークン  \nダリアンの機知
+tkn137	\green;トークン  \nダリアンの信仰
+tkn138	\green;トークン  \nダリアンの団結
+tkn139	\green;トークン  \nアルカナの死のワンド
+tkn140	\green;トークン  \nアルカナの肉
+tkn141	\green;トークン  \nタラの洞察
+tkn142	\green;トークン  \nタラの眼
+tkn143	\green;トークン  \nタラのガウン
+tkn144	\green;トークン  \nタラのミラー
+tkn145	\green;トークン  \nナジュズ・パズラー
+tkn146	\green;トークン  \nナジュズ・ライト・プレート
+tkn147	\green;トークン  \nナジュズ・ファイアウォード
+tkn148	\green;トークン  \nディヴァダのティアラ
+tkn149	\green;トークン  \nディヴァダのフォーカス
+tkn150	\green;トークン  \nディヴァダのショール
+tkn151	\green;トークン  \nディヴァダのスクリーン
+tkn152	\green;トークン  \nレイストリンの一瞥
+tkn153	\green;トークン  \n賢者の杖
+tkn154	\green;トークン  \n大賢者のローブ
+tkn155	\green;トークン  \nジェイド・ラップ
+tkn156	\green;トークン  \nジェイド・スリッパ
+tkn157	\green;トークン  \nアリオンの眼
+tkn158	\green;トークン  \nアリオンの心臓
+tkn159	\green;トークン  \nアリオンの手
+tkn160	\green;トークン  \nフサルの鉄腕
+tkn161	\green;トークン  \nフサルの鉄拳
+tkn162	\green;トークン  \nフサルの鉄のかかとl
+tkn163	\green;トークン  \nブラックウィングの意志
+tkn164	\green;トークン  \nブラックウィングの膂力
+tkn165	\green;トークン  \nブラックウィングの固縛
+tkn166	\green;トークン  \nブラックウィングの氷の組みひも
+tkn167	\green;トークン  \nダナラックの精霊
+tkn168	\green;トークン  \nダナラックの大槌
+tkn169	\green;トークン  \nダナラックの巻き帯
+tkn170	\green;トークン  \n力の角
+tkn171	\green;トークン  \n炎の守護者
+tkn172	\green;トークン  \n地と火のローブ
+tkn173	\green;トークン  \n風のサンダル
+tkn174	\green;トークン  \nテラの遠見
+tkn175	\green;トークン  \nフィレの幻惑
+tkn176	\green;トークン  \nガイアの背甲
+tkn177	\green;トークン  \nペルセフォネの踵
+tkn178	\green;トークン  \nジャヘイラの決断
+tkn179	\green;トークン  \nジャヘイラの抱擁
+tkn180	\green;トークン  \nジャヘイラの腰帯
+tkn181	\green;トークン  \nブランチ・オヴ・ジ・エント
+tkn182	\green;トークン  \nハイド・オヴ・ザ・タラスク
+tkn183	\green;トークン  \nクローズ・オヴ・ザ・ドラゴン
+tkn184	\green;トークン  \nローグの弓
+tkn185	\green;トークン  \nローグのスーツ
+tkn186	\green;トークン  \nローグのキャップ
+tkn187	\green;トークン  \nマーシナリーズ・パイク
+tkn188	\green;トークン  \nマーシナリーズ・ラップ
+tkn189	\green;トークン  \nマーシナリーズ・シーク
+tkn190	\green;トークン  \n鉄狼団のブロード・ソード
+tkn191	\green;トークン  \n鉄狼団のローブ
+tkn192	\green;トークン  \n鉄狼団のコイフ
+tkn193	\green;トークン  \n鉄狼団のガード
+tkn194	\green;トークン  \nバーバリアンズ・ポイント
+tkn195	\green;トークン  \nバーバリアンズ・シェルター
+tkn196	\green;トークン  \nバーバリアンズ・ヴィズイッジ
+tkn197	\green;トークン  \nローグの弓
+tkn198	\green;トークン  \nローグのスーツ
+tkn199	\green;トークン  \nローグのキャップ
+tkn200	\green;トークン  \nマーシナリーズ・パイク
+tkn201	\green;トークン  \nマーシナリーズ・ラップ
+tkn202	\green;トークン  \nマーシナリーズ・シーク
+tkn203	\green;トークン  \n鉄狼団のブロード・ソード
+tkn204	\green;トークン  \n鉄狼団のローブ
+tkn205	\green;トークン  \n鉄狼団のコイフ
+tkn206	\green;トークン  \n鉄狼団のガード
+tkn207	\green;トークン  \nバーバリアンズ・ポイント
+tkn208	\green;トークン  \nバーバリアンズ・シェルター
+tkn209	\green;トークン  \nバーバリアンズ・ヴィズイッジ
+tkn210	\green;トークン  \nローグの弓
+tkn211	\green;トークン  \nローグのスーツ
+tkn212	\green;トークン  \nローグのキャップ
+tkn213	\green;トークン  \nマーシナリーズ・パイク
+tkn214	\green;トークン  \nマーシナリーズ・ラップ
+tkn215	\green;トークン  \nマーシナリーズ・シーク
+tkn216	\green;トークン  \n鉄狼団のブロード・ソード
+tkn217	\green;トークン  \n鉄狼団のローブ
+tkn218	\green;トークン  \n鉄狼団のコイフ
+tkn219	\green;トークン  \n鉄狼団のガード
+tkn220	\green;トークン  \nバーバリアンズ・ポイント
+tkn221	\green;トークン  \nバーバリアンズ・シェルター
+tkn222	\green;トークン  \nバーバリアンズ・ヴィズイッジ
+opnr	缶切り
+can1	宝石缶
+can2	ルーン・ストッカー (1-21)
+can3	ルーン・ストッカー (22-45)
+can4	デカール・ストッカー
+can5	\gold;古代の秘本 (1-25)
+can6	\gold;古代の秘本 (26-50)
+can7	リロールのオーブ
+can8	マルチ・ストッカー
+kv0	現在の出力: \purple;アメジスト \grey;\n単独で合成して出力を選択 \n缶切りと合成して宝石を取り出す \n宝石と合成して宝石を収納
+ky0	現在の出力: \yellow;トパーズ \grey;\n単独で合成して出力を選択 \n缶切りと合成して宝石を取り出す \n宝石と合成して宝石を収納
+kb0	現在の出力: \blue;サファイア \grey;\n単独で合成して出力を選択 \n缶切りと合成して宝石を取り出す \n宝石と合成して宝石を収納
+kg0	現在の出力: \green;エメラルド \grey;\n単独で合成して出力を選択 \n缶切りと合成して宝石を取り出す \n宝石と合成して宝石を収納
+kr0	現在の出力: \red;ルビー \grey;\n単独で合成して出力を選択 \n缶切りと合成して宝石を取り出す \n宝石と合成して宝石を収納
+kw0	現在の出力: \white;ダイアモンド \grey;\n単独で合成して出力を選択 \n缶切りと合成して宝石を取り出す \n宝石と合成して宝石を収納
+ks0	現在の出力: 頭蓋骨 \grey;\n単独で合成して出力を選択 \n缶切りと合成して宝石を取り出す \n宝石と合成して宝石を収納
+kk0	現在の出力: \dgrey;黒曜石 \grey;\n単独で合成して出力を選択 \n缶切りと合成して宝石を取り出す \n宝石と合成して宝石を収納
+ko0	(消費 1pt) \n現在の出力: 欠けた宝石 \n単独で合成して出力を選択
+ko1	(消費 3pt) \n現在の出力: 傷のある宝石 \n単独で合成して出力を選択
+ko2	(消費 9pt) \n現在の出力: 普通の宝石 \n単独で合成して出力を選択
+ko3	(消費 27pt) \n現在の出力: 無傷の宝石 \n単独で合成して出力を選択
+ko4	(消費 81pt) \n現在の出力: 汚れた宝石 \n単独で合成して出力を選択
+ko5	(消費 243pt) \n現在の出力: 完璧な宝石 \n単独で合成して出力を選択
+s01	現在の出力: い \n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s02	現在の出力: う \n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s03	現在の出力: し \n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s04	現在の出力: か \n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s05	現在の出力: ん \n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s06	現在の出力: く \n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s07	現在の出力: よ \n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s08	現在の出力: \red;き \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s09	現在の出力: \red;り \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s10	現在の出力: \red;み \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s11	現在の出力: \red;や \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s12	現在の出力: \red;あ \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s13	現在の出力: \red;つ \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s14	現在の出力: \red;ち \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s15	現在の出力: \yellow;さ \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s16	現在の出力: \yellow;ゆ \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s17	現在の出力: \yellow;け \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s18	現在の出力: \yellow;え \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s19	現在の出力: \yellow;こ \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s20	現在の出力: \yellow;ら \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s21	現在の出力: \yellow;お \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s22	現在の出力: \orange;ほ \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s23	現在の出力: \orange;め \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s24	現在の出力: \orange;る \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s25	現在の出力: \orange;た \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s26	現在の出力: \orange;と \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s27	現在の出力: \orange;わ \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s28	現在の出力: \orange;は \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s29	現在の出力: \green;な \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s30	現在の出力: \green;に \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s31	現在の出力: \green;せ \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s32	現在の出力: \green;ふ \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s33	現在の出力: \green;ま \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s34	現在の出力: \green;ひ \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s35	現在の出力: \green;も \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s36	現在の出力: \gold;の \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s37	現在の出力: \gold;て \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s38	現在の出力: \gold;ろ \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s39	現在の出力: \gold;そ \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s40	現在の出力: \gold;む \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s41	現在の出力: \gold;ね \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s42	現在の出力: \gold;れ \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s43	現在の出力: \purple;す \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s44	現在の出力: \purple;へ \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s45	現在の出力: \purple;ぬ \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s46	現在の出力: \purple;を \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nルーンと合成して収納
+s51	現在の出力: \blue;エル \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s52	現在の出力: \blue;エルド \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s53	現在の出力: \blue;ティル \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s54	現在の出力: \blue;ネフ \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s55	現在の出力: \blue;エス \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s56	現在の出力: \blue;イス \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s57	現在の出力: \blue;タル \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s58	現在の出力: \blue;ラル \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s59	現在の出力: \blue;オート \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s60	現在の出力: \blue;スル \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s61	現在の出力: \blue;アムン \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s62	現在の出力: \blue;ソル \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s63	現在の出力: \blue;シャエル \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s64	現在の出力: \blue;ドル \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s65	現在の出力: \blue;ヘル \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s66	現在の出力: \blue;イオ \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s67	現在の出力: \blue;ルム \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s68	現在の出力: \blue;コー \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s69	現在の出力: \blue;ファル \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s70	現在の出力: \blue;レム \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s71	現在の出力: \blue;プル \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s72	現在の出力: \blue;ウム \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s73	現在の出力: \blue;マル \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s74	現在の出力: \blue;イスト \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s75	現在の出力: \blue;ガル \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s76	現在の出力: \blue;ヴェックス \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s77	現在の出力: \blue;オーム \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s78	現在の出力: \blue;ロー \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s79	現在の出力: \blue;サー \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s80	現在の出力: \blue;バー \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s81	現在の出力: \blue;ジャ \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s82	現在の出力: \blue;チャム \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+s83	現在の出力: \blue;ゾッド \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \nデカールと合成して収納
+w31	現在の出力: \gold;#1 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w32	現在の出力: \gold;#2 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w33	現在の出力: \gold;#3 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w34	現在の出力: \gold;#4 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w35	現在の出力: \gold;#5 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w36	現在の出力: \gold;#6 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w37	現在の出力: \gold;#7 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w38	現在の出力: \gold;#8 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w39	現在の出力: \gold;#9 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w40	現在の出力: \gold;#10 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w41	現在の出力: \gold;#11 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w42	現在の出力: \gold;#12 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w43	現在の出力: \gold;#13 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w44	現在の出力: \gold;#14 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w45	現在の出力: \gold;#15 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w46	現在の出力: \gold;#16 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w47	現在の出力: \gold;#17 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w48	現在の出力: \gold;#18 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w49	現在の出力: \gold;#19 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w50	現在の出力: \gold;#20 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w51	現在の出力: \gold;#21 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w52	現在の出力: \gold;#22 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w53	現在の出力: \gold;#23 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w54	現在の出力: \gold;#24 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w55	現在の出力: \gold;#25 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w56	現在の出力: \gold;#26 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w57	現在の出力: \gold;#27 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w58	現在の出力: \gold;#28 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w59	現在の出力: \gold;#29 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w60	現在の出力: \gold;#30 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w61	現在の出力: \gold;#31 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w62	現在の出力: \gold;#32 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w63	現在の出力: \gold;#33 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w64	現在の出力: \gold;#34 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w65	現在の出力: \gold;#35 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w66	現在の出力: \gold;#36 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w67	現在の出力: \gold;#37 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w68	現在の出力: \gold;#38 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w69	現在の出力: \gold;#39 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w70	現在の出力: \gold;#40 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w71	現在の出力: \gold;#41 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w72	現在の出力: \gold;#42 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w73	現在の出力: \gold;#43 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w74	現在の出力: \gold;#44 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w75	現在の出力: \gold;#45 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w76	現在の出力: \gold;#46 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w77	現在の出力: \gold;#47 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w78	現在の出力: \gold;#48 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w79	現在の出力: \gold;#49 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+w80	現在の出力: \gold;#50 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n古代の巻物と合成して収納
+t01	現在の出力: \blue;マジック指輪 \grey;(消費 3pt) \n単独で合成して出力を選択 \n変化形を使うと対応したクラス指輪に) \n(鍵の代わりにドラゴン・ストーンの \n鍵と合成してリロール \nと合成してポイントをためる \n\blue;青 \grey; 指輪/護符/ジュエル/チャーム/矢
+t02	現在の出力: \yellow;レア指輪 \grey;(消費 7pt) \n単独で合成して出力を選択 \n変化形を使うと対応したクラス指輪に) \n(鍵の代わりにドラゴン・ストーンの \n鍵と合成してリロール \nと合成してポイントをためる \n\blue;青 \grey;指輪/護符/ジュエル/チャーム/矢
+t03	現在の出力: \blue;マジック護符 \grey;(消費 3pt) \n単独で合成して出力を選択 \n変化形を使うと対応したクラス指輪に) \n(鍵の代わりにドラゴン・ストーンの \n鍵と合成してリロール \nと合成してポイントをためる \n\blue;青 \grey;指輪/護符/ジュエル/チャーム/矢
+t04	現在の出力: \yellow;レア護符 \grey;(消費 7pt) \n単独で合成して出力を選択 \n変化形を使うと対応したクラス指輪に) \n(鍵の代わりにドラゴン・ストーンの \n鍵と合成してリロール \nと合成してポイントをためる \n\blue;青 \grey;指輪/護符/ジュエル/チャーム/矢
+t05	現在の出力: \blue;マジック・ジュエル \grey;(消費 3pt) \n単独で合成して出力を選択 \n鍵と合成してリロール \nと合成してポイントをためる \n\blue;青 \grey;指輪/護符/ジュエル/チャーム/矢
+t06	現在の出力: \yellow;レア・ジュエル \grey;(消費 7pt) \n単独で合成して出力を選択 \n鍵と合成してリロール \nと合成してポイントをためる \n\blue;青 \grey;指輪/護符/ジュエル/チャーム/矢
+t07	現在の出力: \blue;マジックSC \grey;(消費 3pt) \n単独で合成して出力を選択 \n鍵と合成してリロール \nと合成してポイントをためる \n\blue;青 \grey;指輪/護符/ジュエル/チャーム/矢
+t08	現在の出力: \yellow;レアSC \grey;(消費 7pt) \n単独で合成して出力を選択 \n\gold;古代の巻物 27 \grey;と合成してリロール \nと合成してポイントをためる \n\blue;青 \grey;指輪/護符/ジュエル/チャーム/矢
+t09	現在の出力: \blue;マジックLC \grey;(消費 3pt) \n単独で合成して出力を選択 \n鍵と合成してリロール \nと合成してポイントをためる \n\blue;青 \grey;指輪/護符/ジュエル/チャーム/矢
+t10	現在の出力: \yellow;レアLC \grey;(消費 7pt) \n単独で合成して出力を選択 \n\gold;古代の巻物 27 \grey;と合成してリロール \nと合成してポイントをためる \n\blue;青 \grey;指輪/護符/ジュエル/チャーム/矢
+t11	現在の出力: \blue;マジックGC \grey;(消費 3pt) \n単独で合成して出力を選択 \n鍵と合成してリロール \nと合成してポイントをためる \n\blue;青 \grey;指輪/護符/ジュエル/チャーム/矢
+t12	現在の出力: \yellow;レアGC \grey;(消費 7pt) \n単独で合成して出力を選択 \n\gold;古代の巻物 27 \grey;と合成してリロール \nと合成してポイントをためる \n\blue;青 \grey;指輪/護符/ジュエル/チャーム/矢
+t13	現在の出力: \blue;マジック矢 \grey;(消費 3pt) \n単独で合成して出力を選択 \n鍵と合成してリロール \nと合成してポイントをためる \n\blue;青 \grey;指輪/護符/ジュエル/チャーム/矢
+t14	現在の出力: \yellow;レア矢 \grey;(消費 7pt) \n単独で合成して出力を選択 \n鍵と合成してリロール \nと合成してポイントをためる \n\blue;青 \grey;指輪/護符/ジュエル/チャーム/矢
+t15	現在の出力: \blue;マジック・ボルト \grey;(消費 3pt) \n単独で合成して出力を選択 \n鍵と合成してリロール \nと合成してポイントをためる \n\blue;青 \grey;指輪/護符/ジュエル/チャーム/矢
+t51	現在の出力: \gold;メイプルリーフ金貨 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n合成材料等と合成して収納
+t52	現在の出力: \purple;ドラゴン・ストーン \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n合成材料等と合成して収納
+t53	現在の出力: \gold;古代の解読片 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n合成材料等と合成して収納
+t54	現在の出力: \yellow;クックブック \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n合成材料等と合成して収納
+t55	現在の出力: \red;ステーキ \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n合成材料等と合成して収納
+t56	現在の出力: \red;脳 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n合成材料等と合成して収納
+t57	現在の出力: \yellow;眼 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n合成材料等と合成して収納
+t58	現在の出力: \dgrey;棘 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n合成材料等と合成して収納
+t59	現在の出力: \purple;鱗 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n合成材料等と合成して収納
+t60	現在の出力: \orange;尾 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n合成材料等と合成して収納
+t61	現在の出力: \tan;顎骨 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n合成材料等と合成して収納
+t62	現在の出力: \dgrey;牙 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n合成材料等と合成して収納
+t63	現在の出力: \dgreen;角 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n合成材料等と合成して収納
+t64	現在の出力: \dgreen;頭皮 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n合成材料等と合成して収納
+t65	現在の出力: \red;心臓 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n合成材料等と合成して収納
+t66	現在の出力: \blue;魂 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n合成材料等と合成して収納
+t67	現在の出力: 耳 \n単独で合成して出力を選択 \n鍵と合成して取り出し \n合成材料等と合成して収納
+t68	現在の出力: \red;旗 \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n合成材料等と合成して収納
+t69	現在の出力: \orange;穴あけドーナツ \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n合成材料等と合成して収納
+t70	現在の出力: \red;白紙クーポン (ノーマル) \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n合成材料等と合成して収納
+t71	現在の出力: \dgrey;白紙クーポン (上位) \grey;\n単独で合成して出力を選択 \n鍵と合成して取り出し \n合成材料等と合成して収納
+ear2	\white;耳
+99j2	\orange;ワイルドカード
+rvs2	\purple;完全復活ポーション
+jr1	指輪リロール・ポイント
+jr2	護符リロール・ポイント
+jr3	ジュエル・リロール・ポイント
+jr4	SCリロール・ポイント
+jr5	LCリロール・ポイント
+jr6	GCリロール・ポイント
+Runeword1	ホーリー
+Runeword2	ホーリー
+Runeword3	ホーリー
+Runeword4	ホーリー
+Runeword5	ホーリー
+Runeword6	ホーリー
+Runeword7	ホーリー
+Runeword8	ホーリー
+Runeword9	ホーリー
+Runeword10	ホーリー
+Runeword11	ホーリー
+Runeword12	ホーリー
+Runeword13	ホーリー
+Runeword14	ホーリー
+Runeword15	ホーリー
+Runeword16	ホーリー
+Runeword17	ホーリー
+Runeword18	ホーリー
+Runeword19	ホーリー
+Runeword20	ホーリー
+Runeword21	ホーリー
+Runeword22	ホーリー
+Runeword23	ホーリー
+Runeword24	ホーリー
+Runeword25	ホーリー
+Runeword26	ホーリー
+Runeword27	ホーリー
+Runeword28	ホーリー
+Runeword29	ホーリー
+Runeword30	ホーリー
+Runeword31	ホーリー
+Runeword32	ホーリー
+Runeword33	ホーリー
+Runeword34	ホーリー
+Runeword35	ホーリー
+Runeword36	ホーリー
+Runeword37	ホーリー
+Runeword38	ホーリー
+Runeword39	ホーリー
+Runeword40	ホーリー
+Runeword41	ホーリー
+Runeword42	ホーリー
+Runeword43	ホーリー
+Runeword44	ホーリー
+Runeword45	ホーリー
+Runeword46	ホーリー
+Runeword47	ホーリー
+Runeword48	ホーリー
+Runeword49	ホーリー
+Runeword50	ホーリー
+Runeword51	ホーリー
+Runeword52	ホーリー
+Runeword53	ホーリー
+Runeword54	ホーリー
+Runeword55	ホーリー
+Runeword56	ホーリー
+Runeword57	ホーリー
+Runeword58	ホーリー
+Runeword59	ホーリー
+Runeword60	ホーリー
+Runeword61	ホーリー
+Runeword62	ホーリー
+Runeword63	ホーリー
+Runeword64	ホーリー
+Runeword65	ホーリー
+Runeword66	ホーリー
+Runeword67	ホーリー
+Runeword68	ホーリー
+Runeword69	ホーリー
+Runeword70	ホーリー
+Runeword71	ホーリー
+Runeword72	ホーリー
+Runeword73	マイティ
+Runeword74	マイティ
+Runeword75	マイティ
+Runeword76	マイティ
+Runeword77	マイティ
+Runeword78	マイティ
+Runeword79	マイティ
+Runeword80	マイティ
+Runeword81	マイティ
+Runeword82	マイティ
+Runeword83	マイティ
+Runeword84	マイティ
+Runeword85	マイティ
+Runeword86	マイティ
+Runeword87	マイティ
+Runeword88	マイティ
+Runeword89	マイティ
+Runeword90	マイティ
+Runeword91	マイティ
+Runeword92	マイティ
+Runeword93	マイティ
+Runeword94	マイティ
+Runeword95	マイティ
+Runeword96	マイティ
+Runeword97	マイティ
+Runeword98	マイティ
+Runeword99	マイティ
+Runeword100	マイティ
+Runeword101	マイティ
+Runeword102	マイティ
+Runeword103	マイティ
+Runeword104	マイティ
+Runeword105	マイティ
+Runeword106	マイティ
+Runeword107	マイティ
+Runeword108	マイティ
+Runeword109	マイティ
+Runeword110	マイティ
+Runeword111	マイティ
+Runeword112	マイティ
+Runeword113	マイティ
+Runeword114	マイティ
+Runeword115	マイティ
+Runeword116	マイティ
+Runeword117	マイティ
+Runeword118	マイティ
+Runeword119	マイティ
+Runeword120	マイティ
+Runeword121	マイティ
+Runeword122	マイティ
+Runeword123	マイティ
+Runeword124	マイティ
+Runeword125	マイティ
+Runeword126	マイティ
+Runeword127	マイティ
+Runeword128	マイティ
+Runeword129	マイティ
+Runeword130	マイティ
+Runeword131	マイティ
+Runeword132	マイティ
+Runeword133	マイティ
+Runeword134	マイティ
+Runeword135	マイティ
+Runeword136	マイティ
+Runeword137	マイティ
+Runeword138	マイティ
+Runeword139	マイティ
+Runeword140	マイティ
+Runeword141	マイティ
+Runeword142	マイティ
+Runeword143	マイティ
+Runeword144	マイティ
+Runeword145	ポイゾナス
+Runeword146	ポイゾナス
+Runeword147	ポイゾナス
+Runeword148	ポイゾナス
+Runeword149	ポイゾナス
+Runeword150	ポイゾナス
+Runeword151	ポイゾナス
+Runeword152	ポイゾナス
+Runeword153	ポイゾナス
+Runeword154	ポイゾナス
+Runeword155	ポイゾナス
+Runeword156	ポイゾナス
+Runeword157	ポイゾナス
+Runeword158	ポイゾナス
+Runeword159	ポイゾナス
+Runeword160	ポイゾナス
+Runeword161	ポイゾナス
+Runeword162	ポイゾナス
+Runeword163	ポイゾナス
+Runeword164	ポイゾナス
+Runeword165	ポイゾナス
+Runeword166	ポイゾナス
+Runeword167	ポイゾナス
+Runeword168	ポイゾナス
+Runeword169	ポイゾナス
+Runeword170	ポイゾナス
+Runeword171	ポイゾナス
+Runeword172	ポイゾナス
+Runeword173	ポイゾナス
+Runeword174	ポイゾナス
+Runeword175	ポイゾナス
+Runeword176	ポイゾナス
+Runeword177	ポイゾナス
+Runeword178	ポイゾナス
+Runeword179	ポイゾナス
+Runeword180	ポイゾナス
+Runeword181	ポイゾナス
+Runeword182	ポイゾナス
+Runeword183	ポイゾナス
+Runeword184	ポイゾナス
+Runeword185	ポイゾナス
+Runeword186	ポイゾナス
+Runeword187	ポイゾナス
+Runeword188	ポイゾナス
+Runeword189	ポイゾナス
+Runeword190	ポイゾナス
+Runeword191	ポイゾナス
+Runeword192	ポイゾナス
+Runeword193	ポイゾナス
+Runeword194	ポイゾナス
+Runeword195	ポイゾナス
+Runeword196	ポイゾナス
+Runeword197	ポイゾナス
+Runeword198	ポイゾナス
+Runeword199	ポイゾナス
+Runeword200	ポイゾナス
+Runeword201	ポイゾナス
+Runeword202	ポイゾナス
+Runeword203	ポイゾナス
+Runeword204	ポイゾナス
+Runeword205	ポイゾナス
+Runeword206	ポイゾナス
+Runeword207	ポイゾナス
+Runeword208	ポイゾナス
+Runeword209	ポイゾナス
+Runeword210	ポイゾナス
+Runeword211	ポイゾナス
+Runeword212	ポイゾナス
+Runeword213	ポイゾナス
+Runeword214	ポイゾナス
+Runeword215	ポイゾナス
+Runeword216	ポイゾナス
+Runeword217	デッドリー
+Runeword218	デッドリー
+Runeword219	デッドリー
+Runeword220	デッドリー
+Runeword221	デッドリー
+Runeword222	デッドリー
+Runeword223	デッドリー
+Runeword224	デッドリー
+Runeword225	デッドリー
+Runeword226	デッドリー
+Runeword227	デッドリー
+Runeword228	デッドリー
+Runeword229	デッドリー
+Runeword230	デッドリー
+Runeword231	デッドリー
+Runeword232	デッドリー
+Runeword233	デッドリー
+Runeword234	デッドリー
+Runeword235	デッドリー
+Runeword236	デッドリー
+Runeword237	デッドリー
+Runeword238	デッドリー
+Runeword239	デッドリー
+Runeword240	デッドリー
+Runeword241	デッドリー
+Runeword242	デッドリー
+Runeword243	デッドリー
+Runeword244	デッドリー
+Runeword245	デッドリー
+Runeword246	デッドリー
+Runeword247	デッドリー
+Runeword248	デッドリー
+Runeword249	デッドリー
+Runeword250	デッドリー
+Runeword251	デッドリー
+Runeword252	デッドリー
+Runeword253	デッドリー
+Runeword254	デッドリー
+Runeword255	デッドリー
+Runeword256	デッドリー
+Runeword257	デッドリー
+Runeword258	デッドリー
+Runeword259	デッドリー
+Runeword260	デッドリー
+Runeword261	デッドリー
+Runeword262	デッドリー
+Runeword263	デッドリー
+Runeword264	デッドリー
+Runeword265	デッドリー
+Runeword266	デッドリー
+Runeword267	デッドリー
+Runeword268	デッドリー
+Runeword269	デッドリー
+Runeword270	デッドリー
+Runeword271	デッドリー
+Runeword272	デッドリー
+Runeword273	デッドリー
+Runeword274	デッドリー
+Runeword275	デッドリー
+Runeword276	デッドリー
+Runeword277	デッドリー
+Runeword278	デッドリー
+Runeword279	デッドリー
+Runeword280	デッドリー
+Runeword281	デッドリー
+Runeword282	デッドリー
+Runeword283	デッドリー
+Runeword284	デッドリー
+Runeword285	デッドリー
+Runeword286	デッドリー
+Runeword287	デッドリー
+Runeword288	デッドリー
+Runeword289	ショッキング
+Runeword290	ショッキング
+Runeword291	ショッキング
+Runeword292	ショッキング
+Runeword293	ショッキング
+Runeword294	ショッキング
+Runeword295	ショッキング
+Runeword296	ショッキング
+Runeword297	ショッキング
+Runeword298	ショッキング
+Runeword299	ショッキング
+Runeword300	ショッキング
+Runeword301	ショッキング
+Runeword302	ショッキング
+Runeword303	ショッキング
+Runeword304	ショッキング
+Runeword305	ショッキング
+Runeword306	ショッキング
+Runeword307	ショッキング
+Runeword308	ショッキング
+Runeword309	ショッキング
+Runeword310	ショッキング
+Runeword311	ショッキング
+Runeword312	ショッキング
+Runeword313	ショッキング
+Runeword314	ショッキング
+Runeword315	ショッキング
+Runeword316	ショッキング
+Runeword317	ショッキング
+Runeword318	ショッキング
+Runeword319	ショッキング
+Runeword320	ショッキング
+Runeword321	ショッキング
+Runeword322	ショッキング
+Runeword323	ショッキング
+Runeword324	ショッキング
+Runeword325	ショッキング
+Runeword326	ショッキング
+Runeword327	ショッキング
+Runeword328	ショッキング
+Runeword329	ショッキング
+Runeword330	ショッキング
+Runeword331	ショッキング
+Runeword332	ショッキング
+Runeword333	ショッキング
+Runeword334	ショッキング
+Runeword335	ショッキング
+Runeword336	ショッキング
+Runeword337	ショッキング
+Runeword338	ショッキング
+Runeword339	ショッキング
+Runeword340	ショッキング
+Runeword341	ショッキング
+Runeword342	ショッキング
+Runeword343	ショッキング
+Runeword344	ショッキング
+Runeword345	ショッキング
+Runeword346	ショッキング
+Runeword347	ショッキング
+Runeword348	ショッキング
+Runeword349	ショッキング
+Runeword350	ショッキング
+Runeword351	ショッキング
+Runeword352	ショッキング
+Runeword353	ショッキング
+Runeword354	ショッキング
+Runeword355	ショッキング
+Runeword356	ショッキング
+Runeword357	ショッキング
+Runeword358	ショッキング
+Runeword359	ショッキング
+Runeword360	ショッキング
+Runeword361	エィンシェント
+Runeword362	エィンシェント
+Runeword363	エィンシェント
+Runeword364	エィンシェント
+Runeword365	エィンシェント
+Runeword366	エィンシェント
+Runeword367	エィンシェント
+Runeword368	エィンシェント
+Runeword369	エィンシェント
+Runeword370	エィンシェント
+Runeword371	エィンシェント
+Runeword372	エィンシェント
+Runeword373	エィンシェント
+Runeword374	エィンシェント
+Runeword375	エィンシェント
+Runeword376	エィンシェント
+Runeword377	エィンシェント
+Runeword378	エィンシェント
+Runeword379	エィンシェント
+Runeword380	エィンシェント
+Runeword381	エィンシェント
+Runeword382	エィンシェント
+Runeword383	エィンシェント
+Runeword384	エィンシェント
+Runeword385	エィンシェント
+Runeword386	エィンシェント
+Runeword387	エィンシェント
+Runeword388	エィンシェント
+Runeword389	エィンシェント
+Runeword390	エィンシェント
+Runeword391	エィンシェント
+Runeword392	エィンシェント
+Runeword393	エィンシェント
+Runeword394	エィンシェント
+Runeword395	エィンシェント
+Runeword396	エィンシェント
+Runeword397	エィンシェント
+Runeword398	エィンシェント
+Runeword399	エィンシェント
+Runeword400	エィンシェント
+Runeword401	エィンシェント
+Runeword402	エィンシェント
+Runeword403	エィンシェント
+Runeword404	エィンシェント
+Runeword405	エィンシェント
+Runeword406	エィンシェント
+Runeword407	エィンシェント
+Runeword408	エィンシェント
+Runeword409	エィンシェント
+Runeword410	エィンシェント
+Runeword411	エィンシェント
+Runeword412	エィンシェント
+Runeword413	エィンシェント
+Runeword414	エィンシェント
+Runeword415	エィンシェント
+Runeword416	エィンシェント
+Runeword417	エィンシェント
+Runeword418	エィンシェント
+Runeword419	エィンシェント
+Runeword420	エィンシェント
+Runeword421	エィンシェント
+Runeword422	エィンシェント
+Runeword423	エィンシェント
+Runeword424	エィンシェント
+Runeword425	エィンシェント
+Runeword426	エィンシェント
+Runeword427	エィンシェント
+Runeword428	エィンシェント
+Runeword429	エィンシェント
+Runeword430	エィンシェント
+Runeword431	エィンシェント
+Runeword432	エィンシェント
+Runeword433	チリング
+Runeword434	チリング
+Runeword435	チリング
+Runeword436	チリング
+Runeword437	チリング
+Runeword438	チリング
+Runeword439	チリング
+Runeword440	チリング
+Runeword441	チリング
+Runeword442	チリング
+Runeword443	チリング
+Runeword444	チリング
+Runeword445	チリング
+Runeword446	チリング
+Runeword447	チリング
+Runeword448	チリング
+Runeword449	チリング
+Runeword450	チリング
+Runeword451	チリング
+Runeword452	チリング
+Runeword453	チリング
+Runeword454	チリング
+Runeword455	チリング
+Runeword456	チリング
+Runeword457	チリング
+Runeword458	チリング
+Runeword459	チリング
+Runeword460	チリング
+Runeword461	チリング
+Runeword462	チリング
+Runeword463	チリング
+Runeword464	チリング
+Runeword465	チリング
+Runeword466	チリング
+Runeword467	チリング
+Runeword468	チリング
+Runeword469	チリング
+Runeword470	チリング
+Runeword471	チリング
+Runeword472	チリング
+Runeword473	チリング
+Runeword474	チリング
+Runeword475	チリング
+Runeword476	チリング
+Runeword477	チリング
+Runeword478	チリング
+Runeword479	チリング
+Runeword480	チリング
+Runeword481	チリング
+Runeword482	チリング
+Runeword483	チリング
+Runeword484	チリング
+Runeword485	チリング
+Runeword486	チリング
+Runeword487	チリング
+Runeword488	チリング
+Runeword489	チリング
+Runeword490	チリング
+Runeword491	チリング
+Runeword492	チリング
+Runeword493	チリング
+Runeword494	チリング
+Runeword495	チリング
+Runeword496	チリング
+Runeword497	チリング
+Runeword498	チリング
+Runeword499	チリング
+Runeword500	チリング
+Runeword501	チリング
+Runeword502	チリング
+Runeword503	チリング
+Runeword504	チリング
+Runeword505	ルイン
+Runeword506	ルイン
+Runeword507	ルイン
+Runeword508	ルイン
+Runeword509	ルイン
+Runeword510	ルイン
+Runeword511	ルイン
+Runeword512	ルイン
+Runeword513	ルイン
+Runeword514	ルイン
+Runeword515	ルイン
+Runeword516	ルイン
+Runeword517	ルイン
+Runeword518	ルイン
+Runeword519	ルイン
+Runeword520	ルイン
+Runeword521	ルイン
+Runeword522	ルイン
+Runeword523	ルイン
+Runeword524	ルイン
+Runeword525	ルイン
+Runeword526	ルイン
+Runeword527	ルイン
+Runeword528	ルイン
+Runeword529	ルイン
+Runeword530	ルイン
+Runeword531	ルイン
+Runeword532	ルイン
+Runeword533	ルイン
+Runeword534	ルイン
+Runeword535	ルイン
+Runeword536	ルイン
+Runeword537	ルイン
+Runeword538	ルイン
+Runeword539	ルイン
+Runeword540	ルイン
+Runeword541	ルイン
+Runeword542	ルイン
+Runeword543	ルイン
+Runeword544	ルイン
+Runeword545	ルイン
+Runeword546	ルイン
+Runeword547	ルイン
+Runeword548	ルイン
+Runeword549	ルイン
+Runeword550	ルイン
+Runeword551	ルイン
+Runeword552	ルイン
+Runeword553	ルイン
+Runeword554	ルイン
+Runeword555	ルイン
+Runeword556	ルイン
+Runeword557	ルイン
+Runeword558	ルイン
+Runeword559	ルイン
+Runeword560	ルイン
+Runeword561	ルイン
+Runeword562	ルイン
+Runeword563	ルイン
+Runeword564	ルイン
+Runeword565	ルイン
+Runeword566	ルイン
+Runeword567	ルイン
+Runeword568	ルイン
+Runeword569	ルイン
+Runeword570	ルイン
+Runeword571	ルイン
+Runeword572	ルイン
+Runeword573	ルイン
+Runeword574	ルイン
+Runeword575	ルイン
+Runeword576	ルイン
+Runeword577	レインボウ
+Runeword578	レインボウ
+Runeword579	アーク・ディメロン
+Runeword580	ボア
+Runeword581	ヘア
+Runeword582	デス
+Runeword583	ストーン
+Runeword584	カウ
+Runeword585	ラック
+Runeword586	エヴォリューション
+Runeword587	フィール
+Runeword588	ヴォイド
+Runeword589	ブランディッシュ
+Runeword590	ブランディッシュ
+Runeword591	フォーフィール
+Runeword592	グリード
+Runeword593	マシン
+Runeword594	マシン
+Runeword595	ゴールド
+Runeword596	コンポージャー
+Runeword597	メロディ
+Runeword598	ファミン
+Runeword599	インサニティ
+Runeword600	ハント
+Runeword601	ラス
+Runeword602	ラス
+Runeword603	フォッグ
+Runeword604	ノワール
+Runeword605	ノワール
+Runeword606	サーペント
+Runeword607	ハデス
+Runeword608	ダークネス
+Runeword609	レッド
+Runeword610	レッド
+Runeword611	エグズーベランス
+Runeword612	イーヴィル
+Runeword613	マリス
+Runeword614	オータム
+Runeword615	ライト
+Runeword616	ライト
+Runeword617	ビューティ
+Runeword618	ストレンクス
+Runeword619	ムーン
+Runeword620	シン
+Runeword621	ヴィクトリー
+Runeword622	オウス
+Runeword623	ミレニアム
+Runeword624	ナリッジ
+Runeword625	フォートレス
+Runeword626	ウィスパー
+Runeword627	リーズン
+Runeword628	セヴァーント
+Runeword629	グルーム
+Runeword630	飛天御剣流
+Runeword631	ハンブル
+Runeword632	アセンド
+Runeword633	ウィズダム
+Runeword634	ブラッド
+Runeword635	エターニティ
+Runeword636	ローヤルティ
+Runeword637	フォーチュン
+Runeword638	フォーチュン
+Runeword639	フェイス
+Runeword640	ジャーニー
+Runeword641	エフィシェンシー
+Runeword642	ヘルシー
+Runeword643	グローリー
+Runeword644	トラスト
+Runeword645	トラスト
+Runeword646	ストーム
+Runeword647	サイキック
+Runeword648	チェリー・ブラッサム
+Runeword649	コンクエスト
+Runeword650	メモリー
+Runeword651	アイス
+Runeword652	キャプティヴ
+Runeword653	レイディオアクティヴ
+Runeword654	ロー
+Runeword655	プライド
+Runeword656	デンシティ
+Runeword657	オナー
+Runeword658	レイン
+Runeword659	レイン
+Runeword660	プリンセス
+Runeword661	ドリーム
+Runeword662	ドリーム
+Runeword663	ドリーム
+Runeword664	サンダー
+Runeword665	リッチス・ドット・コム
+Runeword666	モンキー
+Runeword667	プレイズ
+Runeword668	ペインフル
+Runeword669	ホーク
+Runeword670	アブソリュート
+Runeword671	アブソリュート
+Runeword672	ドラゴン
+Runeword673	カレッジ
+Runeword674	トラディション
+Runeword675	バード
+Runeword676	ウェルス
+Runeword677	ウェルス
+Runeword678	オポージング・ディスティニー
+Runeword679	ジェラシー
+Runeword680	タイガー
+Runeword681	アチーヴ
+Runeword682	壬生の狼
+Runeword683	インペチュアス
+Runeword684	アーマゲドン
+Runeword685	ケイオス
+Runeword686	メイデン
+Runeword687	ミス
+Runeword688	デセプション
+Runeword689	デセプション
+Runeword690	ユース
+Runeword691	イラストリアス
+Runeword692	テンプテーション
+Runeword693	シンセリティ
+Runeword694	シンセリティ
+Runeword695	アバリッシュ
+Runeword696	デストラクション
+Runeword697	デストラクション
+Runeword698	エコー
+Runeword699	デュレス
+Runeword700	ロード
+Runeword701	ジャッジメント
+Runeword702	ピラー・オヴ・フェイス
+Runeword703	サイヤ人
+Runeword704	サイヤ人
+Runeword705	スプリング
+Runeword706	アニマル・フレンド
+Runeword707	アニマル・フレンド
+Runeword708	サロウ
+Runeword709	サロウ
+Runeword710	サロウ
+Runeword711	ライトニング
+Runeword712	ライトニング
+Runeword713	サマー
+Runeword714	サマー
+Runeword715	樹雷
+Runeword716	ライオンハート
+Runeword717	ヘイトリッド
+Runeword718	ブッチャー
+Runeword719	オーソリティ
+Runeword720	オーソリティ
+Runeword721	シークレット
+Runeword722	ペイシェンス
+Runeword723	ファスル・オヴ・サン
+Runeword724	ディヴァイン
+Runeword725	アキュラシー
+Runeword726	アキュラシー
+Runeword727	アシッド
+Runeword728	ハーモニー
+Runeword729	ラーンド・ワン
+Runeword730	ハンガー
+Runeword731	テラー
+Runeword732	ストマック・エイク
+Runeword733	エッジ
+Runeword734	フェニックス
+Runeword735	ウィンター
+Runeword736	ヴェンジェンス
+Runeword737	アバンダント
+Runeword738	アンロウフル
+Runeword739	グラトニー
+Runeword740	ホース
+Runeword741	インドミタブル
+Runeword742	ノーブル・オーガ
+Runeword743	メディシン
+Runeword744	シープ
+Runeword745	レイディアンス
+Runeword746	トリップ
+Runeword747	ワン
+Runeword748	ザ・ラバーズ
+Runeword749	デイライト
+Runeword750	パターン
+Runeword751	ミスト
+Runeword752	ミスト
+Runeword753	ミスト
+Runeword754	クエスチョン
+Runeword755	クエスチョン
+Runeword756	サイレンス
+Runeword757	エンライトンメント
+Runeword758	フロストバイト
+Runeword759	ディシプリン
+Runeword760	プレイヤー
+Runeword761	エイブル
+Runeword762	ゴールデン・ドラゴン
+Runeword763	ダーク・スター
+Runeword764	ネイチャーズ・キングダム
+Runeword765	マスター・キー
+Runeword766	ゼニス
+Runeword767	リーサル
+Runeword768	サースト
+Runeword769	フェミニン
+Runeword770	フェミニン
+Runeword771	フェミニン
+Runeword772	ヘヴンズ・ウィル
+Runeword773	ホワイト
+Runeword774	ブラック
+Runeword775	スピリット
+Runeword776	ワンダラー
+Runeword777	フェイド
+Runeword778	ソート
+Runeword779	フューリー
+Runeword780	ウォー
+Runeword781	スモーク
+Runeword782	エンヴィ
+Runeword783	ラット
+Runeword784	ホット
+Runeword785	フォックス
+Runeword786	ボーン
+Runeword787	ナイトガウン
+Runeword788	ドーム
+Runeword789	グランド・レオン
+Runeword790	リフト
+Runeword791	オビーディエンス
+Runeword792	ドレッド
+Runeword793	アンノウン
+Runeword794	ドッジ
+Runeword795	アドミレーション
+Runeword796	ジンデュジュン
+Runeword797	リヴェンジ
+Runeword798	バーン
+Runeword799	アバンドン
+Runeword800	トランスフォーメーション
+Runeword801	ピース
+Runeword802	プラシディティ
+Runeword803	ホランゾン
+Runeword804	ディスコンテント
+Runeword805	ハウンド
+Runeword806	デーモン
+Runeword807	インサイト
+Runeword808	カンニング
+Runeword809	レイジ
+Runeword810	ターミネート
+Runeword811	エターナル・レイン
+Runeword812	チェンジ
+Runeword813	チェンジ
+Runeword814	ソウル・スティーラー
+Runeword815	古き民の免状
+Runeword816	ブラック
+Runeword817	フューリー
+Runeword818	ホーリー・サンダー
+Runeword819	オナー
+Runeword820	キングズ・グレイス
+Runeword821	リーフ
+Runeword822	ライオンハート
+Runeword823	ロアー
+Runeword824	マリス
+Runeword825	メロディ
+Runeword826	メモリー
+Runeword827	ネイディア
+Runeword828	レイディアンス
+Runeword829	ライム
+Runeword830	サイレンス
+Runeword831	スモーク
+Runeword832	ステルス
+Runeword833	スティール
+Runeword834	ストレングス
+Runeword835	ヴェノム
+Runeword836	ウェルス
+Runeword837	ホワイト
+Runeword838	ゼフィール
+Runeword839	ビースト
+Runeword840	ブランブル
+Runeword841	ブレス・オヴ・ザ・ダイイング
+Runeword842	コール・トゥ・アームズ
+Runeword843	ケイオス
+Runeword844	チェインズ・オヴ・オナー
+Runeword845	クレッセント・ムーン
+Runeword846	ディリリアム
+Runeword847	ドゥーム
+Runeword848	ドゥレス
+Runeword849	エニグマ
+Runeword850	エターニティ
+Runeword851	エグザイル
+Runeword852	ファミン
+Runeword853	グルーム
+Runeword854	ハンド・オヴ・ジャスティス
+Runeword855	ハート・オヴ・ジ・オーク
+Runeword856	キングスレイヤー
+Runeword857	パッション
+Runeword858	プルーデンス
+Runeword859	サンクチュアリ
+Runeword860	スプレンダー
+Runeword861	ストーン
+Runeword862	ウィンド
+Runeword863	ブランド
+Runeword864	デス
+Runeword865	ディストラクション
+Runeword866	ドラゴン
+Runeword867	ドリーム
+Runeword868	エッジ
+Runeword869	フェイス
+Runeword870	フォーティテュード
+Runeword871	グリーフ
+Runeword872	ハーモニー
+Runeword873	アイス
+Runeword874	インフィニティ
+Runeword875	インサイト
+Runeword876	ラスト・ウィッシュ
+Runeword877	ローブリンガー
+Runeword878	オース
+Runeword879	オビーディアンス
+Runeword880	フェニックス
+Runeword881	プライド
+Runeword882	リフト
+Runeword883	スピリット
+Runeword884	ヴォイス・オヴ・リーズン
+Runeword885	ラス
+Runeword886	ボーン
+Runeword887	エンライトメント
+Runeword888	ミス
+Runeword889	ピース
+Runeword890	プリンシプル
+Runeword891	レイン
+Runeword892	トリーチャリー
+Runeword893	パターン
+Runeword894	プラーグ
+Runeword895	ダンス
+Runeword896	ヘイル・ファイア
+Runeword897	シーフ
+Autolycus' Magic Tools	オートリュカスの魔導器
+Autolycus' Robes	オートリュカスのローブ
+Autolycus' Thieving Tools	オートリュカスの解錠器
+Boots of Sneaking	忍び足のブーツ
+Achilles' Advantage	アキレスの優勢
+Achilles' Force	アキレスの膂力
+Achilles' Girdle	アキレスの腰帯
+Achilles' Heel	アキレスの踵
+Diablo's End	ディアブロの最期
+Helm of Spirits	ヘルム・オヴ・スピリッツ
+Optic amulet	オプティック・アミュレット
+Armor of Gloom	アーマー・オヴ・グルーム
+Stormshield	ストームシールド
+Planet's Veneration	惑星からの敬意
+Tharn's Ward	ザーンの守護
+Bard's Graceful Hand	バードの優美なる手
+The Acolyte's Spirit	アコライト・スピリット
+Root's Banded Restraint	からみつく根の拘束
+Wanderer's Waltz	放浪者のワルツ
+Waves of Ascension	衝天の波浪
+Band of War	戦争の輪
+Band of Death	死の輪
+Band of Famine	飢餓の輪
+Band of Pestilence	疫病の輪
+Shepherd's Delight	シェパードの喜び
+Crook of the Darkest Valley	死の谷の曲杖
+Shepherd's Blessing	シェパードの祝福
+Shepherd's Invocation	シェパードの祈り
+Tasselhoff's Traveling Gear	タッセルホフの旅装
+Tasselhoff's Jerkin	タッセルホフの革上着
+Tasselhoff's Pouches	タッセルホフのポーチ
+Tasselhoff's Breaches	タッセルホフの背信
+Arctic Gear-Ama	極地の装備
+Arctic Horn-Ama	極地の角
+Arctic Mitts-Ama	極地の手袋
+Arctic Binding-Ama	極地の帯
+Gabrielle's Innocence	ガブリエルの純真
+Gabrielle's Pointed Staff	ガブリエルの尖杖
+Gabrielle's Defense	ガブリエルの守り
+Gabrielle's Revelation	ガブリエルの啓示
+Lixo's Feathers	リクソスの羽毛
+Lixo's Flight	リクソスの飛翔
+Lixo's Harp	リクソスのハープ
+Lixo's Coat	リクソスのコート
+Lixo's Jewel	リクソスのジュエル
+Aanna's Battle Dress	アーンナの戦装束
+Aanna's Touch	アーンナの松明
+Aanna's Dress	アーンナのドレス
+Aanna's Skill	アーンナの技巧
+Aanna's March	アーンナの行軍
+Alaziel's Abstraction	アラジエルの放心
+Alaziel's Point	アラジエルの穂先
+Alaziel's Protector	アラジエルのプロテクター
+Alaziel's Buckler	アラジエルのバックラー
+Alaziel's Grip	アラジエルのグリップ
+Noir's Tranquility	ノワールの静寂
+Noir's Anticipation	ノワールの予知
+Noir's Focus	ノワールの集中
+Noir's Tenacity	ノワールの執念
+Noir's Stride	ノワールの闊歩
+Milea's Majesty	ミレアの威厳
+Milea's Crown	ミレアの冠
+Milea's Maim	ミレアの癈兵槍
+Milea's Mail	ミレアの帷子
+Death's Disguise-Ass	死神の変装
+Death's Touch-Ass	死神の接触
+Death's Hand-Ass	死神の手
+Death's Guard-Ass	死神のガード
+Vega's Elegance	ベガの気品
+Vega's Beauty	ベガの美貌
+Grace	グレイス
+Power	パワー
+Vega's Sash	ベガのサッシュ
+Motoko's Captivation	素子の色香
+Motoko's Power	素子のパワー
+Motoko's Kimono	素子の着物
+Motoko's Charm	素子のチャーム
+Alora's Shadow	アローラの影
+Alora's Veil	アローラのヴェール
+Alora's Silent Assault	アローラの奇襲
+Alora's Silhouette	アローラのシルエット
+Alora's Vestige	アローラの気配
+Sascha's Jaded Kiss	サシャの義理キス
+Sascha's Deadly Point	サシャのイチコロ爪
+Sascha's Bosom	サシャの双丘
+Sascha's Jagged Strike	サシャのギザギザ爪
+Sascha's Black Slipper	サシャの黒スリッパ
+Ihsan's Shade	イーサンの影
+Ihsan's Gaze	イーサンの睨み
+Ihsan's Spine	イーサンの背骨
+Ihsan's Clutch	イーサンのかぎ爪
+Ihsan's Coil	イーサンのコイル
+Borik's Deceit	ボーリックの欺き
+Borik's Nightblade	ボーリックの夜の剣
+Borik's Dark Binding	ボーリックの闇の帯
+Borik's Black Hand	ボーリックの黒手袋
+Infernal Tools-Nec	冥界の道具
+Infernal Cranium-Nec	冥界の頭骨
+Infernal Torch-Nec	冥界のたいまつ
+Infernal Sign-Nec	冥界の紋章
+Rathol's Disease	ラソルの疾病
+Rathol's Gaze	ラソルの凝視
+Rathol's Touch	ラソルの接触
+Rathol's Fear	ラソルの恐怖
+Wrathamon's Omens	ラザモンの予兆
+Wrathamon's Skull	ラザモンのスカル
+Ebola	エボラ
+Wrathamon's Scythe of Doom	ラザモンの破滅の鎌
+Wrathamon's Cloak of Night	ラザモンの夜のとばり
+The Hands of Wier	ヴァイアーの手
+The Lich's Form	リッチの現身
+The Lich's Pate	リッチの叡智
+The Lich's Curse	リッチの呪い
+The Lich's Cage	リッチの檻
+The Lich's Clutch	リッチの爪
+The Lich's Sole	リッチの靴底
+Nupraptor's Keep	ナプラプタの砦
+Nupraptor's Skull	ナプラプタのスカル
+Nupraptor's Eradicator	ナプラプタの殲滅器
+Nupraptor's Servant	ナプラプタのしもべ
+Lim-Dul's Legion	リム＝ダルの軍団
+Lim-Dul's Hex	リム＝ダルの魔力
+Lim-Dul's High Guardian	リム＝ダルの守護魔神
+Lim-Dul's Vault	リム＝ダルの櫃
+Lim-Dul's Oath	リム＝ダルの誓約
+Ordnance of the Dark Brotherhood	闇の盟約の武器庫
+Mask of the Angel of Death	死の天使のマスク
+Flesh of the Angel of Chaos	混沌の天使の血肉
+Reaver of the Angel of A	殲滅の天使の強奪者
+Berserker's Garb-Bar	狂戦士の兵器庫
+Berserker's Headgear-Bar	狂戦士のヘッドギア
+Berserker's Hatchet-Bar	狂戦士のホーバーク
+Berserker's Hauberk-Bar	狂戦士のハチェット
+Messerschmidt's Rule	メッサーシュミットの統治
+Messerschmidt's Reaver	メッサーシュミットの略奪者
+Messerschmidt's Burning Palm	メッサーシュミットの燃えさかる掌
+Messerschmidt's Brace	メッサーシュミットの留め金
+Kain's Means of Destruction	ケインの破壊道具
+Blood Baron	ブラッド・バロン
+Kain's Fear	ケインの恐怖
+Kain's Sentinel	ケインの歩哨
+Kain's Wings	ケインの翼
+Kain's Life	ケインの命
+Krakerag's Rage	クレイクラグの憤激
+Krakerag's Point	クレイクラグの切っ先
+Krakerag's Chestplate	クレイクラグの胸当て
+Krakerag's Slay	クレイクラグの殺戮
+Darkshade's Ruin	ダークシェイドの破滅
+Darkshade's Haze	ダークシェイドの煙霧
+Darkshade's Skewer	ダークシェイドの鉄串
+Darkshade's Spined Sheath	ダークシェイドの回鞘
+Darkshade's Evisceration	ダークシェイドの切削
+Darkshade's Binding	ダークシェイドの束縛
+Sarevok's Sacrilege	サレボクの悪行
+Sarevok's Malicious Stare	サレヴォクの憎しみの目
+Sarevok's Master	サレヴォクの開眼
+Sarevok's Savage Heart	サレヴォクの野蛮な心
+Hurja's Harmonic Rage	ハージャのハーモニック・レイジ
+Crown of the Northern Tribes	ノーザン・トライブのクラウン
+Harrogath's Heirloom	ハロガスの至宝
+Worldstone Shard	ワールドストーンのかけら
+Milabrega's Regalia-Pal	ミラブレガの礼装
+Milabrega's Ironsoles-Pal	ミラブレガの鉄底靴
+Milabrega's Rod-Pal	ミラブレガのロッド
+Milabrega's Orb-Pal	ミラブレガの宝玉
+Tyrael's Sanctuary	ティラエルの結界
+Tyrael's Halo	ティラエルの後光
+Tyrael's Virtue	ティラエルの美徳
+Tyrael's Faith	ティラエルの信心
+Anduin's Honor	アンデュインの栄誉
+Anduin's Vision	アンデュインの野望
+Anduin's Vanquisher	アンデュインの征服者
+Anduin's Protector	アンデュインの守護者
+Malek's Charge	マレクの突撃
+Malek's Sight	マレクの視界
+Malek's Strike	マレクの一撃
+Malek's Pride	マレクの誇り
+Malek's Defense	マレクの守り
+Malek's Grip	マレクの支配
+Lancelot's Courage	ランスロットの武勇
+Lancelot's Prediction	ランスロットの予言
+Lancelot's Security	ランスロットの防護
+Lancelot's Heraldic Lion	ランスロットの獅子紋
+Griffith's Cunning	グリフィスの狡猾
+Griffith's Stare	グリフィスの視線
+Griffith's Charm	グリフィスの魅力
+Griffith's Parry	グリフィスの受け流し
+Griffith's Protection	グリフィスの防御
+Darien's Glory	ダリアンの栄光
+Darien's Wit	ダリアンの機知
+Darien's Faith	ダリアンの信仰
+Darien's Band	ダリアンの団結
+Arcanna's Tricks-Sor	アルカナのたくらみ
+Arcanna's Sign-Sor	アルカナのサイン
+Arcanna's Deathwand-Sor	アルカナの死のワンド
+Arcanna's Flesh-Sor	アルカナの肉
+Tara's Calling	タラの呼び声
+Tara's Vision	タラの洞察
+Tara's Eye	タラの眼
+Tara's Gown	タラのガウン
+Tara's Mirror	タラのミラー
+Naj's Mastery	ナジュズ・マスタリー
+Naj's Puzzler	ナジュズ・パズラー
+Naj's Light Plate	ナジュズ・ライト・プレート
+Naj's Fireward	ナジュズ・ファイアウォード
+Divada's Trickery	ディヴァダの策略
+Divada's Tiara	ディヴァダのティアラ
+Divada's Focus	ディヴァダのフォーカス
+Divada's Shawl	ディヴァダのショール
+Divada's Screen	ディヴァダのスクリーン
+Raistlin's Salvation	レイストリンの救済
+Raistlin's Glance	レイストリンの一瞥
+Raistlin's Mark	レイストリンの法印
+The Staff of the Magi	賢者の杖
+Robes of the Arch-Magi	大賢者のローブ
+Jade Accoutrement	ジェイドの装具
+Jade Star	ジェイド・スター
+Jade Wrap	ジェイド・ラップ
+Jade Crest	ジェイド・クレスト
+Jade Slipper	ジェイド・スリッパ
+Arion's Augury	アリオンの凶兆
+Arion's Eye	アリオンの眼
+Arion's Heart	アリオンの心臓
+Arion's Hand	アリオンの手
+Hsarus' Defense-Dru	フサルの守り
+Hsaru's Iron Arm	フサルの鉄腕
+Hsarus' Iron Fist-Dru	フサルの鉄拳
+Hsarus' Iron Heel-Dru	フサルの鉄のかかと
+Blackwing's Impudence	ブラックウィングの猛進
+Blackwing's Will	ブラックウィングの意志
+Blackwing's Force	ブラックウィングの膂力
+Blackwing's Clench	ブラックウィングの固縛
+Blackwing's Icewoven Strap	ブラックウィングの氷の組みひも
+Danarak's Divinity	ダナラックの神聖
+Danarak's Spirit	ダナラックの精霊
+Danarak's Mallet	ダナラックの大槌
+Danarak's Wrap	ダナラックの巻き帯
+Merlin's Legacy	マーリンの遺産
+Horns of Power	力の角
+Keeper of the Fire	炎の守護者
+Robes of Earth and Water	地と火のローブ
+Sandals of the Wind	風のサンダル
+Nature's Passage	ネイチャーズ・パセッジ
+Terra's Clairvoyance	テラの遠見
+Fyrre's Deception	フィレの幻惑
+Gaia's Carapace	ガイアの背甲
+Persephone's Heel	ペルセフォネの踵
+Jaheira's Tenacity	ジャヘイラの不屈
+Jaheira's Force	ジャヘイラの剛力
+Jaheira's Volition	ジャヘイラの決断
+Jaheira's Caress	ジャヘイラの抱擁
+Jaheira's Girdle	ジャヘイラの腰帯
+Nature's Rule	ネイチャーズ・ルール
+Branch of the Ents	ブランチ・オヴ・ジ・エント
+Hide of the Tarrasque	ハイド・オヴ・ザ・タラスク
+Claws of the Dragon	クローズ・オヴ・ザ・ドラゴン
+Kashya's Survival Kit-N	カシャのサバイバル・キット
+Rogue's Bow-N	ローグの弓
+Rogue's Suit-N	ローグのスーツ
+Rogue's Cap-N	ローグのキャップ
+Greiz's Desert Pride-N	グレイズの砂漠の誇り
+Mercenary's Pike-N	マーシナリーズ・パイク
+Mercenary's Wraps-N	マーシナリーズ・ラップ
+Mercenary's Shiek-N	マーシナリーズ・シーク
+Asheara's Iron Wolf Division-N	アシェアラの鉄狼団
+Iron Wolf's Broad Sword-N	鉄狼団のブロード・ソード
+Iron Wolf's Robes-N	鉄狼団のローブ
+Iron Wolf's Coif-N	鉄狼団のコイフ
+Iron Wolf's Guard-N	鉄狼団のガード
+Qual-Kehk's Barbaric Gear-N	クォル＝ケックの蛮装
+Barbarian's Point-N	バーバリアンズ・ポイント
+Barbarian's Shelter-N	バーバリアンズ・シェルター
+Barbarian's Visage-N	バーバリアンズ・ヴィズイッジ
+Kashya's Survival Kit-NM	カシャのサバイバル・キット
+Rogue's Bow-NM	ローグの弓
+Rogue's Suit-NM	ローグのスーツ
+Rogue's Cap-NM	ローグのキャップ
+Greiz's Desert Pride-NM	グレイズの砂漠の誇り
+Mercenary's Pike-NM	マーシナリーズ・パイク
+Mercenary's Wraps-NM	マーシナリーズ・ラップ
+Mercenary's Shiek-NM	マーシナリーズ・シーク
+Asheara's Iron Wolf Division-NM	アシェアラの鉄狼団
+Iron Wolf's Broad Sword-NM	鉄狼団のブロード・ソード
+Iron Wolf's Robes-NM	鉄狼団のローブ
+Iron Wolf's Coif-NM	鉄狼団のコイフ
+Iron Wolf's Guard-NM	鉄狼団のガード
+Qual-Kehk's Barbaric Gear-NM	クォル＝ケックの蛮装
+Barbarian's Point-NM	バーバリアンズ・ポイント
+Barbarian's Shelter-NM	バーバリアンズ・シェルター
+Barbarian's Visage-NM	バーバリアンズ・ヴィズイッジ
+Kashya's Survival Kit-H	カシャのサバイバル・キット
+Rogue's Bow-H	ローグの弓
+Rogue's Suit-H	ローグのスーツ
+Rogue's Cap-H	ローグのキャップ
+Greiz's Desert Pride-H	グレイズの砂漠の誇り
+Mercenary's Pike-H	マーシナリーズ・パイク
+Mercenary's Wraps-H	マーシナリーズ・ラップ
+Mercenary's Shiek-H	マーシナリーズ・シーク
+Asheara's Iron Wolf Division-H	アシェアラの鉄狼団
+Iron Wolf's Broad Sword-H	鉄狼団のブロード・ソード
+Iron Wolf's Robes-H	鉄狼団のローブ
+Iron Wolf's Coif-H	鉄狼団のコイフ
+Iron Wolf's Guard-H	鉄狼団のガード
+Qual-Kehk's Barbaric Gear-H	クォル＝ケックの蛮装
+Barbarian's Point-H	バーバリアンズ・ポイント
+Barbarian's Shelter-H	バーバリアンズ・シェルター
+Barbarian's Visage-H	バーバリアンズ・ヴィズイッジ
+Cow King's Steels	カウ・キングズ・スティール
+Cow King's Steel Horns	カウ・キングズ・スティール・ホーン
+Cow King's Steel Hide	カウ・キングズ・スティール・ハイド
+Cow King's Steel Hoofs	カウ・キングズ・スティール・フーヴズ
+skillname7	ポイズン・アロー
+skillsd7	魔法で矢に毒を帯びさせる
+skillld7	常にヒット \n毒を帯びさせる \n矢かボルトに魔法をかけ
+skillan7	ポイズン・アロー
+skillld8	命中率とダメージを上げる \n自分と味方の攻撃の \n付近の敵を照らして
+skillld10	素早い突きを何度も繰り出す \nジャベリン、スピアまたはダガー級の武器で
+skillld11	常にヒット \n冷気ダメージを与え動きを鈍らせる \n矢やボルトに魔法をかけ
+skillname14	ファイア・ストライク
+skillsd14	近接武器に火炎ダメージを追加する
+skillld14	火炎ダメージを追加する \nすべての近接武器に
+skillan14	ファイア・ストライク
+skillname15	パイロ・ジャベリン
+skillsd15	投げ武器に火炎ダメージを追加する
+skillld15	爆発させ、付近の敵にダメージを与える \nすべての投げ武器に魔法をかけて命中時に
+skillan15	パイロ・ジャベリン
+skillname19	ヴァイパー・バイト
+skillsd19	遅いものの、致命的な毒の突き
+skillld19	（ジャベリン級、スピア級、ダガー級の武器のみ） \n遅いものの致命的な毒の突きを放つ
+skillan19	ヴァイパー・バイト
+skillname20	フロスト・ジャベリン
+skillsd20	投げた武器を氷のミサイルに変える
+skillld20	魔法で、すべての投げ武器を氷のミサイルに変える
+skillan20	フロスト・ジャベリン
+skillname21	ライトニング・アロー
+skillsd21	魔法で矢に稲妻ダメージを追加
+skillld21	常にヒット \n命中時に稲妻ダメージを起こす \n矢かボルトにに魔法をかけて帯電させ
+skillan21	ライトニング・アロー
+skillname24	シャドウ・ストライク
+skillsd24	近接武器に、魔法ダメージを付加
+skillld24	命中時に死霊の群れを放出する \nすべての近接武器に魔法ダメージを付加
+skillan24	シャドウ・ストライク
+skillsd25	すべての投げ武器に魔法をかけ、毒を散布させる
+skillld25	命中時に毒の煙を発生させる \nすべての投げ武器に毒ダメージを追加し
+skillld30	すべての目標を高速に攻撃する \nすべての近接武器で、隣接する
+skillsd34	すべての近接武器から稲妻が走る
+skillld34	命中時には火花が走り複数の敵を襲う \nすべての近接武器に稲妻ダメージを追加し
+skillld35	着弾時には地面を稲妻が走る \nすべての投げ武器を雷に変化させ
+skillname37	ソウル・シヴァー
+skillan37	ソウル・シヴァー
+skillname41	ライトニング・インフェルノ
+skillsd41	激しい稲妻の放射
+skillld41	敵を焼き払う \n激しい稲妻の流れを連続放射し
+skillan41	ライトニング・インフェルノ
+skillname44	アイス・ノヴァ
+skillsd44	氷のミサイルを放射する
+skillld44	付近の敵全員にダメージを与えて動きを鈍らせる \n自分を中心に氷のミサイルを放射し
+skillan44	アイス・ノヴァ
+skillname48	イモレイション
+skillsd48	炎のミサイルを放射する
+skillld48	付近の敵全員を焼き払う \n自分を中心に炎のミサイルを放射し
+skillan48	イモレイション
+skillname50	ファイア・アーマー
+skillsd50	敵を焼いてダメージを与える
+skillld50	攻撃してきた敵を焼いてダメージを与える \n防御値を上昇させ
+skillan50	ファイア・アーマー
+skillname51	フレーム・ウェィヴ
+skillsd51	動く炎の壁を発生させる
+skillld51	敵を焼き払う \n動く炎の壁を発生させて、
+skillan51	フレーム・ウェィヴ
+skillname57	メテオ・シャワー
+skillsd57	強力な炎の嵐を呼び出す
+skillld57	敵を火の玉で打たせる \n頭上に炎の嵐を呼び寄せ
+skillan57	メテオ・シャワー
+skillld61	ダメージ増加初期値が50%減る \n実際にポイントを振っていない場合、 \nパッシブ - すべての火炎魔法の威力が上昇
+skillname62	ライトニング・ヒュドラ
+skillsd62	多頭の稲妻怪獣を召喚
+skillld62	敵を焼き殺させる \n多頭の稲妻怪獣を呼び出し
+skillan62	ライトニング・ヒュドラ
+skillld63	ダメージ増加初期値が50%減る \n実際にポイントを振っていない場合、 \nパッシブ - すべての稲妻魔法の威力が上昇
+skillsd65	パッシブ - 冷気ダメージを上げる
+skillld65	ダメージ増加初期値が50%減る \n実際にポイントを振っていない場合、 \nパッシブ - すべての冷気魔法の威力が上昇
+skillname67	ボーン・ウェイヴ
+skillsd67	動く骨の壁を作り出す
+skillld67	敵にダメージを与え、押し返す \n動く骨の壁を作り出し、
+skillan67	ボーン・ウェイヴ
+skillld69	ライフや攻撃力が増す \nパッシブ - 召喚した怪物やや蘇らせた怪物の
+skillname73	ポイズン・スラッシュ
+skillsd73	近接攻撃に毒の効果を追加
+skillld73	毒の効果を追加し、命中率を高める \nすべての近接武器での攻撃に
+skillan73	Ｐ・スラッシュ
+skillname80	レイズ・ヴァンパイア
+skillsd80	敵の死体からヴァンパイアを作る
+skillld80	戦いに加勢させる \n敵の死体からヴァンパイアを作り
+skillan80	ヴァンパイア
+skillname84	フローズン・スピア
+skillsd84	氷のスパイクを発射
+skillld84	敵を貫通する氷のスパイクを発射
+skillan84	フローズン・スピア
+skillname90	ボーン・ゴーレム
+skillan90	ボーン・ゴーレム
+skillsd91	呪い - 敵の火炎、冷気、稲妻耐性を下げる
+skillld91	呪い - 敵の火炎、冷気、稲妻耐性を下げる
+skillname100	プロテクション・フロム・ファイア
+skillsd100	オーラ - 火炎、物理ダメージを低減
+skillld100	火炎、物理ダメージを低減 \nオーラ - 自分と味方の受ける
+skillan100	Ｐ・ファイア
+skillsd101	全モンスターにダメージを与える光球
+skillld101	与え、味方の傷を治す \n全モンスターにダメージを \n神聖な光球を発射して
+skillld103	モンスターの回復阻止を与える \n味方に敵の傷が開く可能性と \nオーラ - 敵にダメージを返す
+skillname105	プロテクション・フロム・コールド
+skillsd105	オーラ - 冷気、物理ダメージを低減
+skillld105	自分と味方の凍結されるのを防ぐ \n冷気、物理ダメージを低減 \nオーラ - 自分と味方の受ける
+skillan105	Ｐ・コールド
+skillname108	アナイレーション
+skillsd108	オーラ - 壊滅打のチャンスを上昇させる
+skillld108	モンスターの回復阻止を与える \n攻撃速度を上昇させ \n自分と味方の壊滅打のチャンスと
+skillan108	アナイレーション
+skillld109	ライフをも回復する \nプレイアーのレベルに応じ \nオーラ - 自分と味方の毒、呪い時間を低減 
+skillname110	プロテクション・フロム・ライトニング
+skillsd110	オーラ - 稲妻、物理ダメージを低減
+skillld110	稲妻、物理ダメージを低減 \nオーラ - 自分と味方の受ける
+skillan110	Ｐ・ライトニング
+skillsd115	オーラ - 最大ライフと移動速度が上昇
+skillld115	移動速度とスタミナ回復率が上昇 \nオーラ - 自分と味方の最大ライフと
+skillname119	プロテクション・フロム・イーヴィル
+skillsd119	オーラ - 敵にダメージを与え、はね飛ばす
+skillld119	ダメージボーナスを与える \n自分に対アンデッド・デーモン \nダメージを与え、はね飛ばす \nオーラ - 全モンスターに魔法
+skillan119	Ｐ・イーヴィル
+skillld120	ライフをも回復する \nプレイアーのレベルに応じ \nオーラ - 自分と味方のマナを回復
+skillld123	火炎、冷気、稲妻耐性を下げる \nオーラ - 周囲の敵の防御値と
+skillname131	ファインド・トレジャー
+skillsd131	敵の死体からアイテムを発見する
+skillld131	アイテムが見つかる場合がある \n敵の死体から
+skillan131	Ｆ・トレジャー
+skillname141	ストレンクス・オヴ・ジ・エィンシェンツ
+skillsd141	パッシブ - 筋力が上昇
+skillld141	筋力と壊滅打のチャンスが上昇 \nパッシブ - 古代のバーバリアンの祝福により
+skillan141	ストレンクス・Ａ
+skillname142	ラック・オヴ・ジ・エィンシェンツ
+skillsd142	パッシブ - 運が上昇
+skillld142	ゴールドの追加入手が増加 \nマジックアイテム入手確率と \nパッシブ - 古代のバーバリアンの祝福により
+skillan142	ラック・Ａ
+skillname148	ヴィガー・オヴ・ジ・エィンシェンツ
+skillsd148	パッシブ - バイタリティが上昇
+skillld148	バイタリティと移動速度が上昇 \nパッシブ - 古代のバーバリアンの祝福により
+skillan148	ヴィガー・Ａ
+skillname150	マジック・スロー
+skillsd150	魔法の投げ武器を作る
+skillld150	追加ダメージを与える \n魔法の投げ武器を作り
+skillan150	マジック・スロー
+Skillname225	シェイプ・シフティング・マスタリー
+Skillld225	持続時間とライフが上昇 \nパッシヴ - ウィアウルフ、エレメンタル形態の
+Skillan225	Ｓ・Ｓ・マスタリー
+Skillname229	エレメンタル・フォーム
+Skillsd229	炎の精霊（ファイア・エレメンタル）に変身
+Skillld229	炎の精霊（ファイア・エレメンタル）に変身
+Skillan229	エレメンタル・Ｆ
+Skillname234	ダブル・スマッシュ
+Skillsd234	敵を粉砕する - エレメンタル形態時
+Skillld234	追加ダメージが上昇 \n攻撃が連続して成功すると \n激しい打撃で敵を粉砕 \nエレメンタル形態時、
+Skillan234	ダブル・スマッシュ
+Skillname235	アース・スパイク
+Skillsd235	スパイクで敵を貫く
+Skillld235	敵を貫き速度を低下させる \n地中から巨大なスパイクを呼び出し、
+Skillan235	アース・スパイク
+Skillname240	ファイア・モール
+Skillsd240	炎を帯びた粉砕攻撃
+Skillld240	敵を粉砕する \n炎を帯びた近接攻撃で \nウィアウルフまたはエレメンタル形態時、
+Skillan240	ファイア・モール
+Skillname241	クリーピング・ドーム
+Skillsd241	害虫の群れを発生させる
+Skillld241	敵にダメージを与えスタンさせる \n害虫の群れを発生させ
+Skillan241	クリーピング・ドーム
+Skillsd244	衝撃波を放つ - エレメンタル形態時
+Skillld244	付近の敵をスタンさせる \n地面を踏んで衝撃波を放ち \nエレメンタル形態時、
+Skillname248	サモン・エレメンタル
+Skillsd248	水の精霊（ウォーター・エレメンタル）を召喚
+Skillld248	水の精霊（ウォーター・エレメンタル）を召喚
+Skillan248	サモン・エレメンタル
+Skillname250	アシッド・レイン
+Skillsd250	敵の頭上に酸性雨を降らせる
+Skillld250	変身形態時にも使用可能 \n毒物、魔法ダメージを与える \n敵の頭上に酸性雨を降らせ
+Skillan250	アシッド・レイン
+Skillname251	ウィンター・フューリー
+Skillsd251	冷気の精霊を召喚
+Skillld251	敵を攻撃し速度を低下させる \n冷気の精霊を呼び、冷気で
+Skillan251	ウィンター・フューリー
+Skillname252	コールド・ブラスト
+Skillsd252	冷気弾を投げる
+Skillld252	冷気弾を投げて敵を粉砕する
+Skillan252	コールド・ブラスト
+Skillname253	近接戦闘マスタリー
+Skillsd253	パッシブ - 近接武器の能力が上昇
+Skillld253	スキルが上達 \nパッシブ - 近接武器使用時の
+Skillan253	近接戦闘マスタリー
+Skillname254	サイキック・スラッシュ
+Skillsd254	精神衝撃波で敵を攻撃する
+Skillld254	敵を攻撃し跳ね飛ばす \n精神衝撃波を放ち \n意志の力を使って
+Skillan254	サイキック・Ｓ
+Skillname267	ポイズン・ストリーム
+Skillsd267	毒の噴流を放射する
+Skillld267	敵に毒物、物理ダメージを与える \n毒の噴流を放射して
+Skillan267	ポイズン・ストリーム
+Skillname273	スチーム・セントリー
+Skillsd273	蒸気放射のトラップ
+Skillld273	魔法ダメージを与えるトラップ \n近づく敵に魔法の蒸気を浴びせ、
+Skillan273	スチーム・セントリー
+Skillsd277	付近の死体を爆発させるトラップ
+Skillld277	付近の死体を爆発させる機能を持つトラップ \n敵に稲妻を放つ機能と
+Skillname362	イーグル・アイ
+Skillsd362	一時的にダメージを上昇させる
+Skillld362	物理攻撃ダメージを大幅に強化する \n一時的に、攻撃速度を犠牲にして
+Skillan362	イーグル・アイ
+Skillname363	レジェンダリー・アロー
+Skillsd363	伝説の1.09版ガイデッド・アロー
+Skillld363	常にヒット \n貫通した場合、複数回攻撃する \n敵を探し追跡させる \n矢やボルトに魔法をかけ
+Skillan363	レジェンダリー・Ａ
+Skillname364	ダンス・オヴ・デス
+Skillsd364	武器を振り回しながら突き進む
+Skillld364	立ちふさがる敵を粉砕する \n激しく回転して進み \n武器を振り回しながら
+Skillan364	ダンス・オヴ・デス
+Skillname365	ファイア・ウォール
+Skillsd365	炎の壁を発生させる
+Skillld365	敵を阻み、焼き殺す \n炎の壁を発生させて
+Skillan365	ファイア・ウォール
+Skillname366	フロスト・ノヴァ
+Skillsd366	超低温の輪を広げる
+Skillld366	付近の敵全員にダメージを与えて動きを鈍らせる \n自分を中心に超低温の輪を広げ、
+Skillan366	フロスト・ノヴァ
+Skillname367	タイム・ストップ
+Skillsd367	周囲のモンスターを停止させる
+Skillld367	冷気無効モンスターには効果がない \n稲妻系スペルだが、ユニークや \n周囲のモンスターを停止させる
+Skillan367	タイム・ストップ
+Skillname368	ファナティック・スイング
+Skillsd368	隣接する複数の敵を一気に攻撃
+Skillld368	ジールより低ダメージだが高速な攻撃 \n隣接する複数の敵を一気に攻撃する
+Skillan368	Ｆ・スイング
+Skillname369	エアリアル・ガード
+Skillsd369	一時的にブロックとリカバリー速度を上昇
+Skillld369	呪文は詠唱できない） \n（詠唱速度が-50%未満の場合、 \n詠唱速度にペナルティを受ける \nブロックとリカバリー速度を上昇させる \n大気の精霊を召喚し、一時的に
+Skillan369	エアリアル・ガード
+Skillname370	フィシュア
+Skillsd370	地割れを起こし敵を焼く
+Skillld370	敵を焼き尽くす \n溶岩の地割れを開いて
+Skillan370	フィシュア
+Skillname371	ツイスター
+Skillsd371	小さな旋風を発生させる
+Skillld371	敵に切り込む道をつける \n小さな旋風を放ち
+Skillan371	ツイスター
+Skillname372	ピアース・フレッシュ・アンド・ボーン
+Skillsd372	呪い - 敵の毒物、魔法耐性を下げる
+Skillld372	呪い - 敵の毒物、魔法耐性を下げる
+Skillan372	ピアース・Ｆ＆Ｂ
+Skillname373	キラー・サイズ
+Skillsd373	隣接するすべての目標を攻撃
+Skillld373	隣接するすべての目標を短時間で攻撃 \nポールアーム級武器で、
+Skillan373	キラー・サイズ
+Skillname374	ヘル・ゲイト
+Skillsd374	地獄から召喚した魂を放射
+Skillld374	付近の敵に魔法ダメージを与える \n自分を中心に地獄から召喚した魂を放射し
+Skillan374	ヘル・ゲイト
+Skillname375	ヒュドラ
+Skillsd375	多頭の火炎怪獣を召喚
+Skillld375	敵を焼き殺させる \n多頭の火炎怪獣を呼び出し
+Skillan375	ヒュドラ
+Skillname376	ブレイド・フューリー
+Skillsd376	回転する刃を投げる
+Skillld376	敵を切り刻む \n回転する刃を投げて
+Skillan376	Ｂ・フューリー
+Skillname377	オーラ・オヴ・ディヴィニティ
+Skillsd377	オーラ ｰ スキルと経験値修正を上昇
+Skillld377	全スキルと獲得経験値修正が上昇する \nオーラ - 自分と味方の
+Skillan377	オーラ・オヴ・Ｄ
+Skillname378	アロー・オヴ・コンフェッション
+Skillsd378	モンスターを成仏させる矢
+Skillld378	魔法ダメージを追加する \n矢やボルトに聖なる力を与え敵を成仏させる
+Skillan378	アロー・オヴ・Ｃ
+Skillname379	セイクリッド・ピアーサー
+Skillsd379	弓による聖なる貫通攻撃
+Skillld379	アンデッド、デーモンに追加ダメージ \n矢やボルトに聖なる力を与え敵を貫通させる
+Skillan379	Ｓ・ピアーサー
+Skillname380	ホーリー・ウォード
+Skillsd380	聖なるシンボルを作って敵をおどす
+Skillld380	敵をおびえさせ逃亡させる \n聖なるシンボルを作って \n敵の死体を清め祝福し
+Skillan380	ホーリー・ウォード
+Skillname381	サモン・アノインティド・ベアー
+Skillsd381	聖別されたクマを召喚
+Skillld381	聖油によって聖別された忠実なクマを召喚
+Skillan381	サモン・アノインティド・ベアー
+Skillname382	エィンシェンツ・コール
+Skillsd382	敵のあらゆる魔法耐性を下げる
+Skillld382	敵のあらゆる魔法耐性を下げる
+Skillan382	Ａ・コール
+Skillname383	ファントム・ハチェット
+Skillsd383	複数の手斧を投げる
+Skillld383	魔法で何本もの手斧にする \n1丁の投げ武器を
+Skillan383	Ｐ・ハチェット
+Skillname384	バーサーク・フューリー
+Skillsd384	着弾後にマジック・ボルトが拡散
+Skillld384	着弾時には地面をマジック・ボルトが走る \n投げた武器に魔法ダメージを付加し
+Skillan384	バーサーク・Ｆ
+Skillname385	ノヴァ
+Skillsd385	電撃の輪を広げる
+Skillld385	付近の敵を感電させる \n自分を中心に電撃の輪を広げて
+Skillan385	ノヴァ
+Skillname386	サンダー・ストーム
+Skillsd386	強力な雷雲を呼び出す
+Skillld386	敵を稲妻で打たせる \n頭上に雷雲を呼び寄せ
+Skillan386	サンダーストーム
+Skillname387	サンド・ストーム
+Skillsd387	砂嵐を巻き上げる
+Skillld387	付近の敵に物理ダメージを与える \n自分を中心に砂嵐を巻き上げ
+Skillan387	サンドストーム
+Skillname388	アイアン・クロー
+Skillsd388	変身形態時に、敵の防御値を無視
+Skillld388	壊滅打のチャンスと敵の傷が開く可能性 \n敵の防御値を無視、減少させる近接攻撃 \nウィアウルフまたはエレメンタル形態時、
+Skillan388	アイアン・クロー
+Skillname389	カウ・バルーン
+Skillsd389	ボクのお気に入りのゴムのモーモーちゃん
+Skillld389	ボクのお気に入りのゴムのモーモーちゃん \n敵の攻撃を引きつける
+Skillan389	カウ・バルーン
+Skillname390	チャージド・クロー
+Skillsd390	変身形態時に、稲妻ダメージを付加
+Skillld390	命中時に稲妻ダメージを起こす \n近接戦闘に稲妻ダメージを付加し \nウィアウルフまたはエレメンタル形態時、
+Skillan390	チャージド・クロー
+Skillname391	ボーン・スピア
+Skillsd391	骨のスパイクを発射
+Skillld391	敵を貫通する骨のスパイクを発射
+Skillan391	ボーン・スピア
+Skillname392	シェード・アーマー
+Skillsd392	一時的に防御値と物理耐性が上昇
+Skillld392	最大150%まで物理耐性を上昇させる \n一時的に防御値を高め、
+Skillan392	シェード・アーマー
+Skillname393	手裏剣
+Skillsd393	投げナイフに魔法をかけ、複数の目標を攻撃する
+Skillld393	複数の敵を攻撃 \n1本の投げナイフを魔法で分割し
+Skillan393	手裏剣
+Skillname394	居合切り
+Skillsd394	攻撃動作が中断されない
+Skillld394	両手武器のみ使用可能 \n攻撃値と防御値も上昇 \n敵の攻撃を受けても自分の攻撃動作が中断せず、
+Skillan394	居合切り
+Skillname395	ティース
+Skillsd395	ドラゴンの歯を発射
+Skillld395	ドラゴンの歯を召喚して発射
+Skillan395	ティース
+Skillname396	コールド・ウェイヴ
+Skillsd396	動く氷の壁を発生させる
+Skillld396	敵の動きを鈍らせる \n動く氷の壁を発生させて、
+Skillan396	コールド・ウェイヴ
+unicharm	1個しか持てないアイテムチェック
+The Perfect Cell	ザ・パーフェクト・セル
+Yello Jello	イエロー・ジェロー
+Lothar's Will	ロサーの意志
+Deviant Cell	デヴィアント・セル
+Vlad Tepe's Sustenance	ヴラド・テペス・サステナンス
+Something Wicked	邪悪な何か
+The Unknown Hero	名もなきヒーロー
+Fallen Star	フォールン・スター
+Dragon Eye	ドラゴン・アイ
+Ring of Vengeance	リング・オヴ・ヴェンジェンス
+Elemental Jewel	エレメンタル・ジュエル
+Zodiac Band	ゾディアック・バンド
+The One Ring	ザ・ワン・リング
+Lily Petal	百合の花びら
+Red Rose Petal	紅ばらの花びら
+Violet Petal	すみれの花びら
+Dandelion Petal	タンポポの花びら
+Cactus Petal	サボテンの花びら
+White Rose Petal	白ばらの花びら
+Forget-Me-Not Petal	忘れな草の花びら
+Khelek's Crystal Band	ケレクのクリスタル・バンド
+Madawc's Frenzy	マドウクのフレンジー
+Vorador's Essence	ヴォレイダーの真髄
+Rock of Aadeyen	アーディエンの岩
+Alakashar Rahl	アラカシャー・ラール
+Elven Blessing	エルフの祝福
+Lilith's Heart	リリスのハート
+Killashandra Ree's Black C	キラシャンドラ・リーの黒水晶
+The Mad Celt's Shining Sparkly	マッド・ケルトのピカピカ火花
+BlackMage's Knucklebone	ブラックメイジズ・ナックルボーン
+The Tipsy Donut	ザ・ティプシー・ドーナツ
+Yagul's Wrath	ヤグールの怒り
+Dfuzzz's Fingerguard	ダファズの指覆い
+Killjoy's Attitude	キルジョイの高飛車
+Lovers' Pendant	ラバーズ・ペンダント
+Eye of the Witch	アイ・オヴ・ザ・ウィッチ
+Collar of the Minotaur	カラー・オヴ・ザ・ミノトール
+Beads of the Guardian	ビーズ・オヴ・ザ・ガーディアン
+Eye of the Beholder	アイ・オヴ・ザ・ビホールダー
+Spellcasters Aide	スペルキャスターズ・エイド
+Talisman of Benzaiten	辨財天護法印
+Talisman of Kisshoten	吉祥天護法印
+Talisman of Bishamonten	毘沙門天護法印
+Talisman of Hotei	Talisman of 布袋護法印
+Talisman of Ebisu	Talisman of 恵比須護法印
+Talisman of Daikokuten	大黒天護法印
+Talisman of Fukurokuju	福禄寿護法印
+Jade's Locket	翡翠のロケット
+Khisanth	キサンス
+Daeveran's Stone	ディーヴェランの石
+Holy Deviant	ホーリー・デヴィアント
+Grim Creaper	グリム・クリーパー
+Valhalla's Pendant	ヴァルハラのペンダント
+Sub Sanity	サブ・サニティ
+The Mistress' Leather Collar	女主人の革首輪
+Smaqdoun's Painful Pride	スマックダウンの厄介なプライド
+The Cursed Donut	ザ・カースド・ドーナツ
+BlackKnight's Holy Signet	黒騎士の聖なる印鑑
+Yagul's Bloody Rage	ヤグールの血塗られた怒り
+Plague's Last Arrowhead	プレイグの最後のやじり
+Dweia's Revenge	ドウェイアの復讐
+Jindujun	ジンデュジュン
+Bohemian Stone	ボヘミアン・ストーン
+Lady Eboshi's Greed	レイディ・エボシの強欲
+Icestorm Shard	アイスストーム・シャード
+Nexus Star	ネクサス・スター
+Salamander Stone	火龍石
+Smiiiff Stone	スミーフの石
+Larias' Licentious Lament	レイリアスの放縦な悲嘆
+Sescheronya's Spark	セシェロニャの火花
+Ideal Craft	アイデアル・クラフト
+Kenji's Winged Arrows	ケンジのウィングド・アロー
+Delthanes' Enchanted Bolts	デルサーネの魔法のボルト
+Quiver of Prince Ashitaka	愛鷹皇子の矢筒
+Casca's Deadly Bolts	キャスカのデッドリー・ボルト
+Legolas' Quiver	レゴラスの矢筒
+Borgoff's Bolts	ボルゴフのボルト
+Hijikata's Heart-blood	土方歳三の誠
+The Diamond Hairband	ダイアモンド・ヘアバンド
+Zan-Esus' Commitment	ザン＝エスの没頭
+Lunar Charm	ルナー・チャーム
+Heart of Jewels	ハート・オヴ・ジュエルズ
+Krok's Basher	クロックス・バッシャー
+Treefeller	ツリーフェラー
+The Skeleton Hunter	スケルトン・ハンター
+High-General's Pick	ハイ・ジェネラルのピック
+Axe of Souls	アックス・オヴ・ソウルズ
+Glowblast	グローブラスト
+Murderous Axe	殺人鬼のアックス
+Lord of Carnage	殺戮の王
+Raka's Folly	ラカの愚行
+The Annihilator	ジ・アナイアレーター
+Axe of the Elements	アックス・オヴ・ジ・エレメント
+The Butcher's Cleaver	ブッチャーズ・クリーヴァー
+Double Bite	ダブル・バイト
+Sadistic Warlord	サディスティック・ウォーロード
+Hacker	ハッカー
+Wolf Claw	ウルフ・クロー
+Lifebane	ライフベイン
+Fleshchew	肉囓り
+Griswold's Revenge	グリスワルドの復讐
+Lifecleaver	ライフクリーヴァー
+Rohmshun	ロームシャン
+Alea Jacta Est	アレア・ジャクタ・エスト
+Thorgrim's Saviour	ソーグリムの救世主
+Gold Digger	ゴールドディガー
+Iceshard	アイスシャード
+Focus of Unlife	フォーカス・オヴ・アンライフ
+Wicked Axe	邪悪の斧
+Meat Cleaver	ミート・クリーヴァー
+Wings of the Fallen Phoenix	墜ちたフェニックスの翼
+Barbaric Devastator	バーバリック・デヴァステーター
+The Green Lantern	ザ・グリーン・ランタン
+Master of Puppets	マスター・オヴ・パペット
+Necromonic Tool	ネクロノミック・ツール
+Wand of Spirits	ワンド・オヴ・スピリッツ
+Lucrecius' Power	ルクレシアスのパワー
+Jugalator	ジャガレーター
+Cinderspark	シンダースパーク
+Blade of the Reaper	ブレード・オヴ・ザ・リーパー
+Rusalka's Femur	ルサルカのふともも
+Wand of Rathma	ラスマのワンド
+Skull of Horazon	ホラズンのスカル
+Jr Eyes	ジェイアールの眼
+Arm of the Skeleton	アーム・オヴ・ザ・スケルトン
+Bone Reaver	ボーン・リーヴァー
+Secret of the Ooze	シークレット・オヴ・ジ・ウーズ
+Essence of Trang-Oul	トラン＝オウルズ・エッセンス
+Song of the Damned	呪われし者の歌
+The Last Rites	ザ・ラスト・ライト
+Holy Icon	ホーリー・アイコン
+Blessed Avenger	ブレシド・アヴェンジャー
+Redeemer of the Light	リディーマ・オヴ・ザ・ライト
+Demon Bane	デーモン・ベイン
+Sunblade	サンブレード
+Righteous Avenger	ライチャス・アヴェンジャー
+Demon Slayer	デーモン・スレイヤー
+Agent of the Light	エージント・オヴ・ザ・ライト
+Scepter of the Sorcerer-Kings	魔法王の王笏
+Excalibur	エクスカリバー
+Liberation	リベレーション
+Judgement	ジャッジメント
+Instrument of Purification	浄化の法具
+Redemption	リデンプション
+Holy Avenger	ホーリー・アヴェンジャー
+Inifuss Branch	イニファスの枝
+Woodfist's Arm	ウッドフィストの腕
+The Horror	ザ・ホラー
+Bonemash	ボーンマッシュ
+Arc's Skewer	アークス・スキューアー
+Grimbold's Flail	グリムボルドのフレイル
+Silver Rule	シルヴァー・ルール
+Bul-Kathos' Rage	バル・カソス・レイジ
+Arreat's Peak	アリーツ・ピーク
+Koth's Cudgel	コスのカジェル
+Rakanishu's Staff	ラカニシュの杖
+Blood Splinter	ブラッド・スプリンター
+Dreamflange	ドリームフランジ
+Starshine	スターシャイン
+Demonfever	デーモンフィーバー
+Schaeffer's Hammer	シェイファーズ・ハンマー
+Vulcan's Piledriver	ヴァルカン・パイルドライバー
+Justicar Militiari	ジャスティカ・ミリターリ
+Caveman's Fury	ケイヴマンズ・フューリー
+Spirit of the Forest	スピリット・オヴ・ザ・フォレスト
+Darth Maul	デス・モール
+Caesar's Revenge	シーザーズ・リヴェンジ
+Butcher's Tenderizer	ブッチャーの肉叩き
+Thunder Star	サンダー・スター
+Miller's Hammer	ミラーズ・ハンマー
+Hammer of Bogardan	ハンマー・オヴ・ボガーダン
+Thor's Hammer	トールズ・ハンマー
+Umbar's Blade	アンバーズ・ブレード
+The Rising Sun	ザ・ライジング・サン
+Tavern's Blade	タヴァーンズ・ブレード
+Ironslice	アイアンスライス
+Rainbow's Power	レインボウ・パワー
+Numenorean Iron	ニューメノリーン・アイアン
+Storm's Charge	ストームズ・チャージ
+Tribesman's Focus	トライブマンズ・フォーカス
+Darkteflan	ダークテフラン
+Devilish Fear	デヴィリッシュ・フィアー
+Falcon's Pride	ファルコンズ・プライド
+Gonnermouth's Blade	ゴナーマウス・ブレード
+Blizzard's Sword	ブリザード・ソード
+The Barbaric Totem	ザ・バーバリック・トーテム
+Magma Spike	マグマ・スパイク
+Scourge of the Twin Seas	スカージ・オヴ・ザ・ツイン・シー
+Soulforge	ソウルフォージ
+The Desert Wind	ザ・デザート・ウィンド
+Frost Shard	フロスト・シャード
+Zakarum Blade	ザカラム・ブレード
+Celestial Avenger	セレスチャル・アヴェンジャー
+Mithril Sword	ミスリル・ソード
+The Vampire	ザ・ヴァンパイア
+Black Death	黒死病
+Stone Brenner	ストーン・ブレナー
+Jeldaria's Focus	ジェルダリアの焦点
+Inarius' Fall	イナリアスの堕落
+Terminus Est	テルミナス・エスト
+Slave Warrior's Edge	奴隷戦士のエッジ
+Twinkle	トゥインクル
+Icing Death	アイシング・デス
+The Executioner's Blade	ジ・エクゼキューショナーズ・ブレード
+Diamondedge	ダイアモンドエッジ
+Glacial Form	グラシアル・フォーム
+Soul Singer	ソウルシンガー
+Rome's Victory	ロメのビクトリー
+Blade of Righteousness	正義のブレード
+Reins of Power	レインズ・オヴ・パワー
+Mitsurugi's Aide	御剣の副官
+Blackened Blade of Arkanon	アルカノンの黒染め刀
+The Fires of Sunlight	ザ・ファイア・オヴ・サンライト
+The Grandfather	ザ・グランドファーザー
+Yegg's Firedagger	イェッグのファイアダガー
+Requier's Skill	リクウィアーズ・スキル
+The Golden Spike	ザ・ゴールデンスパイク
+Anguirel	アンギレル
+The Touch of Death	ザ・タッチ・オヴ・デス
+Sirian's Infinite Knives	シリアンの無限ナイフ
+Trang'Oul's Claw	トラン＝オウルズ・クロー
+Wizardspike	ウィザードスパイク
+Throatslitter	喉を裂く者
+Death's Scythe	デスズ・サイズ
+The Horn of Balor	バラーの角
+Rathma's Blade	ラスマのブレード
+Famine	大飢饉
+Mordenkainen's Dagger	モルデンカイネン・ダガー
+Blade of Corruption	堕落のブレード
+The Trainee's Shuriken	修行用手裏剣
+The Lumberjack's Toy	ザ・ランバージャックス・トイ
+The Surgeon	ザ・サージョン
+The Miner	ザ・マイナー
+Hail of Bolts	ヘイル・オヴ・ボルト
+LED	エル・イー・ディー
+Ric's Faith	リックス・フェイス
+Free Lance	フリー・ランス
+Flying Impaler	フライイング・インペイラー
+Fluffy Rabbit's Hare-y Javelin	綿毛ウサギのウサフサ・ジャベリン
+Larzuk's Aim	ラーザックス・エイム
+Morgue	モルグ
+Battle Hymn	バトル・ヒム
+The Hurricane	ザ・ハリケーン
+Minotaur's Sidearm	ミノトールズ・サイドアーム
+Gilded Spikes	ギルディド・スパイクス
+Septic Needle	セプティック・ニードル
+Revenant's Spear of the Vampyr	レヴナントの吸血槍
+Futurebreeze	フューチャーブリーズ
+Olympus Hand	オリンパス・ハンド
+Titan's Revenge	タイタンズ・リヴェンジ
+Malah's Aid	マーラズ・エイド
+The Assassin's Stiletto	アサシンの尖刀
+Dark Knight's Dread	闇騎士の恐怖
+Unicorn's Horn	一角獣の角
+Hephasto's Last Project	へファストの最終計画
+The Opilus Apprentice	オピラスの徒弟
+Olympian's Javelin	オリンピアのジャベリン
+Johan's Picket	ジョハンの警備隊
+Rainbow Rocket	レインボー・ロケット
+Moby's Demise	モビーズ・デマイズ
+Zeus' Bolts	ゼウスのいかずち
+Rising Sun	ライジング・サン
+Supercharged Rod	スーパーチャージド・ロッド
+Poseidon's Trident	ポセンドンズ・トライデント
+Forzan's Rage	フォーザンの憤怒
+Rogerio's Lance	ロゲリオのランス
+Rod of Zerae	ゼラエのロッド
+Uthuala's Crest	アスアラの紋章
+Lance of Celestia	天界のランス
+Zerae's Point	ゼラエの切っ先
+Gift of the Sea	ギフト・オヴ・ザ・シー
+Kaihlanna's Pride	ケイランナのプライド
+Tears of Pain	ティアーズ・オヴ・ペイン
+The Dragoon Shaft	ザ・ドラゴンシャフト
+Illusionary Pain	イリュージョナリー・ペイン
+Lycander's Flank	ライサンダーズ・フランク
+Backbiter	バックバイター
+Defense of Atlantis	ディフェンス・オヴ・アトランティス
+Dragon's Breath	ドランゴンズ・ブレス
+Storm Seeker	ストーム・シーカー
+Lightfoot	ライトフット
+Rotting Splinter	ロッティング・スプリンター
+Raiden's Staff	ライデンズ・スタッフ
+Eron's Bardiche	イーロンズ・バーダイク
+Lawful Arm	ローフル・アーム
+Blade of Oblivion	ブレード・オヴ・オブリヴィオン
+Hewson's Poleaxe	ヒューソンズ・ポールアーム
+Infidel's Rule	インフィデルズ・ルール
+Eternal Rest	エターナル・レスト
+Defender of the Highlands	ディフェンダー・オヴ・ザ・ハイランド
+Bill of the Crane Shamans	ビル・オヴ・ザ・クレーン・シャーマン
+Reaver of Darkness	リーヴァー・オヴ・ダークネス
+Partizan of Light	パルチザン・オヴ・ライト
+The Will of Hatred	ザ・ウィル・オヴ・ヘイトリッド
+Instrument of Destruction	インスツルメント・オヴ・デストラクション
+Call of the Guardian	コール・オヴ・ザ・ガーディアン
+Nine Lives Stealer	ナイン・ライヴズ・スティーラー
+Soul Reaver	ソウル・リーヴァー
+Sultan's Conqueror	スルタンズ・コンクァラー
+Almraizer	アームライザー
+Eternal Reign	エターナル・レイン
+Zann Esu's Raiment	ザン＝エスの衣紋
+The Fradstik	ザ・フラドスティック
+Phenom's Rule	フェノムズ・ルール
+Morquan's Aura	モーカンのオーラ
+Yoyo's Sanity	ヨーヨーズ・サニティ
+Infinite Thought	果てなき思考
+Staff of the Horadrim	スタッフ・オヴ・ホラドリム
+The Staff of Aesculapius	エスクラピアスの杖
+Doomspire	ドームスパイア
+The Staff of Erana	エラナの杖
+Tal Rasha's Walking Stick	タル・ラシャの散歩杖
+The Secret of Mana	ザ・シークレット・オヴ・マナ
+Burning Sands	バーニング・サンド
+Magelord's Assistant	魔法王の助手
+The Protector	ザ・プロテクター
+Dragon Staff	ドラゴン・スタッフ
+Vizjeris' Knowledge	ビジェレイズ・ナリッジ
+Blade of the Fallen Angel	堕天使のブレード
+Frostarc	フロストアーク
+Firebrander	ファイアブランダー
+Bakou's Sharpshooter	バクーの弓名人
+Ancient Piercer	エインシェント・ピアーサー
+Plaguebearer	プレイグ・ベアラー
+Quiveraiden	クィヴァーレイデン
+Sparkraven	スパークレイヴン
+Fuego	フューゴ
+Scilla's Nimbleness	シラの敏捷
+Bow of the Stars	ボウ・オヴ・ザ・スターズ
+Kashya's Issue	カシャの布告
+Rotstring	ロットストリング
+Raven's Cord	レイヴンズ・コード
+Titan's Wake	タイタンの踏み跡
+The Harp of Souls	魂のハープ
+The Keening	ザ・キーニング
+Eaglehorn	イーグルホーン
+Zerae's Gift	ゼラエの賜物
+Oxhorn	オックスホーン
+Lycander's Aim	ライサンダーズ・エイム
+Heartseeker	ハートシーカー
+Robin Hood's Precision	ロピン・フッドの神技
+Karaniis' Bow of Incandesence	カラニの灼熱弓
+Gnat Sting	ナット・スティング
+Bloodraven's Arch	ブラッドレイヴンズ・アーク
+Moonbeam	ムーンビーム
+Undead's Blight	アンデッド枯らし
+Wild Airs of the Elements	ワイルド・エアー・オヴ・ジ・エレメンツ
+The Guardian	ザ・ガーディアン
+Goldfinger	ゴールドフィンガー
+Artemis' Wrath	アルテミス・ラス
+Enigma	エニグマ
+Maija's Menace	メイジャの脅迫
+Rapid Frenzy	ラピッド・フレンジー
+Firespitter	ファイアスピッター
+Polar Boltcaster	ポーラー・ボルトキャスター
+Unholy Dartgun	アンホーリー・ダートガン
+Gaashtak	ガーシュタック
+The Needler	ザ・ニードラー
+Cataclysm	カタクリズム
+Magnium	マグニウム
+Qoto's Bow of Fortuitous Battle	クォトの偶発戦争の弓
+Krall's Thunder	クラルの雷撃
+Deadly Hunter	デッドリー・ハンター
+Scope of the Hawk	スコープ・オヴ・ザ・ホークk
+Chaos Launcher	混沌のラウンチャー
+Deadly Precision	デッドリー・プレシジョン
+Hoshviscera	ホッシュヴィセラ
+Ghoul's Touch	グールズ・タッチ
+Diamond Cuff	ダイアモンド・カフ
+Shadow Slice	シャドウ・スライス
+Soulsear	ソウルシアー
+Scratch of Persia	スクラッチ・オヴ・ペルシャ
+Threaded Spines	スレッディド・スパインズ
+Royal Grapple	ロイヤル・グラップル
+Phalzyr's Frenzy	ファルジールズ・フレンジー
+Ensnare	エンスネア
+Quill Giant's Spine	クウィル・ジャイアントの棘
+Sparkmonger	スパークモンガー
+Doom's Apprentice	ドームズ・アプレンティス
+Scratch of the Elements	スクラッチ・オヴ・ジ・エレメンツ
+Fangs of the King Cobra	キング・コブラの牙
+Warpfist	ワープフィスト
+Solistus' Masamune Edge	ソリスタスの正宗刀
+Clavo Platino	クラヴォ・プラティーノ
+Excalibria	エクスカリブリア
+Polar Edge	ポーラー・エッジ
+The Freedom of Imprisonment	囚われの自由
+Raja's Majesty	ラジャズ・マジェスティ
+Viz-Jaq'taar's Invention	ヴィズ＝ジャクタールズの新発明
+Slight of Hand	スライト・オヴ・ハンド
+Muramasa Sword	村正
+Xiao Ji Ji	シャオ・ジ・ジ
+Cruel Heart	クルーエル・ハート
+Hell's Torment	ヘルズ・トーメント
+Drannor's Claw	ドラナーズ・クロー
+Orb of the Red Dragon	赤きドラゴンのオーブ
+Azimuth's Regard	アジマスス・リガード
+Apocalypse Stone	アポカリプス・ストーン
+Magica Strife	Magica マジカ・ストライフ
+Auraura's Jewel	オーローラズ・ジュエル
+The Oculus	ジ・オキュラス
+Orb of the Horadrim	オーブ・オヴ・ザ・ホラドリム
+Wrath of Asmodeus	アスモデウスの怒り
+Heart of the Succubi	サキュバスの心臓
+Baal's Eye	バールズ・アイ
+Spacial Distortion	スペシャル・ディストーション
+Cap of the Raven	キャップ・オヴ・ザ・レイヴン
+Warriors Coif	ウォリアーズ・コイフ
+Obsidian Helm	黒曜石のヘルム
+Sparhawk's Spirit	スパーホークス・スピリット
+The Wanderer's Guard	ザ・ワンダラーズ・ガード
+Fearful Bane	フィアフル・ベイン
+Albrieght's Bonemask	アルブリートの骨面
+Raging Wolf	猛り狂うウルフ
+Leoric's Rule	レオリックス・ルール
+Crown of the Mountain King	マウンテン・キングの冠
+Cap of the Blessed	祝福されし者のキャップ
+Knowledge	ナリッジ
+The Eagle Helm	イーグル・ヘルム
+Spirit of Life	スピリット・オヴ・ライフ
+Veil of Steel	ヴェイル・オヴ・スティール
+Burial Mask of Marduuk	マルドゥークの埋葬面
+The Borgov's Skull	ボルゴヴのスカル
+Gotterdammerung	ゴッターダマールング
+Royal Circlet	ロイヤル・サークレット
+Dwarven Spirits	ドワーヴン・スピリット
+Servant's Leathers	侍者のレザー
+Beowulf's Mask	ベオウルフのマスク
+Golem Shell	ゴーレム・シェル
+Arthur's Crown	アーサーの冠
+Visor of the Tropics	熱帯のヴァイザー
+Diablo's Horns	ディアブロの角
+Death's Cowl	デスズ・カウル
+Spirit of Genghis Khan	スピリット・オヴ・ジンギスカン
+Arreat's Faceplate	アリーツ・フェイスプレート
+Bruenor's Cranium	ブルーナーズ・クラニウム
+The Rainbow Cloak	レインボー・クローク
+Zuez' Padding	ズーズの詰め綿
+Gecko's Leather	とかげのレザー
+Ragegarb	レイジガーブ
+Rathma's Protector	ラスマのプロテクター
+Mail of the Shadows	影のメイル
+Fearless Garb	恐れ知らずのガーブ
+Mail of the Sun	太陽のメイル
+Rasputin's Chestplate	ラスプーチンの胸当て
+Darkmage's Robe	ダークメイジのローブ
+Krujoy's Mail	キルジョイズ・メイル
+Flashpoint Armor	フラッシュポイント・アーマー
+Ironlord's Plate	鉄騎王のプレート
+Plate of Spikes	プレート・オヴ・スパイク
+Frozen Soulbearer	Frozen ソウルベアラー
+Spikes of the Rhyno	犀のスパイク
+Lightbringer's Revenge	ライトブリンガーズ・リヴェンジ
+Corrupted Sanctuary	澱んだ聖域
+Steel of Legends	スティール・オヴ・レジェンズ
+Shroud of Azalin	シュラウド・オヴ・アザリン
+Robe of the White Mage	白きメイジのローブ
+Black Armor	ブラック・アーマー
+Demon Skin	デーモン・スキン
+Palashia's Defense	パラシャのディフェンス
+Robe of the Phoenix	不死鳥のローブ
+Ancient Guardian	エィンシェント・ガーディアン
+Armor of the Wind	アーマー・オヴ・ザ・ウィンド
+Scarab Demon Carapace	スカラブ・デーモン・カラペイス
+Wisdom's Wrap	ウィズダムズ・ラップ
+Mountain's Skin	マウンテン・スキン
+Arkaine's Valor	アーケインズ・ヴァラー
+Armor of the Deep	アーマー・オヴ・ザ・ディープ
+Piotyr's Plate	ピョートルのプレート
+Templar Protector	テンプラー・プロテクター
+The Iron Maiden	ジ・アイアン・メイデン
+Armor of the Dragon Mage	ドラゴン・メイジのアーマー
+Drizzt's Mithril	ドリズットのミスリル
+Demonspike Coat	デーモンスパイク・コート
+Lothar's Cape	ロサーのケープ
+Nightscape	ナイトスケープ
+Cottonmouth Jacket	コットンマウス・ジャケット
+Hellrust	ヘルラスト
+Brilliance	ブリリアンス
+Chains of Binding	チェインズ・オヴ・バインディング
+Acero Frio	アケロ・フリオ
+Vulcanguard	ヴァルカンガード
+Atlastrust	アトラストラスト
+Kaija's Gown	カイジャのガウン
+Hellforge's Finest	ヘルフォージズ・ファイネスト
+Blanchwood Vest	ブランチウッド・ヴェスト
+Aakta's Defense	アークタのディフェンス
+Leoric's Plate	レオリックのプレート
+Robes of Power	力のローブ
+Deflective Spikes	ゆがんだスパイク
+Izeal's Vise	イジールの万力
+Silvasa's Dress	シルヴァッサのドレス
+The Guardian of Time	時の守護者
+Romanary Pelt	ロマナリー・ペルト
+Stargate	スターゲート
+Mercenary's Brace	マーシナリーズ・ブレース
+Spikes of Rajamir	ラジャミールのスパイク
+Raven's Shield	レイヴンズ・シールド
+Skullbear's Soul	スカルベアーズ・ソウル
+Stormwynd's Mania	ストームウィンズ・マニア
+Phrozen Heart	フローズン・ハート
+Defender of Justice	正義の守護者
+The Deflector	ザ・デフレクター
+Karcheus' Ward	カルキアスの守護印
+The Face of the Sun	太陽の顔
+Spikewall	スパイクウォール
+The Shield of Pain	ザ・シールド・オヴ・ペイン
+Tortured Souls	苦悶するソウル
+Wall of the Ancient Oak	古き樫の胸壁
+Link's Mirror	リンクス・ミラー
+Mithril Shield	ミスリル・シールド
+Lady Raven's Power	レィディ・レイヴンズ・パワー
+Elzix's Treasure	エルジックスの秘宝
+Cyclop's Protector	サイクロプス・プロテクター
+The Seduction of Pain	ザ・セダクション・オヴ・ペイン
+Dragon's Breach	ドランゴンズ・ブリーチ
+Icon of Sin	アイコン・オヴ・シン
+The Barricade	ザ・バリケード
+Guardian Angel	ガーディアン・エンジェル
+Stonewall	ストーンウォール
+Leather of Luck	幸運のレザー
+Hand of Grog	ハンド・オヴ・グロッグ
+Gloves of Firebrand	ファイア・ブランドのグローブ
+Darkflight Hand	ダークフライト・ハンド
+Heartrand's Gaunts	ハートランズ・ゴーント
+Fireheart's Hand	ファイアハーツ・ハンド
+Hands of the Assassin	ハンズ・オヴ・ジ・アサシン
+Gloves of Nor Tiraj	ノー・ティラジのグローブ
+Shiva's Touch	シヴァズ・タッチ
+Runefusion	ルーンフュージョン
+Suffocation of Indifference	無関心な絞殺者
+Lockheart's Grip	ロックハーツ・グリップ
+Gloves of the Dark Mage	闇の魔術師のグローブ
+The Hands of Atlas	ザ・ハンド・オヴ・アトラス
+Death's Grip	デスズ・グリップ
+Iron Fist	アイアン・フィスト
+Herculean Grip	ヘルクレスのグリッブ
+Greiz's Legion	グレイズの軍団
+Boots of Firewalk	火渡りのブーツ
+Icelander's Wear	アイスランダーズ・ウェアー
+Orcish Walkgarb	オークの行軍靴
+Vindalay's Sole	ヴィンダリーの靴底
+Lightmaster's Walk	ライトマスターズ・ウォーク
+Zhoul's Slippers	ズールのスリッパ
+Demonspeed	デーモンスピード
+Flickerheel	フリッカーヒール
+Chillcobble	チルコッブル
+Boots of the Valiant	勇者のブーツ
+Haste of Athulua	アスルアの速歩
+Wren's Reinforced Tech Boots	レンのハイテク強化靴
+Heart of the Moon	ハート・オヴ・ザ・ムーン
+Boots of the Serpent	ブーツ・オヴ・ザ・サーペント
+Boots of Aether	天空のブーツ
+Hermes' Gift	ハーミーズ・ギフト
+The Heel of Blood	ザ・ヒール・オヴ・ブラッド
+Spirits of the Dead	死者の魂
+Imperial Sash	インペリアル・サッシュ
+Raimen's Belt of Fear	レイメンの恐怖のベルト
+Glowharness	グローハーネス
+Blustone's Belt	ブラストワンズ・ベルト
+Harness of the Gods	ハーネス・オヴ・ザ・ゴッズ
+Goldark's Strap	ゴルダークの組みひも
+Smiles of Fortune	スマイルズ・オヴ・フォーチュン
+Rumour of Pain	ルーマー・オヴ・ペイン
+Strap of Cythys	ストラップ・オヴ・サイシス
+Battlecharge	バトルチャージ
+Timeloop	タイムループ
+Circle of the Ancients	サークル・オヴ・ジ・エィンシェンツ
+Blazeband	ブレイズバンド
+Band of Constriction	バンド・オヴ・コンストリクション
+Laertes' Treasure	レルテの秘宝
+Spartacus' Defense	スパルタクスのディフェンス
+Girdle of Giant Strength	巨人力のガードル
+The Belt of Zeus	ゼウスのベルト
+Hinge of Sinnew	シニューの蝶つがい
+Crusheye	クラッシュアイ
+The Raging Bull	ザ・レイジング・ブル
+Army of One	アーミー・オヴ・ワン
+The Augmentor	ジ・オーギュメンター
+Helm of the Dead King	死者王のヘルム
+Savannah's Pride	サバンナのプライド
+The Crimson Faceplate	クリムゾン・フェイスプレート
+Phase Visor	フェイズ・ヴァイザー
+Arreat's Face	アリーツ・フェイス
+Coldfist's Icy Stare	ゴールドフィスツ・アイシー・ステア
+Adrenaline Rush	アドレナリン・ラッシュ
+Wyrm's Wrap	ウィルムズ・ラップ
+Larzuk's Innovation	ラーザックの新発明
+The Ancients' Blessing	古代人の祝福
+Wirt's Skull	ワートの頭蓋骨
+Corpsefire's Head	コープスファイアの生首
+Radament's Rotting Skull	ラダメンツ・ロッティング・スカル
+Pitspawn's Gaze	ピットスポーンズ・ゲイズ
+Andariel's Face	アンダリエルズ・フェイス
+Ancient Kaa's Soul	エインシェント・カーの魂
+Red Death's Madness	赤い死の恐怖
+The Grim Compass	ザ・グリム・コンパス
+Disturbing Visions	ディスタービング・ヴィジョンズ
+Homunculus	ホムンクルス
+Splitskull Shield	スプリットスカル・シールド
+Head of the Cerberus	ケルベロスのこうべ
+Shenk's Mask	シェンクス・マスク
+Winged Embrace	ウィングド・エンブレイス
+Dracula's Wit	ドラキュラズ・ウィット
+Fang's Valor	ファングズ・ヴァラー
+Shadow Crow	シャドウ・クロー
+Alizee's Flaming Horns	アリゼーの燃える角
+Razor Beak	レザー・ビーク
+Starwolf's Facade	スターウルフス・ファサード
+Con Dar Warpaint	コン・ダー・ウォーペイント
+Ravenlord	レイヴンロード
+Horns of Allesthir	ホーンズ・オヴ・アレススィル
+Phoenix Tail	フェニックス・テイル
+Jalal's Mane	ジャラルズ・メイン
+Necromancer's Essense	ネクロマンサーズ・エッセンス
+Mojabi's Face	モジャビズ・フェイス
+Tetonic Horns	テトニック・ホーンズ
+Aire Libre	エア・リブレ
+Beast of the Night	ビースト・オヴ・ザ・ナイト
+Dogma	ドグマ
+Archer's Bane	アーチャーズ・ベイン
+Diablo's Crest	ディアブロズ・クレスト
+The Bishop	ザ・ビショップ
+King's Blessing	キングズ・ブレッシング
+Gorgon Slayer	ゴーゴン・スレイヤー
+Hadriel's Barricade	ハドリエルのバリケード
+Wall of the Crusader	十字軍の壁
+Herald of Zakarum	ヘラルド・オヴ・ザカラム
+Imperial War Guard	インペリアル・ウォー・ガード
+Faith	フェイス
+Godspeed	ゴッドスピード
+Heaven's Gate	ヘヴンズ・ゲート
+Leader of the Light	リーダー・オヴ・ザ・ライト
+Black Hole	ブラック・ホール
+Azurewrath_old	アズアラス
+Stormshield_lod	ストームシールド
+Messerschmidt's Reaver_lod	メッサーシュミッツ・リーヴァー
+Schaefer's Hammer_lod	シェイファーズ・ハンマー
+The Grandfather_lod	ザ・グランドファーザー
+Wizardspike_lod	ウィザードスパイク
+Eaglehorn_lod	イーグルホーン
+The Rising Sun_lod	ザ・ライジング・サン
+Arreat's Face_lod	アリーツ・フェイス
+Homunculus_lod	ホムンクルス
+Titan's Revenge_lod	タイタンズ・リヴェンジ
+Lycander's Flank_lod	ライサンダーズ・フランク
+The Oculus_lod	ジ・オキュラス
+Herald of Zakarum_lod	ヘラルド・オヴ・ザカラム
+Jalal's Mane_lod	ジャラルズ・メイン
+Guardian Angel_lod	ガーディアン・エンジェル
+Arkaine's Valor_lod	アーケインズ・ヴァラー
+Veil of Steel_lod	ヴェイル・オヴ・スティール
+Lycander's Aim_lod	ライサンダーズ・エイム
+0ha	バーバリアン・トマホーク
+0ax	プレシジョン・クリーヴァー
+82a	デュオ・アックス
+0mp	レザー・アックス
+0wa	ヴァイキング・アックス
+0la	ブラウン・アックス
+0ba	ヘヴィ・アックス
+0bt	スプリット・アックス
+0ga	ギロティン・アックス
+0gi	スレイヤー・アックス
+1sb	スパイダーウォーヴン・ボウ
+1hb	シャープ・ボウ
+1lb	シェード・ボウ
+1cb	ダーク・ボウ
+1s8	ローグ・ボウ
+1l8	マークスマン・ボウ
+1sw	アーケイン・ボウ
+1lw	エィンシェント・ボウ
+1lx	チョイス・クロスボウ
+1mx	マークスマン・クロスボウ
+1hx	アディシュース・クロスボウ
+1rx	アサシン・クロスボウ
+0dg	カーヴド・ボーン
+0di	ミスラル・ナイフ
+0kr	ファング・ナイフ
+0bl	エィンシェント・スパイク
+0ja	エィンシェント・シャーズ
+0pi	ダイア・パイラム
+0s9	リッサム・スピア
+0gl	エイハブ・スピア
+0ts	ホエール・ハンター
+0cl	クラニウム・バッシャー
+0sp	ソーンド・クラブ
+0ma	アーケイン・メイス
+0mt	セレイティド・スター
+0fl	ダイア・フレイル
+0wh	ミリタリー・ハンマー
+0m0	エィンシェント・モール
+0gm	タイタン・モール
+0b7	アーグロシュ
+0vo	ポール・ゴーシュ
+0s8	シャドウ・サイズ
+0pa	ロイヤル・パルチザン
+0h0	ガーディアン
+0wc	デス・リーパー
+5sc	セレスチャル・セプター
+0qs	ホーリー・セプター
+0ws	ブレスド・セプター
+0sr	ギザーム
+0tr	グラプネル
+0br	ドラゴン・スピア
+0st	ランスール
+0p0	インペイラー
+1ss	エルダー・ケイン
+1ls	ミスティック・スタッフ
+1cs	ペトリファイド・スタッフ
+1bs	メイジ・スタッフ
+1ws	アーケイン・スタッフ
+0ss	グラディエーター・ブレード
+0sm	デザート・ソード
+0sb	レイピア
+0fc	オクリスト
+0cr	ジュエルド・エッジ
+0bs	ヴァイキング・ソード
+0ls	アーケイン・ソード
+0wd	トロージャン・ソード
+02h	ジャッジメント・ブレード
+0cm	タイタン・ダガー
+0gs	ライズ・ブレード
+0b0	ダーク・ソード
+0fb	ヘルファイア・ソード
+0gd	デス・ブレイド
+0tk	スローイング・ダガー
+0ta	スローイング・ハチェット
+0bk	バランスド・ダガー
+0b6	バランスド・ハチェット
+0wn	セイクリッド・ワンド
+0yw	セパルカー・ワンド
+0bw	カラス・ワンド
+0gw	デモーニック・ワンド
+aq2	マジック・アロー
+cq2	マジック・ボルト
+gsp	グレート・セプター
+9gp	コンシクレイティド・セプター
+0gp	セラフィック・セプター
+apb	プレシジョン・ボウ
+9pb	トゥイガン・ボウ
+0pb	エルフ・ボウ
+nin	忍者刀
+9nn	脇差
+0nn	刀
+bts	トライバル・スピア
+9xb	ハイランド・ジャベリン
+0xb	マウンテン・クラン・スピア
+shc	オーク・ブランチ
+9sh	シャーマン・ワンド
+0sh	シレイリ
+nrd	リチュアリスティック・ダガー
+9rd	サクリフィシャル・ダガー
+0rd	セレモニアル・ダガー
+nsy	レッチド・サイズ
+9ns	ダイア・サイズ
+0ns	ソウル・サイズ
+syn	ドレッド・サイズ
+9sy	ドーム・ブレード
+0sy	ソウル・デストロイヤー
+pbe	ブレスド・エッジ
+9be	ディヴァイン・ブレード
+0be	セレスチャル・ブレード
+mnb	マナ・ブレード
+9mn	エナジー・ブレード
+0mn	マジック・ブレード
+Blockplev	+1% ブロック成功率強化（%dレベルにつき）
+Blockplev2	: +1% ブロック成功率強化（２レベルにつき）
+CBplev	壊滅打のチャンス （１レベルにつき）
+CBplev	壊滅打のチャンス （１レベルにつき）
+Cabsplev	冷気吸収 （１レベルにつき）
+DamDUplev	のダメージをデーモン、アンデッドに与える （１レベルにつき）
+DamDUplev	のダメージをデーモン、アンデッドに与える （１レベルにつき）
+DefDAEplev	防御値ボーナス増加 （１レベルにつき）
+Dexplev	、敏捷性上昇 （１レベルにつき）
+Dmmnplev	少ないマナを消費 （１レベルにつき）
+Dmmnplev2	: 2.5% 少ないマナを消費（１レベルにつき）
+Dmmnplev2	: 2.5% 少ないマナを消費（１レベルにつき）
+EEplev	+1 エレメンタル（%dレベルにつき）
+ESkillBalloons	風船: 
+ESkillGrizz	エレメンタル: 
+ESkillMiss	ミサイルの数: 
+ESkillVines	植物の数: 
+ElemDampLevAll	全属性ダメージ （１レベルにつき）
+ElemDampLevEach	各属性ダメージ （１レベルにつき）
+EskillPerBlade	１秒につき
+Fabsplev	火炎吸収 （１レベルにつき）
+Ffleeplev	モンスターがより速く逃走 （１レベルにつき）
+GGplev	のゴールドを追加入手 （１レベルにつき）
+HPACplev	ライフ、防御値 （１レベルにつき）
+KBplev	跳ね飛ばす （１レベルにつき）
+Labsplev	稲妻吸収（１レベルにつき）
+Lifrplev	ライフ回復 （１レベルにつき）
+Lifstplev	+1% のライフを一撃ごとに奪う （%dレベルにつき）
+MFplev	、マジックアイテム入手確率が上昇 （１レベルにつき）
+Manaplev	最大マナ上昇 （１レベルにつき）
+Manrplev	マナを徐々に回復 （１レベルにつき）
+Manstplev	+1% のマナを一撃ごとに奪う （%dレベルにつき）
+ModLvlReq	必要レベル
+ModStr1a2	、筋力上昇
+ModStr1c2	、バイタリティ上昇
+ModStr1sm	、最大魔法ダメージ上昇
+ModStr1x2	、マジックアイテム入手確率が上昇
+ModStr3u2	攻撃を受けた際にモンスターが逃走
+ModStr5c2	壊滅打のチャンス: 
+ModStr6h1	レベル
+ModStr6h2	のマジック・アローを発射
+ModStr6i2	の爆発する矢かボルトを発射
+ModStre8a	、ドルイドのスキルレベル上昇
+ModStre8b	、アサシンのスキルレベル上昇
+ModitemdamMagsk	、魔法スキルダメージ修正
+Moditemenresmagsk	、敵の魔法耐性修正
+Moditemenrespoissk	、敵の毒物耐性修正
+OWplev	、敵の傷が開く可能性 （１レベルにつき）
+OWplev	、敵の傷が開く可能性 （１レベルにつき）
+Pchplev	%のチャンス （１レベルにつき）
+Pchplev	%のチャンス （１レベルにつき）
+PhysResplev	物理耐性 （１レベルにつき）
+Rangpxlev	+1 ヤード （%dレベルにつき）
+Ravplev	+1 レイヴン （%dレベルにつき）
+Regplev	マナを徐々に回復 （１レベルにつき）
+ResAllplev	全耐性（１レベルにつき）
+ResFCLplev	火炎、冷気、稲妻耐性（１レベルにつき）
+Rescplev	冷気耐性（１レベルにつき）
+Resfplev	火炎耐性（１レベルにつき）
+Reslplev	稲妻耐性（１レベルにつき）
+Respmplev	毒物、魔法耐性（１レベルにつき）
+ReviveVelocity	より速い移動（１レベルにつき）
+Secplev3	+1秒（%dレベルにつき）
+SmtStunplev	: スタン時間 +0.12秒（１レベルにつき）
+Spikeplev	スパイク（１レベルにつき）
+Stplev	のライフを奪う（１レベルにつき）
+StrEach	各スキルは以下も与える
+StrEachGolem	各ゴーレムは以下を与える
+StrHolyFFS	ホーリー・ファイア、フリーズ、ショック
+StrSkill121	全スキル上昇: 
+StrSkill124	獲得経験値修正: 
+StrSkill150	(変換されたダメージにはシナジーは適用されない)
+StrSkill151	物理耐性: 
+StrSkill152	対近接防御力: 
+StrSkill153	対遠隔防御力: 
+StrSkill154	壊滅打のチャンス: 
+StrSkill155	% （召喚者のライフに対し）
+StrSkill156	装備のレベル: 
+StrSkill157	ランダムな装備と共に召喚される
+StrSkill158	ドッジ、アボイド、イベイド
+StrSkill159	呪文詠唱: 
+StrSkill160	ブロック成功率: 
+StrSkill161	より素早いブロック: 
+StrSkill162	より速いヒットリカバリー: 
+StrSkill163	マナ消費: 
+StrSkill164	: +1 ヤード（10レベルにつき）
+StrSkill165	ホーリー・ボルトによる回復: 
+StrSkill166	ライフを、１人倒すごとに得る: 
+StrSkill167	貫通攻撃: 
+StrSkill168	アンデッドに与えるダメージ: 
+StrSkill169	デーモンに与えるダメージ: 
+StrSkill170	ホーリーボルトの数: 
+StrSkill171	あなたの 
+StrSkill172	対デーモン、アンデッド攻撃値強化: 
+StrSkill173	デーモン、アンデッドに与えるダメージ: 
+StrSkill174	% \n非アクティブ時、
+StrSkill175	、最大火炎耐性を強化
+StrSkill176	、最大冷気耐性を強化
+StrSkill177	、最大稲妻耐性を強化
+StrSkill178	敵の傷が開く可能性: 
+StrSkill179	壊滅打のチャンス: 
+StrSkill180	火炎、冷気、稲妻耐性: 
+StrSkill181	ダメージ低減: 
+StrSkill182	ヒュドラ稲妻ダメージ: 
+StrSkill183	毒物の効果時間を低減、
+StrSkill184	呪いの効果時間を低減、
+StrSkill185	ライフ回復: 
+StrSkill186	マナ回復: 
+StrSkill187	より速い呪文詠唱: 
+StrSkill188	火炎吸収: 
+StrSkill189	冷気吸収: 
+StrSkill190	稲妻吸収: 
+StrSkill191	毒物、魔法耐性: 
+StrSkill192	 節
+StrSkill193	以下も上昇させる 
+StrSkill194	（シナジーにより、自分自身と同等に）
+StrSkill195	魔法ダメージに変換: 
+StrSkill196	魔法ダメージに変換 （１レベルにつき）
+StrSkill197	: クリティカル・ストライク・ボーナス
+StrSkill198	魔法耐性: 
+StrSkill199	: +5% スタン時間 （１レベルにつき）
+StrSkill200	ヴァンパイア: 
+StrSkill201	スケルトン & ヴァンパイア: 
+StrSkill202	スケマス、スケルトン、ヴァンパイア
+StrSkill203	リバイブ、ヴァンパイア
+StrSkill204	+1 全スキル上昇 （５実レベルにつき）
+StrSkill205	 ミサイル
+StrSkill206	全ダメージが魔法ダメージに変換される
+StrSkill207	[パッシブ] 攻撃値-防御値ボーナス: 
+StrSkill208	[パッシブ] ライフ・ボーナス: 
+StrSkill209	[パッシブ] ダメージ・ボーナス: 
+StrSkill210	跳ね飛ばす（通常）: 
+StrSkill211	跳ね飛ばす（対ユニーク）: 
+StrSkill212	跳ね飛ばす（対ボス・対人）: 
+StrSkill213	冷気ダメージと同量の物理ダメージを与える
+StrSkill214	アシッド・レイン: より速い攻撃 （７レベルにつき）
+StrSkill215	% （死体のライフに対し）
+StrSkill216	トラップの数: 
+StrSkill217	各チャージ・アップスキルは以下を与える
+StrSkill218	ずつ敵の防御力を下げる（命中一回ごとに）
+StrSkill219	%、敵の傷が開く可能性
+StrSkill220	敵の火炎耐性修正: 
+StrSkill221	% 壊滅打のチャンス
+StrSkill222	 精霊
+StrSkill223	ヤード （１レベルにつき）
+StrSkill224	各植物
+StrSkill225	ダメージ低減: 
+StrSkill226	精霊と風船をのぞく各手下:
+StrSkill227	全耐性 +1%、ライフを徐々に回復 +1 （１レベルにつき）
+StrSkill228	ダメージ低減 +1% （２レベルにつき）
+StrSkill229	スピリット・ウルフ: 攻撃値-防御値ボーナス (パッシブ)
+StrSkill230	ダイア・ウルフ: ライフ・ボーナス (パッシブ)
+StrSkill231	エレメンタル: ダメージ・ボーナス (パッシブ)
+StrSkill232	狼とエレメンタル
+StrSkill233	毒物無効
+StrSkill234	魔法ダメージへ変換 （１レベルにつき）
+StrSkill54c	冷気耐性: 
+StrSkill54f	火炎耐性: 
+StrSkill54l	稲妻耐性: 
+StrSkillRD	ダメージ低減 
+StrSkillkb	跳ね飛ばす半径: 
+StrUI0b	ブラッド・ゴーレム
+StrUI0c	クレイ・ゴーレム
+StrUI0f	ファイア・ゴーレム
+StrUI0n	ボーン・ゴーレム
+StrUI2	ヴァンパイア
+Strplev	筋力（１レベルにつき）
+Trapplev	+1 トラップ（%dレベルにつき）
+Vineplev	+1 植物（%dレベルにつき）
+Warrplev	+1 手下（%dレベルにつき）
+Wolfplev	+1 ウルフ（%dレベルにつき）
+strUI13c	キャリオン
+strUI13p	ポイズン
+strUI13v	ソーラー
+strUI7e	エレメンタル
+Act 5 Hireling 1hs	ハロガスの傭兵
+Act 5 Hireling 2hs	パロガスの傭兵
+Baal Subject 1	拷問者リスター
+Baal Subject 2	アンダリエル
+Baal Subject 3	ドゥリエル
+Baal Subject 4	メフィスト使い
+Baal Subject 5	ディアブロ
+Beholder	ビホールダー
+Belhifet	ベルヒフェット
+BlackKnight	ブラックナイト
+BlackSoul	まぼろしを紡ぐ者
+BloodClan	ブラッドクラン
+BloodClanLord	ブラッドクランロード
+BloodDiver	ブラッド・クロウ
+BloodGolem	ブラッド・ゴーレム
+BloodKnight	ブラッド・ナイト
+Bunny	バニー
+BurningSoul	見えざる者
+Cannibal	人喰い
+Carver	カーヴァー
+CarverShaman	カーヴァー・シャーマン
+Chaos Flame Mage	ケイオス・フレイム・メイジ
+Chaos Ice Mage	ケイオス・アイス・メイジ
+Chaos Lightning Mage	ケイオス・ライトニング・メイジ
+Chaos Summoner	ケイオス・サモナー
+ClayGolem	クレイ・ゴーレム
+Cow Fly	牛アブ
+CowWitch	ミルク・メイデン
+Cowdecoy	カウバルーン
+Cyclops	サイクロプス
+Dark Clone	ダーク・クローン
+Dark CrushBeast	ダーク・クラッシャー
+Dark Harpie	ダーク・ハーピィ
+Dark Magician	ダーク・マジシャン
+DarkFamiliar	ダーク・ファミリアー
+DarkOne	ダークワン
+DarkShaman	ダーク・シャーマン
+Death Stinger	デス・スティンガー
+DeathClan	デス・クラン
+DeathClanLord	デス・クラン・ロード
+DeathKnight	デスナイト
+DesertWing	ウィング・デーモン
+Devilkin	デヴィルキン
+DevilkinShaman	デヴィルキン・シャーマン
+DoomApe	オーク・ウォーリーア
+DoomGuard	ドゥーム・ガード
+Dozaemon	土左衛門
+DuneBeast	オーク正規兵
+Fallen	フォールン
+FallenShaman	フォールン・シャーマン
+Fiend	ガーゴイル
+FireGolem	ファイア・ゴーレム
+FlayedOne	フレイド・ワン
+FrostCharger	フロスト・チャジャー
+Ghost Bovine	牛幽霊
+Giant	巨人
+Gloam	潜みし者
+Gloombat	デス・ウィング
+Grand Vizier of Chaos	レオリック王
+Hairdresser	ヘアメイク
+Hell Cowboy	ヘル・カウボーイ
+HellCharger	ヘル・チャージャー
+HellClan	ヘル・クラン
+HellClanLord	ヘル・クラン・ロード
+HornedDemon	ホーンド・デーモン
+Infector of Souls	血塗られし軍団長
+Injured Barbarian 1	傷ついたバーバリアン
+Injured Barbarian 2	傷ついたバーバリアン
+Injured Barbarian 3	傷ついたバーバリアン
+IronGolem	ボーン・ゴーレム
+JungleHunter	オーク・マスター
+Leoric	レオリック王
+Lord De Seis	ヘル・スポーン
+MoonClan	ムーン・クラン
+MoonClanLord	ムーン・クラン・ロード
+MudMan	マッド・マン
+MudRunner	マッド・ランナー
+NightClan	ナイト・クラン
+NightClanLord	ナイト・クラン・ロード
+ObsidianLord	オブシディアン・ロード
+Raven Imp	レイヴン・インプ
+Raven Shaman	レイヴン・シャーマン
+RockDweller	オーク徴募兵
+Sarinas Maiden	サリナの侍女
+SnowYeti1	ダーク・ナイト
+SnowYeti2	シェード・ナイト
+SnowYeti3	ブラック・ナイト
+SnowYeti4	シニスター・ナイト
+Sorrow Imp	嘆きのインプ
+Sorrow Summoner	嘆きの召喚術師
+Soulless Archer	ソウルレス・アーチャー
+SteelLord	スティール・ロード
+SummonerBaal	召喚術師
+SwampGhost	ストーカー
+TempleGuard	オークの破壊者
+ToadDemon	トード・デーモン
+Treant	トレント
+WarpedFallen	ワープト・フォールン
+WarpedShaman	ワープト・シャーマン
+Water Elemental	ウォーター・エレメンタル
+WavesMage	ウェイヴ・メイジ
+Worldstone Effect	ワールドストーン効果
+heals Cows and Cowboys	仲間を治す
+raises Blood Clan	ブラッド・クランを蘇生
+raises Chaos Mages	ケイオス・メイジを蘇生
+raises Death Clan	デス・クランを蘇生
+raises Hell Clan	ヘル・クランを蘇生
+raises Moon Clan	ムーン・クランを蘇生
+raises Night Clan	ナイト・クランを蘇生
+raises Raven Imp's	レイブンズ・インプを蘇生
+fq0	\yellow;ヒントの巻物 1
+fq1	\yellow;ヒントの巻物 2
+fq2	\yellow;ヒントの巻物 3
+fq3	\yellow;ヒントの巻物 4
+fq4	\yellow;ヒントの巻物 5
+fq5	\yellow;ヒントの巻物 6
+fq6	\yellow;ヒントの巻物 7
+fq7	\yellow;ヒントの巻物 8
+fq8	\yellow;ヒントの巻物 9
+fq9	\yellow;ヒントの巻物 10
+fq0desc	買い物してもらわんと困るからな。 \n早くレベル上げて、どんどん \nただで立ち読みさせることにしている。 \nうちのお得意さんには特別に \nこの巻物はゲーム序盤のヒントさ。
+fq1desc	いい装備を買うってのも手だぜ。 \n怪物はパスして宝箱を探し回り \n初期装備じゃ歯が立たなかったら \nフォールンやクィル・ラットを狙うんだ。 \n怪物が強すぎて倒せない時は
+fq2desc	使うと、敵を安全に倒せるぜ。 \n冷気攻撃や飛び道具をうまく \n出れないときはゲームの作り直しさ。 \n町の出口に強い怪物がたむろして \n回復してもらいな。なんせタダだ。 \n町から遠くへ行かず、アカラにまめに
+fq3desc	毒や爆発のほこらは金のなる木だ。 \n貧乏なうちは投げポットも拾いな。 \n高く買ってやるから見落とすなよ。 \n投げ武器は、多少おんぼろだろうが
+fq4desc	ジェムワードってのが発動する。 \n同じ色やサイズの宝石をはめると \n取り出せるから使い惜しみはなしだ。 \nTPスクロールと合成するだけで \n一度穴に詰めた宝石やルーンは
+fq5desc	なるべく取っておくことだな。 \n絶対売るなとは言わんが、 \n古代の解読片や怪物の臓物は \n絶対に売らん方がいい。 \n古代の巻物は、たとえダブっても
+fq6desc	という風に再合成できるからな。 \nマジックアイテム 7 -> レアアイテム \nマジックアイテム 3 -> マジックアイテム \nたとえカスでも売っちゃいかん。 \n指輪、護符、ジュエル、チャームは
+fq7desc	自分に役立つ場合は当然キープだ。 \nただし魔術師の拳とか、定番品で \n序盤は売っちまうのもありだ。 \n古代のクーポンやデカールは
+fq8desc	安くて強い傭兵セットもお勧めだ。 \n緑ブーツ、金レザーグローブ。 \nトレハン装備なら緑ライトベルトや \n指輪や護符はお買い得品だ。 \nギャンブルは試して損はさせん。
+fq9desc	ほかに質問はあるかい？
+t16	現在の出力: \yellow;レア・ボルト \grey;(消費 7pt) \n単独で合成して出力を選択 \n鍵と合成してリロール \nと合成してポイントをためる \n\blue;青 \grey;指輪/護符/ジュエル/チャーム/矢
+t72	現在の出力: \yellow;クーポン (エリート) \grey;\n単独で合成して出力を選択 \n鍵と合成して中身を取り出す \n合成材料等と合成して収納
+t73	現在の出力: \orange;ワイルドカード \grey;\n単独で合成して出力を選択 \n鍵と合成して中身を取り出す \n合成材料等と合成して収納
+t74	現在の出力: \purple;完全回復ポーション \grey;\n単独で合成して出力を選択 \n鍵と合成して中身を取り出す \n合成材料等と合成して収納
+96j	\gold;(ノーマル) \n古代のクーポン
+97j	\gold;(上位) \n古代のクーポン
+98j	\gold;(エリート) \n古代のクーポン
+bcpn1	\red;クーポン (ノーマル)
+bcpn2	\dgrey;クーポン (上位)
+bcpn3	\yellow;クーポン (エリート)
+an0desc	キャラクターレベルにかかわらず常に成功 \n合成するとユニークアイテムができる \n穴のない白ノーマル武器/防具と
+an1desc	キャラクターレベルにかかわらず常に成功 \n合成するとユニークアイテムができる \n穴のない白上位武器/防具と
+an2desc	キャラクターレベルにかかわらず常に成功 \n合成するとユニークアイテムができる \n穴のない白エリート武器/防具と
+jr7	Arrow Reroll Point
+jr8	Bolt Reroll Point
+skillld75	各ゴーレムを同時に各1体召喚できる \n戦いに加勢させる \n土からゴーレムを作り
+skillld85	各ゴーレムを同時に各1体召喚できる \nダメージも共有する \n血のゴーレム。敵のライフを奪って術者に送るが
+skillld90	各ゴーレムを同時に各1体召喚できる \nゴーレムはアイテムの性質を受け継ぐ \n金属アイテムからゴーレムを作る。
+skillld94	各ゴーレムを同時に各1体召喚できる \n敵の火炎攻撃からライフを得るゴーレム \n付近の敵に火炎ダメージを与え、
+tkn	トークン
+tkz	トークン生成器
+bcpdesc	合成に使用できる \nリロールもしくはワイルドカードの
+wlddesc	ワイルドカード4枚 = クーポン (エリート) \nワイルドカード2枚 = クーポン (上位) \n1 ワイルドカード = クーポン (ノーマル)
+tkzdesc	\green;するとアイテム強化の結果を失う \nセットアイテムのみ、トークン化 \n\grey;トークンは単独で合成すると元に戻る \n未鑑定のアイテムは鑑定される) \n(ルーンワードは取り外す必要あり \nトークンに変換する \n武器/防具と合成すると
+Roaring Thunder	ローリング・サンダー
+Iron Thimble	鉄の指貫
+Fascinating	魅惑の
+Excellent	卓越した
+of Smiting	(強打)
+3qtrplev	: このスキルへの 3/4 ポイントとして働く
+Quality	高品質の
+Factory Director	工場長
+Dark Planter	闇の農園主
+Dark Employee	闇の作業員
+Dark Farmer	闇の農夫
+Scarecrow	カカシ
+Factory Dust	工場のホコリ
+Factory Scavenger	工場清掃人
+Dark Bouncer	闇の警備員
+Dark Clerk	闇の事務員
+Part-Timer	パートタイマー
+Part-Timer	パートタイマー
+Veteran Part-Timer	古株のパートタイマー
+Dark Warehouser	闇の倉庫番
+Electric Leakage	漏電
+Dark Researcher	闇の研究員
+Death Plower	死を呼ぶ耕作者
+Living Clod	生ける土くれ
+Runeword898	ストーン
+Runeword899	ヴォイド
+Runeword900	ゴールド
+Runeword901	フォーフィール
+Runeword902	フォッグ
+Runeword903	ミレニアム
+Runeword904	デイライト
+Runeword905	ネイチャーズ・キングダム
+Runeword906	ホット
+Runeword907	サイキック
+Runeword908	メモリー
+Runeword909	キャプティヴ
+Runeword910	ウェルス
+Runeword911	ユース
+Runeword912	ハーモニー
+Runeword913	デイライト
+Runeword914	スピリット
+Runeword915	アバンドン
+Runeword916	ムーン
+Runeword917	シン
+of the Hero	(ヒーロー)
+raises Part-Timers	パートタイマーを蘇生
+Cutthroat1	バータックス・チョプチョプ
+ModStre8b	、アサシンのレベル修正 
+BlackArcher	ブラック・アーチャー
+StrSkill100	最大ライフ： 
+StrSkill101	最大マナ： 
+null	null

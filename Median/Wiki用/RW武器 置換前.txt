@@ -1,0 +1,232 @@
+*ルーンワード （武器）
+Median XL にはまったく新しい235のルーンワードがあります
+
+&bold(){1個のルーンで全てのルーンワードが発動可能}
+全てのルーンワードはたった１個のルーンで発動することができます！
+ただしこれはソケットが１個のアイテムでしか発動できないという意味ではなくて
+たとえば４ソケットのアイテムを拾ったとすると、
+３個ジュエルを埋めた後、最後にルーンワード用のルーンを埋めることで発動することができます。
+
+&bold(){灰色のアイテムのみ}
+マジックとかレアとかユニークとかにルーン埋めて発動しねぇぞとか言わないように
+
+[[ルーンワード（防具）]]
+
+
+#contents
+----
+**一般武器
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Dawn|11|El|5% Chance to cast level 7 Celerity when you Kill an Enemy&br()+(31 to 60)% Enhanced damage&br()15% Faster Hit Recovery&br()(101 to 150)% Bonus to Attack Rating&br()10% Bonus to All Attributes&br()(31 to 60)% Extra Gold from Monsters&br()+2 to Light Radius|
+|Shark|17|Tal|33% Chance to cast level 9 Bloodlust when you Kill an Enemy&br()+(51 to 100)% Enhanced damage&br()+(11 to 15)% Bonus Damage to Bloodlust&br()20% Increased Attack Speed&br()+(0.5 per level) to Maximum Damage (Based on Character Level)&br()33% Chance of Open Wounds&br()+5 to all Attributes&br()-1 to Mana|
+|Enyo|31|Dol|15% Chance to cast level 13 Starburst on Attack&br()+1 to All Skills&br()+(121 to 160)% Enhanced damage&br()+(31 to 50) to Minimum Damage&br()Stun Attack&br()+20% Bonus to Summoned Minion Life&br()20% Bonus to Strength&br()20% Bonus to Energy&br()(21 to 25)% Reanimate as: Acid Beast|
+|Azrael|45|Pul|33% Chance to cast level 13 Fire Splash when you Kill an Enemy&br()+(151 to 200)% Enhanced damage&br()40% Increased Attack Speed&br()40% Faster Cast Rate&br()(6 to 13)% Life stolen per Hit&br()+50 to Strength&br()+(101 to 200) to Life&br()Fire Resist +66%&br()+50 Life after each Kill|
+|Void|59|Lo|+(101 to 125)% Enhanced damage&br()Adds 25-100 Damage&br()Slows Target by 40%&br()Lightning Resist +40%&br()Cold Resist +40%&br()Damage Reduced by (31 to 40)&br()+(21 to 25) Mana on Striking&br()(21 to 40)% Reanimate as: Banshee|
+|Oblivion|75|Lah|25% Chance to cast level 32 Venomous Spirit on Attack&br()+(201 to 250)% Enhanced damage&br()+(1.5 per level) to Maximum Damage (Based on Character Level)&br()+(31 to 40)% to Poison Spell Damage&br()15% Chance of Crushing Blow&br()10% Bonus to All Attributes&br()Level 20 Abyss (17 Charges)|
+|Berith|98|Vith|+(251 to 300)% Enhanced damage&br()50% Faster Run/Walk&br()50% Increased Attack Speed&br()50% Faster Cast Rate&br()50% Faster Hit Recovery&br()50% Faster Block Rate&br()+100 to Strength&br()+100 to Dexterity&br()+25% Increased Healing Rate from Potions&br()(21 to 25)% Chance of Uninterruptable Attack&br()Total Character Defense Plus (11 to 15)%&br()666% Extra Gold from Monsters|
+|Gehenna|100|Xar|25% Chance to cast level 27 Frozen Crown on Attack&br()+(301 to 350)% Enhanced damage&br()Adds 750-1000 cold damage&br()Adds 1500-2000 poison damage over 5 seconds&br()-50% to Enemy Cold Resistance&br()-50% to Enemy Poison Resistance&br()+50% to Cold Spell Damage&br()+50% to Poison Spell Damage&br()Increase Maximum Life and Mana 25%&br()Requirements -33%|
+|Triune|100|Qor|+(301 to 350)% Enhanced damage&br()+333 to Maximum Damage&br()Adds 666-3333 fire damage&br()Adds 666-3333 lightning damage&br()Adds 666-3333 cold damage&br()+(201 to 400) to Life&br()+(201 to 400) to Mana&br()Fire Resist +99%&br()Lightning Resist +99%&br()Cold Resist +99%&br()Level 10 Death's Fury Totem (39 Charges)&br()Requirements -20%|
+
+**弓
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Banshee|13|Tir|5% Chance to cast level 6 Hex on Striking&br()5% Chance to cast level 8 Possess when you Kill an Enemy&br()+(31 to 60)% Enhanced damage&br()20% Faster Run/Walk&br()+(1 per level) to Maximum Damage (Based on Character Level)&br()Adds 20-50 cold damage&br()Cold Absorb (11 to 15)%&br()75% Extra Gold from Monsters|
+|Shockwave|27|Sol|100% Chance to cast level 16 Punisher when you Kill an Enemy&br()+(101 to 125)% Enhanced damage&br()+(41 to 60) to Maximum Damage&br()+5% to Poison Spell Damage&br()(11 to 15)% Chance of Crushing Blow&br()Slows Target by (11 to 15)%&br()+(21 to 40) to Energy&br()+(21 to 40) to Dexterity|
+|Balance|47|Um|+(101 to 150)% Enhanced damage&br()Enhanced Weapon Damage +(41 to 50)%&br()15% Bonus to Strength&br()15% Bonus to Dexterity&br()15% Bonus to Vitality&br()+45 to Strength&br()+60 to Dexterity&br()+45 to Vitality&br()Total Character Defense Plus (11 to 15)%|
+|Hive|63|Ber|25% Chance to cast level 6 Spike Nova when you Kill an Enemy&br()+(151 to 200)% Enhanced damage&br()-15% Decreased Attack Speed&br()+(51 to 100) to Maximum Damage&br()Adds 3000-4500 poison damage over 10 seconds&br()Replenish Life +(1 per level) (Based on Character Level)&br()25% Chance of Uninterruptable Attack|
+|Phantom|87|Nas|50% Chance to cast level 15 Frozen Soul on Striking&br()+(251 to 300)% Enhanced damage&br()(11 to 17)% Stamina stolen per Hit&br()+(51 to 100) to all Attributes&br()Increase Maximum Mana 50%&br()Cannot Be Frozen|
+|Curse|100|Nih|15% Chance to cast level 18 Pain Spirit on Striking&br()25% Chance to cast level 21 Banish when you Kill an Enemy&br()+(251 to 300)% Enhanced damage&br()25% Bonus to Buff/Debuff/Cold Skill Duration&br()+(3 per level) to Maximum Damage (Based on Character Level)&br()+(3 to 5)% to Defense per Socketed Rune&br()25% Bonus to Strength|
+|Typhaon|100|Ghal|+15 Energy Factor to Spell Damage&br()50% Chance to cast level 11 Arrow on Striking&br()+(301 to 350)% Enhanced damage&br()60% Faster Run/Walk&br()40% Increased Attack Speed&br()+(301 to 500) to Maximum Damage&br()+200 to Strength&br()+200 to Dexterity&br()All Resists +(31 to 40)%|
+
+**クロスボウ
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Thammuz|13|Nef|25% Chance to cast level 6 Rune of Fire when you Kill an Enemy&br()25% Chance to cast level 6 Rune of Ice when you Kill an Enemy&br()+(31 to 60)% Enhanced damage&br()25% Increased Attack Speed&br()Adds 6-33 fire damage&br()+111 to Life|
+|Python|35|Io|33% Chance to cast level 14 Doom when you Kill an Enemy&br()+(101 to 150)% Enhanced damage&br()+(1.5 per level) to Maximum Damage (Based on Character Level)&br()(16 to 19)% Life stolen per Hit&br()(21 to 25)% Bonus to Strength&br()(21 to 25)% Bonus to Dexterity&br()Increase Maximum Life (21 to 25)%|
+|Cyclops|61|Sur|+100 Crafting Points&br()10% Chance to cast level 24 Mind Flay on Striking&br()+(151 to 200)% Enhanced damage&br()50% Increased Attack Speed&br()+(201 to 300) to Maximum Damage&br()+(31 to 40)% to Lightning Spell Damage&br()Slows Target by 25%|
+|Tartarus|100|Yul|10% Chance to cast level 21 Seismic Field when you Kill an Enemy&br()+(301 to 350)% Enhanced damage&br()-10% Slower Run/Walk&br()-10% Decreased Attack Speed&br()+(4 per level) to Maximum Damage (Based on Character Level)&br()+10% Bonus to Summoned Minion Damage&br()(41 to 50)% Bonus to Strength&br()Fire Resist +100%&br()Lightning Resist +100%&br()+(101 to 150) Life after each Kill|
+|Araboth|100|Thai|+(301 to 350)% Enhanced damage&br()+(301 to 400) to Maximum Damage&br()+(101 to 150)% Damage to Undead&br()+(1 to 9) to Silver Dart&br()+(31 to 50) to all Attributes&br()Replenish Life +(41 to 50)&br()All Resists +15%&br()+2 to Light Radius|
+
+**剣
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Urada|100|Rha|+(251 to 300)% Enhanced damage&br()30% Increased Attack Speed&br()Adds 1-1101 lightning damage&br()11% Chance of Crushing Blow&br()+1011 Defense&br()+(1 to 11) to all Attributes&br()(11 to 20)% Reanimate as: Necrobot|
+
+**斧
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Sabertooth|100|Nih| +(251 to 300)% Enhanced damage&br()10% Bonus to Buff/Debuff/Cold Skill Duration&br()(9 to 17)% Life stolen per Hit&br()+(1 to 9) to Hamstring&br()+75 to Strength&br()Enhanced Weapon Damage +(0.5 per level)% (Based on Character Level)&br()(15 to 20)% Chance of Uninterruptable Attack&br()Target Takes Additional Damage of 100 |
+
+**槍
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Myrmidon|61|Sur|+25 Crafting Points&br()+(151 to 200)% Enhanced damage&br()+(3 per level) to Maximum Damage (Based on Character Level)&br()+(1 to 4) to Bloodspeaker's Mark&br()20% Bonus to Dexterity&br()20% Bonus to Vitality&br()Total Character Defense Plus (21 to 40)%&br()Requirements +15%|
+
+**鎌
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Endor|65	Jah	50% Chance to cast level 17 Hunting Banshee on Attack&br()5% Chance to cast level 19 Doom on Attack&br()+(151 to 200)% Enhanced damage&br()+(101 to 200) to Maximum Damage&br()+(31 to 40)% to Cold Spell Damage&br()+(31 to 40)% to Poison Spell Damage&br()+(1 to 4) to Pagan Heart|
+|Seed of Conflict|100	Lai	10% Chance to cast level 9 Charm on Attack&br()+(2 to 4) to Necromancer Skill Levels&br()+(251 to 300)% Enhanced damage&br()+(201 to 250) to Maximum Damage&br()Enhanced Weapon Damage +5%&br()Total Character Defense Plus 20%&br()+(101 to 150) Mana after each Kill&br()+(101 to 150) Life after each Kill|
+
+**短剣
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|King's Blood|55|Vex| +1 to All Skills&br()+(201 to 250)% Enhanced damage&br()+50 to Minimum Damage&br()(6 to 12)% Life stolen per Hit&br()+(31 to 40) to all Attributes&br()+10% to Experience Gained&br()+2 to Light Radius&br()Half Freeze Duration|
+
+**メイス
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Demhe|69|Zod|50% Chance to cast level 33 Plague Avatar on Attack&br()+(201 to 250)% Enhanced damage&br()+(151 to 200) to Maximum Damage&br()+(21 to 25)% to Cold Spell Damage&br()+(21 to 25)% to Poison Spell Damage&br()Stun Attack&br()-(21 to 25)% to Enemy Cold Resistance&br()-(21 to 25)% to Enemy Poison Resistance&br()Slows Target by 15%&br()+(101 to 150) Mana on Striking|
+
+**ハンマー
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Calypso|81|Ix|33% Chance to cast level 21 Glacial Nova when you Kill an Enemy&br()5% Chance to cast level 23 Abyss on Attack&br()+(251 to 300)% Enhanced damage&br()Adds 75-150 Damage&br()30% Increased Attack Speed&br()15% Faster Cast Rate&br()(21 to 25)% Bonus to Buff/Debuff/Cold Skill Duration&br()Adds 1500-2000 cold damage|
+
+**スタッフ
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Pax Mystica|13|Nef|+1 to All Skills&br()All Resists +(11 to 15)%&br()(21 to 25)% Better Chance of Getting Magic Items&br()Level 1 Blink (20 Charges) |
+|Hadad|25|Amn|5% Chance to cast level 13 Lightning Shield when Struck&br()+1 to All Skills&br()(0.5 per level)% to Lightning Spell Damage (Based on Character Level)&br()+(1 to 4) to Supernova&br()Slows Attacker by (11 to 15)%|
+|Summanus|41|Fal|5% Chance to cast level 17 Lightning Wall on Attack&br()+1 to All Skills&br()+(101 to 150)% Enhanced damage&br()40% Increased Attack Speed&br()+(51 to 100) to Maximum Damage&br()+25 to Energy&br()+25 to Dexterity|
+|Akhenaten|57|Ohm|+(3 to 4) to All Skills&br()20% Faster Cast Rate&br()+(41 to 50)% to Fire Spell Damage&br()+(41 to 50)% to Poison Spell Damage&br()Slows Ranged Attacker by (21 to 25)%&br()20% Bonus to Vitality&br()Fire Resist +50%&br()Poison Resist +50%|
+|Aes Dana|78|Kur|+(5 to 7) to Druid Skill Levels&br()Doubled Acid Trance Aura Effect&br()60% Faster Run/Walk&br()15% Faster Hit Recovery&br()+50% Bonus to Summoned Minion Resistances&br()+(41 to 50)% Bonus to Summoned Minion Damage&br()Increase Maximum Mana 40%&br()All Resists +50%|
+|Elverfolk|100|Yul|+(51 to 100) Energy Factor to Spell Damage&br()+(6 to 8) to All Skills&br()-(41 to 60)% to Enemy Fire Resistance&br()-(41 to 60)% to Enemy Lightning Resistance&br()-(41 to 60)% to Enemy Cold Resistance&br()-(41 to 60)% to Enemy Poison Resistance&br()(21 to 30)% Bonus to Energy&br()+750 Defense vs. Missile&br()All Resists +(31 to 50)%|
+|Erilaz|100|Taha|+(6 to 8) to Sorceress Skill Levels&br()60% Faster Cast Rate&br()40% Faster Hit Recovery&br()+40 to Maximum Damage&br()+(41 to 60)% to Fire Spell Damage&br()+(41 to 60)% to Lightning Spell Damage&br()+(41 to 60)% to Cold Spell Damage&br()+(6 to 10)% to Defense per Socketed Rune&br()+1000 Defense&br()Requirements -20%|
+
+**セプター
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Prophecy|15|Ith|+1 to All Skills&br()+(31 to 60)% Enhanced damage&br()+(11 to 15) to Maximum Damage&br()Fire Resist +(21 to 40)%&br()Cold Resist +(21 to 40)%&br()Attacker Takes Fire Damage of (21 to 25)&br()Attacker Takes Cold Damage of (21 to 25)|
+|Bane|37|Lum|5% Chance to cast level 7 Rust Storm on Attack&br()+(101 to 150)% Enhanced damage&br()20% Increased Attack Speed&br()+(31 to 50) to Maximum Damage&br()(31 to 50)% Bonus to Attack Rating&br()(0.125 per level)% Chance of Crushing Blow (Based on Character Level)&br()+(21 to 25) to all Attributes&br()20% Better Chance of Getting Magic Items|
+|Judas|47|Um|10% Bonus to Energy&br()(11 to 15)% Reanimate as: Flesh Clan&br()333% Extra Gold from Monsters&br()66% Better Chance of Getting Magic Items&br()+300% Enhanced Damage vs. the Zakarum&br()Requirements -66%|
+|Path|63|Ber|15% Chance to cast level 18 Cataclysm when Struck&br()(11 to 15)% Bonus to Energy Factor&br()+(2 to 3) to Amazon Skill Levels&br()+(31 to 40)% to Fire Spell Damage&br()+(31 to 40)% to Physical/Magic Spell Damage&br()10% Chance of Uninterruptable Attack&br()+(11 to 15)% to Experience Gained&br()Requirements -20%|
+|Gabriel|90|Ath|25% Chance to cast level 22 Forked Lightning on Attack&br()+(3 to 5) to Paladin Skill Levels&br()+(201 to 250)% Enhanced damage&br()30% Increased Attack Speed&br()30% Faster Cast Rate&br()15% Faster Hit Recovery&br()+(201 to 300) to Maximum Damage&br()+(31 to 40)% to Lightning Spell Damage&br()+100 to Strength&br()+100 to Vitality&br()Replenish Life +100|
+|Durga|100|Lai|+(3 to 4) to Amazon Skill Levels&br()+(21 to 25)% Bonus Elemental Damage to Bloodlust&br()40% Faster Cast Rate&br()+(41 to 50)% to Fire Spell Damage&br()Enhanced Weapon Damage +5%&br()Attacker Flees after Striking (11 to 15)%&br()+(51 to 100) Life after each Kill&br()(101 to 150)% Bonus to Blood Elemental Damage if Summoned during Pact of Blood|
+|Galdr|100|Taha|+25 Energy Factor to Spell Damage&br()+(3 to 5) to Paladin Skill Levels&br()1% Increased Chance of Blocking&br()+40 to Maximum Damage&br()+(31 to 50)% to Fire Spell Damage&br()+(31 to 50)% to Cold Spell Damage&br()-25% to Enemy Fire Resistance&br()-25% to Enemy Cold Resistance&br()+(11 to 19) to Shadow Avatar&br()Only Allows the Use of Melee, Summoning and Buff Skills|
+
+**アマゾン専用弓
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Corsair|33|Hel|+(51 to 100)% Enhanced damage&br()20% Increased Attack Speed&br()+(1 to 4) to Guided Chain&br()(11 to 15)% Bonus to Dexterity&br()(101 to 200)% Extra Gold from Monsters&br()(31 to 40)% Better Chance of Getting Magic Items|
+|Ice Breaker|61|Sur|+200 Crafting Points&br()50% Chance to cast level 23 Flamestrike when you Kill an Enemy&br()+(151 to 200)% Enhanced damage&br()+(101 to 150) to Maximum Damage&br()(11 to 20)% Chance of Crushing Blow&br()Cold Resist +(51 to 70)%&br()Cannot Be Frozen|
+|Colliding Worlds|100|No|+(201 to 250)% Enhanced damage&br()+(151 to 200) to Maximum Damage&br()+(1 to 6) to Elfin Arrows&br()+(41 to 50) to Strength&br()+(41 to 50) to Dexterity&br()Level 5 Charm (10 Charges)|
+|Manta|100|Taha|5% Chance to cast level 18 Lightning Cascade when you Kill an Enemy&br()+(301 to 350)% Enhanced damage&br()60% Increased Attack Speed&br()+(401 to 500) to Maximum Damage&br()(16 to 21)% Life stolen per Hit&br()(21 to 25)% Reanimate as: Evil Spirit&br()Worship the Crack Monkeys!|
+
+**アマゾン専用槍
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Aegina|25|Amn|5% Chance to cast level 3 Glacial Nova on Attack&br()+(51 to 100)% Enhanced damage&br()Adds 1-100 cold damage&br()(31 to 40)% Mana stolen per Hit&br()+(1 to 4) to Shackles of Ice&br()+(21 to 25) to Strength&br()+(21 to 25) to Dexterity|
+|Sankara|72|Sha|5% Chance to cast level 9 Lifeblood when you Kill an Enemy&br()5% Chance to cast level 58 Doom on Attack&br()+(151 to 200)% Enhanced damage&br()45% Increased Attack Speed&br()+(101 to 200) to Maximum Damage&br()Total Character Defense Plus (31 to 50)%&br()+(101 to 150) Life after each Kill|
+|Rusalka|100|Rha|50% Chance to cast level 16 Venomous Spirit on Attack&br()50% Chance to cast level 57 Hunting Banshee when you Kill an Enemy&br()+(301 to 350)% Enhanced damage&br()+(301 to 500) to Minimum Damage&br()+(61 to 80)% to Cold Spell Damage&br()+(61 to 80)% to Poison Spell Damage&br()+(1 to 12) to Summon Void Archon&br()+200 Defense&br()+(51 to 100) to all Attributes|
+|Evanescence|100|Taha|+(6 to 8) to Amazon Skill Levels&br()+(301 to 350)% Enhanced damage&br()100% Faster Run/Walk&br()100% Increased Attack Speed&br()+(501 to 600) to Maximum Damage&br()+(2 to 23) to Warp Armor&br()Damage Reduced by (21 to 25)%&br()+250 Life on Striking in Melee|
+
+**アマゾン専用ジャベリン
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Scar|35|Io|100% Chance to cast level 16 Bloodstorm when you Kill an Enemy&br()+(101 to 150)% Enhanced damage&br()Adds 50-150 fire damage&br()(11 to 15)% Chance of Crushing Blow&br()(21 to 40)% Chance of Open Wounds&br()5% Bonus to Dexterity&br()+15 to Dexterity&br()+(11 to 15)% Damage Reduction to Pact of Blood|
+|Dragonfly|55|Vex|+(151 to 200)% Enhanced damage&br()40% Faster Run/Walk&br()20% Increased Attack Speed&br()Adds 150-250 fire damage&br()(9 to 12)% Life stolen per Hit&br()+(1 to 6) to Sunspear&br()Slows Target by (11 to 15)%&br()Half Freeze Duration|
+|Trishula|72|Sha|+(151 to 200)% Enhanced damage&br()15% Faster Run/Walk&br()15% Increased Attack Speed&br()Adds 500-1000 fire damage&br()Adds 500-1000 lightning damage&br()Adds 500-1000 cold damage&br()-(31 to 50)% to Enemy Fire Resistance&br()-(31 to 50)% to Enemy Lightning Resistance&br()-(31 to 50)% to Enemy Cold Resistance&br()+(6 to 12) to Snake Stance&br()+(6 to 12) to Lion Stance&br()+(21 to 40) to Strength&br()+(21 to 40) to Dexterity&br()+(21 to 40) to Vitality|
+|Stalactite|100|Ghal|+15 Energy Factor to Spell Damage&br()50% Chance to cast level 44 Lemures when you Kill an Enemy&br()+(251 to 300)% Enhanced damage&br()(101 to 200)% Bonus to Attack Rating&br()Adds 500-1000 cold damage&br()+100 to Strength&br()+100 to Dexterity&br()Cold Absorb (11 to 15)%&br()25% Reanimate as: Ice King|
+
+**アサシン用爪
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Shedim|11|Eld|+(41 to 80)% Enhanced damage&br()50% Bonus to Attack Rating&br()+50% Damage to Undead&br()Adds 250-500 poison damage over 10 seconds&br()+(1 to 4) to Diseased Cattle&br()Poison Length Reduced by (11 to 20)%&br()+(11 to 15) Mana after each Kill|
+|Fiend|37|Lum|25% Chance to cast level 5 Cataclysm on Attack&br()+(101 to 150)% Enhanced damage&br()25% Increased Attack Speed&br()Adds 200-250 fire damage&br()+(1 to 7) to Meteor Shower&br()+(1 to 7) to Bloodstar&br()(41 to 60)% Better Chance of Getting Magic Items|
+|Judge|57|Ohm|10% Chance to cast level 17 Forked Lightning on Attack&br()20% Chance to cast level 7 Thunder Hammer on Striking&br()+(151 to 200)% Enhanced damage&br()Adds 1-1000 lightning damage&br()Stun Attack&br()5% Bonus to Dexterity&br()5% Bonus to Vitality&br()Lightning Resist +(31 to 60)%|
+|Choronzon|72|Sha|20% Chance to cast level 24 Abyss on Attack&br()+(201 to 250)% Enhanced damage&br()15% Increased Attack Speed&br()-(31 to 50)% to Enemy Cold Resistance&br()+(1 to 7) to Summon Ice Elementals&br()+(21 to 40)% Bonus to Summoned Minion Damage&br()+333 to Life&br()+333 to Mana&br()333% Extra Gold from Monsters|
+|Anarchy|100|Rha|+(2 to 4) to Assassin Skill Levels&br()40% Faster Cast Rate&br()+(31 to 50)% to Fire Spell Damage&br()+(31 to 50)% to Lightning Spell Damage&br()Increase Maximum Life and Mana 25%&br()+(51 to 60) Mana after each Kill|
+|Hail|100|Nih|50% Chance to cast level 29 Shower of Rocks when you Kill an Enemy&br()+2 to Assassin Skill Levels&br()+(251 to 300)% Enhanced damage&br()40% Increased Attack Speed&br()+(301 to 400) to Maximum Damage&br()10% Bonus to Buff/Debuff/Cold Skill Duration&br()Adds 500-1500 cold damage|
+|Nahemah|100|Ghal|+(301 to 350)% Enhanced damage&br()+(401 to 500) to Maximum Damage&br()Adds 1000-2000 cold damage&br()+(16 to 19) to Raven Flight&br()+(16 to 19) to Carpet of Spiders&br()50% Reanimate as: Ice Prince|
+
+**アサシン用薙刀
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Khattak|19|Ral|+(61 to 80)% Enhanced damage&br()40% Faster Run/Walk&br()20% Increased Attack Speed&br()40% Faster Hit Recovery&br()+5% to Fire Spell Damage&br()+5% to Lightning Spell Damage&br()10% Chance to Avoid Damage&br()(11 to 20)% Chance of Uninterruptable Attack|
+|Hieros Gamos|100|Rha|2% Chance to cast level 11 Hymn when you Kill an Enemy&br()+(251 to 300)% Enhanced damage&br()40% Increased Attack Speed&br()+(1 to 6) to Balance&br()+(1 to 9) to Wrath&br()(21 to 25)% Bonus to Dexterity&br()(21 to 25)% Bonus to Vitality&br()+200 Defense|
+|Lataif-as-Sitta|100|Ghal|+15 Energy Factor to Spell Damage&br()+6 to Assassin Skill Levels&br()+(301 to 350)% Enhanced damage&br()50% Faster Run/Walk&br()50% Increased Attack Speed&br()+(401 to 600) to Maximum Damage&br()+200% Damage to Demons&br()+(1 to 6) to Rapture&br()+(1 to 6) to Illumination|
+
+**バーバリアン専用武器
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Ram|23|Thul|+1 to Barbarian Skill Levels&br()+(51 to 100)% Enhanced damage&br()Stun Attack&br()+(1 to 4) to Overpower&br()(11 to 15)% Bonus to Strength&br()+(16 to 20) to Strength|
+|Essus|47|Um|+(51 to 100)% Enhanced damage&br()+(21 to 40) to Maximum Damage&br()+(1 to 9) to Conquest&br()Hit Blinds Target +(2 to 4)&br()Increase Maximum Life (11 to 15)%&br()Level 10 Ring of Light (20 Charges)|
+|Thunderbird|67|Cham|25% Chance to cast level 17 Flash on Attack&br()10% Chance to cast level 13 Supernova on Attack&br()+(151 to 200)% Enhanced damage&br()-(11 to 20)% to Enemy Lightning Resistance&br()+(31 to 40)% to Lightning Spell Damage&br()+10 to Vitality&br()Lightning Resist +50%&br()Requirements -10%|
+|Savitr|81|Ix|10% Chance to cast level 14 Spike Nova on Attack&br()10% Chance to cast level 21 Holy Trap on Attack&br()+(2 to 4) to Barbarian Skill Levels&br()+(201 to 250)% Enhanced damage&br()(6 to 10)% Chance of Crushing Blow&br()+4 to Light Radius|
+|Khan|100|No|+(201 to 250)% Enhanced damage&br()-5% Slower Block Rate&br()+(3 per level) to Maximum Damage (Based on Character Level)&br()+2 to Maximum Barbarian Minions&br()+(41 to 50)% Bonus to Summoned Minion Damage&br()20% Bonus to All Attributes&br()Total Character Defense Plus (31 to 50)%|
+|Lahmu|100|Lai|Indestructible&br()+(251 to 300)% Enhanced damage&br()+(301 to 400) to Maximum Damage&br()Enhanced Weapon Damage +5%&br()(14 to 18)% Mana stolen per Hit&br()(14 to 18)% Life stolen per Hit&br()-(41 to 50)% to Enemy Poison Resistance&br()+100 to Strength&br()+100 to Vitality|
+|Kahless|100|Taha|50% Chance to cast level 28 Fire Splash on Attack&br()+(301 to 350)% Enhanced damage&br()60% Increased Attack Speed&br()+(501 to 600) to Maximum Damage&br()Adds 1600-2200 fire damage&br()+(21 to 40)% to Fire Spell Damage&br()3% Reanimate as: Death Projector|
+
+**ドルイド専用弓
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Peacock|29|Shael|+(51 to 100)% Enhanced damage&br()Adds 25-50 fire damage&br()Adds 25-50 lightning damage&br()Adds 25-50 cold damage&br()Slows Target by 10%&br()Fire Resist +25%&br()Lightning Resist +25%&br()Cold Resist +25%|
+|Lynx|57|Ohm|2% Chance to cast level 8 Gift of Celerity when you Kill an Enemy&br()+(151 to 200)% Enhanced damage&br()20% Faster Run/Walk&br()20% Increased Attack Speed&br()+(101 to 125) to Maximum Damage&br()25% Bonus to Strength&br()25% Bonus to Dexterity|
+|Sylvanshine|69|Zod|25% Chance to cast level 28 Ice Whirl when you Kill an Enemy&br()+(251 to 300)% Enhanced damage&br()+(251 to 350) to Maximum Damage&br()Adds 500-1000 cold damage&br()(21 to 25)% Mana stolen per Hit&br()Slows Target by 25%&br()+50 to Dexterity|
+|Cernunnos|100|Yul|25% Chance to cast level 5 Arrow on Striking&br()+(251 to 300)% Enhanced damage&br()+(301 to 400) to Maximum Damage&br()+(41 to 50)% Bonus to Summoned Minion Damage&br()+205 Defense vs. Melee&br()(21 to 40)% Reanimate as: Stone Clan&br()+(51 to 75) Life after each Kill|
+|Raudna|100|Taha|50% Chance to cast level 7 Time Strike on Striking&br()50% Chance to cast level 56 Death Blossom when you kill an enemy&br()+(6 to 10) to Druid Skill Levels&br()+(301 to 350)% Enhanced damage&br()+(501 to 600) to Maximum Damage&br()50% Crushing Blow&br()Requirements -20%&br()&br() |
+
+**ドルイド用スタッフ
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Ocean|15|Eth|10% Chance to cast level 4 Glacial Nova when Struck&br()100% Chance to cast level 29 Mana Sweep when you Die&br()+1 to Druid Skill Levels&br()+10 to Maximum Damage&br()+(11 to 15)% to Cold Spell Damage&br()+(6 to 10) to all Attributes&br()Regenerate Mana +(31 to 50)%&br()11% Better Chance of Getting Magic Items|
+|Samhain|27|Sol|+1 to Druid Skill Levels&br()10% Faster Cast Rate&br()+(16 to 20)% to Fire Spell Damage&br()+(21 to 25)% to Poison Spell Damage&br()Replenish Life +(21 to 25)&br()+(11 to 20) Life after each Kill|
+|Augur|43|Lem|+(2 to 4) to Druid Skill Levels&br()+(1 to 7) to Raven Flight&br()+(1 to 7) to Raven Heart&br()(16 to 20)% Bonus to All Attributes&br()+(10 per level) Defense (Based on Character Level)&br()+5% to Experience Gained&br()(31 to 50)% Better Chance of Getting Magic Items|
+|Lincos|61|Sur|+100 Crafting Points&br()+(3 to 6) to Druid Skill Levels&br()-20% to Enemy Fire Resistance&br()-20% to Enemy Cold Resistance&br()-20% to Enemy Poison Resistance&br()+(21 to 24) to Starfire&br()(21 to 30)% Bonus to Energy&br()Regenerate Mana +(21 to 40)%&br()+5% to All Maximum Resistances|
+|Laadan|81|Ix|+(4 to 7) to Druid Skill Levels&br()100% Faster Cast Rate&br()+(24 to 29) to Mana Sweep&br()+500 to Mana&br()Slows Attacker by (16 to 20)%&br()+2 to Light Radius&br()Requirements -10%|
+|Lojban|100|Thai|+(6 to 8) to Druid Skill Levels&br()(21 to 50)% Bonus to Summoned Minion Attack Rating&br()+(81 to 100)% to Poison Spell Damage&br()-(11 to 20)% to Enemy Poison Resistance&br()+(9 to 14) to Carpet of Spiders&br()+(51 to 60)% Bonus to Summoned Minion Damage&br()All Resists +(41 to 50)%|
+|Loxian|100|Ghal|+(151 to 200) Energy Factor to Spell Damage&br()+(8 to 10) to Druid Skill Levels&br()40% Faster Run/Walk&br()20% Faster Cast Rate&br()+(81 to 100)% to Spell Damage&br()(11 to 15)% Chance to Avoid Damage&br()Total Character Defense Plus (51 to 75)%&br()&br() |
+
+**ネクロマンサー用鎌
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Black Cat|11|Eld|10% Chance to cast level 2 Rune of Ice on Attack&br()50% Chance to cast level 28 Punisher when you Kill an Enemy&br()+(51 to 100)% Enhanced damage&br()100% Bonus to Attack Rating&br()(11 to 15)% Crushing Blow&br()+7 to Life&br()-13% Worse Chance of Getting Magic Items|
+|Mantra|29|Shael|+(51 to 100)% Enhanced damage&br()Adds 500-1000 poison damage over 10 seconds&br()-(31 to 40)% to Enemy Poison Resistance&br()Stun Attack&br()+25 to Strength&br()+15 to Dexterity&br()Poison Length Reduced by (31 to 40)%|
+|Chthon|61|Sur|25% Chance to cast level 10 Crucify when you Kill an Enemy&br()25% Chance to cast level 5 Tremor when you Kill an Enemy&br()+(151 to 200)% Enhanced damage&br()+200 to Maximum Damage&br()(21 to 40)% Chance of Open Wounds&br()+100% Damage when using a Healing Potion|
+|Inti|94|Kra|+(2 to 4) to All Skills&br()+(201 to 250)% Enhanced damage&br()70% Increased Attack Speed&br()Adds 750-1500 fire damage&br()+(25 to 27) to Summon Blood Elementals&br()+(25 to 27) to Way of the Phoenix&br()+15% Bonus to Summoned Minion Resistances|
+|Leviathan|100|Taha|+(301 to 350)% Enhanced damage&br()+(401 to 500) to Maximum Damage&br()+(8 to 27) to Summon Overlord&br()Slows Target by (21 to 25)%&br()(31 to 50)% Bonus to Strength&br()(31 to 50)% Bonus to Dexterity&br()Damage Reduced by (11 to 15)%&br()&br() |
+
+**ネクロマンサー用短剣
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Loa|15|Eth|+(51 to 100)% Enhanced damage&br()+10 to Maximum Damage&br()(21 to 40)% Mana stolen per Hit&br()(11 to 15)% Reanimate as: Fallen One&br()+1 to Light Radius|
+|Jinx|29|Shael|25% Chance to cast level 5 Blink on Striking&br()+(51 to 100)% Enhanced damage&br()+10 to Strength&br()+20 to Dexterity&br()+(3 to 5)% to Experience Gained|
+|Misery|49|Mal|+(1 to 2) to Necromancer Skill Levels&br()+(101 to 150)% Enhanced damage&br()Adds 2500-5000 poison damage over 20 seconds&br()+(1 to 6) to Way of the Spider&br()Slows Target by (11 to 15)%&br()+250 to Life&br()Poison Resist +40%&br()+(11 to 15) Life on Striking|
+|Seid|78|Kur|+(1 to 2) to Necromancer Skill Levels&br()+(251 to 300)% Enhanced damage&br()+(11 to 15)% Bonus Elemental Damage to Bloodlust&br()15% Faster Run/Walk&br()20% Increased Attack Speed&br()+(1 to 4) to Bloodlust&br()Increase Maximum Mana (21 to 25)%|
+|Roc|100|Taha|+(301 to 350)% Enhanced damage&br()+(301 to 400) to Maximum Damage&br()+(3 to 12) to Thunder Slam&br()Hit Causes Monster to Flee +25%&br()(21 to 25)% Bonus to Strength&br()(31 to 40)% Bonus to Dexterity&br()(21 to 25)% Reanimate as: Gargoyle Ape&br()&br() |
+
+**ネクロマンサー用スタッフ
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Deep Water|15|Ith|+1 to Necromancer Skill Levels&br()+15% Enhanced damage&br()-10% Slower Run/Walk&br()+(11 to 20)% to Spell Damage&br()+(1 to 4) to Mana Coil&br()All Resists +(11 to 15)%|
+|Ladon|53|Gul|+(3 to 5) to Necromancer Skill Levels&br()+(31 to 40)% to Fire Spell Damage&br()+(1 to 12) to Blast Wave&br()+(1 to 12) to Flamestrike&br()Fire Resist +(31 to 50)%&br()Damage Reduced by (11 to 15)|
+|Hali|84|Thur|+(4 to 6) to Necromancer Skill Levels&br()(51 to 100)% Bonus to Summoned Minion Attack Rating&br()+(1 to 14) to Liche Totem&br()Attacker Flees after Striking (11 to 20)%&br()+(31 to 50)% Bonus to Summoned Minion Damage&br()-100 to Life&br()All Resists +(31 to 50)%|
+|Dagda|100|Lai|+(5 to 7) to Necromancer Skill Levels&br()15% Faster Cast Rate&br()+(4 to 19) to Protector Spirit&br()+(4 to 19) to Greater Manifestations&br()Enhanced Weapon Damage +5%&br()+(21 to 40) to all Attributes&br()Increase Maximum Life and Mana 15%&br()150% Extra Gold from Monsters|
+|Santa Compana|100|Ghal|+15 Energy Factor to Spell Damage&br()+(8 to 10) to Necromancer Skill Levels&br()50% Faster Cast Rate&br()50% Faster Hit Recovery&br()+(1 to 3) to Dark King&br()+(21 to 24) to Venomous Spirit&br()+(11 to 20) to Maximum Necromancer Minions&br()+(51 to 60)% Bonus to Summoned Minion Life&br()Total Character Defense Plus (41 to 50)%&br()&br() |
+
+**ネクロマンサー用ワンド
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Koan|21|Ort|+1 to Necromancer Skill Levels&br()Regenerate Mana +(31 to 40)%&br()10% Chance to Avoid Damage&br()-20% Less Gold from Monsters|
+|Ghoul|43|Lem|+(6 to 8) Extra Shadow Minions&br()+(1 to 2) to Necromancer Skill Levels&br()+(21 to 25)% to Cold Spell Damage&br()+(4 to 9) to Cold Fear&br()+(1 to 5) to Pandemonium&br()+5% to Experience Gained|
+|Dead Ringer|87|Nas|+(1 to 2) to All Skills&br()+(9 to 12) to Poison Flash&br()+(4 to 6) to Corruption Field&br()+(11 to 20)% Bonus to Summoned Minion Life&br()Increase Maximum Life (11 to 20)%&br()Druid Morph|
+|Ngozi|94|Kra|+(2 to 5) Extra Totems&br()10% Faster Cast Rate&br()+(21 to 25)% to Spell Damage&br()+(1 to 5) to Pagan Rites&br()Attacker Flees after Striking (11 to 15)%&br()+(31 to 40) to Energy|
+|Semhazai|100|Taha|+(26 to 45) Energy Factor to Spell Damage&br()+(2 to 4) to Necromancer Skill Levels&br()15% Faster Cast Rate&br()+40 to Maximum Damage&br()+(8 to 22) to Shadow Avatar&br()+(6 to 19) to Abyss&br()+(11 to 15) to Maximum Necromancer Minions&br()-25% Penalty to Summoned Minion Life&br()&br() |
+
+**ネクロマンサー用クロスボウ
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Genie|19|Ral|5% Chance to cast level 7 Venomous Spirit on Striking&br()+1 to Necromancer Skill Levels&br()+(51 to 100)% Enhanced damage&br()+1 to Ghost Arrow&br()Slows Target by (11 to 15)%&br()(11 to 15)% Reanimate as: Blink|
+|Atlantis|41|Fal|25% Chance to cast level 6 Arcane Torrent when you Kill an Enemy&br()+(101 to 150)% Enhanced damage&br()Enhanced Weapon Damage +(11 to 15)%&br()+20 to Strength&br()+40 to Dexterity&br()Increase Maximum Mana (21 to 25)%&br()(101 to 150)% Extra Gold from Monsters|
+|Aether|65|Jah|25% Chance to cast level 17 Banish when you Kill an Enemy&br()+(151 to 200)% Enhanced damage&br()Ignore Target's Defense&br()(11 to 14)% Mana stolen per Hit&br()(21 to 25)% Bonus to Strength&br()10% Chance to Avoid Damage|
+|Crucible|100|Rha|25% Chance to cast level 30 Fire Fountain when you Kill an Enemy&br()5% Chance to cast level 19 Blast Wave when Struck&br()+(201 to 250)% Enhanced damage&br()+150% Damage to Undead&br()Adds 500-1500 fire damage&br()+200 Defense&br()Fire Resist +(31 to 60)%&br()Level 25 Pyroclastic Flow (20 Charges)|
+|Kronos|100|Taha|50% Chance to cast level 27 Time Field when you Kill an Enemy&br()50% Chance to cast level 15 Summon Corpse when you Kill an Enemy&br()+(301 to 350)% Enhanced damage&br()+(551 to 700) to Maximum Damage&br()(21 to 25)% Crushing Blow to Darklings&br()+(3 to 7) to Time Field&br()(31 to 40)% Bonus to Strength&br()(21 to 25)% Bonus to Vitality&br()&br() |
+
+**パラディン用槍
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Ensi|27|Sol|15% Chance to cast level 4 Cataclysm on Attack&br()+(101 to 150)% Enhanced damage&br()40% Increased Attack Speed&br()Adds 25-75 fire damage&br()Hit Blinds Target +(2 to 3)|
+|Nehushtan|57|Ohm|25% Chance to cast level 16 Poison Flash on Attack&br()+(201 to 250)% Enhanced damage&br()-40% Decreased Attack Speed&br()Adds 1000-3000 poison damage over 10 seconds&br()-(21 to 25)% to Enemy Poison Resistance&br()-10% Penalty to Vitality&br()-2 to Light Radius|
+|Taqiyya|90|Ath|50% Chance to cast level 51 Nova Bomb when you Kill an Enemy&br()50% Chance to cast level 51 Immolation Bomb when you Kill an Enemy&br()+(251 to 300)% Enhanced damage&br()50% Increased Attack Speed&br()50% Faster Cast Rate&br()75% Faster Hit Recovery&br()Adds 150-350 Damage&br()50% Chance of Uninterruptable Attack|
+|Orisha|100|Nih|+(31 to 50) Energy Factor to Spell Damage&br()+(3 to 5) to Paladin Skill Levels&br()60% Increased Attack Speed&br()10% Bonus to Buff/Debuff/Cold Skill Duration&br()+(41 to 60)% to Fire Spell Damage&br()+(41 to 60)% to Cold Spell Damage&br()+(3 to 15) to Elemental Totem&br()Increase Maximum Mana 50%|
+|Rex Deus|100|Ghal|+15 Energy Factor to Spell Damage&br()+(301 to 350)% Enhanced damage&br()+(301 to 400) to Maximum Damage&br()+500% Damage to Demons&br()+50 to all Attributes&br()+(101 to 150) Life after each Kill&br()+(51 to 100) Life when Struck by an Enemy&br()&br() |
+
+**パラディン用鈍器
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Jihad|15|Eth|15% Chance to cast level 11 Rain of Bombs when you Kill an Enemy&br()+1 to Paladin Skill Levels&br()+(41 to 80)% Enhanced damage&br()15% Increased Attack Speed&br()+(11 to 20) to Maximum Damage&br()+200% Damage to Demons&br()(11 to 20)% Chance of Uninterruptable Attack|
+|Intifada|33|Hel|25% Chance to cast level 8 Shower of Rocks on Attack&br()+(151 to 200)% Enhanced damage&br()(21 to 25)% Chance of Crushing Blow&br()(-21 to -25)% Penalty to Summoned Minion Life&br()+(31 to 50)% Bonus to Summoned Minion Damage&br()Total Character Defense = 0|
+|Lammasu|53|Gul|+(1 to 2) to Paladin Skill Levels&br()40% Increased Attack Speed&br()+(41 to 50)% to Spell Damage&br()Stun Attack&br()Slows Target by 25%&br()+25% Bonus to Summoned Minion Resistances&br()Cold Resist +(41 to 50)%|
+|Brahman|87|Nas|+(251 to 300)% Enhanced damage&br()100% Faster Hit Recovery&br()+(201 to 350) to Maximum Damage&br()+(1 to 6) to Bear Stance&br()+(1 to 4) to Mountain King&br()+10% Bonus to Summoned Minion Life&br()+1000 Defense&br()Lionheart Spell Blinds Attacker +(2 to 4)|
+|Oriflamme|100|Taha|+(301 to 350)% Enhanced damage&br()50% Increased Attack Speed&br()+(401 to 600) to Maximum Damage&br()+(61 to 80)% to Fire Spell Damage&br()+(25 to 27) to Exorcism&br()+(20 per level) to Strength (Based on Blessed Life Skill Level)&br()+(20 per level) to Dexterity (Based on Blessed Life Skill Level)&br()&br() |
+
+**ソーサレス用オーブ
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Circe|25|Amn|+(11 to 15)% to Lightning Spell Damage&br()+(11 to 15)% to Poison Spell Damage&br()+1 to Bloodlust&br()+1 to All Skills when using a Mana Potion&br()(11 to 15)% Bonus to Energy when using a Mana Potion|
+|Ker|43|Lem|100% Chance to cast level 43 Winter Avatar when you Die&br()+(21 to 25)% to Cold Spell Damage&br()+(21 to 25)% to Poison Spell Damage&br()+(1 to 4) to Summon Lamia&br()+(1 to 4) to Mana Tide Totem&br()Increase Maximum Mana (21 to 30)%&br()+5% to Experience Gained|
+|Kabbalah|78|Kur|+3 to Sorceress Skill Levels&br()1% Increased Chance of Blocking&br()+(31 to 40)% to Fire Spell Damage&br()+(6 to 16) to Ring of Light&br()20% Bonus to Energy&br()+(6 to 10)% to Experience Gained|
+|Hestia|100|On|+(3 to 4) to Sorceress Skill Levels&br()(0.75 per level)% to Fire Spell Damage (Based on Character Level)&br()+(1 to 3) to Pagan Rites&br()Fire Resist +100%&br()Fire Absorb 20%&br()Cannot Be Frozen&br()Total Character Defense Plus 5%&br()(21 to 40)% Better Chance of Getting Magic Items|
+|Kallisti|100|Taha|+(4 to 5) to Sorceress Skill Levels&br()40% Faster Cast Rate&br()+40 to Maximum Damage&br()+(41 to 50)% to Poison Spell Damage&br()-(11 to 15)% to Enemy Poison Resistance&br()+(1 to 6) to Charm&br()Attacker Flees after Striking (11 to 15)%&br()Attacker Takes Cold Damage of 500&br()Attacker Takes Fire Damage of 500&br()Attacker Takes Lightning Damage of 500&br()&br() |
+
+**ソーサレス用クリスタルソード
+|ルーンワード|要求レベル|要求ルーン|効果|h
+|Inanna|27|Sol|+(41 to 80)% Enhanced damage&br()Slows Target by 25%&br()All Resists +(21 to 25)%&br()+(41 to 50) Life on Striking in Melee&br()(11 to 20)% Chance of Uninterruptable Attack|
+|Grace|78|Kur|+(1 to 2) to Sorceress Skill Levels&br()+(201 to 250)% Enhanced damage&br()15% Faster Run/Walk&br()45% Increased Attack Speed&br()30% Faster Block Rate&br()+(51 to 100) to Minimum Damage&br()+(21 to 40) to Strength&br()+(21 to 40) to Dexterity&br()+(21 to 40) to Vitality&br()10% Chance to Avoid Damage|
+|Khany|100|On|5% Chance to cast level 29 Starfire on Attack&br()+(2 to 4) to Sorceress Skill Levels&br()+(251 to 300)% Enhanced damage&br()50% Increased Attack Speed&br()50% Faster Cast Rate&br()+(4 per level) to Maximum Damage (Based on Character Level)&br()+(31 to 40)% to Spell Damage&br()+(8 to 17) to Angel of Death&br()Total Character Defense Plus 5%|
+|Shaula|100|Ghal|+50 Energy Factor to Spell Damage&br()15% Chance to cast level 29 Arcane Torrent on Attack&br()+(301 to 350)% Enhanced damage&br()Adds 500-750 Damage&br()Slows Target by 75%&br()Increase Maximum Mana 50%&br()(31 to 40)% Reanimate as: Serafiend&br()&br() |
+----

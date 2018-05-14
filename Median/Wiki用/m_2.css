@@ -1,0 +1,584 @@
+/* base style for all pages */
+body {
+	background-color: #CCCCCC; /*AAABBB*/
+	color: #222222;
+	margin: 7px 0px 0px 5px;
+	font-family: Arial, sans-serif;
+	font-size: 8pt;
+	text-align: justify;
+	vertical-align: top;
+	}
+
+/* whatever this means */
+p {
+	margin-bottom: 1em;
+	}
+
+
+/* most regular pages */
+body.content {
+	background: #CCCCCC;
+	}
+/* smaller size pages, like the introduction page */
+body.content2 {
+	background: #CCCCCC;
+	width: 350px;
+	}
+
+
+
+
+
+/* basic menu at bottom left */
+body.left_bottom {
+	background: #959595 url(images/leftnav_bg.gif) no-repeat fixed top right; /*777780*/
+	color: #555555; /*#A6846A;*/
+	margin: 7px 5px 0px 5px; /* USED */
+	position: absolute;
+	text-align: right;
+	bottom: 0px;
+	right: 0px;
+	}
+/* left navigation menu */
+body.navdefault {
+	background: #888888 url(images/interface/triangle_low.gif) no-repeat fixed bottom right;
+	color: #555555;
+	margin: 7px 5px 0px 5px;
+	position: absolute;
+	text-align: right;
+	bottom: 0px;
+	right: 0px;
+	}
+/* left navigation menu */
+body.navleft {
+	background: #888888 url(images/interface/triangle_low.gif) no-repeat fixed bottom right;
+	color: #555555;
+	margin: 7px 5px 0px 5px;
+	position: absolute;
+	text-align: right;
+	bottom: 0px;
+	right: 0px;
+	}
+/* top left frame with counter */
+body.left_top {
+	background-color: #BBBBBB;
+	background: #BBBBBB url(images/interface/triangle.gif) no-repeat fixed bottom right;
+	color: #705050;
+	margin: 7px 5px 0px 5px;
+	}
+/* long wide bottom banner thing */
+body.bottom_banner {
+	background: #999999 url(images/bottombanner_bg.gif) no-repeat fixed top right; /*777780*/
+	color: #705050;
+	margin: 7px 5px 0px 5px;
+	position: absolute;
+	text-align: left;
+	bottom: 0px;
+	left: 0px;
+	}
+
+
+
+/*body.bottomnav {
+	background: #BBBBC0 url(images/bottomnav_bg.gif) no-repeat top left;
+	color: #A6846A;
+	margin: 7px 5px 0px 5px;}*/
+
+
+
+
+
+
+/* to get the various tables to show up right */
+#allskills {
+	font-size: inherit;
+}
+/* #runewords {
+	font-size: inherit;
+}*/
+#uniques {
+	font-size: inherit;
+}
+#sets {
+	font-size: inherit;
+}
+
+
+
+
+
+
+
+.content {
+	}
+
+/* big bad letters used in page titles */
+.genbig {
+	font-family: Arial, sans-serif;
+	font-size: 12pt;
+	font-weight: bold;
+	color: #626262; /* used to be 626270*/
+	}
+/* smaller and slightly less bad letters used in section titles et al */
+.gensmall {
+	font-family: Arial, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #626262;
+	}
+/* generic small text style, used by the small caps in some places; slightly brighter than regular text */
+.genflat {
+	font-family: Arial, sans-serif;
+	font-size: 8pt;
+	text-align: justify;
+	}
+/* similar to genflat, but centred */
+.cenflat {
+	font-family: Arial, sans-serif;
+	font-size: 8pt;
+	text-align: center;
+	}
+/* generic small text style for the bottomnav, leftnav and left_top pages, with a different colour */
+.leftsmall {
+	font-family: Arial, sans-serif;
+	font-size: 8pt;
+	color: #222222; /*text colour*/
+	}
+/* Cube recipe text */
+.cubesmall {
+	font-family: Arial, sans-serif;
+	font-size: 10pt;
+	color: #665500;
+	font-weight: bold;
+	/*text-decoration: underline;
+	font-style: italic;*/
+	/*border: 1px solid #665500;
+	padding: 2px;*/
+	}
+
+
+
+/* find out what this one is about */
+.refer {
+	font-family: Arial, sans-serif;
+	font-size:8pt;
+	font-weight:bold;
+	color: #727272;
+	}
+
+/* special text colour spans */
+.unique {
+	color: #706033;
+	}
+.magic {
+	color: #555570;
+	}
+.rare {
+	color: #909000;
+	}
+.unique {
+	color: #706033;
+	}
+.reagent {
+	color: #884400;
+	/*border: 1px solid #665500;
+	padding: 2px;*/
+	}
+.set {
+	color: #117011;
+	}
+.grey {
+	color: #777777;
+	}
+.holy {
+	color: #886600;
+	}
+.unholy {
+	color: #AA66AA;
+	}
+.orange {
+	color: #706033;
+	}
+.red {
+	color: #705050;
+	}
+.red2 {
+	color: #804022;
+	}
+.red3 {
+	color: #604242;
+	}
+.text {
+	color: #222222;
+	}
+.blank {
+	color: #CCCCCC;
+	}
+
+
+/* small text used on the skills page; without this, the text formatting is lost for some reason */
+.betasmall {
+	font-family: Arial, sans-serif;
+	font-size: 8pt;
+	text-align: justify;
+}
+/* ditto for the items page */
+.itemsmall {
+	font-family: Arial, sans-serif;
+	font-size: 8pt;
+}
+/* and the monsters */
+.monsmall {
+	font-family: Arial, sans-serif;
+	font-size: 8pt;
+}
+
+/* no longer used? */
+.skillsmall {
+	font-family: Arial, sans-serif;
+	font-size: 8pt;
+	text-align: center;
+}
+
+td.green {
+	background-color: #558855;
+}
+td.red {
+	background-color: #885555;
+}
+td.red_email {
+	background-color: #885555;
+}
+td.blue {
+	background-color: #555570;
+}
+td.yellow {
+	background-color: #909000;
+}
+td.orange2 {
+	background-color: #887033;
+}
+td.white {
+	background-color: #CCCCCC;
+}
+td.gold {
+	background-color: #706033;
+}
+td.gray {
+	background-color: #666666;
+}
+td.recipe {
+	background-color: #A0A0A0;
+}
+td.black {
+	background-color: #555555;
+}
+td.crafting {
+	background-color: #B4B4B4;
+}
+td.stamdrain {
+	background-color: #C6C6C6;
+}
+td.purple {
+	background-color: #887088;
+}
+td.ice {
+	background-color: #555588;
+}
+td.drain {
+	background-color: #884400;
+}
+td.rand {
+	background-color: #885588;
+}
+td.softice {
+	background-color: #8888AA;
+}
+td.softgray {
+	background-color: #888888;
+}
+table.cube {
+	padding: 0px;
+	border-width: 0px;
+	border-style: solid;
+	border-color: #333333;
+	border-spacing: 0px;
+	width: 600px;
+}
+
+table.craftpoints {
+	padding: 0px;
+	border-width: 0px;
+	border-style: solid;
+	border-color: #333333;
+	border-spacing: 0px;
+	width: 550px;
+}
+
+/* the box containing the gamespy banner */
+div.banner {
+	height: 90px;
+	overflow: visible;
+}
+
+
+
+
+
+
+
+
+
+/* the links in the regular text; this appears to be ignored? */
+a {
+	color: #333333; /* used to be 333342 */
+	font-family: Arial, sans-serif;
+	font-size: 8pt;
+	text-decoration: none;
+	}
+/* all unvisited links */
+a:link  {
+	color: #333333;
+	text-decoration: none;
+	}
+/* visited links */
+a:visited  {
+	color: #333333;
+	text-decoration: none;
+	}
+/* selected links */
+a:active  {
+	color: #EEEEFF;
+	text-decoration: none;
+	}
+/* links being hovered on */
+a:hover  {
+	color: #EEEEFF;
+	text-decoration: none;
+	}
+
+
+
+
+
+
+
+
+
+
+/* hr=horizontal rule=horizontal line; this uses a few hacks to get it to work in both ie and ff */
+hr {
+	height: 1px; /* once all of the following hacks are applied, ie still displays a 2px high line, this fixes that */
+	border: 0px; /* because ff has a bug with the hr's color attribute, we use the border; this is fine as long as the lines are thin ( < 4px ) */
+	border-top: 1px solid #444444; /* we use the upper border of the line, using both borders means we cant go below a 2px high line. */
+}
+/* the horizontal lines on most content pages */
+.content hr {
+	width: 250px; /* length of line */
+	margin-left: 0px; /* ff style right-align */
+	text-align: left; /* ie style right-align */
+}
+/* the horizontal lines on the narrower pages */
+.content2 hr {
+	width: 250px;
+	margin-left: 0px;
+	text-align: left;
+}
+/* the irritating lines on the runeword page that refuse to remain short */
+.runewordpage hr {
+	width: 450px;
+	margin-left: 0px;
+	text-align: left;
+}
+/* ditto for the lines on the unique item page */
+.uniquepage hr {
+	width: 250px;
+	margin-left: 0px;
+	text-align: left;
+}
+/* the horizontal line in the top-left corner */
+#leftnothing hr {
+	width: 168px;
+	text-align: right;
+	margin-right: 0px;
+	margin-bottom: 1px; /* keeping the distance */
+	margin-top: 12px;
+	border-top: 1px solid #444444;
+}
+/* my attempt at setting the frames border to 0 using css failed, thus, index.html isn't valid xhtml, since the border attribute isn't allowed in frame definitions */
+frameset, frame {
+	border: 0px none #333342;
+	margin: 0px;
+}
+/* list; previously used by the leftnav frame, now dead */
+ul {
+	list-style-type: none;
+	padding-left: 0px; /* ie style indent removal */
+	margin-left: 0px; /* ff style indent removal */
+
+}
+/* lineart */
+img.art {
+	width: 350px;
+	height: 350px;
+	margin-right: 3px;
+	float: bottom;
+	border: 0px;
+}
+
+
+
+/* the big banner on the welcome page */
+img.welcome {
+	width: 699px;
+	height: 135px;
+	margin-right: 3px;
+	float: bottom;
+}
+}
+/* the stamp */
+img.stamp {
+	width: 205px;
+	height: 205px;
+	margin-right: 3px;
+	float: bottom;
+	border: 0px;
+}
+/* splash screen, no longer used? */
+img.splash {
+	margin-right: 3px; /* have the text keep its distance */
+	float: left; /* float the image to the left of the paragraph and let the descrption flow around it */
+}
+/* the M2008 banner, no longer used? */
+img.smallbanner {
+	width: 212px;
+	height: 50px;
+	margin-right: 3px;
+	float: bottom;
+}
+/* the old large images scattered throughout the text, now dead */
+img.menu {
+	width: 300px;
+	height: 150px;
+	margin-right: 3px;
+	float: bottom;
+}
+/* all small clickable screenshots on regular pages */
+img.omgpic {
+	width: 200px;
+	height: 150px;
+	margin-right: 3px;
+	float: bottom;
+}
+/* all small clickable screenshots in a grid */
+img.omgpic2 {
+	width: 200px;
+	height: 150px;
+	margin-right: 3px;
+	float: left;
+}
+/* the small images scattered throughout the text */
+img.tiny {
+	width: 150px;
+	height: 75px;
+	margin-right: 3px;
+	float: bottom;
+}
+/* the information picture on the LC page */
+img.info {
+	width: 150px;
+	height: 150px;
+	margin-right: 3px;
+	float: bottom;
+}
+/* the information picture on the LC page */
+img.highlight {
+	width: 150px;
+	height: 50px;
+	margin-right: 3px;
+	float: bottom;
+}
+/* the small images on the armor page */
+img.vanity {
+	background-color: #808080;
+	width: 50px;
+	height: 90px;
+	margin-right: 3px;
+	float: center;
+}
+/* the small images on the set page */
+img.vanity2 {
+	background-color: #505050;
+	width: 50px;
+	height: 90px;
+	margin-right: 3px;
+	margin-top: 3px;
+	float: left;
+}
+/* the animation at the top left */
+img.spinner {
+	border: 0px;
+}
+/* the pictures of individual gems and runes */
+img.aic {
+	border: 0px;
+}
+/* the skill icons in the skill lists */
+img.skillicon {
+	width: 48px;
+	height: 48px;
+	margin-right: 3px;
+}
+/* the skill icons on the latestnews page, no longer used */
+img.skillicon2 {
+	width: 48px;
+	height: 48px;
+	margin-right: 3px;
+	float: bottom;
+}
+/* the country flags on the link page */
+img.flag {
+	width: 45px;
+	height: 30px;
+	margin-right: 3px;
+	float: left;
+}
+/* the item pictures on the set page */
+img.item {
+	margin-right: 3px;
+	float: left;
+	padding: 10px;
+}
+
+/* the link frame in the lower left, and the upper frame on the left, are aligned to the right */
+.left_bottom, .navleft,  .left_top {
+	text-align: right;
+}
+/* keep the distance between the text and the line minimal (actually it's increased by the lines style, but this lets us fix it to exactly how we want it) */
+#left_top p {
+	margin: 0px;
+}
+/* width of the regular content pages */
+.content {
+	width: 400px;
+}
+* html .content {
+	width: 400px;
+}
+/* width of the narrower content pages */
+.content2 {
+	width: 350px;
+}
+* html .content2 {
+	width: 350px;
+}
+
+/* default image settings */
+a img {
+	border: 1px solid #000000;
+	border-color: #000000;
+}
+img {
+	border: 1px solid #000000;
+	border-color: #000000;
+}

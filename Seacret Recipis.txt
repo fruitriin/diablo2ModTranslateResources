@@ -1,0 +1,63 @@
+ItemRecipe1	1 Normal Glove + 2 Socket Screwers + 1 Helmet + 1 Socket Hammer
+ItemRecipe2	1 Normal Glove + 2 Socket Screwers + 1 Shield + 1 Socket Hammer
+ItemRecipe3	1 Normal Glove + 2 Socket Screwers + 1 Weapon + 1 Socket Hammer
+ItemRecipe4	1 Exceptional Glove + 2 Socket Screwers + 1 Helmet + 2 Socket Hammers
+ItemRecipe5	1 Exceptional Glove + 2 Socket Screwers + 1 Shield + 2 Socket Hammers
+ItemRecipe6	1 Exceptional Glove + 2 Socket Screwers + 1 Weapon + 2 Socket Hammers
+ItemRecipe7	1 Elite Glove + 2 Socket Screwers + 1 Helmet + 3 Socket Hammers
+ItemRecipe8	1 Elite Glove + 2 Socket Screwers + 1 Shield + 3 Socket Hammers
+ItemRecipe9	1 Elite Glove + 2 Socket Screwers + 1 Weapon + 3 Socket Hammers
+ItemRecipe10	1 Normal Boot + 2 Socket Screwers + 1 Helmet + 1 Socket Hammer
+ItemRecipe11	1 Normal Boot + 2 Socket Screwers + 1 Shield + 1 Socket Hammer
+ItemRecipe12	1 Normal Boot + 2 Socket Screwers + 1 Weapon + 1 Socket Hammer
+ItemRecipe13	1 Exceptional Boot + 2 Socket Screwers + 1 Helmet + 2 Socket Hammers
+ItemRecipe14	1 Exceptional Boot + 2 Socket Screwers + 1 Shield + 2 Socket Hammers
+ItemRecipe15	1 Exceptional Boot + 2 Socket Screwers + 1 Weapon + 2 Socket Hammers
+ItemRecipe16	1 Elite Boot + 2 Socket Screwers + 1 Helmet + 3 Socket Hammers
+ItemRecipe17	1 Elite Boot + 2 Socket Screwers + 1 Shield + 3 Socket Hammers
+ItemRecipe18	1 Elite Boot + 2 Socket Screwers + 1 Weapon + 3 Socket Hammers
+ItemRecipe19	1 Normal Belt + 2 Socket Screwers + 1 Helmet + 1 Socket Hammer
+ItemRecipe20	1 Normal Belt + 2 Socket Screwers + 1 Shield + 1 Socket Hammer
+ItemRecipe21	1 Normal Belt + 2 Socket Screwers + 1 Weapon + 1 Socket Hammer
+ItemRecipe22	1 Exceptional Belt + 2 Socket Screwers + 1 Helmet + 2 Socket Hammers
+ItemRecipe23	1 Exceptional Belt + 2 Socket Screwers + 1 Shield + 2 Socket Hammers
+ItemRecipe24	1 Exceptional Belt + 2 Socket Screwers + 1 Weapon + 2 Socket Hammers
+ItemRecipe25	1 Elite Belt + 2 Socket Screwers + 1 Helmet + 3 Socket Hammers
+ItemRecipe26	1 Elite Belt + 2 Socket Screwers + 1 Shield + 3 Socket Hammers
+ItemRecipe27	1 Elite Belt + 2 Socket Screwers + 1 Weapon + 3 Socket Hammers
+ItemRecipe28	1 Barbarian Item + 1 Ancient's Blessing + 4 Stones of Cold Mastery
+ItemRecipe29	1 Pole Arm + Talic Soul + 1 Talic's Defender + 1 Ancient's Blessing
+ItemRecipe30	1 Barbarian Item + 1 Ancient's Blessing + 4 Space Fragments
+ItemRecipe31	1 Paladin Cross + 1 Angel Statue + 4 Space Fragments
+ItemRecipe32	1 Paladin Cross + 1 Torn Wing + 4 Space Fragments
+ItemRecipe33	1 Paladin Axe + 1 Skewer Head + 2 Space Fragments
+ItemRecipe34	1 Paladin Cross + 1 Salvation Stone + 3 Space Fragments
+ItemRecipe35	1 Nature Symbol + 1 Enchanted Leaf + 3 Space Fragments
+ItemRecipe36	1 Druid Helmet + 1 Bear Skin + 4 Space Fragments
+ItemRecipe37	1 Necromancer Only Item + 1 Soul Feeder + 3 Space Fragments
+ItemRecipe38	1 Bone Helmet or scythe + 1 Soul Feeder + 3 Space Fragments
+ItemRecipe39	1 Scythe or Necromancer Only Item + 1 Flame Man Doll + 4 Space Fragments
+ItemRecipe40	1 Amazon Javelin + 1 Surge Stick + 3 Space Fragments
+ItemRecipe41	1 Amazon Bow + 1 Elemental Arrows + 2 Space Fragments
+ItemRecipe42	1 Amazon Item + 1 Valkyrie helmet + 4 Space Fragments
+ItemRecipe43	1 Sorceress Item + 1 Lightning Bolt + 1 Stone of Lightning Mastery + 3 Space Fragments
+ItemRecipe44	1 Staff + 1 Magic Field + 2 Space Fragments
+ItemRecipe45	1 Sword Familiar + 1 Magic Field + 3 Space Fragments
+ItemRecipe46	1 Assassin Claw + 1 Assassin Mark + 3 Space Fragments
+ItemRecipe47	1 Cloak + 1 Assassin Mark + 3 Space Fragments
+ItemRecipe48	1 Class Specific Item + 1 Talisman of Skill
+ItemRecipe49	1 Staff + 3 souls + 2 Stones of Cold Mastery + 1 Magic Palette
+ItemRecipe50	1 Staff + 3 souls + 2 Stones of Fire Mastery + 1 Magic Palette
+ItemRecipe51	1 Staff + 3 souls + 2 Stones of Lightning Mastery + 1 Magic Palette
+ItemRecipe52	1 Scythe + 3 Souls + 2 Stones of Magic Mastery + 1 Magic Palette
+ItemRecipe53	1 Scythe + 3 Souls + 2 Stones of Poison Mastery + 1 Magic Palette
+ItemRecipe54	1 Paladin Axe + 3 Souls + 2 Stones of Magic Mastery + 1 Magic Palette
+ItemRecipe55	Treasure Eye Staff + 1 Skill Coins + 1 Space Fragment
+ItemRecipe56	Treasure Eye Staff + 1 Gem Arm + 1 Space Fragment
+ItemRecipe57	Treasure Eye Staff + 1 Item Arm + 1 Space Fragment
+ItemRecipe58	Soul Reaver + Spectral Gate
+ItemRecipe59	Lucifer SOul + Satan Soul + Leviathan Soul + Belial Soul (all hell level)
+ItemRecipe60	Crafted Chill Ball + 1 Shiva Frost Stone + 6 Stones of Cold Mastery + 6 Space Fragments
+ItemRecipe61	1 Hidden Class + 5 Souls
+ItemRecipe62	1 Hidden Class + 2 Souls + 1 All Knowing Book of Learning
+ItemRecipe63	All Are One+Skill Amulet+Holy Grail+Duplicator L1+Laying the Smackdown+Cornucopia+Eggometer

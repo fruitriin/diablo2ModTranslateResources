@@ -1,0 +1,507 @@
+1.A9 prerelease -> 1.A9 release 
+Note: this is only the list of changes since the last beta patch. For the full list of changes, hit Ctrl-F, type '1.99' and Enter to jump to the 1.99 -> 1.A9 beta change list, and scroll up from there. 
+Characters 
+Paladin 
+- Tainted Blood: Reverted accidental nerf. 
+Sorceress 
+- Symbol of Esu: Reduced heal bonus to +250/level. 
+Items 
+Specials 
+- Corrected a few Pearls of Wisdom. 
+Hirelings 
+- Disintegrate is now properly an uberskill. 
+1.A9 RC5 -> 1.A9 prerelease 
+Characters 
+- Partially unnerfed leech. Noobs. 
+Amazon 
+- Dragonforce: reduced attack rate from 5 to 3 shots per second. 
+- Spirit of Vengeance: eliminated sprite-heavy effects off reanimated Core Lords and Plaguebringers. 
+Assassin 
+- Black Lotus Strike: reduced mana cost. 
+- Broadside: timer -1 second due to popular qq. 
+- Death Blossom: reduced mana cost. 
+Barbarian 
+- Rebound: corrected description. 
+- Screaming Eagle: limited range. 
+Druid 
+- Fixed corrupted formula leading to erroneous Lifeshield defense numbers. 
+Necromancer 
+- Increased minion caps due to whining (after they were reduced due to whining...): 
+> Shadows: 30 
+> Darklings: 40 
+> Rampagors: 20 (unattainable) 
+> Lamia: 30 (unattainable) 
+The only one that is really noticable is the Shadows (skill level 30), because it is also the only monster made out of two pieces and therefore twice as laggy (CLoD skeletons were made out of 9 pieces...). 
+Paladin 
+- Black Sleep: corrected timer. 
+- Blood Thorns: no longer worthless - sorry, I meant to say it no longer has ND. 
+- Holy Trap: corrected synergy description. 
+- Slayer: removed irritating sound. 
+- Tainted Blood: reduced duration and therefore increased heal rate. 
+Sorceress 
+- Creeping Doom: fixed description; renamed back to Carpet of Spiders. 
+- Fear of Fire: timer is 10 seconds and decreases with hard points, down to 5.2 at 21, 4.0 at 28 etc. 
+- Forked Lightning: capped number of bolts at 8. 
+- Frigid Sphere: reduced cold damage for balance reasons. 
+- Ice Elementals: reduced Glacial Nova proc chance but increased damage and life. 
+- Lightning Cascade: increased damage. 
+- Lorenado: increased damage. 
+- Symbol of Esu: greatly increased life and mana heal. 
+- Time Field: reduced slow % to avoid hitting the cap early; reduced radius. 
+- Thunderstone: fixed bug that caused excessive damage. 
+- Swapped Arcane Fury and Symbol of Esu in the skill tree. 
+Items 
+Cube recipes 
+- Ber jewelcraft: reverted nerf, leech bonus now 1-2% up from 1%. 
+Runewords 
+- Oniwaka: 25% Forked Lightning proc. 
+Uniques 
+- Frostbringer: corrected stats. 
+- Icehunter's Fang: now has Ice Lance proc. 
+- The Moon Fairy: renamed to Mooncurse. 
+Monsters 
+- Reduced size of superunique packs. 
+- Baal: now uses Tremor instead of Deathstrike. 
+- Snotspill: took away big magic. 
+- Superuniques (should) have only 1 immunity; reduced exp; minions of special bosses are now heroic. 
+- Upgraded Act bosses and seal superuniques. 
+Drop rates 
+- Reduced chance that elites drop uniques. 
+- Reduced unique drop rates by 20%. 
+- Reduced item rain from superuniques. 
+1.A9 RC4 -> 1.A9 RC5 
+Characters 
+Assassin 
+- Perfect Being: fixed corruption issue. 
+Sorceress 
+- Frigid Sphere: fixed erroneous ND. 
+Items 
+Sets 
+- Elemental Fury: oskill replaced with Lightning Wall. 
+Monsters 
+- Grimspike and El Chupacabras are now regular Quill Bears. 
+1.A9 RC3 -> 1.A9 RC4 
+Characters 
+Amazon 
+- Blood Elementals: increased mana cost. 
+- Starstreak: reduced graphical spam. 
+Assassin 
+- Death Blossom: increased mana cost. 
+- Perfect Being: reverted to 1.99 status. 
+- Scorpion Blade: max blades synergy is now from Rocket Blade. 
+- Vampiric Icon: improved leech. 
+Barbarian 
+- Eagle Stance: now again soft point based, removed damage penalty. 
+- Fortress: mana cost frozen at 40. 
+- Screaming Eagle: reverted unpopular graphic. 
+- Shaman's Path: greatly improved Bloodlust damage bonus 
+- Snake Stance: corrected synergy description. 
+- Spirit Guide: boosted defense and reduced radius to match its role as a skill to encourage proper battle positioning (ie. right with the stupid minions in the middle of danger). 
+- Stormblast: damage increased from 1/4 to 1/2. It was a well balanced skill, and thus useless. 
+Druid 
+- Fire Fountain: slightly reduced mana cost. 
+- Hailstorm: no longer misfires if you don't click on the target. 
+Necromancer 
+- New skill: Summon Jinn replaces Necromantic Trance. 
+- Bend the Shadows: changed sound effect. 
+- Frostclaw Totem: replaced sound. 
+- Mana Tide Totem: replaced graphic to avoid overlay bug. 
+- Unholy Prayer: limited radius to enable melee contact; changed sound effect; changed icon. 
+- By popular demand, limited max number of minions to reduce maintenance: 
+> Shadows: 10 
+> Darklings: 15 
+> Rampagors: 5 
+> Lamia: 5 
+- Totems now properly get your -% enemy resists. 
+Paladin 
+- Black Sleep: is now an area effect spell. 
+- Edict of Forbiddance: reduced damage from 1/2 to 1/3. 
+- Shadowfiends: increased cap from 10 to 20 because it wasn't overpowered. 
+Sorceress 
+- New skill: Frigid Sphere replaces Cold Fear. 
+- New skill: Ice Lance replaces Frozen Soul. 
+- New skill: Lightning Cascade replaces Lightning Wall. 
+- New skill: Symbol of Esu replaces Disintegrate. 
+- New skill: Fear of Fire replaces Inner Fire. 
+- New skill: Creeping Doom replaces Carpet of Spiders. 
+- New skill: Lorenado replaces Venomous Spirit. 
+- Bladestorm: ND is now 3, down from 5. 
+- Flamestrike: increased mana cost. 
+- Forked Lightning: now gains +1 extra bolt every 3 skill levels. 
+- Ice Elementals: greatly increased damage; increased mana cost; reduced Glacial Nova CtC% due to lag. 
+- Pyroblast: increased damage. 
+- Spiral Dance: now costs 100 mana. 
+- Static Orb renamed to Thunderstone and graphics changed. 
+Other 
+- Body of the Savior: now a summoning skill. 
+- Liche Totem: stat bonus is now a percentage to avoid the strength bug. 
+- SMG: greatly increased damage (3/4) and increased attack rate. 
+- Shower of Rocks procs now appear on the target and not yourself. 
+Items 
+Specials 
+Magic and rare affixes 
+- Low level +skill affixes are no longer so easily culled from the affix pool at high levels. 
+Cube recipes 
+- Reduced Ber craft power.  
+Uniques 
+- Stuff... 
+- Coldhunger: now procs Ice Lance. 
+- Frostbringer: now procs Ice Lance 
+- Icetomb: now procs Ice Lance. 
+- Khalim's Gloriole: replaced broken retribute bonus with -% enemy fire resist. 
+- Zerae's Veil: now procs Lightning Cascade. 
+Sets 
+- Eruption, Snowstorm: reduced chance to cast to reduce lag. 
+- Serpent's Tongue: now procs Lorenado. 
+- Vasily's set: reduced chance to cast to reduce lag. 
+Runewords 
+- New runeword: Tonatiuh. 
+- Circus: replaced with Kodiak. 
+- Dirge: reduced chance to proc Crucify. 
+- Herfjotur: reduced chance to proc Time Field. 
+- Manta: now procs Lightning Wall. 
+- Sway of the Stars: now works. 
+Monsters 
+- Beefed up these superuniques: 
+* Snotspill 
+* Grimspike 
+* El Chupacabras 
+* Moonbender 
+* Flower Prowler 
+* Blightfire 
+* Kermit 
+* Plaguewrath 
+* Fleshdoom 
+* Doomweaver 
+* Deadeye 
+* Fatal Morgana 
+* Warpwing 
+* The Smith 
+* Hephaesto 
+* Izual 
+* Gharbad the Weak 
+* Deathspit 
+* The Vizier 
+* Nightwing the Cold 
+* Goldblight of the Flame 
+* Zhar the Mad 
+* Deathshade Fleshmaul 
+* Gorestone 
+* Lachdanan 
+* Bilefroth the Pit Master 
+* Bloodmoon Soulfire 
+* Bloodskin Darkbow 
+* Lionskull the Bent 
+* Stormbane 
+- Have no idea why Act bosses aren't dropping only rares. 
+- Baal: increased damage; now uses Deathstrike instead of Time Field. 
+Uberquests 
+- Aldric Jitan: can no longer be frozen. 
+- Toraja: fixed erroneously low hit points of Celebrants in Destruction. 
+- Tran Athulua: the amazons can no longer be interrupted and forced to shoot nothing. 
+Drop rates 
+- Toraja: fixed shrine drop rates. 
+1.A9 RC2 -> 1.A9 RC3 
+Characters 
+- Rebalanced many mana costs. 
+Items 
+Specials 
+- Taha rune now shows up. 
+Drop rates 
+- Toraja: Reduced jewel spam. 
+
+1.A9 RC1 -> 1.A9 RC2 
+Characters 
+Barbarian 
+- Spirit Guide: now again affects Wolf Companion; increased radius. 
+Drop rates 
+- Toraja: greatly reduced gem drops to reduce screen clutter. 
+- Drop rates massively increased, even if they were fine in 1.99 and were higher in the RC... 
+> Unique: 1/100 base, 1/50 max 
+> Rare: 1/25 base, 1/15 max 
+> Set: 1/15 base, 1/5 max 
+> Magic: 1/5 base, 1/1 max 
+1.A9 beta 4 -> 1.A9 RC 
+Characters 
+- Slightly reduced leech nerf. 
+Amazon 
+- Dragonforce: range synergy now from Ghost Arrow; now gains +1 target per 2 levels to balance it against Barrage and Phalanx. 
+- Spirit of Vengeance: detection range is already 80, and because I'm such a failure, I can't make it follow you either. 
+Assassin 
+- Perfect Being: bonus +5% at all levels. 
+- Phase Bomb: resist pierce locked at -15%, enough to remove immunities but not enough to break uberquest shield auras. 
+- Singularity: mana cost now 470. 
+Barbarian 
+- Eagle Stance: nerf reverted: heal bonus again based on soft points because I forgot people do not want to put more than 1 point into an active defensive skill unless it makes you invincible, and even then. This one only makes you half invincible. 
+- Kraken Stance: corrected description. 
+- Shower of Rocks: improved power of the attack rating curse. 
+- Thundergod: reduced nova frequency to prevent permastun effect. 
+- Wolf Companion: +1 wolf per 5 levels; fixed targetting issue with the curse; removed erroneous AR display. 
+Other 
+- Body of the Savior: halved life and damage due to overflow. 
+Items 
+Specials 
+- Fixed Taha and Ghal graphics. 
+- Was unable to change the superior properties because they're somehow coded a second time in special columns.  
+Runewords 
+- Dirge: now works. Much qq about balance, little beta testering. 
+- Eos: reduced demon damage and lowered CtC% for lag reasons. 
+- Linga Sharira... yeah. 
+- Nero: CtC% Fortress = 10% 
+- Shaheeda: reduced crushing blow chance. 
+Unique 
+- Sky Sweeper: newly dropped ones should now have a working proc, I think. 
+Other 
+- Unblocked stat reassignment with PlugY. 
+Drop rates 
+- Drop rate halfway between 1.99 and earlier betas now: 
+> Uniques: 1/200 base, cap at 1/50; 
+> Rares: 1/25 base, cap at 1/15; 
+> Sets: 1/20 base, cap at 1/10; 
+> Magic: 1/5 base, cap at 1/1. 
+- Toraja: doubled Great Rune chance. 
+- Toraja: reduced item drop rate and increased blank drops to reduce item clutter on the ground. 
+1.A9 beta 3 -> 1.A9 beta 4 
+Characters 
+Amazon 
+- Dragonforce: damage again 1/2, but dragons move 50% faster. 
+Assassin 
+- Singularity: corrected mana cost. 
+Barbarian 
+- Kraken Stance: implemented 2% synergy from any other stance. 
+- Spirit Guide: removed effect from Wolf Companion, because it defeats the point when the wolf is untargetable. 
+Necromancer 
+- Soulshatter: now has ND again, but 3/4 damage. 
+Paladin 
+- Edict of Forbiddance: radius reduced. 
+Items 
+Specials 
+- Rune graphics of Great Runes modified to prevent Black Background effect. 
+Magic and rare affixes 
+- Disabled Clobber and Gorefest on bows. 
+Runewords 
+- Brocken: replaced RoL proc with Lemures at a lower chance. 
+- Eris: reduced CtC% from 4% to 1%. 
+- Tarqeq: CtC% Rune of Ice is now on kill; reduced CtC% Arrow. 
+Monsters 
+
+
+
+
+1.99d -> 1.A9 beta 3 
+**Characters 
+- Base block modifier down to 0 for paladins, -1 for everyone else, -2 for sorcs. 
+- Reduced mana per energy point by -1 (now you gain +2, +4 or +6) to reduce the chance of overflow with heavy investment. 
+- Energy Factor power increased, but now tapers off at very high energy investments to prevent damage overflow. 
+- The minion resistance cap is now +75%, up from 50% (and not 25%, liars). 
+- Slightly reduced mana gain per energy point of some mana-intensive characters to avoid mana overflow. 
+- All enemy-affecting resist pierce skills (except the assassin uberskill Phase Bomb) have been removed, leaving only item-based sources of -% resist (including Shadowfiends). This is because due to a bug in D2, they worked at full strength against immunities based on shield auras, making a lot of uberquests trivial to beat. Sorry, people. 
+
+- Fixed most passive poison descriptions. 
+- Unnerfed leech. 
+
+***アマゾン
+- Death Ray: fixed too-long formula causing erroneously low damage. 
+- Dragonstrike replaces Wraith Arrow: fires a slow moving dragon that shoots spines at nearby enemies. 
+- Ghost Arrow: added self-synergy for +1 arrow per 10 levels. 
+- Fairy Ring: fixed base target seek range; +0.6 yards at all levels. 
+- Moon Warrior: increased enhanced damage bonus from 15% to 20% per level. 
+- Pact of Blood: duration now goes up with hard points. 
+
+- Dragonforce: damage 1/2; starts at 2 targets; fixed incorrect excessive target description. 
+
+- Dragonforce: damage now 1/4. 
+
+***Assassin 
+- Doom: reduced synergy from 20% to 15%. 
+- Perfect Being: now based on hard points, but you get run speed from soft points. 
+- Rocket Blade replaces Maelstrom: fires a zigzagging explosive knife. 
+- Scorpion Blade: now gains +1 blade per 10 Broadside levels; synergy moved to Rocket Blade. 
+- Singularity: mana cost frozen at 780. 
+- Way of the Spider: poison length now increases by 0.2 seconds per level. 
+
+
+
+***バーバリアン
+- Eagle Stance: heal rate now based on hard points, and there is now a slight damage penalty. 
+- Kraken Stance: added max level synergy from all other stances. 
+- Lion Stance: corrected display showing excessive damage; reduced ED% component; removed max level synergy but increased magic damage per level. 
+- Predator replaces Berserk Fury: similar effect, but instead of hit recovery speed it offers life steal. 
+- Runemaster: reduced by half. 
+- Screaming Eagle replaces Eagle Dive: similar effect, but instead of resist pierce it reduces damage and attack speed. 
+- Shower of Rocks: now instead of the (bugged) physical resist pierce, it reduces enemy damage. This is because the proposed -% attack rating change was useless because you didn't bother doing the math or you did and concluded that -50% attack rating is slightly inferior to x2 defense so it's weak and gimped. Please abandon your melee barb. I want you to make a bombsin. 
+- Snake Stance: slowing effect is now a self-synergy. 
+- Spirit Guide: now also adds +40% total defense, +15% per hard point. 
+
+- Screaming Eagle: fixed description. 
+- Shower of Rocks: changed effect to -% enemy attack rating to prevent reaching 100% in the right party/with the right oskills. 
+
+Barbarian 
+- Kraken Stance: removed max level synergy because people don't get it, yay. 
+- Spirit Guide: description is now correct. 
+
+**ドルイド
+- Poison Flash: coverage +1. 
+
+
+***ネクロマンサー
+- Buckshot: QUAD RANGE. 
+- Deathstrike: doubled flat damage component, which isn't bugged. 
+- Famine: reduced ED% to prevent damage overflow. 
+- Fireheart Totem: to reduce lag, rate of fire divided by 4 but damage multipled by 4. 
+- Necromantic Trance: added sound effect. 
+- Summon Rampagor: poison damage now increases with character level, up to 5-10x higher than before! 
+- Summon Void Archon: aura no longer reduces enemy resistance, but now reduces damage by 25%. 
+
+- Soulshatter: nerf undone, but now properly has ND (2 frames). 
+
+- Soulshatter: removed ND again because zomg any skill with ND is useless, even if it has a ND of *2* and it was bugged to have no ND in the first place so it's like an omnidirectional Buckshot which means it is very overpowered but whatever, I don't care. 
+
+***パラディン 
+- Edict of Forbiddance replaces Retribute: periodically deals weapon damage in an area. 
+***ソーサレス
+- Fixes an issue where some lightning skills gained an incorrect bonus from energy factor. 
+- Bladestorm: increased damage from 1/2 to 3/4. 
+- Hive: synergy increased from 8% to 10%. 
+- Nova Charge: synergy increased from 4% to 6%. 
+- Spiral Dance replaces Starfire. Sorry to all Starfire users. See above. Also, the melee sorc's reliance on a single unique item sucked. 
+- Time Field: no longer has ND. 
+***その他
+- Added skills: Path of Flames, SMG, Amatoxin, BFG83K, Body of the Savior. 
+- Ambush: reduced skill timer to 2 seconds. 
+- Medusa: now does 1/2 damage, up from 1/4; conversion 100% -> 75%; reduced NextDelay to 3 frames. 
+- Sunburn: now inflicts slow instead of resist pierce. 
+**アイテム 
+***ベースアイテム
+- Crossbows in melee range (Buckshot) now have increased click range. 
+***スペシャル
+- Removed fire, cold, lightning and poison elixirs to free up state rows. 
+-Torajaに？3種類のグレートルーンを追加： Krys, Auhe and Sha'ad. 
+- +% stat gems now go from 1% to 5%. 
+***マジックとレアの修飾詞
+- Reduced stat% affixes on jewels from 3-6% to 1-2%. 
+- Added oskill Ancients' Hand, Tantrum, Gorefest and Clobber to appropriate magic, rare and crafted items. 
+Notice on existing affixes 
+Due to a rescaling of the corresponding number ranges, existing items with +% chance to block will have their chance go down by 3%, items with +max minions by 5 and items with +% total weapon damage will go down by 50%. This will not affect newly spawned items. Please reroll or refind the item. 
+***ルーンワード 
+-新しいルーンワードを60個追加。
+Adramelech, Amanita, Apostasy, Brocken, Cambion, Carabosse, Cassilda, Cecaelia, Circus, Derweze, Dirge, Eos, Eris, Eurynome, Eventide, Freybug, Gilgamesh, Gravastar, Greisen, Hecatomb, Herfjotur, Hermanubis, Indigo, Jaguar, Joker, Jokulmorder, Krypteia, Kundalini, Linga Sharira, Ljosalf, Mkodos, Myrrhbearer, Nero, Nigra, Nyx, Oniwaka, Orchid, Quaoar, Resheph, Rhea, Riot, Riptide, Rotundjere, Sauron, Shaheeda, Skarn, Skilt en Vriend, Snowsquall, Spectre, Stardust, Sway of the Stars, Styx, Tarqeq, Titanomachia, Tombstone, Tynged, Tzeentch, Vertigo, Wolfsangel, Zodiac 
+- Aiwass: minion damage = 21-25% 
+- Apotheosis: all stats +21-30; spell damage +11-15%. 
+- Asmodai: CtC% increased to 5%. 
+- Astarte: now has oskill Moon Warrior. 
+- Avatar: skill levels = 1. 
+- Azrael: enhanced damage = 151-180%. 
+- Berith: ED% = 201-250%. 
+- Cathedral: poison duration = +101-150%. 
+- Cauldron: proc improved: now 20% level 11 Hex on attack. 
+- Comaetho: avoid = 5%; sorceress skill levels = 2; removed thorns effect to reduce line numbers. 
+- Dragonheart: defense per level = 3.5%. 
+- Drekavac: skill levels = 1; cold damage = 100-200. 
+- Dyaus Pita: increased defense to +201-250%; stats should be useful now due to the jewel nerf. 
+- Fuse: increased CtC% level to 14. 
+- Gauntlet: increased Crucify CtC% to 33%. 
+- Geas: poison duration bonus increased to +41-50%. 
+- Gehenna: ED% = 251-300%. 
+- Ginfaxi: Runemaster effect locked at 1%. 
+- Hadad: skill levels = 2. 
+- Hibagon: reanimate chance = 5%; skill levels = 1. 
+- Icarus: run speed bonus increased to 80%. 
+- Ilmatar: CtC% level = 7. 
+- Judas: reanimate chance = 21-25%. 
+- Judge: CtC% is now 25%. 
+- Kali: skill levels = 1. 
+- Khany: CtC% changed to Starburst, oskill to Thunder Slam; max damage per level = 2; ED% = 201-250%; sorc skill levels = 1-2. 
+- Kronos: replaced redundant proc with 100% level 17 Time Strike on kills. 
+- Lammasu: spell damage = +21-30%. 
+- Lataif-as-Sitta: oskill Illumination/Rapture level increased to 11-16. 
+- Lincos: oskill changed to Arcane Torrent. 
+- Malakbel: fire resist = 100%!; doubled fire spell damage. 
+- Mirage: skill levels = 1, but minimum resist all is 51% up from 31%. 
+- Nehushtan: IAS penalty reduced to -10%. 
+- Nephilim: strength and vitality = +50; removed skill level bonus; flat ac = 150. 
+- Ngozi: spell damage increased to +31-40%. 
+- Norma: oskill changed to Cold Fear. 
+- Raudna: now also shoots Arrow instead of Time Strike for lag reasons. 
+- Sabertooth: increased global damage to 2%/level. 
+- Samhain: druid skill levels = 2; cast rate 10% -> 40%. 
+- Scorched Earth: increased Pentagram CtC% level to 59, chance to 33%. 
+- Shark: CtC% = 6%; ED% = 41-60%. 
+- Shaula: ED% = 251-300%; slow = 33%; reanimate chance = 21-25%; flat damage = 150-250. 
+- Siegfried: all resists +21-25%. 
+- Skald: CtC% increased to 40%. 
+- Summanus: skill levels = 2. 
+- Summit: skill level bonus replaced with +151-200% GF. 
+- Takfir: guaranteed paladin skill levels = 2. 
+- Triune: elemental damage = 333-1666 per element; resist all = 66%; ED% = 201-250%. 
+- Unity: skill levels = 1. 
+- Urada: Necrobot reanimate chance is now 25%. 
+- Void: slow = 40%; damage reduction = 11-15; reanimate chance locked at 10%; flat damage = 25-50. 
+- Wintermute: skill levels = 2; spell damage = +31-40%; global ac = +21-30%. 
+
+- Dirge: reduced life on striking, removed Spike Nova proc. 
+- Zodiac: replaced broken Trinity Beam proc. 
+***ユニークアイテム 
+- Griefbringer: attempt number two thousand to fix the damned proc. 
+- Hammer of Ghrab Thaar: changed reanimates to Blood Templar. Of course, someone had to find an exploit and everyone had to exploit the hell out of it. Damn you. Damn you. 
+- Helm of Sprits: CtC changed to Venomous Spirit. 
+- Lachdanan's Avenger: CtC changed to 3-8% Spike Nova. 
+- Seal of the Nephalem Kings: removed old and obsolete +% damage based on strength. 
+- The Moon Fairy: CtC changed to Banish. 
+- Wedding Dress of the Zann: removed oskill because it is now a learnable skill. 
+- Worldstone Shard: CtC changed to 5% Mana Sweep. 
+***セットアイテム
+- Rathma's Tyranny: the CtC% on them broke due to the replacement of Guard Tower, &br()but newly spawned ones have Guard Tower again. Other items like this are unaffected. 
+- Witchhunter's Faith: broken move speed bonus removed. 
+- Edyrem's Children full set bonus to Starfire changed to +4 sorceress skill levels. 
+- Hadriel's Lore full set bonus oskill removed. 
+- Lone Wolf's full set bonus oskill changed to +19 Nova Charge. 
+***キューブレシピ 
+- Blessing:イシリアルアイテムにはこの合成が使えなくなった。DEFが500万を超えるとマズいらしい。
+-宝石のアップグレード：クラフティングポイントがなくても完璧合成が可能
+-ジュエルクラフト（レム【Lem】）：+3-5 全ステータス修正
+-ユニーク作成レシピ：要求されるクリスタルの数が4個から2個に変更。変わりに完璧な宝石が必要？
+-アップグレードレシピ（通常）：クラフティングポイントが必要でなくなった&br()1個のクリスタルで合成可能になった。
+-アップグレードレシピ（ユニーク）：クラフティングポイントが必要なくなった&br()1個のクリスタルで合成可能になった、完璧な宝石が必要。
+-tsc-isc ？
+
+-新しいレシピ：古いハンマーオブターンジャッジとワールドストーンキーを新しいものにコンバートするレシピ？
+NEW RECIPE: CUBE AN OLD HAMMER OF TAAN JUDGES OR WORLDSTONE KEY
+(THAT LOST SOME OF ITS BONUSES IN THE TRANSITION TO 1.A9)
+TO ADD ITS MISSING/REDUCED MODIFIERS BACK. 
+
+＊**ドロップ率
+-マジックアイテムを得る確立上昇効果がセット、レア、ユニークに効いていなかったバグを修正。
+-1.A9で上げすぎたユニークアイテムのドロップ率を修正 
+↓
+-ドロップ率を再調整…。またかよ。MFのバカー＞＜
+-Torajaでのルーンの極端なドロップ率を修正
+
+- Fixed issue that caused Torajian GRs to be about 20x rarer than intended. 
+
+***モンスター 
+-プレイヤーキャラクターの弱体化を受けてわずかにダメージを下げた
+-多くのユーバークエストボスはノックバック無効になった
+- Gothi:ダメージが増えた
+
+- Made an attempt at introducing champion packs,&br()but it looks like my efforts to fix champion Astroghas have caused this to break, god damn it. 
+
+***ユーバークエスト
+-Kurast 3000 BA:ハンマー・オブ・ターン・ジャッジから1% ブロック成功率上昇を取り除いた
+-Astrogha:ベノム・スティンガーのスキルレベルを1に変更
+-Duncraig:毒の投げダメージを大幅に下げた（低レベルのキャラクターがハマってしまいアンフェアなため）
+- Tal Rasha & Koth:配下を冷気無効にした（someone found a bug with this to stop shield auras and of course posted it in the public forum. ）
+- Toraja:最大スキルレベル修正効果を5から1に下げた
+- Vizjun: Cold Fusion Schematicsのステータス強化の範囲を+11-25に下げ、トロフィーの報酬を弱体化させた
+- Vizjun:報酬のチャームを100%落とすように変更
+***チャレンジ 
+-アトリビュートチャレンジは存在しなくなった
+--多くの人が達成しなければならないと考えるため。
+1.A9 beta -> 1.A9 beta 2 
+- Dragon challenge: Act 2 one now needs (and returns) a 
+tp scroll as ingredient to prevent conflict with the goodberry recipe;
+Hatred level limit is now 60 instead of 40;
+dragons no longer stunnable. 
+
+***傭兵
+- Act 2 エグザンパー【Exemplar】: ゴアフィースト【Gorefest】を使うようになった. 

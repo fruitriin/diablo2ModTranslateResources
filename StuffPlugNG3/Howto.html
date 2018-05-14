@@ -1,0 +1,94 @@
+<html>
+	<head>
+		<title>How to translate StuffPlug 3</title>
+		<style>
+				.cmdprompt {
+					background-color: #000000;
+					font-family: Lucida Console;
+					color: #C0C0C0;
+					font-weight: bold;
+					font-size: 12px;
+					padding: 2px;
+				}
+		</style>
+	</head>
+	<body>
+		<h1>How to translate StuffPlug 3</h1>
+		<p>Revision 1 - 2 jan 2007</p>
+		<h2>Introduction</h2>
+		<p>Translating StuffPlug 3 is incredibly easy, and involves only a few simple steps. If you follow these instructions carefully, you should be able to get your own StuffPlug 3 translation within a few hours. If you encounter any problems, do not hesitate to ask on the <a href="http://www.stuffplug.com/?act=forum" target="_blank">StuffPlug.com Forum</a></p>
+		<h2>Notes</h2>
+		<h3>Operating system</h3>
+		<p>Translating StuffPlug 3 can only be done on Windows 2000 or XP or higher. Although editing of the language files can be done on Windows 95/98/ME, the language encoder will simply not work on those operating systems.</p>
+		<h3>Right-to-left languages</h3>
+		<p>Currently, a right-to-left layout is not supported in StuffPlug 3. I do have plans to support it in the future, but I haven't come round to it yet. In the mean time, you can just use the LTR layout with RTL languages.</p>
+		<h2>Preparing</h2>
+		<h3>Flag</h3>
+		<p>To make sure users can find your language easily, you should find or create a little flag of your country or region. The flag should be a <a href="http://www.libpng.org/pub/png/" target="_blank">PNG</a>-image of exactly 60 by 40 pixels. Although there is no limit to the filesize of this flag, you should aim to keep it under 10 kb to keep your language file as small as possible.</p>
+		<p>An example flag is GreatBritain.png, the flag used for the standard english translation of StuffPlug 3</p>
+		<img src="GreatBritain.png">
+		<h3>Unicode</h3>
+		<p>If your language uses unicode, be sure to find a text-editor that is able to save as UTF-8 or pure Unicode. Examples and instructions how to save as unicode are below:</p>
+		<h4>Notepad</h4>
+		<p>On Windows 2000 and higher the standard Notepad can save as Unicode too. To save as Unicode, select File -&gt; Save As, and for &quot;Encoding&quot; choose either &quot;Unicode&quot; or &quot;UTF-8&quot;</p>
+		<h4>UltraEdit-32</h4>
+		<p>A shareware version of UltraEdit-32 can be found at <a href="http://www.ultraedit.com" target="_blank">UltraEdit.com</a>. To save as Unicode, select File -&gt; Save As, and for &quot;Format&quot; choose either &quot;UTF-8&quot; or &quot;Unicode - ASCII Escaped&quot;</p>
+		<h4>Other editors</h4>
+		<p>Undoubtedly there are more editors available to edit unicode files, but these are the two that I am aware of. If you would like to recommend another editor to be included in a newer version of this guide, please create a new topic on the <a href="http://www.stuffplug.com/?act=forum" target="_blank">StuffPlug.com Forum</a></p>
+		<h2>Translating</h2>
+		<p>The first thing to do now is opening DefaultLg.dat with your preferred text-editor. You will notice that it's split into sections marked by [Name], and that these sections contain strings to be translated in the form of Key=Value. The Section headers and key-names should not be changed. The only thing you should ever change are the values after the =-sign. Your first step is to edit the [Language Options] section. Set Name to the name of the language you are translating to, and set Info to a little information (for example "Made by (your name)"). NameA and InfoA should be set to the name and info, but without using unicode (so only the basic english alphabet), to be used in the installer. Next Set Flag to be the filename to the flag you created during the preparation.</p>
+		<p>After you have set the language options, it's time to take a look at the other sections. In each section, be sure to translate everything behind the =-sign. If you need a newline, use {NEWLINE}. And also please mind that things like %1!s! should stay intact to keep StuffPlug functioning correctly.</p>
+		<p>When you're done, save the file as Lang_(name of your language).ini (preferably in the Translate directory), and move on to the next step</p>
+		<h3>Unicode</h3>
+		<p>Sometimes editors will not let you type unicode unless the file is saved as Unicode. In that case, save it as unicode as Lang_(language).ini first, and then translate.</p>
+		<h2>Converting</h2>
+		<p>Before StuffPlug 3 can use your language file, you will first have to convert it to an splng file. You can do so using the SPLngEncoder utility.</p>
+		<h3>Opening a command-prompt</h3>
+		<p>First, open up a command-prompt. To do so, go to Start -&gt; Run, type cmd, and hit OK. You should be presented with a screen like this:</p>
+		<p class="cmdprompt">
+			Microsoft Windows XP [Version 5.1.2600]<br>
+			(C) Copyright 1985-2001 Microsoft Corp.<br>
+			<br>
+			C:\Documents and Settings\Administrator&gt;
+		</p>
+		<h3>Changing to the StuffPlug 3 languages howto dir</h3>
+		<p>First, type the drive where StuffPlug 3 is installed (e.g. C:), then type &quot;cd \directory&quot;. For example:</p>
+		<p class="cmdprompt">
+			Microsoft Windows XP [Version 5.1.2600]<br>
+			(C) Copyright 1985-2001 Microsoft Corp.<br>
+			<br>
+			C:\Documents and Settings\Administrator&gt;C:<br>
+			<br>
+			C:\Documents and Settings\Administrator&gt;cd \Program Files\StuffPlug3\Languages\Translate<br>
+			<br>
+			C:\Program Files\StuffPlug3\Languages\Translate&gt;<br>
+		</p>
+		<h3>Encoding</h3>
+		<p>Now it's time to actually use the SPLngEncoder utility. You should use it like this: &quot;SPLngEncoder &lt;Input file&gt; [Output file]&quot;. For example, to translate the imaginary Dutch translation:</p>
+		<p class="cmdprompt">
+			Microsoft Windows XP [Version 5.1.2600]<br>
+			(C) Copyright 1985-2001 Microsoft Corp.<br>
+			<br>
+			C:\Documents and Settings\Administrator&gt;C:<br>
+			<br>
+			C:\Documents and Settings\Administrator&gt;cd \Program Files\StuffPlug3\Languages\Translate<br>
+			<br>
+			C:\Program Files\StuffPlug3\Languages\Translate&gt;SPLngEncoder Lang_Dutch.ini ..\Lang_Dutch.splng<br>
+			Opening file<br>
+			Reading language options<br>
+			Name: Nederlands<br>
+			Info: Nederlandse vertaling<br>
+			Read 3295 flag bytes<br>
+			Writing language options<br>
+			<br>
+			C:\Program Files\StuffPlug3\Languages\Translate&gt;
+		</p>
+		<h2>Done</h2>
+		<p>After you have run the SPLngEncoder, your language file should be done and located in the languages directory. If you go to the StuffPlug Language dialog (StuffPlug 3 -&gt; Welcome -&gt; Language), your language should already appear in the list.</p>
+		<p>To send your language file to others, simply send them the Lang_(language).splng file located in the Languages directory and let them place it in the language directory</p>
+		<p>To get your translation to be part of the official StuffPlug 3 package, please send an email to <a href="mailto:translating@stuffplug.com">translating@stuffplug.com</a></p>
+		<h2>Revisions</h2>
+		<h3>20 jan 2007</h3>
+		<p>Added NameA and InfoA to data</p>
+	</body>
+</html>

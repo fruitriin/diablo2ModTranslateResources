@@ -1,0 +1,37 @@
+1 Barbarian Item + 1 古代の恵み + 4 Stones of Cold Mastery
+1 Pole Arm + Talic Soul + 1 Talic's Defender + 1 古代の恵み
+1 Barbarian Item + 1 古代の恵み + 4 Space Fragments
+1 Paladin 十字架 + 1 天使の像 + 4 Space Fragments
+1 Paladin 十字架 + 1 トーン・ウィング + 4 Space Fragments
+1 Paladin Axe + 1 スキューアー・ヘッド + 2 Space Fragments
+1 Paladin 十字架 + 1 サルベイション・ストーン + 3 Space Fragments
+1 自然のシンボル + 1 エンチャンティッド・リーフ + 3 Space Fragments
+1 Druid Helmet + 1 ベアー・スキン + 4 Space Fragments
+1 Necromancer Only Item + 1 ソウル・フィーダー + 3 Space Fragments
+1 Bone Helmet or scythe + 1 ソウル・フィーダー + 3 Space Fragments
+1 Scythe or Necromancer Only Item + 1 フレイムマン・ドール + 4 Space Fragments
+1 Amazon Javelin + 1 サージ・スティック + 3 Space Fragments
+1 Amazon Bow + 1 エレメンタル・アロー + 2 Space Fragments
+1 Amazon Item + 1 Valkyrie helmet + 4 Space Fragments
+1 Sorceress Item + 1 ライトニング・ボルト + 1 ライトニングマスタリーのストーン + 3 Space Fragments
+1 Staff + 1 マジック・フィールド + 2 Space Fragments
+1 Sword Familiar + 1 マジック・フィールド + 3 Space Fragments
+1 Assassin Claw + 1 暗殺者の印 + 3 Space Fragments
+1 Cloak + 1 暗殺者の印 + 3 Space Fragments
+1 Class Specific Item + 1 タリスマン・オブ・スキル
+1 Staff + 3 souls + 2 Stones of Cold Mastery + 1 マジック・パレット
+1 Staff + 3 souls + 2 Stones of Fire Mastery + 1 マジック・パレット
+1 Staff + 3 souls + 2 Stones of Lightning Mastery + 1 マジック・パレット
+1 Scythe + 3 Souls + 2 Stones of Magic Mastery + 1 マジック・パレット
+1 Scythe + 3 Souls + 2 Stones of Poison Mastery + 1 マジック・パレット
+1 Paladin Axe + 3 Souls + 2 Stones of Magic Mastery + 1 マジック・パレット
+Treasure Eye Staff + 1 スキル・コイン + 1 Space Fragment
+Treasure Eye Staff + 1 ジェム・アーム + 1 Space Fragment
+Treasure Eye Staff + 1 アイテム・アーム + 1 Space Fragment
+Soul Reaver + スペクトラル・ゲート
+Lucifer SOul + Satan Soul + Leviathan Soul + Belial Soul (all hell level)
+Crafted Chill Ball + 1 シヴァー・フロスト・ストーン + 6 Stones of Cold Mastery + 6 Space Fragments
+1 Hidden Class + 5 Souls
+1 Hidden Class + 2 Souls + 1 All Knowing Book of Learning
+All Are One+Skill Amulet+Holy Grail+Duplicator L1+Laying the Smackdown+Cornucopia+Eggometer
+Nezeramontias + Duplicator L2 + 3 マジック・ミラーs + Smiter's Ring
